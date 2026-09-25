@@ -1,0 +1,8 @@
+[
+  {
+    "id": "likova-space",
+    "type": "web",
+    "input": "https://likova.space/",
+    "weight": 1
+  }
+]

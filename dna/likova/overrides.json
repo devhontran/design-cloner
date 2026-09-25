@@ -1,0 +1,65 @@
+{
+  "color": {
+    "roles": {
+      "background": "#070b20",
+      "foreground": "#ffffff",
+      "surface": "#232739",
+      "muted": "#11162d",
+      "muted-foreground": "#bdbec4",
+      "border": "#393c4d",
+      "primary": "#ffffff",
+      "primary-foreground": "#070b20",
+      "accent": "#c7cbd4",
+      "accent-foreground": "#070b20",
+      "ring": "#ffffff",
+      "danger": "#ce1d20"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "TT Norms Pro", "use": "Manrope", "alternative": "Manrope", "weights": [400, 500] },
+      "body": { "name": "TT Norms Pro", "use": "Manrope", "alternative": "Manrope", "weights": [400, 500] }
+    },
+    "headings": {
+      "h3": { "size": 20, "weight": 400, "lineHeight": 1.2, "letterSpacing": 0, "transform": "uppercase" }
+    }
+  },
+  "components": {
+    "buttonPrimary": {
+      "background": "primary",
+      "color": "primary-foreground",
+      "radius": 0,
+      "height": 40,
+      "paddingX": 30,
+      "paddingY": 0,
+      "fontSize": 11,
+      "fontWeight": 450,
+      "transform": "uppercase",
+      "letterSpacing": 0.04,
+      "border": null,
+      "shadow": null,
+      "transition": "0.5s cubic-bezier(0.7, 0, 0.3, 1)",
+      "example": "contact"
+    }
+  },
+  "layout": {
+    "pageLengthViewports": 60,
+    "sectionsPerPage": 14,
+    "nav": { "hasCta": true, "links": 3 },
+    "mobile": { "hamburger": true }
+  },
+  "personality": {
+    "keywords": [
+      "architectural",
+      "night-navy",
+      "all-caps",
+      "notched rectangles",
+      "sharp corners",
+      "hairline rules",
+      "oversized light numerals",
+      "cinematic scroll",
+      "flat",
+      "premium real-estate"
+    ]
+  }
+}

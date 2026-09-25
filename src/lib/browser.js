@@ -40,7 +40,24 @@ export async function gotoSettled(page, url, { timeout = 45000 } = {}) {
   await page.waitForLoadState('load', { timeout: 20000 }).catch(() => {});
   await page.waitForLoadState('networkidle', { timeout: 8000 }).catch(() => {});
   await page.evaluate(() => document.fonts && document.fonts.ready).catch(() => {});
+  await waitForPreloader(page);
   return resp;
+}
+
+/** Wait (bounded) while a visible preloader/intro overlay still covers most of the viewport. */
+export async function waitForPreloader(page, { timeout = 20000 } = {}) {
+  await page.waitForFunction(() => {
+    const vw = innerWidth, vh = innerHeight;
+    return ![...document.querySelectorAll('[class*="preload" i], [id*="preload" i], [class*="loader" i], [id*="loader" i]')].some((el) => {
+      const cs = getComputedStyle(el);
+      if (cs.display === 'none' || cs.visibility === 'hidden' || Number(cs.opacity) < 0.05) return false;
+      const r = el.getBoundingClientRect();
+      const w = Math.max(0, Math.min(r.right, vw) - Math.max(r.left, 0));
+      const h = Math.max(0, Math.min(r.bottom, vh) - Math.max(r.top, 0));
+      return w * h > vw * vh * 0.5;
+    });
+  }, null, { timeout, polling: 250 }).catch(() => {});
+  await page.waitForTimeout(800);
 }
 
 /** Try to close cookie banners / newsletter modals that would pollute screenshots. */
