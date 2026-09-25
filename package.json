@@ -1,0 +1,16 @@
+{
+  "name": "design-cloner",
+  "version": "0.1.0",
+  "description": "Distill websites, screenshots, showcases and Pinterest boards into a Design DNA, then compile it into a Claude Code skill + designer agent.",
+  "type": "module",
+  "bin": { "dna": "bin/dna.js" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "demo": "node bin/dna.js learn aurora examples/sites/aurora && node bin/dna.js learn paper examples/sites/paper examples/images/poster.png"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "playwright": "1.56.1"
+  },
+  "license": "MIT"
+}

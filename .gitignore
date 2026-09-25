@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+# your learned DNA library and generated skills/agents (they contain absolute paths to this checkout)
+dna/
+.claude/skills/dna-*/
+.claude/agents/*-designer.md
+dna-shots/
+dna-check/
