@@ -36,6 +36,8 @@ export function tokenMap(dna) {
   tokens['duration'] = `${dna.motion.duration}ms`;
   tokens['ease-brand'] = dna.motion.easing;
   if (dna.color.gradients?.[0]) tokens['gradient-brand'] = dna.color.gradients[0];
+  // observed palette colors without a role (e.g. illustration/photo tones) so pages never need raw hex
+  (dna.color.palette || []).filter((p) => !p.role).forEach((p, i) => { tokens[`color-palette-${i + 1}`] = p.hex; });
   return tokens;
 }
 
@@ -108,6 +110,14 @@ export function toDtcg(dna) {
 
 const roleVar = (v) => (v == null ? null : String(v).startsWith('#') ? v : `var(--color-${v})`);
 
+/** var() of the spacing-scale step closest to `px`, so recipes stay on the DNA grid. */
+function spaceVar(dna, px) {
+  const scale = dna.spacing.scale;
+  let best = 0;
+  scale.forEach((v, i) => { if (Math.abs(v - px) < Math.abs(scale[best] - px)) best = i; });
+  return `var(--space-${best + 1}, ${scale[best]}px)`;
+}
+
 /** Ready-to-use component classes that encode the DNA's component recipes. */
 export function toComponentsCss(dna) {
   const t = dna.typography, comp = dna.components || {}, sh = dna.shape;
@@ -161,7 +171,7 @@ ${t.eyebrow ? `.eyebrow {
 .stack > * + * { margin-top: var(--space-4, 1rem); }
 
 .btn {
-  display: inline-flex; align-items: center; justify-content: center; gap: .5em;
+  display: inline-flex; align-items: center; justify-content: center; gap: ${spaceVar(dna, 8)};
   font-family: var(--font-ui, var(--font-body));
   font-size: ${bp ? `${bp.fontSize}px` : 'var(--text-sm, .875rem)'};
   font-weight: ${bp?.fontWeight || 600};${upper(bp)}${ls(bp)}
@@ -172,7 +182,7 @@ ${t.eyebrow ? `.eyebrow {
   transition: background-color var(--duration) var(--ease-brand), color var(--duration) var(--ease-brand), border-color var(--duration) var(--ease-brand), box-shadow var(--duration) var(--ease-brand), transform var(--duration) var(--ease-brand);
 }
 .btn-primary { background: ${roleVar(bp?.background) || 'var(--color-primary)'}; color: ${roleVar(bp?.color) || 'var(--color-primary-foreground)'};${bp?.shadow ? `\n  box-shadow: ${bp.shadow};` : ''} }
-.btn-primary:hover { background: color-mix(in oklab, ${roleVar(bp?.background) || 'var(--color-primary)'} 88%, var(--color-foreground)); }
+.btn-primary:hover { background: color-mix(in oklab, ${roleVar(bp?.background) || 'var(--color-primary)'} 84%, var(--color-background)); }
 .btn-secondary {
   background: ${bs?.background && bs.background !== 'background' ? roleVar(bs.background) : 'transparent'};
   color: ${roleVar(bs?.color) || 'var(--color-foreground)'};
@@ -194,7 +204,7 @@ ${t.eyebrow ? `.eyebrow {
   width: 100%;
   box-sizing: border-box;
   min-height: ${input?.height || 44}px;
-  padding: 0 ${input?.paddingX || 14}px;
+  padding: 0 ${input?.paddingX || spaceVar(dna, 16)};
   background: ${roleVar(input?.background) || 'var(--color-background)'};
   color: var(--color-foreground);
   border: 1px solid var(--color-border);

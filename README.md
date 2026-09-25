@@ -182,6 +182,8 @@ dna/<tên>/
 
 Token dùng tên theo chuẩn shadcn/Tailwind v4 (`--color-background`, `--color-primary`, `--color-muted-foreground`, `--font-display`, `--text-2xl`, `--radius-md`, `--shadow-md`…) nên **đổi DNA = đổi file token**, markup giữ nguyên.
 
+Demo đầy đủ vòng làm UI: agent `paper-designer` dựng landing page [`examples/demo/moc-coffee`](examples/demo/moc-coffee) (Mộc Coffee Roasters) theo DNA `paper`, tự chụp màn hình và sửa đến khi `dna check` đạt 100/100 — xem [`screenshot.png`](examples/demo/moc-coffee/screenshot.png).
+
 Ví dụ đầu ra có sẵn trong [`examples/output/paper`](examples/output/paper) (SKILL.md, agent, specimen, moodboard) và [`examples/output/aurora`](examples/output/aurora). Tự tạo lại bằng `npm run demo`.
 
 ## Cấu trúc mã nguồn

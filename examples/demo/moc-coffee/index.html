@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mộc Coffee Roasters — Cà phê arabica rang mộc tại Đà Lạt</title>
+  <meta name="description" content="Mộc Coffee Roasters rang arabica đơn nguồn Việt Nam theo mẻ nhỏ tại Đà Lạt, giao hạt tươi toàn quốc và mở một quán pha chậm tám chỗ ngồi.">
+  <link rel="stylesheet" href="tokens.css">
+  <link rel="stylesheet" href="components.css">
+  <style>
+    /* Page-specific styles. Every value comes from tokens.css (dna-paper). */
+    :root {
+      /* Poster field: the DNA's darker ochre paper (≈ #c9b597 in dna.json palette),
+         mixed from tokens only (muted + the ochre warning hue used purely as pigment). */
+      --tone-paper-deep: color-mix(in srgb, var(--color-muted), var(--color-warning) 34%);
+      --rule: 1px solid var(--color-border);
+    }
+
+    html { scroll-behavior: smooth; }
+    h1, h2, h3 { text-wrap: balance; }
+    .lead, .notes, .steps p { text-wrap: pretty; }
+    body { overflow-x: hidden; }
+
+    /* ---------- Utilities ---------- */
+    .skip-link {
+      position: absolute; left: var(--space-2); top: calc(var(--space-8) * -1);
+      padding: var(--space-1) var(--space-2);
+      background: var(--color-foreground); color: var(--color-background);
+      font-family: var(--font-ui); font-size: var(--text-sm); text-decoration: none;
+    }
+    .skip-link:focus { top: var(--space-2); }
+    .visually-hidden {
+      position: absolute; width: 1px; height: 1px; overflow: hidden;
+      clip: rect(0 0 0 0); white-space: nowrap;
+    }
+    .kicker { color: var(--color-primary); font-weight: 600; }
+    .rule-top { border-top: var(--rule); }
+    em { font-style: italic; }
+    .accent { color: var(--color-primary); font-style: italic; }
+
+    a, .btn, .input, button { transition: color var(--duration) var(--ease-brand), background-color var(--duration) var(--ease-brand), border-color var(--duration) var(--ease-brand), text-decoration-color var(--duration) var(--ease-brand); }
+    a:hover { color: var(--color-foreground); }
+    a:focus-visible, button:focus-visible { outline: 2px solid var(--color-ring); outline-offset: 4px; }
+    .btn { gap: var(--space-1); }
+    .btn-primary:hover { background: var(--color-neutral-700); color: var(--color-background); }
+    .btn-secondary:hover { background: var(--color-muted); color: var(--color-foreground); }
+
+    /* ---------- Nav ---------- */
+    .nav-inner { flex-wrap: wrap; row-gap: 0; }
+    .wordmark {
+      font-family: var(--font-ui); font-size: var(--text-sm); font-weight: 700;
+      letter-spacing: var(--tracking-eyebrow); text-transform: uppercase;
+      color: var(--color-foreground); text-decoration: none; line-height: 1;
+    }
+    .nav-links { display: flex; flex-wrap: wrap; gap: var(--space-5); margin: 0; padding: 0; list-style: none; }
+    .nav-links a {
+      font-family: var(--font-ui); font-size: var(--text-sm); font-weight: 500;
+      letter-spacing: var(--tracking-eyebrow); text-transform: uppercase;
+      color: var(--color-foreground); text-decoration: underline; text-decoration-color: transparent;
+      text-underline-offset: 0.4em;
+      display: inline-block; padding-block: var(--space-1); line-height: 1;
+    }
+    .nav-links a:hover { text-decoration-color: currentColor; }
+
+    /* ---------- Hero ---------- */
+    .hero { border-bottom: var(--rule); }
+    .hero h1 { max-width: 860px; margin-block: var(--space-3); font-size: var(--text-3xl); }
+    .hero .lead { max-width: 620px; }
+    .actions { display: flex; flex-wrap: wrap; gap: var(--space-1); margin-top: var(--space-5); }
+
+    /* ---------- Section heads ---------- */
+    .section-head { max-width: 720px; }
+    .section-head h2, .split h2 { margin-top: var(--space-2); font-size: var(--text-2xl); }
+    .section-head .lead, .split .lead { margin-top: var(--space-3); }
+
+    /* ---------- Coffees: newspaper columns ---------- */
+    .coffees { border-bottom: var(--rule); }
+    .coffees .section-head { padding-bottom: var(--space-7); }
+    .columns {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      border-top: var(--rule); margin: 0; padding: 0; list-style: none;
+    }
+    .coffee {
+      display: flex; flex-direction: column;
+      padding: var(--space-6) var(--space-5) 0;
+      border-left: var(--rule);
+    }
+    .coffee:first-child { border-left: 0; padding-left: 0; }
+    .coffee:last-child { padding-right: 0; }
+    .coffee h3 { margin-top: var(--space-2); }
+    .coffee .notes { margin-top: var(--space-2); }
+    .specs { margin: var(--space-3) 0 0; padding: 0; }
+    .specs div { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-2); padding-block: var(--space-1); border-top: 1px solid var(--color-neutral-300); }
+    .specs dt { font-family: var(--font-ui); font-size: var(--text-xs); font-weight: 500; letter-spacing: var(--tracking-eyebrow); text-transform: uppercase; color: var(--color-muted-foreground); }
+    .specs dd { margin: 0; text-align: right; }
+    .buy { margin-top: auto; padding-top: var(--space-5); display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-2); flex-wrap: wrap; }
+    .price { font-family: var(--font-display); font-size: var(--text-lg); }
+    .price small { font-family: var(--font-ui); font-size: var(--text-sm); color: var(--color-muted-foreground); letter-spacing: var(--tracking-eyebrow); }
+
+    /* ---------- Split sections ---------- */
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-7); align-items: start; }
+    .process { border-bottom: var(--rule); }
+    .steps { margin: 0; padding: 0; list-style: none; border-bottom: var(--rule); }
+    .steps li { display: grid; grid-template-columns: var(--space-7) 1fr; gap: var(--space-2); padding-block: var(--space-3); border-top: var(--rule); }
+    .steps .num { font-family: var(--font-ui); font-size: var(--text-sm); font-weight: 500; letter-spacing: var(--tracking-eyebrow); color: var(--color-muted-foreground); padding-top: var(--space-1); }
+    .steps h3 { font-size: var(--text-lg); }
+    .steps p { margin-top: var(--space-1); color: var(--color-muted-foreground); }
+
+    /* ---------- Café ---------- */
+    .cafe { border-bottom: var(--rule); }
+    .cafe .split { align-items: center; }
+    .art { margin: 0; }
+    .art-block {
+      position: relative; aspect-ratio: 4 / 5; background: var(--tone-paper-deep);
+      display: grid; place-items: center;
+    }
+    .art-block::after {
+      content: ""; width: 48%; aspect-ratio: 1; border-radius: var(--radius-full);
+      background: var(--color-primary);
+    }
+    .art figcaption { margin-top: var(--space-1); font-family: var(--font-ui); font-size: var(--text-sm); color: var(--color-muted-foreground); }
+    .visit { margin: var(--space-5) 0 0; padding: 0; border-bottom: var(--rule); }
+    .visit div { display: grid; align-items: baseline; grid-template-columns: 9rem 1fr; gap: var(--space-2); padding-block: var(--space-2); border-top: var(--rule); }
+    .visit dt { font-family: var(--font-ui); font-size: var(--text-xs); font-weight: 500; letter-spacing: var(--tracking-eyebrow); text-transform: uppercase; color: var(--color-muted-foreground); }
+    .visit dd { margin: 0; }
+    .visit .closed { color: var(--color-muted-foreground); }
+
+    /* ---------- Newsletter ---------- */
+    .newsletter { border-bottom: var(--rule); }
+    .signup { padding-top: var(--space-2); }
+    .signup label { display: block; margin-bottom: var(--space-1); }
+    .field { display: flex; }
+    .field .input { flex: 1; min-width: 0; min-height: 48px; padding: 0 var(--space-2); border-right: 0; }
+    .field .input:focus-visible { outline-offset: 0; }
+    .signup .hint { margin-top: var(--space-1); font-family: var(--font-ui); font-size: var(--text-sm); color: var(--color-muted-foreground); }
+    .signup .status { margin-top: var(--space-2); font-family: var(--font-ui); font-size: var(--text-sm); color: var(--color-foreground); }
+
+    /* ---------- Footer ---------- */
+    .footer { padding-block: var(--space-6); font-family: var(--font-ui); font-size: var(--text-sm); color: var(--color-muted-foreground); }
+    .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: var(--space-5); }
+    .footer p + p { margin-top: var(--space-1); }
+    .footer .tagline { margin-top: var(--space-2); }
+    .footer ul { margin: 0; padding: 0; list-style: none; }
+    .footer li + li { margin-top: var(--space-1); }
+    .footer a { color: var(--color-muted-foreground); }
+    .footer a:hover { color: var(--color-foreground); }
+    .footer .fine { margin-top: var(--space-6); padding-top: var(--space-3); border-top: var(--rule); font-size: var(--text-xs); letter-spacing: var(--tracking-eyebrow); text-transform: uppercase; }
+
+    /* ---------- Responsive ---------- */
+    @media (max-width: 900px) {
+      .columns { grid-template-columns: 1fr; }
+      .coffee, .coffee:first-child, .coffee:last-child { border-left: 0; border-top: var(--rule); padding: var(--space-6) 0; }
+      .coffee:first-child { border-top: 0; }
+      .coffees { padding-bottom: 0; }
+      .split { grid-template-columns: 1fr; gap: var(--space-6); }
+      .footer-grid { grid-template-columns: 1fr 1fr; }
+      .footer-grid > :first-child { grid-column: 1 / -1; }
+    }
+    @media (max-width: 640px) {
+      .section { padding-block: var(--space-7); }
+      .nav-inner { padding-block: var(--space-3); gap: var(--space-2); }
+      .nav-links { gap: 0 var(--space-3); }
+      .nav-links a { font-size: var(--text-xs); }
+      .hero h1 { font-size: calc(var(--text-3xl) * 0.75); }
+      .section-head h2, .split h2 { font-size: var(--text-xl); }
+      .visit div { grid-template-columns: 1fr; gap: 0; }
+      .field { flex-direction: column; gap: var(--space-1); }
+      .field .input { border-right: var(--rule); }
+      .actions .btn { flex: 1 1 auto; }
+    }
+    @media (max-width: 420px) {
+      .nav-links { display: grid; grid-template-columns: repeat(2, max-content); gap: 0 var(--space-6); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Bỏ qua điều hướng</a>
+
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="wordmark" href="#top" aria-label="Mộc Coffee Roasters — về đầu trang">Mộc Coffee Roasters</a>
+      <nav aria-label="Điều hướng chính">
+        <ul class="nav-links">
+          <li><a href="#ca-phe">Cà phê</a></li>
+          <li><a href="#quy-trinh">Quy trình</a></li>
+          <li><a href="#ghe-quan">Ghé quán</a></li>
+          <li><a href="#ban-tin">Bản tin</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero section" id="top" aria-labelledby="hero-title">
+      <div class="container">
+        <p class="eyebrow kicker">Xưởng rang ở Đà Lạt · từ 2019</p>
+        <h1 id="hero-title">Cà phê rang mộc, uống cho <em class="accent">thong thả</em>.</h1>
+        <p class="lead">Chúng tôi rang arabica đơn nguồn từ những nông hộ quanh Đà Lạt theo mẻ nhỏ mỗi thứ Hai, rồi gửi hạt đến bạn khi hương vẫn còn đang nở.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#ca-phe">Chọn hạt cà phê</a>
+          <a class="btn btn-secondary" href="#ghe-quan">Ghé quán ở Đà Lạt</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="coffees section" id="ca-phe" aria-labelledby="coffees-title">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow kicker">Vụ mùa 2025 – 2026</p>
+          <h2 id="coffees-title">Ba loại hạt đang có trên kệ</h2>
+          <p class="lead">Mỗi túi 250 g, rang trong vòng bảy ngày trước khi giao. Giao miễn phí toàn quốc cho đơn từ 500.000₫.</p>
+        </div>
+
+        <ul class="columns">
+          <li class="coffee">
+            <p class="eyebrow">Cầu Đất · Lâm Đồng</p>
+            <h3>Cầu Đất Bourbon</h3>
+            <p class="notes">Cam đường, hoa nhài, mật ong rừng. Tách cà phê sáng, trong và ngọt hậu kéo dài.</p>
+            <dl class="specs">
+              <div><dt>Độ cao</dt><dd>1.650 m</dd></div>
+              <div><dt>Sơ chế</dt><dd>Ướt</dd></div>
+              <div><dt>Mức rang</dt><dd>Sáng</dd></div>
+              <div><dt>Hợp pha</dt><dd>Pour-over, V60</dd></div>
+            </dl>
+            <div class="buy">
+              <p class="price">285.000₫ <small>/ 250 g</small></p>
+              <a href="#ca-phe" aria-label="Thêm Cầu Đất Bourbon vào giỏ">Thêm vào giỏ</a>
+            </div>
+          </li>
+          <li class="coffee">
+            <p class="eyebrow">Đưng K'Nớ · Lạc Dương</p>
+            <h3>Đưng K'Nớ Honey</h3>
+            <p class="notes">Mận chín, đường thốt nốt, cacao. Thân dày vừa, chua dịu như trái cây vườn.</p>
+            <dl class="specs">
+              <div><dt>Độ cao</dt><dd>1.500 m</dd></div>
+              <div><dt>Sơ chế</dt><dd>Mật ong (honey)</dd></div>
+              <div><dt>Mức rang</dt><dd>Vừa</dd></div>
+              <div><dt>Hợp pha</dt><dd>Kalita, AeroPress</dd></div>
+            </dl>
+            <div class="buy">
+              <p class="price">320.000₫ <small>/ 250 g</small></p>
+              <a href="#ca-phe" aria-label="Thêm Đưng K'Nớ Honey vào giỏ">Thêm vào giỏ</a>
+            </div>
+          </li>
+          <li class="coffee">
+            <p class="eyebrow">Mường Ảng · Điện Biên</p>
+            <h3>Mường Ảng Natural</h3>
+            <p class="notes">Dâu tằm, rượu vang đỏ, sô-cô-la đen. Đậm, tròn vị, hợp với phin và sữa.</p>
+            <dl class="specs">
+              <div><dt>Độ cao</dt><dd>1.200 m</dd></div>
+              <div><dt>Sơ chế</dt><dd>Phơi nguyên trái</dd></div>
+              <div><dt>Mức rang</dt><dd>Vừa đậm</dd></div>
+              <div><dt>Hợp pha</dt><dd>Phin, espresso</dd></div>
+            </dl>
+            <div class="buy">
+              <p class="price">265.000₫ <small>/ 250 g</small></p>
+              <a href="#ca-phe" aria-label="Thêm Mường Ảng Natural vào giỏ">Thêm vào giỏ</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="process section" id="quy-trinh" aria-labelledby="process-title">
+      <div class="container split">
+        <div>
+          <p class="eyebrow kicker">Quy trình</p>
+          <h2 id="process-title">Bốn công đoạn, không công đoạn nào vội.</h2>
+          <p class="lead">Chúng tôi làm việc trực tiếp với mười một nông hộ ở Cầu Đất, Lạc Dương và Mường Ảng, trả cao hơn giá thị trường 30% cho quả chín đỏ.</p>
+        </div>
+        <ol class="steps">
+          <li>
+            <span class="num" aria-hidden="true">01</span>
+            <div>
+              <h3>Hái tay từng quả chín</h3>
+              <p>Nông hộ chỉ hái quả đỏ sẫm, đi lại mỗi luống ba đến bốn lần trong một vụ.</p>
+            </div>
+          </li>
+          <li>
+            <span class="num" aria-hidden="true">02</span>
+            <div>
+              <h3>Sơ chế ngay tại vườn</h3>
+              <p>Lên men, phơi trên giàn cao từ 12 đến 28 ngày tuỳ phương pháp, đảo tay mỗi giờ.</p>
+            </div>
+          </li>
+          <li>
+            <span class="num" aria-hidden="true">03</span>
+            <div>
+              <h3>Rang mẻ nhỏ mỗi thứ Hai</h3>
+              <p>Máy rang 5 kg, mỗi mẻ được ghi nhiệt độ và nếm thử trước khi đóng túi.</p>
+            </div>
+          </li>
+          <li>
+            <span class="num" aria-hidden="true">04</span>
+            <div>
+              <h3>Giao trong 72 giờ</h3>
+              <p>Túi có van một chiều, in ngày rang. Hạt ngon nhất từ ngày thứ 7 đến ngày thứ 30.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="cafe section" id="ghe-quan" aria-labelledby="cafe-title">
+      <div class="container split">
+        <figure class="art">
+          <div class="art-block" role="img" aria-label="Minh hoạ: mặt trời đỏ trên nền đồi Đà Lạt màu giấy"></div>
+          <figcaption>Quầy pha chậm ở tầng trệt, nhìn ra đồi thông.</figcaption>
+        </figure>
+        <div>
+          <p class="eyebrow kicker">Ghé quán</p>
+          <h2 id="cafe-title">Tám chỗ ngồi, một quầy pha và <em class="accent">sương sớm</em>.</h2>
+          <p class="lead">Không wifi, không nhạc lớn. Mỗi tách được pha tay trên V60 hoặc Kalita trong khoảng bốn phút — vừa đủ để ngắm đồi thông.</p>
+          <dl class="visit">
+            <div><dt>Địa chỉ</dt><dd>27 Yersin, Phường 10, Đà Lạt, Lâm Đồng</dd></div>
+            <div><dt>Mở cửa</dt><dd>Thứ Ba – Chủ nhật, 7:00 – 18:00</dd></div>
+            <div><dt>Thứ Hai</dt><dd class="closed">Nghỉ — ngày chúng tôi rang hạt</dd></div>
+            <div><dt>Điện thoại</dt><dd><a href="tel:+842633821468">0263 3821 468</a></dd></div>
+          </dl>
+          <div class="actions">
+            <a class="btn btn-secondary" href="https://maps.google.com/?q=27+Yersin+Da+Lat">Xem chỉ đường</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="newsletter section" id="ban-tin" aria-labelledby="newsletter-title">
+      <div class="container split">
+        <div>
+          <p class="eyebrow kicker">Bản tin</p>
+          <h2 id="newsletter-title">Thư từ xưởng rang, mỗi tháng một lá.</h2>
+          <p class="lead">Lịch rang mới, vụ mùa sắp về và vài ghi chép pha chế. Không quảng cáo, không gửi dồn.</p>
+        </div>
+        <form class="signup" action="#" method="post" novalidate>
+          <label class="eyebrow" for="email">Địa chỉ email</label>
+          <div class="field">
+            <input class="input" id="email" name="email" type="email" autocomplete="email" placeholder="ban@email.com" required aria-describedby="email-hint">
+            <button class="btn btn-primary" type="submit">Đăng ký</button>
+          </div>
+          <p class="hint" id="email-hint">Gửi vào ngày 1 hằng tháng. Huỷ bất cứ lúc nào chỉ với một cú nhấp.</p>
+          <p class="status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a class="wordmark" href="#top">Mộc Coffee Roasters</a>
+          <p class="tagline">Rang arabica Việt Nam theo mẻ nhỏ tại Đà Lạt.</p>
+        </div>
+        <div>
+          <p>27 Yersin, Phường 10</p>
+          <p>Đà Lạt, Lâm Đồng</p>
+          <p><a href="mailto:xinchao@moccoffee.vn">xinchao@moccoffee.vn</a></p>
+        </div>
+        <ul aria-label="Liên kết cuối trang">
+          <li><a href="#ca-phe">Cà phê</a></li>
+          <li><a href="#quy-trinh">Quy trình</a></li>
+          <li><a href="#ghe-quan">Ghé quán</a></li>
+          <li><a href="#ban-tin">Bản tin</a></li>
+        </ul>
+      </div>
+      <p class="fine">© 2026 Mộc Coffee Roasters. Rang tại Đà Lạt.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelector('.signup').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var input = this.querySelector('#email');
+      var status = this.querySelector('.status');
+      if (!input.value || !input.checkValidity()) {
+        status.textContent = 'Vui lòng nhập một địa chỉ email hợp lệ.';
+        input.focus();
+        return;
+      }
+      status.textContent = 'Cảm ơn bạn! Lá thư đầu tiên sẽ đến vào ngày 1 tháng tới.';
+      this.reset();
+    });
+  </script>
+</body>
+</html>
