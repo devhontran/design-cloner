@@ -1,0 +1,2163 @@
+{
+ "url": "https://thelinestudio.com/",
+ "title": "Animation Studio London | THE LINE Studio",
+ "description": "We are a BAFTA-nominated animation studio based in London. We specialise in 2D animation, 3D animation, commercials, films, & games.",
+ "themeColor": "#f8f8f8",
+ "ogImage": "https://www.datocms-assets.com/136821/1732895857-dscf7009.jpeg?fit=clamp&h=630&w=1200",
+ "lang": "en-GB",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 9613,
+ "canvasBg": "#dddee2",
+ "rootFontSize": 10,
+ "agg": {
+  "bg": {
+   "#dddee2": {
+    "w": 14490720,
+    "ex": "body"
+   },
+   "#0b0b0b": {
+    "w": 1146564.1669921875,
+    "ex": "div > div.scrollbar__handle"
+   },
+   "#ff0000": {
+    "w": 1659006.25,
+    "ex": "div > div.home-hero__layer.acetate"
+   },
+   "#f8f8f8": {
+    "w": 7633172.8125,
+    "ex": "div > div.home-intro__wrapper.gutters"
+   },
+   "#dedfe3": {
+    "w": 5365581.328125,
+    "ex": "div > div.home-featured-work-asset__wrapper"
+   },
+   "#ff391e": {
+    "w": 1837620,
+    "ex": "div > div.footer__sticky-inner"
+   }
+  },
+  "text": {
+   "#f8f8f8": {
+    "w": 437,
+    "ex": "header > p.header-status.p7"
+   },
+   "#ff391e": {
+    "w": 97,
+    "ex": "a > span.link__label"
+   },
+   "#0b0b0b": {
+    "w": 1370,
+    "ex": "div > h2.section-title.p7"
+   }
+  },
+  "border": {
+   "#0b0b0b": {
+    "w": 43330.768798828125,
+    "ex": "div > div.field-guide"
+   },
+   "#f8f8f8": {
+    "w": 507.5,
+    "ex": "form > div.form-input"
+   }
+  },
+  "families": {
+   "DenimWeb": {
+    "w": 1904
+   }
+  },
+  "typeStyles": {
+   "DenimWeb|10|440|1.17|-0.01|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 232,
+    "count": 20,
+    "tags": {
+     "p": 7,
+     "span": 1,
+     "h2": 8,
+     "h3": 2,
+     "time": 2
+    },
+    "ex": "header > p.header-status.p7"
+   },
+   "DenimWeb|18.5|440|0.85|-0.01|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 18.5,
+    "weight": 440,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 99,
+    "count": 13,
+    "tags": {
+     "span": 9,
+     "p": 1,
+     "button": 2,
+     "a": 1
+    },
+    "ex": "a > span.link__label"
+   },
+   "DenimWeb|18.5|300|0.85|-0.01|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 18.5,
+    "weight": 300,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 10,
+    "count": 10,
+    "tags": {
+     "i": 10
+    },
+    "ex": "li > i.nav-item__slash"
+   },
+   "DenimWeb|10|300|1.17|-0.01|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 300,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 19,
+    "count": 19,
+    "tags": {
+     "span": 12,
+     "em": 1,
+     "i": 6
+    },
+    "ex": "h2 > span.fw300"
+   },
+   "DenimWeb|175|500|0.8|-0.04|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 175,
+    "weight": 500,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "chars": 39,
+    "count": 14,
+    "tags": {
+     "div": 13,
+     "p": 1
+    },
+    "ex": "div > div.anim-word"
+   },
+   "DenimWeb|26.5|440|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 26.5,
+    "weight": 440,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 61,
+    "count": 6,
+    "tags": {
+     "span": 6
+    },
+    "ex": "a > span.arrow-link__label"
+   },
+   "DenimWeb|8|440|1.75|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 8,
+    "weight": 440,
+    "lineHeight": 1.75,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 12,
+    "count": 2,
+    "tags": {
+     "small": 2
+    },
+    "ex": "span > small.arrow-link__count"
+   },
+   "DenimWeb|80|470|0.8|-0.04|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 80,
+    "weight": 470,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "chars": 44,
+    "count": 3,
+    "tags": {
+     "h2": 3
+    },
+    "ex": "div > h2.letter-T.home-featured-work-asset__title"
+   },
+   "DenimWeb|10|500|1.17|-0.01|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 500,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 171,
+    "count": 24,
+    "tags": {
+     "span": 24
+    },
+    "ex": "div > span.field-guide__label.field-guide__label--top-left"
+   },
+   "DenimWeb|23.5|400|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 23.5,
+    "weight": 400,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 150,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "p > span"
+   },
+   "DenimWeb|13.5|440|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 440,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 501,
+    "count": 33,
+    "tags": {
+     "a": 10,
+     "li": 20,
+     "p": 1,
+     "span": 2
+    },
+    "ex": "li > a"
+   },
+   "DenimWeb|33.5|440|0.85|-0.03|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 33.5,
+    "weight": 440,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 12,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.home-about__quote.h5"
+   },
+   "DenimWeb|10|440|1.17|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 20,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.home-about__author.p7"
+   },
+   "DenimWeb|53.5|470|0.95|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 53.5,
+    "weight": 470,
+    "lineHeight": 0.95,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 114,
+    "count": 16,
+    "tags": {
+     "span": 16
+    },
+    "ex": "li > span.home-client__wrapper"
+   },
+   "DenimWeb|53.5|300|0.95|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 53.5,
+    "weight": 300,
+    "lineHeight": 0.95,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 20,
+    "count": 20,
+    "tags": {
+     "i": 20
+    },
+    "ex": "li > i"
+   },
+   "DenimWeb|106.5|470|0.85|-0.03|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 106.5,
+    "weight": 470,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.player-alt__title.h2"
+   },
+   "DenimWeb|33.5|440|0.85|-0.03|uppercase": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 33.5,
+    "weight": 440,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.03,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 77,
+    "count": 2,
+    "tags": {
+     "p": 2
+    },
+    "ex": "h3 > p"
+   },
+   "DenimWeb|26.5|470|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 26.5,
+    "weight": 470,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 39,
+    "count": 2,
+    "tags": {
+     "a": 2
+    },
+    "ex": "p > a"
+   },
+   "DenimWeb|26.5|300|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 26.5,
+    "weight": 300,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1,
+    "count": 1,
+    "tags": {
+     "em": 1
+    },
+    "ex": "p > em"
+   },
+   "DenimWeb|16.5|440|1.2|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 16.5,
+    "weight": 440,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 178,
+    "count": 20,
+    "tags": {
+     "div": 6,
+     "span": 14
+    },
+    "ex": "p > div.footer__address-line"
+   },
+   "DenimWeb|13.5|470|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 470,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 93,
+    "count": 6,
+    "tags": {
+     "strong": 6
+    },
+    "ex": "p > strong"
+   },
+   "DenimWeb|13.5|300|1.1|-0.01|none": {
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 300,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 8,
+    "count": 8,
+    "tags": {
+     "em": 5,
+     "i": 3
+    },
+    "ex": "p > em"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "3": {
+     "w": 2
+    },
+    "4": {
+     "w": 14
+    },
+    "5": {
+     "w": 1
+    },
+    "7": {
+     "w": 45
+    },
+    "8": {
+     "w": 2
+    },
+    "10": {
+     "w": 1
+    },
+    "12": {
+     "w": 1
+    },
+    "13": {
+     "w": 4
+    },
+    "18": {
+     "w": 3
+    },
+    "21": {
+     "w": 4
+    },
+    "23": {
+     "w": 1
+    },
+    "33": {
+     "w": 3
+    },
+    "44": {
+     "w": 1
+    },
+    "50": {
+     "w": 1
+    },
+    "53": {
+     "w": 2
+    },
+    "58": {
+     "w": 1
+    },
+    "115": {
+     "w": 1
+    },
+    "250": {
+     "w": 1
+    },
+    "267": {
+     "w": 2
+    },
+    "270": {
+     "w": 1
+    },
+    "384": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "7": {
+     "w": 2
+    },
+    "15": {
+     "w": 1
+    },
+    "16": {
+     "w": 1
+    },
+    "22": {
+     "w": 6
+    },
+    "267": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "2": {
+     "w": 4
+    },
+    "3": {
+     "w": 2
+    },
+    "4": {
+     "w": 9
+    },
+    "5": {
+     "w": 1
+    },
+    "7": {
+     "w": 6
+    },
+    "8": {
+     "w": 1
+    },
+    "11": {
+     "w": 1
+    },
+    "26": {
+     "w": 1
+    },
+    "30": {
+     "w": 1
+    },
+    "93": {
+     "w": 1
+    },
+    "177": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 7,
+    "h": 67,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 444,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1242,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1093,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 968,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1374,
+    "h": 907,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1242,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1093,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 968,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1374,
+    "h": 907,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1242,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1093,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 968,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1374,
+    "h": 907,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 805,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 707,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 530,
+    "h": 744,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 530,
+    "h": 744,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 565,
+    "h": 765,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 565,
+    "h": 765,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 457,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 111,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 111,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 81,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 81,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 37,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 37,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 63,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 63,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 58,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 58,
+    "h": 37,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 803,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 603,
+    "h": 603,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1427,
+    "h": 803,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1333,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 710,
+    "h": 453,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 710,
+    "h": 453,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 710,
+    "h": 453,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 710,
+    "h": 453,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 140,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 612,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 375,
+    "h": 457,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 375,
+    "h": 457,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "300": {
+    "w": 1
+   },
+   "400": {
+    "w": 2
+   },
+   "600": {
+    "w": 40
+   },
+   "800": {
+    "w": 15
+   },
+   "1000": {
+    "w": 3
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.19, 1, 0.22, 1)": {
+    "w": 48
+   },
+   "cubic-bezier(0.14, 1, 0.34, 1)": {
+    "w": 12
+   }
+  },
+  "gridCols": {
+   "2": {
+    "w": 1
+   },
+   "9": {
+    "w": 3
+   }
+  },
+  "counts": {
+   "elements": 541,
+   "flex": 191,
+   "grid": 4,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 60,
+   "images": 20,
+   "svgs": 27,
+   "videos": 0,
+   "sticky": 4
+  },
+  "headings": [
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 1810,
+    "text": "/ About The Line"
+   },
+   {
+    "tag": "h1",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 175,
+    "weight": 500,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 1821,
+    "text": "Highlights"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 80.0001,
+    "weight": 470,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 3070,
+    "text": "The Mountain"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 80.0001,
+    "weight": 470,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 3068,
+    "text": "Here, Tomorrow"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 80.0001,
+    "weight": 470,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 3068,
+    "text": "Marvel Snap / Hero"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 4847,
+    "text": "/ Make your mark"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 175,
+    "weight": 500,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 4859,
+    "text": "The Studio"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 5171,
+    "text": "/ The lowdown"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 5326,
+    "text": "/ Awards & Mentions"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 6148,
+    "text": "/ Clients + Partners"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 7145,
+    "text": "/ From the studio"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 175,
+    "weight": 500,
+    "lineHeight": 0.8,
+    "letterSpacing": -0.04,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 7156,
+    "text": "News"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 33.3333,
+    "weight": 440,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.03,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 8075,
+    "text": "Inside Gorillaz’s New Esoteric Animated Film"
+   },
+   {
+    "tag": "h3",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 33.3333,
+    "weight": 440,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.03,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#0b0b0b",
+    "y": 8075,
+    "text": "Fried Chicken & Hot Sauce Pop Up!"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#f8f8f8",
+    "y": 8681,
+    "text": "/ Reach out"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#f8f8f8",
+    "y": 8681,
+    "text": "/ Find us"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#f8f8f8",
+    "y": 8681,
+    "text": "/ Social"
+   },
+   {
+    "tag": "h2",
+    "family": "DenimWeb",
+    "stack": "DenimWeb, sans-serif",
+    "size": 9.99994,
+    "weight": 440,
+    "lineHeight": 1.17,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#f8f8f8",
+    "y": 8681,
+    "text": "/ Nav"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "form > button.newsletter__btn",
+    "w": 50,
+    "h": 44,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#f8f8f8",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "DenimWeb",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [
+   {
+    "sel": "div > input.form-input__el.h3",
+    "w": 508,
+    "h": 61,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#f8f8f8",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 53.3333,
+    "fontWeight": 470,
+    "family": "Arial",
+    "transform": "none",
+    "letterSpacing": -0.01,
+    "text": "Newsletter",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "cards": [],
+  "links": [
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#f8f8f8",
+    "decoration": "none",
+    "weight": 470,
+    "inNav": false
+   },
+   {
+    "color": "#f8f8f8",
+    "decoration": "none",
+    "weight": 470,
+    "inNav": false
+   },
+   {
+    "color": "#f8f8f8",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   },
+   {
+    "color": "#0b0b0b",
+    "decoration": "none",
+    "weight": 440,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9613,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9613,
+    "bg": "#dddee2",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9613,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 902,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ff0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 18,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 266,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 246,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 444,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 7,
+    "padBottom": 0,
+    "h": 355,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 337,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 50,
+    "padBottom": 8,
+    "h": 285,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 33,
+    "padBottom": 0,
+    "h": 467,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1093,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 968,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 907,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 33,
+    "padBottom": 0,
+    "h": 467,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1093,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 968,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 907,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 33,
+    "padBottom": 0,
+    "h": 467,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1093,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 968,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 907,
+    "bg": "#dedfe3",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1242,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1132,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 805,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 7,
+    "padBottom": 267,
+    "h": 805,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 529,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 707,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 270,
+    "padBottom": 0,
+    "h": 457,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 803,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 803,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 803,
+    "bg": "#0b0b0b",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 803,
+    "bg": "#0b0b0b",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 267,
+    "h": 1333,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 641,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 384,
+    "h": 1142,
+    "bg": "#dddee2",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 612,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 250,
+    "padBottom": 7,
+    "h": 612,
+    "bg": "#f8f8f8",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1592,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dddee2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ff391e",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 376,
+    "bg": "#ff391e",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 3,
+    "h": 450,
+    "bg": "#dddee2",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 603,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 603,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 603,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 530,
+    "h": 744,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.71
+   },
+   {
+    "w": 530,
+    "h": 744,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.71
+   },
+   {
+    "w": 565,
+    "h": 765,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.74
+   },
+   {
+    "w": 565,
+    "h": 765,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.74
+   },
+   {
+    "w": 710,
+    "h": 453,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.57
+   },
+   {
+    "w": 710,
+    "h": 453,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.57
+   },
+   {
+    "w": 710,
+    "h": 453,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.57
+   },
+   {
+    "w": 710,
+    "h": 453,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.57
+   },
+   {
+    "w": 375,
+    "h": 457,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.82
+   },
+   {
+    "w": 375,
+    "h": 457,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.82
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "header > p.header-status.p7",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "p > span.header-location__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#ff391e",
+    "bg": "#dddee2",
+    "ratio": 2.67
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "li > i.nav-item__slash",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "div > p.cursor-label--visible.cursor-label",
+    "fg": "#f8f8f8",
+    "bg": "#dddee2",
+    "ratio": 1.27
+   },
+   {
+    "sel": "div > p",
+    "fg": "#f8f8f8",
+    "bg": "#f8f8f8",
+    "ratio": 1
+   },
+   {
+    "sel": "p > em",
+    "fg": "#f8f8f8",
+    "bg": "#f8f8f8",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p.player-alt__meta.player-alt__meta--center",
+    "fg": "#f8f8f8",
+    "bg": "#f8f8f8",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p.copyrights.player-alt__meta",
+    "fg": "#f8f8f8",
+    "bg": "#f8f8f8",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.player-alt__title.h2",
+    "fg": "#f8f8f8",
+    "bg": "#f8f8f8",
+    "ratio": 1
+   },
+   {
+    "sel": "div > h2.section-title--light.section-title",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "h2 > span.fw300",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "div > h2.section-title--light.section-title",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "h2 > span.fw300",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "p > div.footer__address-line",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "div > h2.section-title--light.section-title",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "h2 > span.fw300",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   },
+   {
+    "sel": "a > span.link__label",
+    "fg": "#f8f8f8",
+    "bg": "#ff391e",
+    "ratio": 3.38
+   }
+  ],
+  "nav": {
+   "sel": "main > header.header--visible.header--preloader-done",
+   "w": 1440,
+   "h": 18,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#f8f8f8",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 0,
+   "padX": 7,
+   "fontSize": 16,
+   "fontWeight": 400,
+   "family": "DenimWeb",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "Closed (10—6pm) London, Englandinfo@thel",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 11,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "DenimWeb",
+   "weight": "300 800",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#dd0000",
+    "share": 0.756
+   },
+   {
+    "hex": "#e8e9ee",
+    "share": 0.209
+   },
+   {
+    "hex": "#e13636",
+    "share": 0.011
+   },
+   {
+    "hex": "#e6c2c6",
+    "share": 0.009
+   },
+   {
+    "hex": "#e36f71",
+    "share": 0.007
+   },
+   {
+    "hex": "#e59b9e",
+    "share": 0.005
+   },
+   {
+    "hex": "#e3595a",
+    "share": 0.003
+   },
+   {
+    "hex": "#1f0b0a",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.646,
+  "lightnessStd": 0.152,
+  "meanChroma": 0.181,
+  "chromaticShare": 0.782,
+  "negativeSpace": 0.756,
+  "busyness": 0.007,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 24,
+  "h1Size": 72,
+  "gutter": 170,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

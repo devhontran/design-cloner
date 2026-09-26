@@ -1,0 +1,12 @@
+{
+  "color": { "roles": { "background": "#f8f8f8", "foreground": "#0b0b0b", "surface": "#dddee2", "muted": "#dddee2", "muted-foreground": "#5f5f61", "border": "#0b0b0b", "primary": "#ff391e", "primary-foreground": "#0b0b0b", "accent": "#dd0000", "accent-foreground": "#f8f8f8", "ring": "#ff391e" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Denim", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [500] },
+      "body": { "name": "Denim", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400, 500] },
+      "mono": { "name": "THE LINE block wordmark", "use": "Archivo Black", "alternative": "Archivo Black", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 175, "weight": 500, "lineHeight": 0.8, "letterSpacing": -0.04, "transform": "none" }, "h2": { "size": 96, "weight": 500, "lineHeight": 0.9, "letterSpacing": -0.04, "transform": "none" } }
+  },
+  "personality": { "keywords": ["london animation studio", "signal red + off-white", "chunky block wordmark", "tilted card stacks", "slash-separated nav", "giant tight sans titles", "overscan / crop marks", "anime-style illustration"] }
+}
