@@ -1,0 +1,390 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "huyml",
+  "generatedAt": "2026-09-26T10:51:36.947Z",
+  "sources": [
+    {
+      "id": "huyml-co",
+      "type": "web",
+      "input": "https://huyml.co/",
+      "weight": 1,
+      "title": "Huy Phan - Award-winning designer"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "independent designer portfolio",
+      "light grey editorial",
+      "curved 3D image carousel",
+      "chrome glass numerals",
+      "tiny meta grid",
+      "vertical wordmark + caricature",
+      "colour swatch chips",
+      "awwwards craft"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ececec",
+      "foreground": "#181818",
+      "surface": "#ffffff",
+      "surface-foreground": "#181818",
+      "muted": "#d4d4d4",
+      "muted-foreground": "#8b8b8b",
+      "border": "#181818",
+      "primary": "#181818",
+      "primary-foreground": "#ececec",
+      "accent": "#ceff45",
+      "accent-foreground": "#181818",
+      "ring": "#181818",
+      "success": "#46975b",
+      "warning": "#ad771b",
+      "danger": "#c1645b"
+    },
+    "derived": [
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ececec",
+        "share": 0.503,
+        "oklch": "oklch(0.943 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.205,
+        "oklch": "oklch(1 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#b9686e",
+        "share": 0.128,
+        "oklch": "oklch(0.61 0.104 16)",
+        "role": "primary"
+      },
+      {
+        "hex": "#823534",
+        "share": 0.069,
+        "oklch": "oklch(0.435 0.107 23)",
+        "role": null
+      },
+      {
+        "hex": "#1e1e1e",
+        "share": 0.051,
+        "oklch": "oklch(0.235 0 0)",
+        "role": "muted-foreground"
+      },
+      {
+        "hex": "#171717",
+        "share": 0.017,
+        "oklch": "oklch(0.205 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#d4d4d4",
+        "share": 0.012,
+        "oklch": "oklch(0.87 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#818181",
+        "share": 0.005,
+        "oklch": "oklch(0.603 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#8b8b8b",
+        "share": 0.004,
+        "oklch": "oklch(0.637 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#ff5a36",
+        "share": 0.002,
+        "oklch": "oklch(0.684 0.207 34)",
+        "role": null
+      },
+      {
+        "hex": "#ceff45",
+        "share": 0.001,
+        "oklch": "oklch(0.934 0.208 124)",
+        "role": "accent"
+      },
+      {
+        "hex": "#c3abff",
+        "share": 0.001,
+        "oklch": "oklch(0.793 0.119 297)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#6e6e6e",
+        "700": "#555555",
+        "800": "#3e3e3e",
+        "900": "#2b2b2b",
+        "950": "#181818"
+      },
+      "accent": {
+        "50": "#e7ffba",
+        "100": "#ceff45",
+        "200": "#bcee00",
+        "300": "#a7d400",
+        "400": "#8cb200",
+        "500": "#759500",
+        "600": "#617c00",
+        "700": "#4d6300",
+        "800": "#3b4d00",
+        "900": "#2b3900",
+        "950": "#1c2600"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgba(236, 236, 236, 0.77) 0%, rgba(236, 236, 236, 0) 100%)",
+      "linear-gradient(rgba(237, 237, 237, 0) 0.726703%, rgba(237, 237, 237, 0.77) 100%)"
+    ],
+    "cssVars": {},
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "high",
+      "contrastRatio": 15.03,
+      "temperature": "warm",
+      "harmony": "split",
+      "primaryHue": "red",
+      "accentHue": "lime"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "BT Grotesk",
+        "category": "sans",
+        "source": "custom",
+        "use": "Archivo",
+        "alternative": "Archivo",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      },
+      "body": {
+        "name": "BT Grotesk",
+        "category": "sans",
+        "source": "custom",
+        "use": "Archivo",
+        "alternative": "Archivo",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "ui": {
+        "name": "BT Grotesk Medium",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"BT Grotesk Medium\", \"BT Grotesk Medium Placeholder\", sans-serif",
+        "weights": [
+          500
+        ]
+      },
+      "mono": {
+        "name": "BT Glyphius / F37 Bolton (display numerals)",
+        "category": "display",
+        "source": "custom",
+        "use": "Instrument Serif",
+        "alternative": "Instrument Serif",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "scale": {
+      "sm": 10,
+      "base": 16,
+      "lg": 19,
+      "xl": 23,
+      "2xl": 180
+    },
+    "ratio": 2.241,
+    "ratioName": "golden ratio",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 180,
+        "weight": 400,
+        "lineHeight": 0.85,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 22,
+        "weight": 500,
+        "lineHeight": 0.9,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 11,
+      "weight": 400,
+      "lineHeight": 1.2,
+      "letterSpacing": 0,
+      "transform": "none"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": null,
+      "body": 12
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.52,
+    "scale": [
+      4,
+      6,
+      8,
+      10,
+      18,
+      20,
+      24,
+      30,
+      32,
+      88
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 33,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "full": 9999,
+      "md": 0,
+      "lg": 8
+    },
+    "zeroRadiusShare": 0.81,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": 0,
+    "input": null,
+    "media": 8
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "subtle",
+    "shadows": {
+      "md": "rgba(0,0,0,0.23) -2px 4px 4px 0px"
+    },
+    "separation": "shadows"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 16,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 11,
+    "nav": null,
+    "mobile": {
+      "bodySize": 12,
+      "h1Size": null,
+      "gutter": 33,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 320,
+    "durations": [
+      220,
+      320,
+      450,
+      520
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 23,
+      "videos": false,
+      "iconsSvg": 2,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": {
+      "background": "foreground",
+      "radius": 0,
+      "border": null,
+      "shadow": "rgba(0, 0, 0, 0.23) -2px 4px 4px 0px",
+      "paddingX": 32,
+      "paddingY": 32
+    },
+    "input": null,
+    "link": {
+      "color": "background",
+      "underline": false
+    }
+  }
+}

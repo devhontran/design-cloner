@@ -1,0 +1,14 @@
+{
+  "color": { "roles": { "background": "#ececec", "foreground": "#181818", "surface": "#ffffff", "muted": "#d4d4d4", "muted-foreground": "#8b8b8b", "border": "#181818", "primary": "#181818", "primary-foreground": "#ececec", "accent": "#ceff45", "accent-foreground": "#181818", "ring": "#181818" } },
+  "typography": {
+    "families": {
+      "display": { "name": "BT Grotesk", "use": "Archivo", "alternative": "Archivo", "weights": [400, 500] },
+      "body": { "name": "BT Grotesk", "use": "Archivo", "alternative": "Archivo", "weights": [400] },
+      "mono": { "name": "BT Glyphius / F37 Bolton (display numerals)", "use": "Instrument Serif", "alternative": "Instrument Serif", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 180, "weight": 400, "lineHeight": 0.85, "letterSpacing": -0.03, "transform": "none" }, "h2": { "size": 22, "weight": 500, "lineHeight": 0.9, "letterSpacing": -0.01, "transform": "uppercase" }, "h3": { "size": 20, "weight": 400, "lineHeight": 1.1, "letterSpacing": 0, "transform": "uppercase" } },
+    "body": { "size": 11, "weight": 400, "lineHeight": 1.2, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 8, "full": 9999 }, "style": "sharp" },
+  "personality": { "keywords": ["independent designer portfolio", "light grey editorial", "curved 3D image carousel", "chrome glass numerals", "tiny meta grid", "vertical wordmark + caricature", "colour swatch chips", "awwwards craft"] }
+}
