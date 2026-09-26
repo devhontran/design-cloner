@@ -1,0 +1,37 @@
+{
+  "color": {
+    "roles": {
+      "background": "#7d7dfd",
+      "foreground": "#171717",
+      "surface": "#171717",
+      "surface-foreground": "#feece3",
+      "muted": "#3b3b3b",
+      "muted-foreground": "#a29791",
+      "border": "#171717",
+      "primary": "#171717",
+      "primary-foreground": "#ffffff",
+      "accent": "#fdaf22",
+      "accent-foreground": "#171717",
+      "ring": "#f191ba",
+      "danger": "#e74f1f"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Libre Franklin", "use": "Libre Franklin", "weights": [800, 900] },
+      "body": { "name": "Libre Franklin", "use": "Libre Franklin", "weights": [500, 700] }
+    },
+    "headings": {
+      "h1": { "size": 35, "weight": 900, "lineHeight": 0.8, "letterSpacing": -0.02, "transform": "lowercase" },
+      "h2": { "size": 25, "weight": 800, "lineHeight": 1.0, "letterSpacing": -0.01, "transform": "lowercase" },
+      "h3": { "size": 16, "weight": 700, "lineHeight": 1.1, "letterSpacing": 0, "transform": "lowercase" }
+    }
+  },
+  "shape": { "radius": { "sm": 9999, "md": 9999, "lg": 24, "full": 9999 }, "style": "pill", "buttonShape": "pill" },
+  "components": {
+    "buttonPrimary": { "background": "surface", "color": "primary-foreground", "radius": 9999, "height": 36, "paddingX": 14, "paddingY": 0, "fontSize": 18, "fontWeight": 700, "transform": "lowercase", "letterSpacing": 0, "border": null, "shadow": null, "transition": "0.3s cubic-bezier(0.34, 1.56, 0.64, 1)", "example": "read now" }
+  },
+  "personality": {
+    "keywords": ["interactive comic", "cartoon characters", "periwinkle + tangerine + bubblegum", "thick black outlines", "lowercase chunky type", "blob-shaped frames", "album-cover cards", "grain + radial gradients"]
+  }
+}

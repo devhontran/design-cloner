@@ -1,0 +1,505 @@
+{
+ "url": "https://ponpon-mania.com/",
+ "title": "Ponpon Mania - Interactive Comic",
+ "description": "Ponpon Mania is an interactive comic. Follow the adventure of a megalomaniac sheep who wants to make the world dance. Created by Justine Soulié & Patrick Heng.",
+ "themeColor": null,
+ "ogImage": "https://ponpon-mania.com/share-fb.jpg",
+ "lang": "",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#171717",
+ "rootFontSize": 10,
+ "agg": {
+  "bg": {
+   "#171717": {
+    "w": 2680945.71875,
+    "ex": "body"
+   },
+   "#ffffff": {
+    "w": 1706.484375,
+    "ex": "div > button.accept"
+   },
+   "#070707": {
+    "w": 1803.515625,
+    "ex": "div > button.decline"
+   }
+  },
+  "text": {
+   "#feece3": {
+    "w": 21,
+    "ex": "a > span.app-header__link-text"
+   },
+   "#3b3b3b": {
+    "w": 2,
+    "ex": "div > button.active.lang-button"
+   },
+   "#3a3a3a": {
+    "w": 1,
+    "ex": "div > span.lang-divider"
+   },
+   "#212121": {
+    "w": 2,
+    "ex": "div > button.lang-button"
+   },
+   "#ffffff": {
+    "w": 63,
+    "ex": "div > p"
+   },
+   "#171717": {
+    "w": 6,
+    "ex": "div > button.accept"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 180.40625,
+    "ex": "div > button.accept"
+   },
+   "#838383": {
+    "w": 187.59375,
+    "ex": "div > button.decline"
+   }
+  },
+  "families": {
+   "Libre Franklin": {
+    "w": 70
+   },
+   "Arial": {
+    "w": 25
+   }
+  },
+  "typeStyles": {
+   "Libre Franklin|15|700|normal|0.001|none": {
+    "family": "Libre Franklin",
+    "stack": "\"Libre Franklin\", Helvetica, Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 15,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0.001,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "a > span.app-header__link-text"
+   },
+   "Arial|35|600|normal|0|none": {
+    "family": "Arial",
+    "stack": "Arial",
+    "generic": "",
+    "size": 35,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 8,
+    "count": 1,
+    "tags": {
+     "button": 1
+    },
+    "ex": "div > button.home__button"
+   },
+   "Arial|10|600|normal|0|uppercase": {
+    "family": "Arial",
+    "stack": "Arial",
+    "generic": "",
+    "size": 10,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 4,
+    "count": 2,
+    "tags": {
+     "button": 2
+    },
+    "ex": "div > button.active.lang-button"
+   },
+   "Libre Franklin|6|400|normal|0|none": {
+    "family": "Libre Franklin",
+    "stack": "\"Libre Franklin\", Helvetica, Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 6,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.lang-divider"
+   },
+   "Libre Franklin|13|400|normal|0|none": {
+    "family": "Libre Franklin",
+    "stack": "\"Libre Franklin\", Helvetica, Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 13,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 56,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p"
+   },
+   "Arial|13|700|normal|0|lowercase": {
+    "family": "Arial",
+    "stack": "Arial",
+    "generic": "",
+    "size": 13,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "lowercase",
+    "style": "normal",
+    "chars": 13,
+    "count": 2,
+    "tags": {
+     "button": 2
+    },
+    "ex": "div > button.accept"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "1": {
+     "w": 2
+    },
+    "2": {
+     "w": 4
+    },
+    "4": {
+     "w": 4
+    },
+    "5": {
+     "w": 8
+    },
+    "6": {
+     "w": 6
+    },
+    "10": {
+     "w": 5
+    },
+    "12": {
+     "w": 1
+    },
+    "13": {
+     "w": 4
+    },
+    "20": {
+     "w": 4
+    },
+    "25": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "1": {
+     "w": 1
+    },
+    "5": {
+     "w": 2
+    }
+   },
+   "gap": {
+    "11": {
+     "w": 1
+    },
+    "25": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 53,
+    "kind": "box"
+   },
+   {
+    "r": 30,
+    "w": 63,
+    "h": 27,
+    "kind": "box"
+   },
+   {
+    "r": 30,
+    "w": 67,
+    "h": 27,
+    "kind": "box"
+   }
+  ],
+  "shadows": {
+   "rgba(0,0,0,0.1) 0px -2px 10px 0px": {
+    "w": 1,
+    "ex": "main > div.cookie-popin"
+   }
+  },
+  "gradients": {},
+  "durations": {
+   "100": {
+    "w": 2
+   },
+   "400": {
+    "w": 2
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 4
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 32,
+   "flex": 5,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 1,
+   "transitions": 4,
+   "images": 0,
+   "svgs": 3,
+   "videos": 0,
+   "sticky": 6
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Libre Franklin",
+    "stack": "\"Libre Franklin\", Helvetica, Arial, sans-serif",
+    "size": 7.8125,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#feece3",
+    "y": 12,
+    "text": "by Justine Soulié and Patrick Heng"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "div > button.home__button",
+    "w": 204,
+    "h": 62,
+    "bg": "#171717",
+    "bgAlpha": 1,
+    "color": "#feece3",
+    "radius": 42,
+    "border": null,
+    "shadow": null,
+    "padY": 10,
+    "padX": 25,
+    "fontSize": 35,
+    "fontWeight": 600,
+    "family": "Arial",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "read now",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.accept",
+    "w": 63,
+    "h": 27,
+    "bg": "#ffffff",
+    "bgAlpha": 1,
+    "color": "#171717",
+    "radius": 30,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 5,
+    "padX": 10,
+    "fontSize": 13,
+    "fontWeight": 700,
+    "family": "Arial",
+    "transform": "lowercase",
+    "letterSpacing": 0,
+    "text": "Accept",
+    "backdrop": null,
+    "transition": "0.1s ease"
+   },
+   {
+    "sel": "div > button.decline",
+    "w": 67,
+    "h": 27,
+    "bg": "#070707",
+    "bgAlpha": 0.7,
+    "color": "#ffffff",
+    "radius": 30,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 5,
+    "padX": 10,
+    "fontSize": 13,
+    "fontWeight": 700,
+    "family": "Arial",
+    "transform": "lowercase",
+    "letterSpacing": 0,
+    "text": "Decline",
+    "backdrop": null,
+    "transition": "0.1s ease"
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#171717",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#171717",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#171717",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#171717",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "div > button.active.lang-button",
+    "fg": "#3b3b3b",
+    "bg": "#171717",
+    "ratio": 1.6
+   },
+   {
+    "sel": "div > span.lang-divider",
+    "fg": "#3a3a3a",
+    "bg": "#171717",
+    "ratio": 1.58
+   },
+   {
+    "sel": "div > button.lang-button",
+    "fg": "#212121",
+    "bg": "#171717",
+    "ratio": 1.11
+   }
+  ],
+  "nav": null
+ },
+ "vars": {
+  "--borderColor": "hsla(0,0%,9%,0)",
+  "--vh": "9px"
+ },
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Libre Franklin",
+   "weight": "100 900",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [
+  "https://fonts.googleapis.com/",
+  "https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap"
+ ],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#7d7dfd",
+    "share": 0.245
+   },
+   {
+    "hex": "#fdaf22",
+    "share": 0.175
+   },
+   {
+    "hex": "#f191ba",
+    "share": 0.118
+   },
+   {
+    "hex": "#e74f1f",
+    "share": 0.106
+   },
+   {
+    "hex": "#1d1c1c",
+    "share": 0.082
+   },
+   {
+    "hex": "#ad928a",
+    "share": 0.079
+   },
+   {
+    "hex": "#e1c4a6",
+    "share": 0.061
+   },
+   {
+    "hex": "#4cb247",
+    "share": 0.052
+   },
+   {
+    "hex": "#7a6f56",
+    "share": 0.042
+   },
+   {
+    "hex": "#554b4b",
+    "share": 0.042
+   }
+  ],
+  "meanLightness": 0.657,
+  "lightnessStd": 0.163,
+  "meanChroma": 0.132,
+  "chromaticShare": 0.786,
+  "negativeSpace": 0.245,
+  "busyness": 0.028,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 11,
+  "h1Size": 7.8125,
+  "gutter": 81,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}
