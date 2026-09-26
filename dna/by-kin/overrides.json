@@ -1,0 +1,13 @@
+{
+  "color": { "roles": { "background": "#f4f2ed", "foreground": "#111214", "surface": "#111214", "surface-foreground": "#f4f2ed", "muted": "#e8e5de", "muted-foreground": "#6c6c6b", "border": "#111214", "primary": "#fe6e4e", "primary-foreground": "#111214", "accent": "#fe6e4e", "accent-foreground": "#111214", "ring": "#fe6e4e" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Apercu Pro", "use": "DM Sans", "alternative": "DM Sans", "weights": [500] },
+      "body": { "name": "Apercu Pro", "use": "DM Sans", "alternative": "DM Sans", "weights": [400, 500] },
+      "mono": { "name": "Apercu Mono Pro", "use": "DM Mono", "alternative": "DM Mono", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 72, "weight": 500, "lineHeight": 1.0, "letterSpacing": -0.02, "transform": "none" }, "h2": { "size": 27, "weight": 500, "lineHeight": 1.05, "letterSpacing": 0, "transform": "none" } },
+    "body": { "size": 9, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0.04, "transform": "uppercase" }
+  },
+  "personality": { "keywords": ["manchester interiors & branding studio", "warm off-white + coral", "monospace-style wordmark", "switchable layouts", "underlined nav links", "tiny mono caps labels", "line-drawn team illustration", "stacked project-name index"] }
+}

@@ -1,0 +1,645 @@
+{
+ "url": "https://by-kin.com/",
+ "title": "Home | 'kin Commercial Interior Design & Branding Studio",
+ "description": "‘kin are a Manchester-based creative studio specialising in commercial interior design, branding & graphic design, helping businesses transform spaces & grow.",
+ "themeColor": null,
+ "ogImage": "https://cms.by-kin.com/uploads/Opengraph_b169d943fe.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#f4f2ed",
+ "rootFontSize": 7.5,
+ "agg": {
+  "bg": {
+   "#f4f2ed": {
+    "w": 2592000,
+    "ex": "body"
+   }
+  },
+  "text": {
+   "#111214": {
+    "w": 177,
+    "ex": "div > div.char"
+   }
+  },
+  "border": {
+   "#111214": {
+    "w": 366,
+    "ex": "span > span.sytles_textUnderline_line__2p0y9.textUnderline_line"
+   }
+  },
+  "families": {
+   "Apercu Pro": {
+    "w": 113
+   },
+   "Apercu Mono Pro": {
+    "w": 64
+   }
+  },
+  "typeStyles": {
+   "Apercu Pro|27|500|1.1|0|none": {
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "generic": "",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 46,
+    "count": 46,
+    "tags": {
+     "div": 46
+    },
+    "ex": "div > div.char"
+   },
+   "Apercu Mono Pro|9|500|1.3|0|uppercase": {
+    "family": "Apercu Mono Pro",
+    "stack": "\"Apercu Mono Pro\"",
+    "generic": "",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1.3,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 47,
+    "count": 9,
+    "tags": {
+     "div": 1,
+     "span": 8
+    },
+    "ex": "div > div.word"
+   },
+   "Apercu Mono Pro|9|500|1|0|uppercase": {
+    "family": "Apercu Mono Pro",
+    "stack": "\"Apercu Mono Pro\"",
+    "generic": "",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 17,
+    "count": 3,
+    "tags": {
+     "span": 3
+    },
+    "ex": "div > span.word__clone"
+   },
+   "Apercu Pro|27|500|1|0|none": {
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "generic": "",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 67,
+    "count": 11,
+    "tags": {
+     "span": 11
+    },
+    "ex": "div > span.word__clone"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "1": {
+     "w": 4
+    },
+    "2": {
+     "w": 4
+    },
+    "4": {
+     "w": 11
+    }
+   },
+   "margin": {
+    "19": {
+     "w": 1
+    },
+    "41": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "19": {
+     "w": 1
+    },
+    "185": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 63,
+    "h": 60,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 63,
+    "h": 60,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 63,
+    "h": 60,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 482,
+    "h": 341,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 64,
+    "h": 60,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 64,
+    "h": 60,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 64,
+    "h": 60,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "1200": {
+    "w": 49
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.76, 0, 0.24, 1)": {
+    "w": 18
+   },
+   "cubic-bezier(0.165, 0.84, 0.44, 1)": {
+    "w": 3
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 199,
+   "flex": 7,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 21,
+   "images": 11,
+   "svgs": 4,
+   "videos": 0,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h6",
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#111214",
+    "y": 17,
+    "text": "AboutAbout"
+   },
+   {
+    "tag": "h6",
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#111214",
+    "y": 17,
+    "text": "WorkWork"
+   },
+   {
+    "tag": "h6",
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#111214",
+    "y": 17,
+    "text": "JournalJournal"
+   },
+   {
+    "tag": "h6",
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#111214",
+    "y": 17,
+    "text": "ContactContact"
+   },
+   {
+    "tag": "h1",
+    "family": "Apercu Pro",
+    "stack": "\"Apercu Pro\"",
+    "size": 27,
+    "weight": 500,
+    "lineHeight": 1.05,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#111214",
+    "y": 531,
+    "text": "‘kin are a creative commercial interiors, branding and graphic design studio."
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "li > button.styles_btn-layer_el__TMvJC.js-button-layout-0",
+    "w": 32,
+    "h": 32,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#111214",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "Apercu Pro",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "1",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.styles_btn-layer_el__TMvJC.js-button-layout-1",
+    "w": 32,
+    "h": 32,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#111214",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "Apercu Pro",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "2",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f4f2ed",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 482,
+    "h": 341,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 1.41
+   }
+  ],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--tw-ring-offset-shadow": "0 0 #0000",
+  "--easeInOutQuart": "cubic-bezier(0.76,0,0.24,1)",
+  "--tw-backdrop-sepia": "",
+  "--tw-ring-shadow": "0 0 #0000",
+  "--font-base": "\"Apercu Pro\"",
+  "--tw-sepia": "",
+  "--foreground-rgb": "0,0,0",
+  "--tw-ordinal": "",
+  "--lightblue": "#8499ca",
+  "--tw-backdrop-saturate": "",
+  "--tw-contain-style": "",
+  "--white": "#fff",
+  "--tw-ring-inset": "",
+  "--red": "#ff6542",
+  "--tw-backdrop-invert": "",
+  "--spa-64": "6.4rem",
+  "--tw-numeric-spacing": "",
+  "--tw-border-spacing-x": "0",
+  "--tw-brightness": "",
+  "--tw-backdrop-grayscale": "",
+  "--tw-hue-rotate": "",
+  "--tw-scale-y": "1",
+  "--cornflower": "#4f4a3b",
+  "--tw-pan-y": "",
+  "--tw-backdrop-contrast": "",
+  "--tw-drop-shadow": "",
+  "--tw-ring-color": "rgba(59,130,246,.5)",
+  "--tw-backdrop-brightness": "",
+  "--tw-pan-x": "",
+  "--tw-translate-y": "0",
+  "--easeInOutQuad": "cubic-bezier(0.45,0,0.55,1)",
+  "--swiper-theme-color": "#007aff",
+  "--tw-rotate": "0",
+  "--tw-ring-offset-color": "#fff",
+  "--easeOutQuart": "cubic-bezier(0.165,0.84,0.44,1)",
+  "--tw-contain-size": "",
+  "--silver": "#f4f2ed",
+  "--tw-contrast": "",
+  "--tw-skew-x": "0",
+  "--black": "#000",
+  "--background-start-rgb": "214,219,220",
+  "--tw-backdrop-blur": "",
+  "--swiper-navigation-size": "44px",
+  "--easeInOutCubic": "cubic-bezier(0.65,0,0.35,1)",
+  "--tw-shadow": "0 0 #0000",
+  "--tw-translate-x": "0",
+  "--tw-ring-offset-width": "0px",
+  "--gray": "#999896",
+  "--tw-gradient-via-position": "",
+  "--dark": "#111214",
+  "--tw-saturate": "",
+  "--tw-scroll-snap-strictness": "proximity",
+  "--background-end-rgb": "255,255,255",
+  "--spa-200": "20rem",
+  "--tw-grayscale": "",
+  "--spa-160": "16rem",
+  "--tw-scale-x": "1",
+  "--tw-backdrop-hue-rotate": "",
+  "--tw-shadow-colored": "0 0 #0000",
+  "--tw-gradient-to-position": "",
+  "--tw-border-spacing-y": "0",
+  "--tw-numeric-fraction": "",
+  "--tw-skew-y": "0",
+  "--tw-slashed-zero": "",
+  "--tw-blur": "",
+  "--tw-invert": "",
+  "--spa-320": "32rem",
+  "--tw-backdrop-opacity": "",
+  "--tw-gradient-from-position": "",
+  "--tw-numeric-figure": "",
+  "--tw-pinch-zoom": "",
+  "--tw-contain-paint": "",
+  "--font-label": "\"Apercu Mono Pro\"",
+  "--tw-contain-layout": ""
+ },
+ "colorVars": {
+  "--lightblue": "#8499ca",
+  "--white": "#ffffff",
+  "--red": "#ff6542",
+  "--cornflower": "#4f4a3b",
+  "--tw-ring-color": "#98b9f1",
+  "--swiper-theme-color": "#007aff",
+  "--tw-ring-offset-color": "#ffffff",
+  "--silver": "#f4f2ed",
+  "--black": "#000000",
+  "--gray": "#999896",
+  "--dark": "#111214"
+ },
+ "loadedFonts": [
+  {
+   "family": "Apercu Pro",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "Apercu Pro",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Apercu Mono Pro",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#f4f2ed",
+    "share": 0.926
+   },
+   {
+    "hex": "#fe6e4e",
+    "share": 0.018
+   },
+   {
+    "hex": "#e0dad5",
+    "share": 0.014
+   },
+   {
+    "hex": "#a9a6a3",
+    "share": 0.013
+   },
+   {
+    "hex": "#d2bfb7",
+    "share": 0.01
+   },
+   {
+    "hex": "#8c8885",
+    "share": 0.007
+   },
+   {
+    "hex": "#676a66",
+    "share": 0.006
+   },
+   {
+    "hex": "#4b4542",
+    "share": 0.004
+   },
+   {
+    "hex": "#181818",
+    "share": 0.003
+   },
+   {
+    "hex": "#8a583d",
+    "share": 0.001
+   }
+  ],
+  "meanLightness": 0.942,
+  "lightnessStd": 0.081,
+  "meanChroma": 0.011,
+  "chromaticShare": 0.023,
+  "negativeSpace": 0.926,
+  "busyness": 0.009,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 16,
+  "h1Size": 46,
+  "gutter": 93,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}
