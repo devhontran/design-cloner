@@ -1,0 +1,319 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "bennett-clive",
+  "generatedAt": "2026-09-26T05:35:46.719Z",
+  "sources": [
+    {
+      "id": "bennettandclive-com",
+      "type": "web",
+      "input": "https://bennettandclive.com",
+      "weight": 1,
+      "title": "Bennett & Clive | Creative Production Company | Bennett & Clive"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "monochrome",
+      "restrained",
+      "high-contrast",
+      "bold headlines",
+      "tight display tracking",
+      "dramatic type scale",
+      "spacious",
+      "premium",
+      "sharp corners",
+      "architectural",
+      "flat",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#f7f7f7",
+      "surface-foreground": "#000000",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#666666",
+      "border": "#000000",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#000000",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000",
+      "success": "#007f38",
+      "warning": "#8d5e00",
+      "danger": "#af3d36"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "primary (monochrome: using foreground)",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.688,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.312,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#626262",
+        "700": "#3e3e3e",
+        "800": "#1f1f1f",
+        "900": "#060606",
+        "950": "#000000"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "monochrome",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "neutral",
+      "harmony": "monochrome",
+      "primaryHue": "neutral",
+      "accentHue": "neutral"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "InterWeb",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "InterWeb, sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "body": {
+        "name": "InterWeb",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "InterWeb, sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "ui": {
+        "name": "Arial",
+        "category": "sans",
+        "source": "system",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Arial",
+        "weights": [
+          700
+        ]
+      }
+    },
+    "scale": {
+      "base": 15,
+      "lg": 16,
+      "xl": 22,
+      "2xl": 30,
+      "3xl": 45,
+      "4xl": 75,
+      "5xl": 150
+    },
+    "ratio": 1.468,
+    "ratioName": "perfect fifth",
+    "base": 15,
+    "headings": {
+      "h1": {
+        "size": 150,
+        "weight": 700,
+        "lineHeight": 0.77,
+        "letterSpacing": -0.07,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 105,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 19,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 15,
+      "weight": 400,
+      "lineHeight": 1
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 60,
+      "body": 20
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.13,
+    "scale": [
+      8,
+      12,
+      16,
+      20,
+      58,
+      76,
+      88,
+      114,
+      158,
+      226
+    ],
+    "sectionY": 300,
+    "container": 1220,
+    "gutter": 103,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 4,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 8.11,
+    "sectionsPerPage": 34,
+    "nav": null,
+    "mobile": {
+      "bodySize": 20,
+      "h1Size": 60,
+      "gutter": 103,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 800,
+    "durations": [
+      600,
+      800
+    ],
+    "easing": "cubic-bezier(0.32, 0.94, 0.6, 1)",
+    "animatedElements": 6
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 26,
+      "videos": false,
+      "iconsSvg": 5,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "background",
+      "radius": 0,
+      "height": 22,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 21.75,
+      "fontWeight": 700,
+      "transform": "uppercase",
+      "letterSpacing": -0.03,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "Contact"
+    },
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "background",
+      "underline": false
+    }
+  }
+}

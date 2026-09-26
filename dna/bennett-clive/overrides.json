@@ -1,0 +1,8 @@
+{
+  "color": { "roles": { "background": "#ffffff", "foreground": "#000000", "surface": "#000000", "surface-foreground": "#ffffff", "muted": "#f2f2f2", "muted-foreground": "#666666", "border": "#000000", "primary": "#000000", "primary-foreground": "#ffffff", "accent": "#000000", "accent-foreground": "#ffffff", "ring": "#000000" } },
+  "typography": {
+    "families": { "display": { "name": "Inter", "use": "Inter", "weights": [700, 800] }, "body": { "name": "Inter", "use": "Inter", "weights": [500, 700] } },
+    "headings": { "h1": { "size": 150, "weight": 700, "lineHeight": 0.77, "letterSpacing": -0.07, "transform": "uppercase" }, "h2": { "size": 64, "weight": 700, "lineHeight": 0.95, "letterSpacing": -0.04, "transform": "none" } }
+  },
+  "personality": { "keywords": ["production company", "pure black & white", "giant tight inter caps", "right-aligned name stacks", "logo-word mashups", "hover-reveal video", "edge-to-edge wordmark footer", "fashion & beauty clients"] }
+}
