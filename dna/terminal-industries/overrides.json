@@ -1,0 +1,30 @@
+{
+  "color": {
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#052424",
+      "surface": "#f0f0f0",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#4c6161",
+      "border": "#cdd1d1",
+      "primary": "#abff02",
+      "primary-foreground": "#052424",
+      "accent": "#052424",
+      "accent-foreground": "#ffffff",
+      "ring": "#abff02"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "SuisseIntl", "use": "Inter", "alternative": "Inter", "weights": [400, 500] },
+      "body": { "name": "SuisseIntl", "use": "Inter", "alternative": "Inter", "weights": [400, 500] },
+      "mono": { "name": "Geist Mono", "use": "Geist Mono", "weights": [400, 500] }
+    }
+  },
+  "components": {
+    "buttonPrimary": { "background": "primary", "color": "primary-foreground", "radius": 4, "height": 28, "paddingX": 12, "paddingY": 0, "fontSize": 9, "fontWeight": 500, "transform": "uppercase", "letterSpacing": 0.12, "border": null, "shadow": null, "transition": "0.4s ease", "example": "EXPLORE PRODUCT" }
+  },
+  "personality": {
+    "keywords": ["logistics ai", "white + deep teal", "acid lime signal", "cinematic dusk truck", "wireframe point clouds", "notched section edges", "mono micro-labels", "enterprise-premium"]
+  }
+}

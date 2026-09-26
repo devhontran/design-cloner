@@ -1,0 +1,492 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "terminal-industries",
+  "generatedAt": "2026-09-26T03:17:59.453Z",
+  "sources": [
+    {
+      "id": "terminal-industries-com",
+      "type": "web",
+      "input": "https://terminal-industries.com",
+      "weight": 1,
+      "title": "Terminal Yard Operating System | The New Industry Standard in Yard Operations"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "vibrant",
+      "energetic",
+      "high-contrast",
+      "light, refined headlines",
+      "tight display tracking",
+      "uppercase eyebrow labels",
+      "spacious",
+      "premium",
+      "very rounded",
+      "playful",
+      "glassmorphism",
+      "gradient accents"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#052424",
+      "surface": "#f0f0f0",
+      "surface-foreground": "#052424",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#4c6161",
+      "border": "#cdd1d1",
+      "primary": "#abff02",
+      "primary-foreground": "#052424",
+      "accent": "#e2ba8a",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#abff02",
+      "success": "#00c55b",
+      "warning": "#db9400",
+      "danger": "#ff7266"
+    },
+    "derived": [
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.557,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#abff02",
+        "share": 0.212,
+        "oklch": "oklch(0.911 0.244 130)",
+        "role": "primary"
+      },
+      {
+        "hex": "#052424",
+        "share": 0.109,
+        "oklch": "oklch(0.238 0.036 195)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#1f1f1f",
+        "share": 0.042,
+        "oklch": "oklch(0.239 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.022,
+        "oklch": "oklch(0.898 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#000000",
+        "share": 0.017,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#e2ba8a",
+        "share": 0.015,
+        "oklch": "oklch(0.813 0.078 71)",
+        "role": "accent"
+      },
+      {
+        "hex": "#77b201",
+        "share": 0.012,
+        "oklch": "oklch(0.696 0.186 129)",
+        "role": null
+      },
+      {
+        "hex": "#f0f0f0",
+        "share": 0.011,
+        "oklch": "oklch(0.955 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#694a31",
+        "share": 0.002,
+        "oklch": "oklch(0.437 0.057 59)",
+        "role": null
+      },
+      {
+        "hex": "#95724d",
+        "share": 0.001,
+        "oklch": "oklch(0.578 0.068 67)",
+        "role": null
+      },
+      {
+        "hex": "#ddff9a",
+        "share": 0,
+        "oklch": "oklch(0.953 0.132 124)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f5ffec",
+        "100": "#dfffc0",
+        "200": "#abff02",
+        "300": "#97e200",
+        "400": "#7ebd00",
+        "500": "#679d00",
+        "600": "#548100",
+        "700": "#426600",
+        "800": "#324f00",
+        "900": "#243b00",
+        "950": "#172700"
+      },
+      "accent": {
+        "50": "#fcf5ee",
+        "100": "#f8eada",
+        "200": "#f0d5b5",
+        "300": "#e2ba8a",
+        "400": "#c8985d",
+        "500": "#ae7c39",
+        "600": "#95641e",
+        "700": "#7a4f09",
+        "800": "#603c01",
+        "900": "#482c00",
+        "950": "#311c00"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [
+      "linear-gradient(0deg, rgba(255, 255, 255, 0), rgb(229, 229, 229))",
+      "radial-gradient(circle, rgba(171, 255, 2, 0.4), rgba(0, 0, 0, 0) 128px)",
+      "radial-gradient(circle, rgb(171, 255, 2), rgba(0, 0, 0, 0) 240px)",
+      "radial-gradient(rgba(171, 255, 2, 0.15) 0px, rgba(0, 0, 0, 0) 65%)"
+    ],
+    "cssVars": {
+      "--c-lime": "#abff02",
+      "--c-white": "#ffffff",
+      "--c-dark-green-15": "#dadede",
+      "--c-dark-green-20": "#cdd3d3",
+      "--tw-ring-color": "#9dc0fa",
+      "--c-dirty-white": "#f0f0f0",
+      "--c-white-30": "#ffffff",
+      "--c-black": "#000000",
+      "--c-white-15": "#ffffff",
+      "--tw-ring-offset-color": "#ffffff",
+      "--c-dark-gray-008": "#eeeeee",
+      "--c-gray": "#454742",
+      "--c-dark-green-05": "#f2f4f4",
+      "--c-orange": "#fb6b3c",
+      "--c-white-20": "#ffffff",
+      "--c-dark-green": "#052424",
+      "--c-black-10": "#e5e5e5",
+      "--c-dark-gray": "#7f7f7f",
+      "--c-light-gray": "#c2c2c2",
+      "--c-light-light-gray": "#dddddd",
+      "--c-white-40": "#ffffff"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 16.35,
+      "temperature": "cool",
+      "harmony": "analogous",
+      "primaryHue": "lime",
+      "accentHue": "orange"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "SuisseIntl",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "SuisseIntl, sans-serif",
+        "weights": [
+          400,
+          450,
+          500,
+          600,
+          700
+        ]
+      },
+      "body": {
+        "name": "SuisseIntl",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "SuisseIntl, sans-serif",
+        "weights": [
+          400,
+          450,
+          500,
+          600,
+          700
+        ]
+      },
+      "ui": {
+        "name": "Poppins",
+        "category": "sans",
+        "source": "google",
+        "use": "Poppins",
+        "alternative": null,
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Poppins, sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "mono": {
+        "name": "Geist Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Geist Mono",
+        "alternative": null,
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "\"Geist Mono\", monospace",
+        "weights": [
+          400,
+          600
+        ]
+      }
+    },
+    "scale": {
+      "2xs": 14,
+      "xs": 15,
+      "sm": 16,
+      "base": 18,
+      "lg": 20,
+      "xl": 23,
+      "2xl": 35,
+      "3xl": 38,
+      "4xl": 46,
+      "5xl": 70,
+      "6xl": 83
+    },
+    "ratio": 1.244,
+    "ratioName": "major third",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 70,
+        "weight": 400,
+        "lineHeight": 0.95,
+        "letterSpacing": -0.051,
+        "transform": "none",
+        "style": "normal",
+        "align": "center"
+      },
+      "h2": {
+        "size": 70,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.018,
+        "transform": "none",
+        "style": "normal",
+        "align": "center"
+      },
+      "h3": {
+        "size": 23,
+        "weight": 400,
+        "lineHeight": 1.46,
+        "letterSpacing": -0.018,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 18,
+      "weight": 400,
+      "lineHeight": 1.4
+    },
+    "eyebrow": {
+      "size": 13,
+      "weight": 600,
+      "letterSpacing": 0.18,
+      "transform": "uppercase",
+      "family": "Geist Mono"
+    },
+    "mobile": {
+      "h1": 29.9988,
+      "body": 18
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.59,
+    "scale": [
+      4,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      32,
+      38,
+      40,
+      48,
+      60
+    ],
+    "sectionY": 135,
+    "container": 1300,
+    "gutter": 121,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 8,
+      "md": 12,
+      "lg": 20,
+      "xl": 24,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.77,
+    "style": "very-rounded",
+    "buttonShape": "0px",
+    "card": 20,
+    "input": 0,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "subtle",
+    "shadows": {
+      "sm": "rgba(255,255,255,0.06) 0px 1px 0px 0px inset, rgba(0,0,0,0.25) 0px 40px 80px 0px",
+      "lg": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+    },
+    "separation": "shadows"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "centered",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 17.64,
+    "sectionsPerPage": 69,
+    "nav": {
+      "height": 78,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": true,
+      "links": 70,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 18,
+      "h1Size": 29.9988,
+      "gutter": 121,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 400,
+    "durations": [
+      200,
+      300,
+      400,
+      600
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": true,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 51,
+      "videos": true,
+      "iconsSvg": 35,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "surface",
+      "color": "foreground",
+      "radius": 8,
+      "height": 59,
+      "paddingX": 96,
+      "paddingY": 25,
+      "fontSize": 11,
+      "fontWeight": 600,
+      "transform": "uppercase",
+      "letterSpacing": 0.18,
+      "border": null,
+      "shadow": null,
+      "transition": "0.3s, 0.3s cubic-bezier(0.39, 0.575, 0.565, 1), cubic-bezier(0.39, 0.575, 0.565, 1)",
+      "example": "FIX NOW"
+    },
+    "buttonSecondary": {
+      "background": null,
+      "color": "border",
+      "radius": 8,
+      "height": 58,
+      "paddingX": 18,
+      "paddingY": 12,
+      "fontSize": 13,
+      "fontWeight": 600,
+      "transform": "uppercase",
+      "letterSpacing": 0.18,
+      "border": "1px solid #c2c2c2",
+      "shadow": null,
+      "transition": "0.3s, 0.3s, 0.3s cubic-bezier(0.39, 0.575, 0.565, 1), cubic-bezier(0.39, 0.575, 0.565, 1), cubic-bezier(0.39, 0.575, 0.565, 1)",
+      "example": "IN THE YARD"
+    },
+    "card": {
+      "background": "surface",
+      "radius": 24,
+      "border": null,
+      "shadow": null,
+      "paddingX": 40,
+      "paddingY": 40
+    },
+    "input": {
+      "background": null,
+      "radius": 0,
+      "border": null,
+      "height": 18,
+      "paddingX": 0,
+      "fontSize": 12
+    },
+    "link": {
+      "color": "background",
+      "underline": false
+    }
+  }
+}

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>terminal-industries — Design DNA specimen</title>
+<link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<style>
+  .grid3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:var(--space-5, 24px); }
+  .label { font:600 12px/1 var(--font-mono, ui-monospace, monospace); text-transform:uppercase; letter-spacing:.08em; color:var(--color-muted-foreground); margin:0 0 20px; }
+  .spec { padding-block: 56px; border-top:1px solid var(--color-border); }
+  .sws { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:16px; }
+  .sw { display:flex; flex-direction:column; gap:4px; font-size:13px; }
+  .sw .chip { height:64px; border-radius:var(--radius-md, 8px); border:1px solid var(--color-border); }
+  .sw code, .ts code, .sp code, .rd code { font:12px var(--font-mono, ui-monospace, monospace); color:var(--color-muted-foreground); }
+  .ramp { display:grid; grid-template-columns:90px repeat(11,1fr); gap:4px; margin-bottom:6px; align-items:center; }
+  .ramp div { height:40px; border-radius:6px; display:flex; align-items:end; padding:4px; } .ramp small { font-size:10px; opacity:.8 }
+  .rn { font:12px var(--font-mono, monospace); }
+  .ts { display:grid; grid-template-columns:160px 1fr; align-items:baseline; gap:16px; padding:10px 0; border-bottom:1px dashed var(--color-border); overflow:hidden; white-space:nowrap; }
+  .sp { display:grid; grid-template-columns:160px 1fr; align-items:center; gap:16px; margin:6px 0; } .sp div { height:14px; background:var(--color-primary); border-radius:3px; }
+  .rds { display:flex; gap:16px; flex-wrap:wrap; } .rd { width:96px; height:96px; background:var(--color-muted); border:1px solid var(--color-border); display:grid; place-items:center; text-align:center; }
+  .shd { min-height:100px; display:grid; place-items:center; }
+  .hero { padding-block: calc(var(--section-y) * .9); text-align:center; }
+  .hero .actions { display:flex; gap:12px; margin-top:32px; justify-content:center; flex-wrap:wrap; }
+  .hero .lead { max-width:640px; margin-top:20px; margin-inline:auto; }
+  .hero { background: radial-gradient(60% 60% at 70% 0%, color-mix(in oklab, var(--color-primary) 35%, transparent), transparent), radial-gradient(40% 50% at 10% 20%, color-mix(in oklab, var(--color-accent) 30%, transparent), transparent); }
+  .kw { display:flex; gap:8px; flex-wrap:wrap; margin-top:28px; } .kw span { font-size:12px; padding:4px 10px; border:1px solid var(--color-border); border-radius:var(--radius-sm, 4px); color:var(--color-muted-foreground); }
+  .form { display:grid; gap:12px; max-width:420px; }
+</style></head>
+<body>
+  <header class="nav"><div class="container nav-inner">
+    <strong style="font-family:var(--font-display);font-size:20px">terminal-industries</strong>
+    <nav style="display:flex;gap:28px;font-size:var(--text-sm, 14px)"><a style="color:var(--color-foreground)">Product</a><a style="color:var(--color-foreground)">Pricing</a><a style="color:var(--color-foreground)">Docs</a></nav>
+    <a class="btn btn-primary">Get started</a>
+  </div></header>
+
+  <section class="hero"><div class="container">
+    <p class="eyebrow">Design DNA specimen</p>
+    <h1 style="margin-top:16px">Build interfaces that feel <span class="" style="color:var(--color-primary)">unmistakably yours</span>.</h1>
+    <p class="lead">This page is rendered only from the extracted tokens and component recipes. Compare it side by side with the reference screenshots.</p>
+    <div class="actions"><a class="btn btn-primary">Start free trial</a><a class="btn btn-secondary">View showcase</a></div>
+    <div class="kw" style="justify-content:center"><span>logistics ai</span><span>white + deep teal</span><span>acid lime signal</span><span>cinematic dusk truck</span><span>wireframe point clouds</span><span>notched section edges</span><span>mono micro-labels</span><span>enterprise-premium</span></div>
+  </div></section>
+
+  <section class="section" style="background:var(--color-muted)"><div class="container">
+    <h2>Components</h2>
+    <div class="grid3" style="margin-top:40px">
+      <article class="card"><p class="eyebrow">01</p><h3 style="margin:12px 0 8px">Fast by default</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">02</p><h3 style="margin:12px 0 8px">Composable</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">03</p><h3 style="margin:12px 0 8px">Accessible</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article>
+    </div>
+    <div class="grid3" style="margin-top:40px;align-items:start">
+      <form class="form" onsubmit="return false"><input class="input" placeholder="you@company.com"><input class="input" placeholder="Company"><button class="btn btn-primary">Subscribe</button></form>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-primary">Primary</a><a class="btn btn-secondary">Secondary</a></div>
+    </div>
+  </div></section>
+
+  <div class="container">
+    <section class="spec"><p class="label">Color roles</p><div class="sws">
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>background</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#052424"></div><b>foreground</b><code>#052424</code></div>
+      <div class="sw"><div class="chip" style="background:#f0f0f0"></div><b>surface</b><code>#f0f0f0</code></div>
+      <div class="sw"><div class="chip" style="background:#052424"></div><b>surface-foreground</b><code>#052424</code></div>
+      <div class="sw"><div class="chip" style="background:#f0f0f0"></div><b>muted</b><code>#f0f0f0</code></div>
+      <div class="sw"><div class="chip" style="background:#4c6161"></div><b>muted-foreground</b><code>#4c6161</code></div>
+      <div class="sw"><div class="chip" style="background:#cdd1d1"></div><b>border</b><code>#cdd1d1</code></div>
+      <div class="sw"><div class="chip" style="background:#abff02"></div><b>primary</b><code>#abff02</code></div>
+      <div class="sw"><div class="chip" style="background:#052424"></div><b>primary-foreground</b><code>#052424</code></div>
+      <div class="sw"><div class="chip" style="background:#052424"></div><b>accent</b><code>#052424</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>accent-foreground</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#abff02"></div><b>ring</b><code>#abff02</code></div>
+      <div class="sw"><div class="chip" style="background:#00c55b"></div><b>success</b><code>#00c55b</code></div>
+      <div class="sw"><div class="chip" style="background:#db9400"></div><b>warning</b><code>#db9400</code></div>
+      <div class="sw"><div class="chip" style="background:#ff7266"></div><b>danger</b><code>#ff7266</code></div></div></section>
+    <section class="spec"><p class="label">Ramps</p>
+      <div class="ramp"><span class="rn">primary</span><div title="primary-50 #f5ffec" style="background:#f5ffec"><small style="color:#000">50</small></div><div title="primary-100 #dfffc0" style="background:#dfffc0"><small style="color:#000">100</small></div><div title="primary-200 #abff02" style="background:#abff02"><small style="color:#000">200</small></div><div title="primary-300 #97e200" style="background:#97e200"><small style="color:#000">300</small></div><div title="primary-400 #7ebd00" style="background:#7ebd00"><small style="color:#000">400</small></div><div title="primary-500 #679d00" style="background:#679d00"><small style="color:#fff">500</small></div><div title="primary-600 #548100" style="background:#548100"><small style="color:#fff">600</small></div><div title="primary-700 #426600" style="background:#426600"><small style="color:#fff">700</small></div><div title="primary-800 #324f00" style="background:#324f00"><small style="color:#fff">800</small></div><div title="primary-900 #243b00" style="background:#243b00"><small style="color:#fff">900</small></div><div title="primary-950 #172700" style="background:#172700"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">accent</span><div title="accent-50 #f1f8f8" style="background:#f1f8f8"><small style="color:#000">50</small></div><div title="accent-100 #e1f0f0" style="background:#e1f0f0"><small style="color:#000">100</small></div><div title="accent-200 #c3e2e1" style="background:#c3e2e1"><small style="color:#000">200</small></div><div title="accent-300 #9ecdcc" style="background:#9ecdcc"><small style="color:#000">300</small></div><div title="accent-400 #76afaf" style="background:#76afaf"><small style="color:#000">400</small></div><div title="accent-500 #559494" style="background:#559494"><small style="color:#fff">500</small></div><div title="accent-600 #3c7b7b" style="background:#3c7b7b"><small style="color:#fff">600</small></div><div title="accent-700 #296362" style="background:#296362"><small style="color:#fff">700</small></div><div title="accent-800 #1b4c4c" style="background:#1b4c4c"><small style="color:#fff">800</small></div><div title="accent-900 #0f3737" style="background:#0f3737"><small style="color:#fff">900</small></div><div title="accent-950 #052424" style="background:#052424"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">neutral</span><div title="neutral-50 #fafafa" style="background:#fafafa"><small style="color:#000">50</small></div><div title="neutral-100 #f3f3f3" style="background:#f3f3f3"><small style="color:#000">100</small></div><div title="neutral-200 #e4e4e4" style="background:#e4e4e4"><small style="color:#000">200</small></div><div title="neutral-300 #d4d4d4" style="background:#d4d4d4"><small style="color:#000">300</small></div><div title="neutral-400 #a1a1a1" style="background:#a1a1a1"><small style="color:#000">400</small></div><div title="neutral-500 #737373" style="background:#737373"><small style="color:#fff">500</small></div><div title="neutral-600 #545454" style="background:#545454"><small style="color:#fff">600</small></div><div title="neutral-700 #404040" style="background:#404040"><small style="color:#fff">700</small></div><div title="neutral-800 #262626" style="background:#262626"><small style="color:#fff">800</small></div><div title="neutral-900 #171717" style="background:#171717"><small style="color:#fff">900</small></div><div title="neutral-950 #0a0a0a" style="background:#0a0a0a"><small style="color:#fff">950</small></div></div></section>
+    <section class="spec"><p class="label">Type scale · Inter / Inter · ratio 1.244 (major third)</p>
+      <div class="ts"><code>text-6xl · 83px</code><span style="font-size:83px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-5xl · 70px</code><span style="font-size:70px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-4xl · 46px</code><span style="font-size:46px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-3xl · 38px</code><span style="font-size:38px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-2xl · 35px</code><span style="font-size:35px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-xl · 23px</code><span style="font-size:23px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-lg · 20px</code><span style="font-size:20px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-base · 18px</code><span style="font-size:18px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-sm · 16px</code><span style="font-size:16px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-xs · 15px</code><span style="font-size:15px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div>
+      <div class="ts"><code>text-2xs · 14px</code><span style="font-size:14px;font-family:var(--font-body);line-height:1.15;">Design DNA terminal-industries</span></div></section>
+    <section class="spec"><p class="label">Spacing · 4px grid · airy</p><div class="sp"><code>space-1 · 4px</code><div style="width:4px"></div></div><div class="sp"><code>space-2 · 8px</code><div style="width:8px"></div></div><div class="sp"><code>space-3 · 10px</code><div style="width:10px"></div></div><div class="sp"><code>space-4 · 12px</code><div style="width:12px"></div></div><div class="sp"><code>space-5 · 14px</code><div style="width:14px"></div></div><div class="sp"><code>space-6 · 16px</code><div style="width:16px"></div></div><div class="sp"><code>space-7 · 18px</code><div style="width:18px"></div></div><div class="sp"><code>space-8 · 20px</code><div style="width:20px"></div></div><div class="sp"><code>space-9 · 24px</code><div style="width:24px"></div></div><div class="sp"><code>space-10 · 32px</code><div style="width:32px"></div></div><div class="sp"><code>space-11 · 38px</code><div style="width:38px"></div></div><div class="sp"><code>space-12 · 40px</code><div style="width:40px"></div></div><div class="sp"><code>space-13 · 48px</code><div style="width:48px"></div></div><div class="sp"><code>space-14 · 60px</code><div style="width:60px"></div></div></section>
+    <section class="spec"><p class="label">Radius · very-rounded</p><div class="rds"><div class="rd" style="border-radius:8px"><code>sm<br>8px</code></div><div class="rd" style="border-radius:12px"><code>md<br>12px</code></div><div class="rd" style="border-radius:20px"><code>lg<br>20px</code></div><div class="rd" style="border-radius:24px"><code>xl<br>24px</code></div><div class="rd" style="border-radius:9999px"><code>full<br>full</code></div></div></section>
+    <section class="spec"><p class="label">Elevation · subtle</p><div class="grid3"><div class="shd card" style="box-shadow:rgba(255,255,255,0.06) 0px 1px 0px 0px inset, rgba(0,0,0,0.25) 0px 40px 80px 0px"><code>shadow-sm</code></div><div class="shd card" style="box-shadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px"><code>shadow-lg</code></div></div></section>
+  </div>
+</body></html>
