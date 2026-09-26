@@ -1,0 +1,434 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "iventions",
+  "generatedAt": "2026-09-26T11:11:20.889Z",
+  "sources": [
+    {
+      "id": "iventions-com",
+      "type": "web",
+      "input": "https://iventions.com/",
+      "weight": 1,
+      "title": "International Event Agency | Events, Exhibits & Sports | Iventions"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "barcelona events agency",
+      "periwinkle + lime",
+      "giant wordmark behind angled shapes",
+      "serif + grotesk pairing",
+      "pastel section fields",
+      "photo-in-numeral stats",
+      "city list typography",
+      "hospitality spotlight"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#f3efeb",
+      "foreground": "#1e1e1e",
+      "surface": "#1e1e1e",
+      "surface-foreground": "#f3efeb",
+      "muted": "#eae3dc",
+      "muted-foreground": "#737270",
+      "border": "#1e1e1e",
+      "primary": "#e0ff98",
+      "primary-foreground": "#1e1e1e",
+      "accent": "#8072ff",
+      "accent-foreground": "#e0ff98",
+      "ring": "#8072ff",
+      "success": "#60bc77",
+      "warning": "#d59734",
+      "danger": "#ec8277"
+    },
+    "derived": [
+      "muted-foreground",
+      "border",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#f3efeb",
+        "share": 0.293,
+        "oklch": "oklch(0.954 0.007 68)",
+        "role": "background"
+      },
+      {
+        "hex": "#1e1e1e",
+        "share": 0.279,
+        "oklch": "oklch(0.235 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#9c93e8",
+        "share": 0.104,
+        "oklch": "oklch(0.705 0.123 288)",
+        "role": null
+      },
+      {
+        "hex": "#e0ff98",
+        "share": 0.104,
+        "oklch": "oklch(0.955 0.133 123)",
+        "role": "surface"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.053,
+        "oklch": "oklch(1 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#ffddc4",
+        "share": 0.043,
+        "oklch": "oklch(0.919 0.05 58)",
+        "role": "accent"
+      },
+      {
+        "hex": "#bfb8ff",
+        "share": 0.041,
+        "oklch": "oklch(0.814 0.099 288)",
+        "role": null
+      },
+      {
+        "hex": "#8072ff",
+        "share": 0.041,
+        "oklch": "oklch(0.637 0.202 284)",
+        "role": null
+      },
+      {
+        "hex": "#eae3dc",
+        "share": 0.014,
+        "oklch": "oklch(0.919 0.012 68)",
+        "role": "muted"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.014,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#101417",
+        "share": 0.01,
+        "oklch": "oklch(0.188 0.009 240)",
+        "role": null
+      },
+      {
+        "hex": "#5345d7",
+        "share": 0.002,
+        "oklch": "oklch(0.499 0.213 280)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f4ffde",
+        "100": "#e0ff98",
+        "200": "#c4f300",
+        "300": "#aed800",
+        "400": "#91b400",
+        "500": "#789600",
+        "600": "#637c00",
+        "700": "#4e6300",
+        "800": "#3c4d00",
+        "900": "#2c3900",
+        "950": "#1c2600"
+      },
+      "accent": {
+        "50": "#f5f6ff",
+        "100": "#ebecff",
+        "200": "#d7d8ff",
+        "300": "#bcbdff",
+        "400": "#9b98ff",
+        "500": "#8072ff",
+        "600": "#6a57e2",
+        "700": "#5441be",
+        "800": "#403098",
+        "900": "#2f2075",
+        "950": "#1f1253"
+      },
+      "neutral": {
+        "50": "#fff9f3",
+        "100": "#f9f2eb",
+        "200": "#eae3dc",
+        "300": "#dad3cc",
+        "400": "#a7a09a",
+        "500": "#78726c",
+        "600": "#59534d",
+        "700": "#443f39",
+        "800": "#2a2520",
+        "900": "#1b1611",
+        "950": "#0e0905"
+      }
+    },
+    "gradients": [
+      "radial-gradient(circle, rgba(0, 0, 0, 0) 3%, rgb(30, 30, 30) 10%)"
+    ],
+    "cssVars": {
+      "--black-60": "#737270",
+      "--primary-blue": "#d1f3f5",
+      "--purple": "#9c93e8",
+      "--primary-black": "#1e1e1e",
+      "--primary-purple": "#8072ff",
+      "--black": "#000000",
+      "--primary-purple-50": "#e8e4f5",
+      "--header-menu-text-color": "#141415",
+      "--primary-pink": "#bfb8ff",
+      "--primary-orange": "#ffddc4",
+      "--black-20": "#c8c5c2",
+      "--primary-white": "#f3efeb",
+      "--white": "#ffffff",
+      "--article-text-color": "#494847",
+      "--about-talent-text-color": "#c8c5c2",
+      "--header-project-text-color": "#404040",
+      "--primary-yellow-light": "#f7ffdc",
+      "--black-40": "#9e9b99",
+      "--primary-yellow": "#e0ff98"
+    },
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "medium",
+      "contrastRatio": 14.57,
+      "temperature": "cool",
+      "harmony": "multi-hue",
+      "primaryHue": "lime",
+      "accentHue": "orange"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Söhne",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          500,
+          700
+        ]
+      },
+      "body": {
+        "name": "Söhne",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "mono": {
+        "name": "ABC Arizona Mix (serif)",
+        "category": "serif",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "weights": [
+          300,
+          400
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 14,
+      "base": 18,
+      "lg": 27,
+      "xl": 36,
+      "2xl": 60,
+      "3xl": 120
+    },
+    "ratio": 1.607,
+    "ratioName": "golden ratio",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 200,
+        "weight": 700,
+        "lineHeight": 0.85,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 64,
+        "weight": 500,
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 27,
+        "weight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 18,
+      "weight": 300,
+      "lineHeight": 1.4
+    },
+    "eyebrow": {
+      "size": 9,
+      "weight": 500,
+      "letterSpacing": 0.02,
+      "transform": "uppercase",
+      "family": "Soehne"
+    },
+    "mobile": {
+      "h1": 49.8916,
+      "body": 52
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "gridConformance": 0.58,
+    "scale": [
+      2,
+      4,
+      8,
+      12,
+      14,
+      18,
+      24,
+      26,
+      60,
+      152,
+      224
+    ],
+    "sectionY": 60,
+    "container": 1390,
+    "gutter": 17,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 4,
+      "md": 6,
+      "lg": 12,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.8,
+    "style": "soft",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "grid-heavy",
+    "pageLengthViewports": 16.55,
+    "sectionsPerPage": 62,
+    "nav": {
+      "height": 900,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": true,
+      "links": 8,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 52,
+      "h1Size": 49.8916,
+      "gutter": 17,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 600,
+    "durations": [
+      400,
+      600,
+      700
+    ],
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 17,
+      "videos": false,
+      "iconsSvg": 1,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "surface",
+      "color": "foreground",
+      "radius": 0,
+      "height": 45,
+      "paddingX": 24,
+      "paddingY": 0,
+      "fontSize": 12,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "menumenuCLOSECLOSE"
+    },
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 6,
+      "height": 60,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 12,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": ""
+    },
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "color": { "roles": { "background": "#f3efeb", "foreground": "#1e1e1e", "surface": "#1e1e1e", "surface-foreground": "#f3efeb", "muted": "#eae3dc", "muted-foreground": "#737270", "border": "#1e1e1e", "primary": "#e0ff98", "primary-foreground": "#1e1e1e", "accent": "#8072ff", "accent-foreground": "#e0ff98", "ring": "#8072ff" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Söhne", "use": "Inter", "alternative": "Inter", "weights": [500, 700] },
+      "body": { "name": "Söhne", "use": "Inter", "alternative": "Inter", "weights": [300, 400] },
+      "mono": { "name": "ABC Arizona Mix (serif)", "use": "Newsreader", "alternative": "Newsreader", "weights": [300, 400] }
+    },
+    "headings": { "h1": { "size": 200, "weight": 700, "lineHeight": 0.85, "letterSpacing": -0.04, "transform": "uppercase" }, "h2": { "size": 64, "weight": 500, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" }, "h3": { "size": 27, "weight": 500, "lineHeight": 1.1, "letterSpacing": -0.02, "transform": "none" } }
+  },
+  "shape": { "radius": { "sm": 4, "md": 6, "lg": 12, "full": 9999 }, "style": "soft" },
+  "personality": { "keywords": ["barcelona events agency", "periwinkle + lime", "giant wordmark behind angled shapes", "serif + grotesk pairing", "pastel section fields", "photo-in-numeral stats", "city list typography", "hospitality spotlight"] }
+}
