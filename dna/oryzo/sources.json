@@ -1,0 +1,8 @@
+[
+  {
+    "id": "oryzo-ai",
+    "type": "web",
+    "input": "https://oryzo.ai",
+    "weight": 1
+  }
+]
