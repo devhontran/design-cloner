@@ -1,0 +1,8 @@
+[
+  {
+    "id": "matvoyce-tv",
+    "type": "web",
+    "input": "https://matvoyce.tv/",
+    "weight": 1
+  }
+]

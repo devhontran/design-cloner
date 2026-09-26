@@ -1,0 +1,376 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "mat-voyce",
+  "generatedAt": "2026-09-26T11:17:37.135Z",
+  "sources": [
+    {
+      "id": "matvoyce-tv",
+      "type": "web",
+      "input": "https://matvoyce.tv/",
+      "weight": 1,
+      "title": "Mat Voyce"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "balanced color",
+      "high-contrast",
+      "bold headlines",
+      "dramatic type scale",
+      "information-dense",
+      "utilitarian",
+      "softly rounded",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#1f1f1f",
+      "surface": "#bcf3ff",
+      "surface-foreground": "#1f1f1f",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#797979",
+      "border": "#1f1f1f",
+      "primary": "#00d3ff",
+      "primary-foreground": "#0a0a0a",
+      "accent": "#dfff6b",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#00d3ff",
+      "success": "#56be72",
+      "warning": "#d9951a",
+      "danger": "#f27d72"
+    },
+    "derived": [
+      "muted-foreground",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.409,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#1f1f1f",
+        "share": 0.2,
+        "oklch": "oklch(0.239 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#00d3ff",
+        "share": 0.178,
+        "oklch": "oklch(0.802 0.146 220)",
+        "role": "primary"
+      },
+      {
+        "hex": "#bcf3ff",
+        "share": 0.106,
+        "oklch": "oklch(0.93 0.058 213)",
+        "role": "surface"
+      },
+      {
+        "hex": "#008fad",
+        "share": 0.039,
+        "oklch": "oklch(0.601 0.109 220)",
+        "role": null
+      },
+      {
+        "hex": "#adaca8",
+        "share": 0.036,
+        "oklch": "oklch(0.744 0.006 95)",
+        "role": null
+      },
+      {
+        "hex": "#dfff6b",
+        "share": 0.031,
+        "oklch": "oklch(0.949 0.176 120)",
+        "role": "accent"
+      },
+      {
+        "hex": "#87e9fa",
+        "share": 0.001,
+        "oklch": "oklch(0.88 0.095 210)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#e6f9ff",
+        "100": "#cbf2ff",
+        "200": "#94e5ff",
+        "300": "#00d3ff",
+        "400": "#00b1d7",
+        "500": "#0094b4",
+        "600": "#007b96",
+        "700": "#006379",
+        "800": "#004d5f",
+        "900": "#003947",
+        "950": "#002631"
+      },
+      "accent": {
+        "50": "#f2ffcf",
+        "100": "#dfff6b",
+        "200": "#cbef00",
+        "300": "#b4d400",
+        "400": "#96b200",
+        "500": "#7d9400",
+        "600": "#677a00",
+        "700": "#526200",
+        "800": "#3f4c00",
+        "900": "#2e3800",
+        "950": "#1e2500"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--white": "#ffffff",
+      "--light-white": "#f6f6f6",
+      "--red": "#00d3ff",
+      "--black-32": "#adadad",
+      "--tw-ring-color": "#9dc0fa",
+      "--black-20": "#cccccc",
+      "--blue": "#d1e5f1",
+      "--color-body": "#fffef8",
+      "--tw-ring-offset-color": "#ffffff",
+      "--green": "#dfff6b",
+      "--black": "#000000",
+      "--dark": "#1f1f1f",
+      "--black-08": "#ebebeb"
+    },
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "high",
+      "contrastRatio": 16.48,
+      "temperature": "cool",
+      "harmony": "split",
+      "primaryHue": "sky-blue",
+      "accentHue": "lime"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "F37Judge",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "F37Judge, sans-serif",
+        "weights": [
+          500,
+          700
+        ]
+      },
+      "body": {
+        "name": "F37Judge-Extended",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "F37Judge-Extended, sans-serif",
+        "weights": [
+          500
+        ]
+      }
+    },
+    "scale": {
+      "base": 14,
+      "lg": 14,
+      "xl": 21,
+      "2xl": 36,
+      "3xl": 48,
+      "4xl": 135,
+      "5xl": 150,
+      "6xl": 413
+    },
+    "ratio": 1.63,
+    "ratioName": "golden ratio",
+    "base": 14,
+    "headings": {
+      "h1": {
+        "size": 413,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 289,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 17,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 14,
+      "weight": 500,
+      "lineHeight": 1.2
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": null,
+      "body": 14
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.39,
+    "scale": [
+      2,
+      4,
+      6,
+      10,
+      12,
+      14,
+      18,
+      24,
+      28,
+      42,
+      46,
+      100,
+      166
+    ],
+    "sectionY": 24,
+    "container": 920,
+    "gutter": 22,
+    "density": "dense"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 5,
+      "md": 50,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.92,
+    "style": "soft",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "subtle",
+    "shadows": {
+      "md": "rgba(31,31,31,1) 0px 0px 0px 0px"
+    },
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 8.05,
+    "sectionsPerPage": 29,
+    "nav": {
+      "height": 56,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 6,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 14,
+      "h1Size": null,
+      "gutter": 22,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 800,
+    "durations": [
+      250,
+      600,
+      800,
+      1200
+    ],
+    "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 52,
+      "videos": false,
+      "iconsSvg": 0,
+      "roundedImages": 0,
+      "commonAspect": "wide"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 36,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 36,
+      "fontWeight": 700,
+      "transform": "uppercase",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "MMeennuuCClloossee"
+    },
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "color": { "roles": { "background": "#fffdf8", "foreground": "#1f1f1f", "surface": "#00d3ff", "surface-foreground": "#1f1f1f", "muted": "#bcf3ff", "muted-foreground": "#797979", "border": "#1f1f1f", "primary": "#00d3ff", "primary-foreground": "#1f1f1f", "accent": "#dfff6b", "accent-foreground": "#1f1f1f", "ring": "#00d3ff" } },
+  "typography": {
+    "families": {
+      "display": { "name": "F37 Judge (condensed italic)", "use": "Anton", "alternative": "Anton", "weights": [400] },
+      "body": { "name": "F37 Judge Extended", "use": "Archivo", "alternative": "Archivo", "weights": [500, 700] }
+    },
+    "headings": { "h1": { "size": 400, "weight": 800, "lineHeight": 0.85, "letterSpacing": -0.02, "transform": "uppercase" }, "h2": { "size": 90, "weight": 800, "lineHeight": 0.9, "letterSpacing": -0.02, "transform": "uppercase" } },
+    "body": { "size": 11, "weight": 500, "lineHeight": 1.2, "letterSpacing": 0, "transform": "none" }
+  },
+  "personality": { "keywords": ["type designer & animator", "cyan + acid lime", "giant italic condensed caps", "kinetic morphing wordmark", "sticker 3D lettering", "chevron pill CTA", "cursor-follow toy", "playful motion type"] }
+}
