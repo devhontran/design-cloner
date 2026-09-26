@@ -1,0 +1,2338 @@
+{
+ "url": "https://serious.business/",
+ "title": "Premium Branding for B2B Tech Scaleups | SERIOUS.BUSINESS",
+ "description": "We help Series A&B teams turn complex value into a clear story and a premium brand that converts enterprise buyers. Credibility first. Smiles included.",
+ "themeColor": "currentColor",
+ "ogImage": "https://serious.business/wp-content/uploads/2024/08/Open-graph.webp",
+ "lang": "en-US",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 9319,
+ "canvasBg": "#fbc1d4",
+ "rootFontSize": 12,
+ "agg": {
+  "bg": {
+   "#fbc1d4": {
+    "w": 13419360,
+    "ex": "body"
+   },
+   "#ffffff": {
+    "w": 639050.1932436083,
+    "ex": "section > div.cookieconsent__wrapper"
+   },
+   "#ff7ec4": {
+    "w": 5962.9453125,
+    "ex": "section > button.accept-all-bt"
+   },
+   "#c3abff": {
+    "w": 762593.90625,
+    "ex": "ul > li.full-services__item"
+   },
+   "#fed35b": {
+    "w": 505440,
+    "ex": "ul > li.full-services__item"
+   },
+   "#1e1e1e": {
+    "w": 867929.0625,
+    "ex": "ul > li.full-services__item"
+   }
+  },
+  "text": {
+   "#1e1e1e": {
+    "w": 2904,
+    "ex": "header > h3"
+   },
+   "#ffffff": {
+    "w": 288,
+    "ex": "header > h3.full-services__item__title.once-inview"
+   }
+  },
+  "border": {
+   "#1e1e1e": {
+    "w": 1250.75,
+    "ex": "section > button.decline-bt"
+   }
+  },
+  "families": {
+   "PP Mori": {
+    "w": 2375
+   },
+   "Nib Pro": {
+    "w": 817
+   }
+  },
+  "typeStyles": {
+   "PP Mori|18|600|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 512,
+    "count": 16,
+    "tags": {
+     "h3": 1,
+     "div": 5,
+     "span": 10
+    },
+    "ex": "header > h3"
+   },
+   "PP Mori|12|400|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 388,
+    "count": 7,
+    "tags": {
+     "p": 1,
+     "div": 6
+    },
+    "ex": "header > p"
+   },
+   "PP Mori|13.5|600|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 113,
+    "count": 9,
+    "tags": {
+     "span": 3,
+     "h3": 6
+    },
+    "ex": "button > span"
+   },
+   "PP Mori|10.5|600|normal|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 37,
+    "count": 2,
+    "tags": {
+     "a": 1,
+     "p": 1
+    },
+    "ex": "section > a.single-underline-hover"
+   },
+   "PP Mori|24|600|1|-0.02|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 23,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h1 > span.mixed-title__main"
+   },
+   "Nib Pro|24|400|1|-0.02|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 21,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h1 > span.mixed-title__sub"
+   },
+   "PP Mori|15|600|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 15,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div > h2.facts__swiper__header__title"
+   },
+   "PP Mori|13.5|400|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 629,
+    "count": 12,
+    "tags": {
+     "div": 1,
+     "span": 2,
+     "p": 9
+    },
+    "ex": "div > div.facts__swiper__header__paging-info"
+   },
+   "PP Mori|72|600|1|-0.01|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 72,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 156,
+    "count": 6,
+    "tags": {
+     "span": 4,
+     "h2": 2
+    },
+    "ex": "h3 > span.number"
+   },
+   "PP Mori|24|600|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 65,
+    "count": 3,
+    "tags": {
+     "h2": 1,
+     "span": 2
+    },
+    "ex": "div > h2.full-services__title.once-inview"
+   },
+   "PP Mori|105|600|1|-0.02|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 105,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 43,
+    "count": 4,
+    "tags": {
+     "h3": 4
+    },
+    "ex": "header > h3.full-services__item__title.once-inview"
+   },
+   "Nib Pro|21|400|1.2|-0.011|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 21,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.011,
+    "transform": "none",
+    "style": "normal",
+    "chars": 568,
+    "count": 4,
+    "tags": {
+     "span": 4
+    },
+    "ex": "p > span"
+   },
+   "Nib Pro|72|400|1|-0.01|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 72,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 26,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h2 > span.mixed-title__sub"
+   },
+   "PP Mori|11.5|400|1.2|0|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 11.5,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 216,
+    "count": 6,
+    "tags": {
+     "p": 6
+    },
+    "ex": "article > p.works__list__item__tags"
+   },
+   "PP Mori|10.5|600|normal|0.04|uppercase": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 89,
+    "count": 14,
+    "tags": {
+     "p": 3,
+     "h4": 2,
+     "span": 6,
+     "a": 3
+    },
+    "ex": "article > p.trending__swiper__tag"
+   },
+   "Nib Pro|24|400|1.2|-0.01|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 50,
+    "count": 2,
+    "tags": {
+     "h2": 2
+    },
+    "ex": "section > h2.full-brands__title.full-brands__clients__title"
+   },
+   "PP Mori|24|600|1.1|-0.03|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 600,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 53,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "h3 > span.mixed-title__main"
+   },
+   "Nib Pro|24|400|1.1|-0.03|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 116,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "h3 > span.mixed-title__sub"
+   },
+   "PP Mori|36|600|1.2|-0.02|none": {
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "generic": "sans-serif",
+    "size": 36,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 38,
+    "count": 6,
+    "tags": {
+     "span": 4,
+     "a": 2
+    },
+    "ex": "span > span.word"
+   },
+   "Nib Pro|13.5|600|0.78|-0.02|none": {
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 0.78,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 36,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.end__location"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "2": {
+     "w": 4
+    },
+    "6": {
+     "w": 1
+    },
+    "8": {
+     "w": 1
+    },
+    "12": {
+     "w": 7
+    },
+    "15": {
+     "w": 3
+    },
+    "17": {
+     "w": 2
+    },
+    "18": {
+     "w": 13
+    },
+    "24": {
+     "w": 30
+    },
+    "30": {
+     "w": 6
+    },
+    "60": {
+     "w": 1
+    },
+    "225": {
+     "w": 1
+    },
+    "233": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "6": {
+     "w": 6
+    },
+    "9": {
+     "w": 1
+    },
+    "12": {
+     "w": 1
+    },
+    "15": {
+     "w": 11
+    },
+    "18": {
+     "w": 6
+    },
+    "21": {
+     "w": 1
+    },
+    "24": {
+     "w": 4
+    },
+    "29": {
+     "w": 1
+    },
+    "30": {
+     "w": 6
+    },
+    "35": {
+     "w": 1
+    },
+    "38": {
+     "w": 1
+    },
+    "48": {
+     "w": 3
+    },
+    "60": {
+     "w": 1
+    },
+    "98": {
+     "w": 1
+    },
+    "120": {
+     "w": 1
+    },
+    "130": {
+     "w": 1
+    },
+    "131": {
+     "w": 1
+    },
+    "225": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "3": {
+     "w": 2
+    },
+    "6": {
+     "w": 2
+    },
+    "9": {
+     "w": 1
+    },
+    "12": {
+     "w": 3
+    },
+    "15": {
+     "w": 4
+    },
+    "24": {
+     "w": 1
+    },
+    "50": {
+     "w": 2
+    },
+    "53": {
+     "w": 1
+    },
+    "60": {
+     "w": 4
+    },
+    "68": {
+     "w": 1
+    },
+    "91": {
+     "w": 4
+    },
+    "101": {
+     "w": 1
+    },
+    "131": {
+     "w": 1
+    },
+    "132": {
+     "w": 4
+    },
+    "225": {
+     "w": 2
+    },
+    "248": {
+     "w": 2
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 12,
+    "w": 337,
+    "h": 264,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 139,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 141,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 289,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 123,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 52,
+    "h": 52,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 83,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 39,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 822,
+    "h": 822,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 235,
+    "h": 120,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 235,
+    "h": 120,
+    "kind": "media"
+   },
+   {
+    "r": 50,
+    "w": 33,
+    "h": 33,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 33,
+    "h": 33,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 112,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 39,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 351,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 303,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 150,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 351,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 303,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 150,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 351,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 303,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 150,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 351,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 303,
+    "kind": "media"
+   },
+   {
+    "r": 6,
+    "w": 454,
+    "h": 150,
+    "kind": "media"
+   },
+   {
+    "r": 1440,
+    "w": 146,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 39,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 279,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 265,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 443,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 281,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 404,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 689,
+    "h": 450,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 438,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 191,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 39,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 1440,
+    "w": 174,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 39,
+    "h": 39,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 454,
+    "h": 255,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 424,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 454,
+    "h": 255,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 452,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 454,
+    "h": 255,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 452,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 806,
+    "h": 450,
+    "kind": "box"
+   },
+   {
+    "r": 6,
+    "w": 571,
+    "h": 450,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(rgba(0, 0, 0, 0) calc(100% - 1px), rgb(30, 30, 30) 1px)": {
+    "w": 81411.10595703125,
+    "ex": "h3 > span"
+   }
+  },
+  "durations": {
+   "350": {
+    "w": 9
+   },
+   "450": {
+    "w": 4
+   },
+   "500": {
+    "w": 14
+   },
+   "700": {
+    "w": 1
+   },
+   "750": {
+    "w": 12
+   },
+   "1000": {
+    "w": 11
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.25, 1, 0.5, 1)": {
+    "w": 11
+   },
+   "cubic-bezier(0, 0.55, 0.45, 1)": {
+    "w": 6
+   },
+   "cubic-bezier(0.5, 1, 0.89, 1)": {
+    "w": 12
+   },
+   "cubic-bezier(0.45, 0, 0.55, 1)": {
+    "w": 9
+   },
+   "cubic-bezier(0.34, 1.56, 0.64, 1)": {
+    "w": 4
+   }
+  },
+  "gridCols": {
+   "2": {
+    "w": 1
+   },
+   "3": {
+    "w": 2
+   },
+   "4": {
+    "w": 1
+   }
+  },
+  "counts": {
+   "elements": 378,
+   "flex": 152,
+   "grid": 4,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 42,
+   "images": 14,
+   "svgs": 31,
+   "videos": 5,
+   "sticky": 3
+  },
+  "headings": [
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 636,
+    "text": "We value your privacy"
+   },
+   {
+    "tag": "h1",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#1e1e1e",
+    "y": 154,
+    "text": "Premium Branding Agency\n\t\t\tfor B2B Tech Scaleups"
+   },
+   {
+    "tag": "h2",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 15,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 1763,
+    "text": "Serious Facts"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 72,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 1809,
+    "text": "186"
+   },
+   {
+    "tag": "h2",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 72,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 1763,
+    "text": "Crafting premium brands for scaleups that make people smile."
+   },
+   {
+    "tag": "h2",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 24,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 2303,
+    "text": "B2B Branding Services"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 105,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 2380,
+    "text": "Brand Strategy"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 105,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 2731,
+    "text": "Visual Identity"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 105,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 3082,
+    "text": "Website"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 105,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 3433,
+    "text": "Product"
+   },
+   {
+    "tag": "h2",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 72,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#1e1e1e",
+    "y": 4084,
+    "text": "We partner with serious scaleups\n\t\tin Europe and the Americas"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 4753,
+    "text": "Iventions | Step into the spotlight"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 4753,
+    "text": "Zellerfeld | The future is printed"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 5319,
+    "text": "Rudy Capital | Turning crypto complexity into clarity"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 5319,
+    "text": "MissionZero | Carbon Reinvented"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 5886,
+    "text": "Yuri | Biotech in a space for a better life on earth"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 5886,
+    "text": "Ascon Systems | Re-imagining Process Automation"
+   },
+   {
+    "tag": "h2",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 72,
+    "weight": 600,
+    "lineHeight": 1,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 6251,
+    "text": "Latest insights for scaleup teams"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 6653,
+    "text": "The Serious Branding Guide to B2B Tech Scaleups"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 6653,
+    "text": "The Heart of the Shift: Brand Messaging Is the Soul of Rebranding"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 18,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 6653,
+    "text": "Research Is Our Love Language: The Art of Gathering Insights"
+   },
+   {
+    "tag": "h2",
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "left",
+    "color": "#1e1e1e",
+    "y": 7092,
+    "text": "In a serious relationships with:"
+   },
+   {
+    "tag": "h2",
+    "family": "Nib Pro",
+    "stack": "\"Nib Pro\", sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "align": "left",
+    "color": "#1e1e1e",
+    "y": 7531,
+    "text": "Getting love from:"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7601,
+    "text": "Awwwards."
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7601,
+    "text": "The Lovie Awards"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7601,
+    "text": "The FWA"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7817,
+    "text": "German Design Award"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7817,
+    "text": "Behance"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 13.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 7817,
+    "text": "Red Dot Design Award"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "left",
+    "color": "#ffffff",
+    "y": 8207,
+    "text": "You feel it too? \n\t\t\t\t\t\t\tLet’s talk, no strings attached"
+   },
+   {
+    "tag": "h3",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.1,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "left",
+    "color": "#1e1e1e",
+    "y": 8207,
+    "text": "Our free offer for B2B tech scaleups!\n\t\t\t\t\t\t\tWe identify high-impact messaging  "
+   },
+   {
+    "tag": "h4",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 8724,
+    "text": "explore"
+   },
+   {
+    "tag": "h4",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#1e1e1e",
+    "y": 8724,
+    "text": "stalk us"
+   },
+   {
+    "tag": "h4",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "right",
+    "color": "#1e1e1e",
+    "y": 8724,
+    "text": "SAY HELLO"
+   },
+   {
+    "tag": "h4",
+    "family": "PP Mori",
+    "stack": "\"PP Mori\", sans-serif",
+    "size": 10.5,
+    "weight": 600,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "right",
+    "color": "#1e1e1e",
+    "y": 8830,
+    "text": "Exceptional talent?"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "section > button.accept-all-bt",
+    "w": 139,
+    "h": 43,
+    "bg": "#ff7ec4",
+    "bgAlpha": 1,
+    "color": "#1e1e1e",
+    "radius": 1440,
+    "border": null,
+    "shadow": null,
+    "padY": 12,
+    "padX": 24,
+    "fontSize": 13.5,
+    "fontWeight": 600,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Accept all",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "section > button.decline-bt",
+    "w": 141,
+    "h": 43,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#1e1e1e",
+    "radius": 1440,
+    "border": "1px solid #1e1e1e",
+    "shadow": null,
+    "padY": 12,
+    "padX": 24,
+    "fontSize": 13.5,
+    "fontWeight": 600,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Decline",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "section > button.manage-prefs-bt.full",
+    "w": 289,
+    "h": 43,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#1e1e1e",
+    "radius": 1440,
+    "border": "1px solid #1e1e1e",
+    "shadow": null,
+    "padY": 12,
+    "padX": 24,
+    "fontSize": 13.5,
+    "fontWeight": 600,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Manage preferences",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "section > div.cookieconsent__wrapper",
+    "w": 337,
+    "h": 264,
+    "bg": "#ffffff",
+    "bgAlpha": 1,
+    "color": "#1e1e1e",
+    "radius": 12,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "We value your privacy\n\t\t\t\tWe and our par",
+    "backdrop": null,
+    "transition": "1s cubic-bezier(0.25, 1, 0.5, 1)"
+   },
+   {
+    "sel": "a > div.banner__banner__wrapper",
+    "w": 806,
+    "h": 450,
+    "bg": "#1e1e1e",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 6,
+    "border": null,
+    "shadow": null,
+    "padY": 30,
+    "padX": 30,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "You feel it too? \n\t\t\t\t\t\t\tLet’s talk, no ",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "a > div.banner__banner__wrapper.clean",
+    "w": 571,
+    "h": 450,
+    "bg": "#c3abff",
+    "bgAlpha": 1,
+    "color": "#1e1e1e",
+    "radius": 6,
+    "border": null,
+    "shadow": null,
+    "padY": 30,
+    "padX": 30,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "PP Mori",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Our free offer for B2B tech scaleups!\n\t\t",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": false
+   },
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": true
+   },
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": true
+   },
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": true
+   },
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": true
+   },
+   {
+    "color": "#1e1e1e",
+    "decoration": "none",
+    "weight": 600,
+    "inNav": true
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9319,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 24,
+    "padBottom": 24,
+    "h": 9319,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 225,
+    "h": 8153,
+    "bg": "#fbc1d4",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1514,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 540,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 715,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 715,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 315,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1556,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1457,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1457,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1457,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#c3abff",
+    "tag": "article"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#c3abff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#ffffff",
+    "tag": "article"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#fed35b",
+    "tag": "article"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#fed35b",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#1e1e1e",
+    "tag": "article"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 303,
+    "bg": "#1e1e1e",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1942,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1639,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1701,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 580,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 388,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 388,
+    "bg": "#fbc1d4",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 896,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 8,
+    "padBottom": 0,
+    "h": 295,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 60,
+    "padBottom": 0,
+    "h": 481,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1118,
+    "bg": "#fbc1d4",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 450,
+    "bg": "#fbc1d4",
+    "tag": "section"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 822,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "1392px",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1097,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1097,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 903,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1392,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 235,
+    "h": 120,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.95
+   },
+   {
+    "w": 235,
+    "h": 120,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.95
+   },
+   {
+    "w": 454,
+    "h": 303,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.5
+   },
+   {
+    "w": 454,
+    "h": 150,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 3.03
+   },
+   {
+    "w": 454,
+    "h": 303,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.5
+   },
+   {
+    "w": 454,
+    "h": 150,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 3.03
+   },
+   {
+    "w": 454,
+    "h": 303,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.5
+   },
+   {
+    "w": 454,
+    "h": 150,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 3.03
+   },
+   {
+    "w": 454,
+    "h": 303,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 1.5
+   },
+   {
+    "w": 454,
+    "h": 150,
+    "radius": 6,
+    "fit": "cover",
+    "aspect": 3.03
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 689,
+    "h": 450,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.53
+   },
+   {
+    "w": 454,
+    "h": 255,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.78
+   },
+   {
+    "w": 454,
+    "h": 255,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.78
+   },
+   {
+    "w": 454,
+    "h": 255,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.78
+   }
+  ],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--blue-light": "#d2d2fb",
+  "--gray-dark": "#1e1e1e",
+  "--silver-soft": "#dedede",
+  "--white-ecru": "#f0e8db",
+  "--violet-light": "#c3abff",
+  "--pink-hot": "#ff7ec4",
+  "--white": "#fff",
+  "--silver-light": "#afafaf",
+  "--pink-light": "#fbc1d4",
+  "--yellow-soft": "#fcf8ec",
+  "--red": "#fe0000",
+  "--change-color-duration": "0.5s",
+  "--global-padding": "2rem",
+  "--yellow-mid": "#fed35b",
+  "--black": "#000"
+ },
+ "colorVars": {
+  "--blue-light": "#d2d2fb",
+  "--gray-dark": "#1e1e1e",
+  "--silver-soft": "#dedede",
+  "--white-ecru": "#f0e8db",
+  "--violet-light": "#c3abff",
+  "--pink-hot": "#ff7ec4",
+  "--white": "#ffffff",
+  "--silver-light": "#afafaf",
+  "--pink-light": "#fbc1d4",
+  "--yellow-soft": "#fcf8ec",
+  "--red": "#fe0000",
+  "--yellow-mid": "#fed35b",
+  "--black": "#000000"
+ },
+ "loadedFonts": [
+  {
+   "family": "PP Mori",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "PP Mori",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "Nib Pro",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "Nib Pro",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "PP Mori",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "PP Mori",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "Nib Pro",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "Nib Pro",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#fac1d3",
+    "share": 0.808
+   },
+   {
+    "hex": "#fefdfd",
+    "share": 0.054
+   },
+   {
+    "hex": "#1f1e1e",
+    "share": 0.047
+   },
+   {
+    "hex": "#df9cb3",
+    "share": 0.031
+   },
+   {
+    "hex": "#e4dde0",
+    "share": 0.017
+   },
+   {
+    "hex": "#a1848e",
+    "share": 0.014
+   },
+   {
+    "hex": "#6f5a62",
+    "share": 0.012
+   },
+   {
+    "hex": "#40383b",
+    "share": 0.01
+   },
+   {
+    "hex": "#000000",
+    "share": 0.008
+   }
+  ],
+  "meanLightness": 0.817,
+  "lightnessStd": 0.168,
+  "meanChroma": 0.06,
+  "chromaticShare": 0.823,
+  "negativeSpace": 0.808,
+  "busyness": 0.018,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 16.64,
+  "h1Size": 24.96,
+  "gutter": 21,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

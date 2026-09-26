@@ -1,0 +1,418 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "serious-business",
+  "generatedAt": "2026-09-26T11:23:57.594Z",
+  "sources": [
+    {
+      "id": "serious-business",
+      "type": "web",
+      "input": "https://serious.business/",
+      "weight": 1,
+      "title": "Premium Branding for B2B Tech Scaleups | SERIOUS.BUSINESS"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "b2b branding agency",
+      "bubblegum pink base",
+      "lilac + sunflower + black service slabs",
+      "heavy caps wordmark with smiley",
+      "white pill buttons + arrow circle",
+      "serif sub-captions",
+      "stacked sticky service cards",
+      "cheeky seriousness"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#fbc1d4",
+      "foreground": "#1e1e1e",
+      "surface": "#1e1e1e",
+      "surface-foreground": "#fbc1d4",
+      "muted": "#ffffff",
+      "muted-foreground": "#765f67",
+      "border": "#1e1e1e",
+      "primary": "#ff7ec4",
+      "primary-foreground": "#1e1e1e",
+      "accent": "#c3abff",
+      "accent-foreground": "#1e1e1e",
+      "ring": "#ff7ec4",
+      "success": "#3ac266",
+      "warning": "#db9400",
+      "danger": "#ff7267"
+    },
+    "derived": [
+      "muted-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#fbc1d4",
+        "share": 0.573,
+        "oklch": "oklch(0.868 0.07 357)",
+        "role": "background"
+      },
+      {
+        "hex": "#1e1e1e",
+        "share": 0.268,
+        "oklch": "oklch(0.235 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#ff7ec4",
+        "share": 0.063,
+        "oklch": "oklch(0.761 0.174 348)",
+        "role": "primary"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.045,
+        "oklch": "oklch(1 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#c3abff",
+        "share": 0.03,
+        "oklch": "oklch(0.793 0.119 297)",
+        "role": "surface"
+      },
+      {
+        "hex": "#fed35b",
+        "share": 0.02,
+        "oklch": "oklch(0.882 0.144 89)",
+        "role": null
+      },
+      {
+        "hex": "#df9cb3",
+        "share": 0.002,
+        "oklch": "oklch(0.764 0.085 357)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#fff7fb",
+        "100": "#ffedf5",
+        "200": "#ffd7e9",
+        "300": "#ffb4d9",
+        "400": "#ff7ec4",
+        "500": "#e258a6",
+        "600": "#c23a8b",
+        "700": "#9f236f",
+        "800": "#7c1355",
+        "900": "#5d053e",
+        "950": "#41002a"
+      },
+      "accent": {
+        "50": "#f5f2ff",
+        "100": "#eae4ff",
+        "200": "#d9ccff",
+        "300": "#c3abff",
+        "400": "#a788ed",
+        "500": "#8f6bd6",
+        "600": "#7954bd",
+        "700": "#62419e",
+        "800": "#4d3180",
+        "900": "#3a2262",
+        "950": "#271546"
+      },
+      "neutral": {
+        "50": "#fff8fa",
+        "100": "#fbf0f3",
+        "200": "#ece1e4",
+        "300": "#dbd1d4",
+        "400": "#a89fa1",
+        "500": "#797073",
+        "600": "#5a5154",
+        "700": "#453d40",
+        "800": "#2c2426",
+        "900": "#1c1517",
+        "950": "#0e080a"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgba(0, 0, 0, 0) calc(100% - 1px), rgb(30, 30, 30) 1px)"
+    ],
+    "cssVars": {
+      "--blue-light": "#d2d2fb",
+      "--gray-dark": "#1e1e1e",
+      "--silver-soft": "#dedede",
+      "--white-ecru": "#f0e8db",
+      "--violet-light": "#c3abff",
+      "--pink-hot": "#ff7ec4",
+      "--white": "#ffffff",
+      "--silver-light": "#afafaf",
+      "--pink-light": "#fbc1d4",
+      "--yellow-soft": "#fcf8ec",
+      "--red": "#fe0000",
+      "--yellow-mid": "#fed35b",
+      "--black": "#000000"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "medium",
+      "contrastRatio": 10.86,
+      "temperature": "warm",
+      "harmony": "multi-hue",
+      "primaryHue": "pink",
+      "accentHue": "violet"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "PP Mori",
+        "category": "sans",
+        "source": "custom",
+        "use": "Manrope",
+        "alternative": "Manrope",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          600,
+          800
+        ]
+      },
+      "body": {
+        "name": "PP Mori",
+        "category": "sans",
+        "source": "custom",
+        "use": "Manrope",
+        "alternative": "Manrope",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          600
+        ]
+      },
+      "ui": {
+        "name": "Nib Pro",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"Nib Pro\", sans-serif",
+        "weights": [
+          400,
+          600
+        ]
+      },
+      "mono": {
+        "name": "Nib Pro (serif)",
+        "category": "serif",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 12,
+      "base": 14,
+      "lg": 14,
+      "xl": 15,
+      "2xl": 18,
+      "3xl": 21,
+      "4xl": 24,
+      "5xl": 36,
+      "6xl": 72,
+      "7xl": 105
+    },
+    "ratio": 1.292,
+    "ratioName": "perfect fourth",
+    "base": 14,
+    "headings": {
+      "h1": {
+        "size": 120,
+        "weight": 800,
+        "lineHeight": 0.9,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "center"
+      },
+      "h2": {
+        "size": 64,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 24,
+        "weight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 14,
+      "weight": 400,
+      "lineHeight": 1.2
+    },
+    "eyebrow": {
+      "size": 10.5,
+      "weight": 600,
+      "letterSpacing": 0.04,
+      "transform": "uppercase",
+      "family": "PP Mori"
+    },
+    "mobile": {
+      "h1": 24.96,
+      "body": 16.64
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.47,
+    "scale": [
+      3,
+      6,
+      10,
+      12,
+      16,
+      18,
+      24,
+      30,
+      48,
+      50,
+      54,
+      60,
+      68,
+      92
+    ],
+    "sectionY": 60,
+    "container": 1390,
+    "gutter": 21,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 6,
+      "md": 12,
+      "full": 9999,
+      "lg": 12
+    },
+    "zeroRadiusShare": 0.64,
+    "style": "soft",
+    "buttonShape": "pill",
+    "card": 6,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "centered",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 10.35,
+    "sectionsPerPage": 31,
+    "nav": null,
+    "mobile": {
+      "bodySize": 16.64,
+      "h1Size": 24.96,
+      "gutter": 21,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 500,
+    "durations": [
+      350,
+      500,
+      750,
+      1000
+    ],
+    "easing": "cubic-bezier(0.5, 1, 0.89, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 14,
+      "videos": true,
+      "iconsSvg": 31,
+      "roundedImages": 0.53,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "primary",
+      "color": "foreground",
+      "radius": 9999,
+      "height": 43,
+      "paddingX": 24,
+      "paddingY": 12,
+      "fontSize": 13.5,
+      "fontWeight": 600,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "Accept all"
+    },
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 9999,
+      "height": 43,
+      "paddingX": 24,
+      "paddingY": 12,
+      "fontSize": 13.5,
+      "fontWeight": 600,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": "1px solid #1e1e1e",
+      "shadow": null,
+      "transition": null,
+      "example": "Decline"
+    },
+    "card": {
+      "background": "#ffffff",
+      "radius": 12,
+      "border": null,
+      "shadow": null,
+      "paddingX": 0,
+      "paddingY": 0
+    },
+    "input": null,
+    "link": {
+      "color": "foreground",
+      "underline": false
+    }
+  }
+}

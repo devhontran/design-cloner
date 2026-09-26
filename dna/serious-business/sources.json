@@ -1,0 +1,8 @@
+[
+  {
+    "id": "serious-business",
+    "type": "web",
+    "input": "https://serious.business/",
+    "weight": 1
+  }
+]
