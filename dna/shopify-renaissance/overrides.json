@@ -1,0 +1,33 @@
+{
+  "color": {
+    "roles": {
+      "background": "#dcdcd0",
+      "foreground": "#0c0c08",
+      "surface": "#f7f7ee",
+      "muted": "#cfcfc2",
+      "muted-foreground": "#5c5c4e",
+      "border": "#b8b8ae",
+      "primary": "#0c0c08",
+      "primary-foreground": "#f7f7ee",
+      "accent": "#8051ff",
+      "accent-foreground": "#ffffff",
+      "ring": "#8051ff"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "NeueMontreal", "use": "Inter", "alternative": "Inter", "weights": [500, 700] },
+      "body": { "name": "Editorial serif", "use": "Newsreader", "alternative": "Newsreader", "weights": [400] },
+      "mono": { "name": "NeueMontreal", "use": "Inter", "alternative": "Inter", "weights": [500, 700] }
+    },
+    "headings": {
+      "h1": { "size": 194, "weight": 700, "lineHeight": 0.9, "letterSpacing": -0.03, "transform": "none" },
+      "h2": { "size": 44, "weight": 400, "lineHeight": 1.05, "letterSpacing": -0.02, "transform": "none" },
+      "h3": { "size": 28, "weight": 700, "lineHeight": 1.05, "letterSpacing": -0.02, "transform": "none" }
+    }
+  },
+  "shape": { "radius": { "sm": 2, "md": 6, "lg": 12, "full": 9999 }, "style": "rounded" },
+  "personality": {
+    "keywords": ["renaissance remix", "old masters + modern commerce", "torn-paper transitions", "roman-numeral chapter rail", "giant bold sans titles", "swash serif initials", "glassy AI prompt cards", "shopify editions"]
+  }
+}
