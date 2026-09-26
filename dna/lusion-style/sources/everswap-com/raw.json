@@ -1,0 +1,475 @@
+{
+ "url": "https://everswap.com/",
+ "title": "EverSwap - Trade, Lend, Borrow.",
+ "description": "EverSwap is the unified DeFi protocol for decentralised trading, permissionless lending, and zero-interest borrowing on single-sided liquidity pools, powered by relayers for more efficient yield and liquidity.",
+ "themeColor": null,
+ "ogImage": "https://everswap.com/meta/ogimage.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#fbfff4": {
+    "w": 528,
+    "ex": "div#scroll-indicator__bar"
+   }
+  },
+  "text": {
+   "#fbfff4": {
+    "w": 23,
+    "ex": "a#site-header__cta > span"
+   },
+   "#ffffff": {
+    "w": 4,
+    "ex": "div#preloader-percent"
+   }
+  },
+  "border": {},
+  "families": {
+   "Britti Sans": {
+    "w": 10
+   },
+   "Feature Display": {
+    "w": 17
+   }
+  },
+  "typeStyles": {
+   "Britti Sans|16|600|1.4|0|none": {
+    "family": "Britti Sans",
+    "stack": "\"Britti Sans\"",
+    "generic": "",
+    "size": 16,
+    "weight": 600,
+    "lineHeight": 1.4,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 10,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "a#site-header__cta > span"
+   },
+   "Feature Display|18|400|1.4|0|none": {
+    "family": "Feature Display",
+    "stack": "\"Feature Display\"",
+    "generic": "",
+    "size": 18,
+    "weight": 400,
+    "lineHeight": 1.4,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span"
+   },
+   "Feature Display|42.5|200|1.4|0|none": {
+    "family": "Feature Display",
+    "stack": "\"Feature Display\"",
+    "generic": "",
+    "size": 42.5,
+    "weight": 200,
+    "lineHeight": 1.4,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div#preloader-percent"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "40": {
+     "w": 4
+    },
+    "675": {
+     "w": 1
+    },
+    "900": {
+     "w": 2
+    },
+    "1800": {
+     "w": 1
+    },
+    "3600": {
+     "w": 1
+    },
+    "4500": {
+     "w": 1
+    }
+   },
+   "margin": {},
+   "gap": {
+    "16": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 3,
+    "w": 6,
+    "h": 88,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "250": {
+    "w": 3
+   }
+  },
+  "easings": {
+   "ease-in-out": {
+    "w": 1
+   },
+   "ease-out": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 46,
+   "flex": 5,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 2,
+   "images": 0,
+   "svgs": 8,
+   "videos": 0,
+   "sticky": 5
+  },
+  "headings": [],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 18675,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 18675,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 18675,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 18675,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 900,
+    "h": 1800,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 40,
+    "padBottom": 40,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 230,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 4500,
+    "h": 5400,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 675,
+    "h": 1575,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 3600,
+    "h": 4500,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 900,
+    "h": 1800,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 1800,
+    "h": 2700,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1360,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "a#site-header__cta > span",
+    "fg": "#fbfff4",
+    "bg": "#ffffff",
+    "ratio": 1.01
+   },
+   {
+    "sel": "div > span",
+    "fg": "#fbfff4",
+    "bg": "#ffffff",
+    "ratio": 1.01
+   },
+   {
+    "sel": "div#preloader-percent",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   }
+  ],
+  "nav": null
+ },
+ "vars": {
+  "--grid-span-12": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 12 + calc(calc(",
+  "--color-white": "#fbfff4",
+  "--grid-span-6": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 6 + calc(calc((",
+  "--color-dark-green": "#203727",
+  "--vh": "9px",
+  "--body1": "max(16px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 20))",
+  "--grid-rows": "1",
+  "--grid-span-4": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 4 + calc(calc((",
+  "--body2": "max(14px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 16))",
+  "--default-font": "\"Britti Sans\"",
+  "--grid-span-11": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 11 + calc(calc(",
+  "--ref-screen-width": "1440",
+  "--btn1": "max(16px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 16))",
+  "--btn2": "max(16px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 18))",
+  "--preloader": "max(30px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 45))",
+  "--grid-span-13": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 13 + calc(calc(",
+  "--grid-span-8": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 8 + calc(calc((",
+  "--color-light-green2": "#bccca2",
+  "--color-dark-link": "#516e5a",
+  "--sub1": "max(16px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 22))",
+  "--grid-span-2": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 2 + calc(calc((",
+  "--grid-columns": "16",
+  "--grid-span-10": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 10 + calc(calc(",
+  "--color-black": "#333338",
+  "--grid-span-9": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 9 + calc(calc((",
+  "--h2": "max(65px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 110))",
+  "--grid-span-3": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 3 + calc(calc((",
+  "--site-padding-y": "min(60px, calc(40 * 100vw / 1440))",
+  "--grid-gap-width": "calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1))",
+  "--header-font": "\"Feature Display\"",
+  "--sub2": "max(18px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 18))",
+  "--grid-span-14": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 14 + calc(calc(",
+  "--content-width": "calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2)",
+  "--grid-gap-scale": ".15",
+  "--grid-span-1": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 1 + calc(calc((",
+  "--h1": "max(80px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 200))",
+  "--color-dark-link-2": "#62866d",
+  "--grid-span-width": "calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15))",
+  "--color-pure-white": "#fff",
+  "--color-pure-black": "#000",
+  "--site-padding-x": "min(60px, calc(40 * 100vw / 1440))",
+  "--color-light-green": "#e0ffab",
+  "--grid-span-5": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 5 + calc(calc((",
+  "--grid-column-width": "calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)",
+  "--grid-span-7": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 7 + calc(calc((",
+  "--site-header": "24px",
+  "--default": "calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 16)",
+  "--is-mobile": "0",
+  "--content-unit": "calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440)",
+  "--grid-span-15": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 15 + calc(calc(",
+  "--link-footer": "max(14px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 16))",
+  "--grid-span-16": "calc(calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) + calc(calc((100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / ((16 / .15) + 16 - 1)) / .15)) * 16 + calc(calc(",
+  "--h3": "max(55px, calc(calc(calc(100vw - min(60px, calc(40 * 100vw / 1440)) * 2) / 1440) * 80))"
+ },
+ "colorVars": {
+  "--color-white": "#fbfff4",
+  "--color-dark-green": "#203727",
+  "--color-light-green2": "#bccca2",
+  "--color-dark-link": "#516e5a",
+  "--color-black": "#333338",
+  "--color-dark-link-2": "#62866d",
+  "--color-pure-white": "#ffffff",
+  "--color-pure-black": "#000000",
+  "--color-light-green": "#e0ffab"
+ },
+ "loadedFonts": [
+  {
+   "family": "Feature Display",
+   "weight": "200",
+   "style": "normal"
+  },
+  {
+   "family": "Feature Display",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Britti Sans",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Britti Sans",
+   "weight": "300",
+   "style": "normal"
+  },
+  {
+   "family": "Britti Sans",
+   "weight": "600",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#203727",
+    "share": 0.984
+   },
+   {
+    "hex": "#2b4131",
+    "share": 0.008
+   },
+   {
+    "hex": "#425548",
+    "share": 0.003
+   },
+   {
+    "hex": "#374b3d",
+    "share": 0.002
+   },
+   {
+    "hex": "#5c6c60",
+    "share": 0.001
+   },
+   {
+    "hex": "#7c897f",
+    "share": 0.001
+   },
+   {
+    "hex": "#eaeae5",
+    "share": 0.001
+   },
+   {
+    "hex": "#aab2a9",
+    "share": 0
+   },
+   {
+    "hex": "#cfd2cb",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.314,
+  "lightnessStd": 0.024,
+  "meanChroma": 0.041,
+  "chromaticShare": 0,
+  "negativeSpace": 0.984,
+  "busyness": 0.001,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 16,
+  "h1Size": 90.9831,
+  "gutter": 13,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

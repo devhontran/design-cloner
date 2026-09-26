@@ -1,0 +1,998 @@
+{
+ "url": "https://www.operanorth.co.uk/turn-of-the-screw-immersive-trailer/",
+ "title": "Turn of the Screw",
+ "description": "Explore a haunted audio landscape in an immersive trailer for Opera North’s production of Benjamin Britten’s opera",
+ "themeColor": null,
+ "ogImage": "https://turn-of-the-screw-trailer.s3.eu-west-2.amazonaws.com/assets/images/share.png",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 2148,
+ "canvasBg": "#000000",
+ "rootFontSize": 8.76923,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 4977283.6875,
+    "ex": "body"
+   },
+   "#1d1d1d": {
+    "w": 1120788.75,
+    "ex": "div > div.tots_timeline__bar"
+   }
+  },
+  "text": {
+   "#b3a2c2": {
+    "w": 68,
+    "ex": "li > a.tots_menu__link.tots_menu__link--about"
+   },
+   "#757575": {
+    "w": 23,
+    "ex": "nav > a.tots_timeline__link"
+   },
+   "#ffffff": {
+    "w": 1098,
+    "ex": "div > h2.tots_panel__title"
+   },
+   "#cdcdcd": {
+    "w": 194,
+    "ex": "li > span.tots__people-job"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 1974.125,
+    "ex": "li > button.tots_preloader__button"
+   }
+  },
+  "families": {
+   "ZurichBTCondensed": {
+    "w": 1160
+   },
+   "Georgia": {
+    "w": 154
+   },
+   "ZurichBTExtraCondensed": {
+    "w": 69
+   }
+  },
+  "typeStyles": {
+   "ZurichBTCondensed|48|700|normal|0|uppercase": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 48,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 19,
+    "count": 3,
+    "tags": {
+     "a": 3
+    },
+    "ex": "li > a.tots_menu__link.tots_menu__link--about"
+   },
+   "Georgia|9.5|400|normal|0|none": {
+    "family": "Georgia",
+    "stack": "Georgia, Georgia, \"Times New Roman\", Times, serif",
+    "generic": "serif",
+    "size": 9.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 23,
+    "count": 5,
+    "tags": {
+     "a": 5
+    },
+    "ex": "nav > a.tots_timeline__link"
+   },
+   "ZurichBTCondensed|19.5|700|normal|0|none": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 19.5,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 48,
+    "count": 3,
+    "tags": {
+     "h2": 3
+    },
+    "ex": "div > h2.tots_panel__title"
+   },
+   "ZurichBTCondensed|12.5|400|normal|0|none": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 491,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.tots_panel__paragraph"
+   },
+   "ZurichBTCondensed|14|400|normal|0|none": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 526,
+    "count": 28,
+    "tags": {
+     "span": 26,
+     "a": 2
+    },
+    "ex": "li > span.tots__people-job"
+   },
+   "ZurichBTCondensed|12.5|700|normal|0|none": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 73,
+    "count": 1,
+    "tags": {
+     "a": 1
+    },
+    "ex": "p > a"
+   },
+   "ZurichBTExtraCondensed|21|400|normal|0|none": {
+    "family": "ZurichBTExtraCondensed",
+    "stack": "ZurichBTExtraCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 21,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 49,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h1 > span.tots_preloader__subtitle"
+   },
+   "Georgia|15.5|400|normal|-0.01|none": {
+    "family": "Georgia",
+    "stack": "Georgia, Georgia, \"Times New Roman\", Times, serif",
+    "generic": "serif",
+    "size": 15.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "italic",
+    "chars": 51,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.tots_preloader__text"
+   },
+   "ZurichBTExtraCondensed|19.5|400|normal|0|none": {
+    "family": "ZurichBTExtraCondensed",
+    "stack": "ZurichBTExtraCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 19.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 3,
+    "tags": {
+     "span": 3
+    },
+    "ex": "button > span"
+   },
+   "Georgia|9|400|normal|0|none": {
+    "family": "Georgia",
+    "stack": "Georgia, Georgia, \"Times New Roman\", Times, serif",
+    "generic": "serif",
+    "size": 9,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 74,
+    "count": 6,
+    "tags": {
+     "span": 6
+    },
+    "ex": "div > span.tots_preloader__tooltip-text"
+   },
+   "Georgia|10.5|400|normal|0|none": {
+    "family": "Georgia",
+    "stack": "Georgia, Georgia, \"Times New Roman\", Times, serif",
+    "generic": "serif",
+    "size": 10.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "italic",
+    "chars": 2,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.tots_preloader__bar-percent"
+   },
+   "Georgia|12.5|400|normal|0|none": {
+    "family": "Georgia",
+    "stack": "Georgia, Georgia, \"Times New Roman\", Times, serif",
+    "generic": "serif",
+    "size": 12.5,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "italic",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "button > span"
+   },
+   "ZurichBTCondensed|52.5|700|normal|0|uppercase": {
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 52.5,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 3,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div > h2.tots_ending__title"
+   },
+   "ZurichBTExtraCondensed|10.5|700|normal|0|uppercase": {
+    "family": "ZurichBTExtraCondensed",
+    "stack": "ZurichBTExtraCondensed, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 10.5,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 7,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "button > span"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "1": {
+     "w": 2
+    },
+    "6": {
+     "w": 2
+    },
+    "8": {
+     "w": 6
+    },
+    "11": {
+     "w": 2
+    },
+    "18": {
+     "w": 9
+    },
+    "19": {
+     "w": 2
+    },
+    "22": {
+     "w": 3
+    },
+    "44": {
+     "w": 3
+    },
+    "47": {
+     "w": 1
+    },
+    "53": {
+     "w": 4
+    },
+    "88": {
+     "w": 2
+    },
+    "105": {
+     "w": 7
+    }
+   },
+   "margin": {
+    "4": {
+     "w": 1
+    },
+    "8": {
+     "w": 2
+    },
+    "9": {
+     "w": 12
+    },
+    "11": {
+     "w": 2
+    },
+    "16": {
+     "w": 3
+    },
+    "18": {
+     "w": 4
+    },
+    "20": {
+     "w": 3
+    },
+    "22": {
+     "w": 5
+    },
+    "26": {
+     "w": 1
+    },
+    "35": {
+     "w": 3
+    },
+    "53": {
+     "w": 3
+    },
+    "263": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 202,
+    "h": 106,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1380,
+    "h": 4,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 413,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 308,
+    "h": 67,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 413,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 413,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 3396,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 104,
+    "h": 42,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 104,
+    "h": 42,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 104,
+    "h": 42,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 73,
+    "h": 35,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 300,
+    "h": 150,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 100%)": {
+    "w": 4890576.09375,
+    "ex": "div > div.tots_preloader__gradient"
+   }
+  },
+  "durations": {
+   "150": {
+    "w": 3
+   },
+   "400": {
+    "w": 11
+   },
+   "500": {
+    "w": 4
+   },
+   "600": {
+    "w": 9
+   },
+   "1000": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.55, 0, 0.1, 1)": {
+    "w": 23
+   },
+   "linear": {
+    "w": 3
+   },
+   "cubic-bezier(0.19, 1, 0.22, 1)": {
+    "w": 1
+   },
+   "cubic-bezier(0.39, 0.575, 0.565, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 156,
+   "flex": 26,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 28,
+   "images": 2,
+   "svgs": 7,
+   "videos": 0,
+   "sticky": 0
+  },
+  "headings": [
+   {
+    "tag": "h2",
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "size": 19.2923,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 256,
+    "text": "An immersive trailer"
+   },
+   {
+    "tag": "h2",
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "size": 19.2923,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 165,
+    "text": "Credits"
+   },
+   {
+    "tag": "h2",
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "size": 19.2923,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 165,
+    "text": "This event has passed"
+   },
+   {
+    "tag": "h1",
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "size": 17.5385,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 242,
+    "text": "An immersive trailer for Opera North’s production"
+   },
+   {
+    "tag": "h2",
+    "family": "ZurichBTCondensed",
+    "stack": "ZurichBTCondensed, Helvetica, sans-serif",
+    "size": 52.6154,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 392,
+    "text": "End"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "div > button.tots_header__button.tots_header__button--menu",
+    "w": 32,
+    "h": 20,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 1,
+    "padX": 6,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "Arial",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.tots_preloader__button",
+    "w": 104,
+    "h": 42,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": "2px solid #ffffff",
+    "shadow": null,
+    "padY": 8,
+    "padX": 0,
+    "fontSize": 19.2923,
+    "fontWeight": 400,
+    "family": "ZurichBTExtraCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Low",
+    "backdrop": null,
+    "transition": "0.6s cubic-bezier(0.55, 0, 0.1, 1)"
+   },
+   {
+    "sel": "li > button.tots_preloader__button",
+    "w": 104,
+    "h": 42,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": "2px solid #ffffff",
+    "shadow": null,
+    "padY": 8,
+    "padX": 0,
+    "fontSize": 19.2923,
+    "fontWeight": 400,
+    "family": "ZurichBTExtraCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Medium",
+    "backdrop": null,
+    "transition": "0.6s cubic-bezier(0.55, 0, 0.1, 1)"
+   },
+   {
+    "sel": "li > button.tots_preloader__button",
+    "w": 104,
+    "h": 42,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": "2px solid #ffffff",
+    "shadow": null,
+    "padY": 8,
+    "padX": 0,
+    "fontSize": 19.2923,
+    "fontWeight": 400,
+    "family": "ZurichBTExtraCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "High",
+    "backdrop": null,
+    "transition": "0.6s cubic-bezier(0.55, 0, 0.1, 1)"
+   },
+   {
+    "sel": "div > button.tots_button-default.tots_ending__button",
+    "w": 73,
+    "h": 35,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 11,
+    "padX": 19,
+    "fontSize": 10.5231,
+    "fontWeight": 700,
+    "family": "ZurichBTExtraCondensed",
+    "transform": "uppercase",
+    "letterSpacing": 0,
+    "text": "Restart",
+    "backdrop": null,
+    "transition": "0.6s cubic-bezier(0.55, 0, 0.1, 1)"
+   }
+  ],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "section.tots_panel.tots_panel--about",
+    "w": 413,
+    "h": 900,
+    "bg": "#1d1d1d",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 105,
+    "padX": 18,
+    "fontSize": 8.76923,
+    "fontWeight": 400,
+    "family": "ZurichBTCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "An immersive trailer\n                   ",
+    "backdrop": null,
+    "transition": "0.5s cubic-bezier(0.55, 0, 0.1, 1)"
+   },
+   {
+    "sel": "section.tots_panel.tots_panel--credits",
+    "w": 413,
+    "h": 900,
+    "bg": "#1d1d1d",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 105,
+    "padX": 18,
+    "fontSize": 8.76923,
+    "fontWeight": 400,
+    "family": "ZurichBTCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Credits\n                    \n           ",
+    "backdrop": null,
+    "transition": "0.5s cubic-bezier(0.55, 0, 0.1, 1)"
+   },
+   {
+    "sel": "section.tots_panel.tots_panel--tickets",
+    "w": 413,
+    "h": 900,
+    "bg": "#1d1d1d",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 105,
+    "padX": 18,
+    "fontSize": 8.76923,
+    "fontWeight": 400,
+    "family": "ZurichBTCondensed",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "This event has passed\n                  ",
+    "backdrop": null,
+    "transition": "0.5s cubic-bezier(0.55, 0, 0.1, 1)"
+   }
+  ],
+  "links": [
+   {
+    "color": "#b3a2c2",
+    "decoration": "none",
+    "weight": 700,
+    "inNav": true
+   },
+   {
+    "color": "#b3a2c2",
+    "decoration": "none",
+    "weight": 700,
+    "inNav": true
+   },
+   {
+    "color": "#b3a2c2",
+    "decoration": "none",
+    "weight": 700,
+    "inNav": true
+   },
+   {
+    "color": "#757575",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#757575",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#757575",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#757575",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#757575",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 700,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3396,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 877,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 877,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 202,
+    "h": 106,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.9
+   },
+   {
+    "w": 308,
+    "h": 67,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 4.58
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > div.tots_preloader__bar-percent",
+    "fg": "#ffffff",
+    "bg": "#cdcdcd",
+    "ratio": 1.59
+   }
+  ],
+  "nav": {
+   "sel": "header.tots_header",
+   "w": 1440,
+   "h": 105,
+   "bg": "#000000",
+   "bgAlpha": 1,
+   "color": "#ffffff",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 0,
+   "padX": 0,
+   "fontSize": 8.76923,
+   "fontWeight": 400,
+   "family": "ZurichBTCondensed",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "",
+   "backdrop": null,
+   "transition": null,
+   "position": "absolute",
+   "linkCount": 0,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "ZurichBTCondensed",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "ZurichBTCondensed",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "ZurichBTExtraCondensed",
+   "weight": "700",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#121826",
+    "share": 0.164
+   },
+   {
+    "hex": "#000412",
+    "share": 0.153
+   },
+   {
+    "hex": "#050d1d",
+    "share": 0.142
+   },
+   {
+    "hex": "#202530",
+    "share": 0.137
+   },
+   {
+    "hex": "#303339",
+    "share": 0.126
+   },
+   {
+    "hex": "#46484b",
+    "share": 0.094
+   },
+   {
+    "hex": "#7a7979",
+    "share": 0.059
+   },
+   {
+    "hex": "#606060",
+    "share": 0.056
+   },
+   {
+    "hex": "#959096",
+    "share": 0.048
+   },
+   {
+    "hex": "#b4aabf",
+    "share": 0.022
+   }
+  ],
+  "meanLightness": 0.298,
+  "lightnessStd": 0.168,
+  "meanChroma": 0.025,
+  "chromaticShare": 0.018,
+  "negativeSpace": 0.164,
+  "busyness": 0.029,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 30,
+  "h1Size": 20,
+  "gutter": 30,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

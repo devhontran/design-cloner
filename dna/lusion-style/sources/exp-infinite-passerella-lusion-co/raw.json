@@ -1,0 +1,741 @@
+{
+ "url": "https://exp-infinite-passerella.lusion.co/",
+ "title": "Infinite Passerella - An infinite fashion show by Lusion",
+ "description": "Infinite Passerella is a Lusion Monthly Experiment.",
+ "themeColor": "#000000",
+ "ogImage": "https://exp-infinite-passerella.lusion.co/assets/images/cover.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#090719",
+ "rootFontSize": 12,
+ "agg": {
+  "bg": {
+   "#090719": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#323232": {
+    "w": 6048,
+    "ex": "a > div.header-item--lab"
+   },
+   "#efefef": {
+    "w": 128,
+    "ex": "div#audio-btn > div.audio__bar"
+   }
+  },
+  "text": {
+   "#efefef": {
+    "w": 78,
+    "ex": "h3#header-logo-title"
+   },
+   "#bebebe": {
+    "w": 18,
+    "ex": "h1 > span"
+   }
+  },
+  "border": {
+   "#373644": {
+    "w": 368,
+    "ex": "div > div.header-more--audio"
+   },
+   "#efefef": {
+    "w": 108,
+    "ex": "div > div.battery-part.battery-part--1"
+   }
+  },
+  "families": {
+   "exo2": {
+    "w": 78
+   },
+   "turn_wnormal": {
+    "w": 18
+   }
+  },
+  "typeStyles": {
+   "exo2|9|800|1.15|0.222|uppercase": {
+    "family": "exo2",
+    "stack": "exo2",
+    "generic": "",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.15,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 53,
+    "count": 2,
+    "tags": {
+     "h3": 2
+    },
+    "ex": "h3#header-logo-title"
+   },
+   "exo2|9|800|1.22|0.222|uppercase": {
+    "family": "exo2",
+    "stack": "exo2",
+    "generic": "",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.22,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "h3": 1
+    },
+    "ex": "div > h3"
+   },
+   "turn_wnormal|34|100|0.82|0.382|uppercase": {
+    "family": "turn_wnormal",
+    "stack": "turn_wnormal",
+    "generic": "",
+    "size": 34,
+    "weight": 100,
+    "lineHeight": 0.82,
+    "letterSpacing": 0.382,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 18,
+    "count": 18,
+    "tags": {
+     "span": 18
+    },
+    "ex": "h1 > span"
+   },
+   "exo2|9|800|normal|0.222|uppercase": {
+    "family": "exo2",
+    "stack": "exo2",
+    "generic": "",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": "normal",
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 20,
+    "count": 2,
+    "tags": {
+     "h3": 2
+    },
+    "ex": "span > h3"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "3": {
+     "w": 2
+    },
+    "5": {
+     "w": 52
+    },
+    "7": {
+     "w": 4
+    },
+    "10": {
+     "w": 4
+    },
+    "12": {
+     "w": 2
+    },
+    "13": {
+     "w": 2
+    },
+    "14": {
+     "w": 2
+    },
+    "20": {
+     "w": 6
+    },
+    "40": {
+     "w": 4
+    }
+   },
+   "margin": {
+    "9": {
+     "w": 10
+    },
+    "14": {
+     "w": 2
+    },
+    "15": {
+     "w": 2
+    },
+    "23": {
+     "w": 4
+    }
+   },
+   "gap": {
+    "30": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 4,
+    "w": 168,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 40,
+    "h": 38,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 69,
+    "h": 37,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 34,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 42,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 34,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 34,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 42,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 42,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 42,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 46,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 44,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 2,
+    "w": 36,
+    "h": 18,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 4,
+    "h": 6,
+    "kind": "box"
+   },
+   {
+    "r": 1,
+    "w": 4,
+    "h": 12,
+    "kind": "box"
+   },
+   {
+    "r": 1,
+    "w": 4,
+    "h": 12,
+    "kind": "box"
+   },
+   {
+    "r": 120,
+    "w": 86,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 86,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 50,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 50,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 154,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 58,
+    "w": 36,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 58,
+    "w": 36,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 58,
+    "w": 36,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 512,
+    "h": 338,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(45deg, rgb(242, 246, 248) 0px, rgb(173, 165, 165) 100%)": {
+    "w": 21616,
+    "ex": "h1 > span"
+   },
+   "linear-gradient(to right bottom, rgba(85, 79, 79, 0.21), rgba(25, 20, 22, 0.22))": {
+    "w": 4300,
+    "ex": "button#snapshot-exit--close-btn"
+   },
+   "linear-gradient(to right bottom, rgb(0, 0, 0), rgb(0, 0, 0))": {
+    "w": 12000,
+    "ex": "button#snapshot-exit--close-btn > span.btn--hoverCircle.hoverCircle"
+   },
+   "linear-gradient(to right bottom, rgb(23, 23, 26), rgb(26, 29, 32))": {
+    "w": 8888,
+    "ex": "button#snapshot-take--picture-btn > span.btn--circle.circle-left"
+   }
+  },
+  "durations": {
+   "300": {
+    "w": 1
+   },
+   "500": {
+    "w": 3
+   },
+   "1000": {
+    "w": 3
+   },
+   "2000": {
+    "w": 18
+   },
+   "3000": {
+    "w": 18
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 1
+   },
+   "cubic-bezier(0.65, 0.05, 0.36, 1)": {
+    "w": 18
+   },
+   "cubic-bezier(0, 0.93, 0.7, 1.01)": {
+    "w": 3
+   },
+   "cubic-bezier(0.09, 1.17, 0.7, 1.01)": {
+    "w": 3
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 75,
+   "flex": 15,
+   "grid": 0,
+   "glass": 3,
+   "textGradient": 18,
+   "animations": 18,
+   "transitions": 25,
+   "images": 0,
+   "svgs": 5,
+   "videos": 0,
+   "sticky": 1
+  },
+  "headings": [
+   {
+    "tag": "h3",
+    "family": "exo2",
+    "stack": "exo2",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.15,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#efefef",
+    "y": -147,
+    "text": "Infinite passerella"
+   },
+   {
+    "tag": "h3",
+    "family": "exo2",
+    "stack": "exo2",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.15,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#efefef",
+    "y": -147,
+    "text": "An infinite fashion show by Lusion"
+   },
+   {
+    "tag": "h3",
+    "family": "exo2",
+    "stack": "exo2",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.22,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#efefef",
+    "y": -142,
+    "text": "About"
+   },
+   {
+    "tag": "h1",
+    "family": "turn_wnormal",
+    "stack": "turn_wnormal",
+    "size": 34,
+    "weight": 100,
+    "lineHeight": 0.82,
+    "letterSpacing": 0.382,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#efefef",
+    "y": 411,
+    "text": "INFINITE"
+   },
+   {
+    "tag": "h1",
+    "family": "turn_wnormal",
+    "stack": "turn_wnormal",
+    "size": 34,
+    "weight": 100,
+    "lineHeight": 0.82,
+    "letterSpacing": 0.382,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#efefef",
+    "y": 461,
+    "text": "PASSERELLA"
+   },
+   {
+    "tag": "h3",
+    "family": "exo2",
+    "stack": "exo2",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#efefef",
+    "y": 731,
+    "text": "close"
+   },
+   {
+    "tag": "h3",
+    "family": "exo2",
+    "stack": "exo2",
+    "size": 9,
+    "weight": 800,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.222,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#efefef",
+    "y": 731,
+    "text": "take a snapshot"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "button#snapshot-exit--close-btn",
+    "w": 86,
+    "h": 50,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#efefef",
+    "radius": 120,
+    "border": null,
+    "shadow": null,
+    "padY": 7,
+    "padX": 20,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "SFMono-Regular",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "close",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "button#snapshot-take--picture-btn",
+    "w": 154,
+    "h": 50,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#efefef",
+    "radius": 120,
+    "border": null,
+    "shadow": null,
+    "padY": 7,
+    "padX": 20,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "SFMono-Regular",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "take a snapshot",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#090719",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#090719",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 960,
+    "maxW": "1296px",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--vh": "9px"
+ },
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "robotoregular",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "exo2",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "turn_wnormal",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [
+  "https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=block"
+ ],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#1b1b1c",
+    "share": 0.261
+   },
+   {
+    "hex": "#232324",
+    "share": 0.238
+   },
+   {
+    "hex": "#141414",
+    "share": 0.223
+   },
+   {
+    "hex": "#2a2b2c",
+    "share": 0.141
+   },
+   {
+    "hex": "#e6f0ef",
+    "share": 0.049
+   },
+   {
+    "hex": "#393e40",
+    "share": 0.035
+   },
+   {
+    "hex": "#4e5557",
+    "share": 0.027
+   },
+   {
+    "hex": "#b6bbb7",
+    "share": 0.015
+   },
+   {
+    "hex": "#83898a",
+    "share": 0.012
+   }
+  ],
+  "meanLightness": 0.292,
+  "lightnessStd": 0.176,
+  "meanChroma": 0.002,
+  "chromaticShare": 0.001,
+  "negativeSpace": 0.261,
+  "busyness": 0.008,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 12,
+  "h1Size": 18,
+  "gutter": 0,
+  "hamburger": false,
+  "horizontalOverflow": true
+ }
+}

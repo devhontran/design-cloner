@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lusion-co",
+    "type": "web",
+    "input": "https://lusion.co/",
+    "weight": 3
+  },
+  {
+    "id": "labs-lusion-co",
+    "type": "web",
+    "input": "https://labs.lusion.co/",
+    "weight": 3
+  },
+  {
+    "id": "everswap-com",
+    "type": "web",
+    "input": "https://everswap.com/",
+    "weight": 1
+  },
+  {
+    "id": "zero-tech",
+    "type": "web",
+    "input": "https://zero.tech/",
+    "weight": 0.5
+  },
+  {
+    "id": "vividand-co",
+    "type": "web",
+    "input": "https://vividand.co/",
+    "weight": 0.5
+  },
+  {
+    "id": "ai-quest-lusion-co",
+    "type": "web",
+    "input": "https://ai-quest.lusion.co/",
+    "weight": 1
+  },
+  {
+    "id": "exp-infinite-passerella-lusion-co",
+    "type": "web",
+    "input": "https://exp-infinite-passerella.lusion.co/",
+    "weight": 1
+  },
+  {
+    "id": "exp-ion-lusion-co",
+    "type": "web",
+    "input": "https://exp-ion.lusion.co/",
+    "weight": 1
+  },
+  {
+    "id": "exp-gemini-lusion-co",
+    "type": "web",
+    "input": "https://exp-gemini.lusion.co/",
+    "weight": 1
+  },
+  {
+    "id": "exp-my-little-storybook-lusion-co",
+    "type": "web",
+    "input": "https://exp-my-little-storybook.lusion.co/",
+    "weight": 1
+  },
+  {
+    "id": "operanorth-co-uk-turn-of-the-screw-immersive-tra",
+    "type": "web",
+    "input": "https://www.operanorth.co.uk/turn-of-the-screw-immersive-trailer/",
+    "weight": 1
+  },
+  {
+    "id": "oryzo-ai",
+    "type": "web",
+    "input": "https://oryzo.ai/",
+    "weight": 1
+  }
+]

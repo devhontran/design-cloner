@@ -1,0 +1,589 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "lusion-style",
+  "generatedAt": "2026-09-26T13:51:09.220Z",
+  "sources": [
+    {
+      "id": "lusion-co",
+      "type": "web",
+      "input": "https://lusion.co/",
+      "weight": 3,
+      "title": "Lusion - Award Winning 3D and Interactive Web Studio"
+    },
+    {
+      "id": "labs-lusion-co",
+      "type": "web",
+      "input": "https://labs.lusion.co/",
+      "weight": 3,
+      "title": "Lusion Labs"
+    },
+    {
+      "id": "everswap-com",
+      "type": "web",
+      "input": "https://everswap.com/",
+      "weight": 1,
+      "title": "EverSwap - Trade, Lend, Borrow."
+    },
+    {
+      "id": "zero-tech",
+      "type": "web",
+      "input": "https://zero.tech/",
+      "weight": 0.5,
+      "title": "ZERO"
+    },
+    {
+      "id": "vividand-co",
+      "type": "web",
+      "input": "https://vividand.co/",
+      "weight": 0.5,
+      "title": "Vivid+Co | Full-Service Agency and Strategic Advisor"
+    },
+    {
+      "id": "ai-quest-lusion-co",
+      "type": "web",
+      "input": "https://ai-quest.lusion.co/",
+      "weight": 1,
+      "title": "Little Red Riding Hood"
+    },
+    {
+      "id": "exp-infinite-passerella-lusion-co",
+      "type": "web",
+      "input": "https://exp-infinite-passerella.lusion.co/",
+      "weight": 1,
+      "title": "Infinite Passerella - An infinite fashion show by Lusion"
+    },
+    {
+      "id": "exp-ion-lusion-co",
+      "type": "web",
+      "input": "https://exp-ion.lusion.co/",
+      "weight": 1,
+      "title": "Ion X1 | Overview"
+    },
+    {
+      "id": "exp-gemini-lusion-co",
+      "type": "web",
+      "input": "https://exp-gemini.lusion.co/",
+      "weight": 1,
+      "title": "GEMINI - A WebGL Car Demo by Lusion"
+    },
+    {
+      "id": "exp-my-little-storybook-lusion-co",
+      "type": "web",
+      "input": "https://exp-my-little-storybook.lusion.co/",
+      "weight": 1,
+      "title": "My Little Storybook"
+    },
+    {
+      "id": "operanorth-co-uk-turn-of-the-screw-immersive-tra",
+      "type": "web",
+      "input": "https://www.operanorth.co.uk/turn-of-the-screw-immersive-trailer/",
+      "weight": 1,
+      "title": "Turn of the Screw"
+    },
+    {
+      "id": "oryzo-ai",
+      "type": "web",
+      "input": "https://oryzo.ai/",
+      "weight": 1,
+      "title": "ORYZO AI"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "balanced color",
+      "high-contrast",
+      "uppercase eyebrow labels",
+      "sharp corners",
+      "architectural",
+      "outlined surfaces",
+      "glassmorphism",
+      "gradient accents",
+      "gradient text",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#eeeeee",
+      "surface-foreground": "#000000",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#7f7f7f",
+      "border": "#000000",
+      "primary": "#030959",
+      "primary-foreground": "#ffffff",
+      "accent": "#bfa781",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#030959",
+      "success": "#147e3b",
+      "warning": "#8d5e00",
+      "danger": "#a9433c"
+    },
+    "derived": [
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.377,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.262,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#efefef",
+        "share": 0.095,
+        "oklch": "oklch(0.952 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#27363c",
+        "share": 0.045,
+        "oklch": "oklch(0.322 0.022 224)",
+        "role": null
+      },
+      {
+        "hex": "#100904",
+        "share": 0.045,
+        "oklch": "oklch(0.147 0.018 64)",
+        "role": "accent-foreground"
+      },
+      {
+        "hex": "#090719",
+        "share": 0.045,
+        "oklch": "oklch(0.144 0.039 286)",
+        "role": null
+      },
+      {
+        "hex": "#bfa781",
+        "share": 0.041,
+        "oklch": "oklch(0.74 0.059 79)",
+        "role": "accent"
+      },
+      {
+        "hex": "#030959",
+        "share": 0.033,
+        "oklch": "oklch(0.224 0.135 266)",
+        "role": "primary"
+      },
+      {
+        "hex": "#02119d",
+        "share": 0.02,
+        "oklch": "oklch(0.327 0.21 265)",
+        "role": null
+      },
+      {
+        "hex": "#62866d",
+        "share": 0.018,
+        "oklch": "oklch(0.586 0.056 154)",
+        "role": null
+      },
+      {
+        "hex": "#88ccd6",
+        "share": 0.011,
+        "oklch": "oklch(0.803 0.07 208)",
+        "role": null
+      },
+      {
+        "hex": "#8ca5c4",
+        "share": 0.008,
+        "oklch": "oklch(0.714 0.053 254)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f3f7ff",
+        "100": "#e5edff",
+        "200": "#cadbff",
+        "300": "#a6c2ff",
+        "400": "#779fff",
+        "500": "#4d7cff",
+        "600": "#2a57fa",
+        "700": "#1b3ed2",
+        "800": "#112ba7",
+        "900": "#08197f",
+        "950": "#030959"
+      },
+      "accent": {
+        "50": "#fbf8f3",
+        "100": "#f6efe4",
+        "200": "#ebdec9",
+        "300": "#dac6a6",
+        "400": "#bfa781",
+        "500": "#a38961",
+        "600": "#897048",
+        "700": "#6e5835",
+        "800": "#554325",
+        "900": "#3f3018",
+        "950": "#2b200d"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgb(212, 224, 244) 0px, rgb(236, 241, 250) 100%)",
+      "linear-gradient(45deg, rgb(242, 246, 248) 0px, rgb(173, 165, 165) 100%)",
+      "linear-gradient(to right bottom, rgb(0, 0, 0), rgb(0, 0, 0))",
+      "radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 100%)"
+    ],
+    "cssVars": {
+      "--color-grey-blue": "#2b2e3a",
+      "--color-white": "#ffedd7",
+      "--header-color": "#0016ec",
+      "--color-project-details-logo-color": "#ff00ff",
+      "--color-error": "#ff1a1a",
+      "--project-details-btn-bg-hover": "#000000",
+      "--project-details-bg": "#000000",
+      "--project-details-highlight": "#000000",
+      "--color-red": "#ff4c41",
+      "--color-off-white": "#f0f1fa",
+      "--project-details-btn-bg": "#000000",
+      "--project-details-icon-bg": "#000000",
+      "--color-black": "#100904",
+      "--project-details-text": "#000000",
+      "--color-green": "#445231",
+      "--project-details-btn-text": "#000000",
+      "--color-blue": "#1a2ffb",
+      "--color-dark-white": "#e4e6ef",
+      "--color-purple": "#8832f7",
+      "--color-dark-blue": "#071bdf",
+      "--project-details-icon-color": "#000000",
+      "--project-details-btn-text-hover": "#ffffff",
+      "--header-text-color": "#000000",
+      "--color-off-white-semi": "#f4f5fb",
+      "--tp-container-background-color-active": "#eeeef0",
+      "--color-card-black": "#000000",
+      "--tp-input-background-color-hover": "#f5f5f6",
+      "--tp-button-background-color-hover": "#bbbcc4",
+      "--tp-container-foreground-color": "#bbbcc4",
+      "--color-white-semitransparent": "#ffffff",
+      "--tp-input-foreground-color": "#00b2ff",
+      "--tp-button-background-color": "#adafb8",
+      "--tp-input-background-color": "#f8f8f9",
+      "--color-card-white": "#ffffff",
+      "--color-black-semitransparent": "#cccccc",
+      "--tp-button-foreground-color": "#28292e",
+      "--tp-container-background-color": "#f8f8f9",
+      "--tp-monitor-background-color": "#cccccc",
+      "--tp-base-background-color": "#28292e",
+      "--tp-base-shadow-color": "#cccccc"
+    },
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "cool",
+      "harmony": "multi-hue",
+      "primaryHue": "blue",
+      "accentHue": "yellow"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Aeonik",
+        "category": "sans",
+        "source": "custom",
+        "use": "Figtree",
+        "alternative": "Figtree",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Aeonik",
+        "weights": [
+          400,
+          500,
+          900
+        ]
+      },
+      "body": {
+        "name": "Aeonik",
+        "category": "sans",
+        "source": "custom",
+        "use": "Figtree",
+        "alternative": "Figtree",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Aeonik",
+        "weights": [
+          400,
+          500,
+          900
+        ]
+      },
+      "ui": {
+        "name": "halyard-display-variable",
+        "category": "display",
+        "source": "custom",
+        "use": "Hanken Grotesk",
+        "alternative": "Hanken Grotesk",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "halyard-display-variable",
+        "weights": [
+          400,
+          500
+        ]
+      },
+      "mono": {
+        "name": "IBMPlexMono-Medium",
+        "category": "mono",
+        "source": "custom",
+        "use": "IBM Plex Mono",
+        "alternative": "IBM Plex Mono",
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "IBMPlexMono-Medium, monospace",
+        "weights": [
+          400,
+          500
+        ]
+      }
+    },
+    "scale": {
+      "2xs": 10,
+      "xs": 11,
+      "sm": 12,
+      "base": 13,
+      "lg": 14,
+      "xl": 15,
+      "2xl": 16,
+      "3xl": 18,
+      "4xl": 19,
+      "5xl": 20,
+      "6xl": 22,
+      "7xl": 28,
+      "8xl": 30,
+      "9xl": 32
+    },
+    "ratio": 1.094,
+    "ratioName": "minor second",
+    "base": 13,
+    "headings": {
+      "h1": {
+        "size": 36,
+        "weight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 22,
+        "weight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 32,
+        "weight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 13,
+      "weight": 400,
+      "lineHeight": 1.15
+    },
+    "eyebrow": {
+      "size": 14,
+      "weight": 500,
+      "letterSpacing": 0.05,
+      "transform": "uppercase",
+      "family": "IBMPlexMono-Medium"
+    },
+    "mobile": {
+      "h1": 30,
+      "body": null
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.43,
+    "scale": [
+      3,
+      6,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      38,
+      40,
+      50,
+      60
+    ],
+    "sectionY": 50,
+    "container": 1300,
+    "gutter": 22,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 1,
+      "md": 3,
+      "lg": 8,
+      "xl": 12,
+      "2xl": 18,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.77,
+    "style": "sharp",
+    "buttonShape": "0px",
+    "card": 0,
+    "input": 8,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "soft",
+    "shadows": {
+      "sm": "rgba(1,244,203,1) 0px 0px 0px 0px",
+      "md": "rgba(0,0,0,0.04) 0px 6px 10px 0px, rgba(0,0,0,0.04) 0px 2px 4px 0px",
+      "lg": "rgba(255,140,0,0.6) 0px 0px 10px 3px"
+    },
+    "separation": "borders"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 7.05,
+    "sectionsPerPage": 13,
+    "nav": {
+      "height": 146,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": true,
+      "links": 7,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": null,
+      "h1Size": 30,
+      "gutter": 22,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 500,
+    "durations": [
+      250,
+      300,
+      400,
+      500
+    ],
+    "easing": "cubic-bezier(0.52, 0.01, 0, 1)",
+    "animatedElements": 33
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": true,
+    "textGradient": true,
+    "imagery": {
+      "imagesPerPage": 7,
+      "videos": false,
+      "iconsSvg": 10,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "#2b2e3a",
+      "color": "background",
+      "radius": 9999,
+      "height": 45,
+      "paddingX": 23,
+      "paddingY": 0,
+      "fontSize": 14,
+      "fontWeight": 500,
+      "transform": "uppercase",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.4s, 0.4s ease, ease",
+      "example": "Let's talk"
+    },
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 45,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 14,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": ""
+    },
+    "card": {
+      "background": "#1d1d1d",
+      "radius": 0,
+      "border": null,
+      "shadow": null,
+      "paddingX": 18,
+      "paddingY": 105
+    },
+    "input": {
+      "background": null,
+      "radius": 0,
+      "border": null,
+      "height": 63,
+      "paddingX": 23,
+      "fontSize": 18
+    },
+    "link": {
+      "color": "foreground",
+      "underline": false
+    }
+  }
+}

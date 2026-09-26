@@ -1,0 +1,358 @@
+{
+ "url": "https://exp-my-little-storybook.lusion.co/",
+ "title": "My Little Storybook",
+ "description": "My Little Storybook 🪶 is a Lusion Monthly Experiment. It is a story of a bird family crossing the river.",
+ "themeColor": "#efefef",
+ "ogImage": "https://exp-my-little-storybook.lusion.co/assets/images/cover.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#eeeeee",
+ "rootFontSize": 16.5272,
+ "agg": {
+  "bg": {
+   "#eeeeee": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#88ccd6": {
+    "w": 6048,
+    "ex": "span#header-item--lab"
+   }
+  },
+  "text": {
+   "#000000": {
+    "w": 45,
+    "ex": "div#intro-title > h1"
+   },
+   "#ffffff": {
+    "w": 9,
+    "ex": "span > div.btn--content"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 70200,
+    "ex": "div#intro"
+   }
+  },
+  "families": {
+   "halantregular": {
+    "w": 45
+   },
+   "Gurajada": {
+    "w": 9
+   }
+  },
+  "typeStyles": {
+   "halantregular|19|200|normal|0.135|capitalize": {
+    "family": "halantregular",
+    "stack": "halantregular, cursive",
+    "generic": "cursive",
+    "size": 19,
+    "weight": 200,
+    "lineHeight": "normal",
+    "letterSpacing": 0.135,
+    "transform": "capitalize",
+    "style": "normal",
+    "chars": 27,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "div#intro-title > h1"
+   },
+   "halantregular|14|200|normal|0.135|capitalize": {
+    "family": "halantregular",
+    "stack": "halantregular, cursive",
+    "generic": "cursive",
+    "size": 14,
+    "weight": 200,
+    "lineHeight": "normal",
+    "letterSpacing": 0.135,
+    "transform": "capitalize",
+    "style": "normal",
+    "chars": 18,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div#intro-title > h2"
+   },
+   "Gurajada|28|200|normal|0.107|uppercase": {
+    "family": "Gurajada",
+    "stack": "Gurajada",
+    "generic": "",
+    "size": 28,
+    "weight": 200,
+    "lineHeight": "normal",
+    "letterSpacing": 0.107,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 9,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "span > div.btn--content"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "5": {
+     "w": 3
+    },
+    "10": {
+     "w": 3
+    },
+    "12": {
+     "w": 2
+    },
+    "30": {
+     "w": 2
+    },
+    "40": {
+     "w": 4
+    }
+   },
+   "margin": {
+    "3": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 4,
+    "w": 168,
+    "h": 36,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(rgb(212, 224, 244) 0px, rgb(236, 241, 250) 100%)": {
+    "w": 1296000,
+    "ex": "div#intro"
+   }
+  },
+  "durations": {
+   "180": {
+    "w": 2
+   },
+   "300": {
+    "w": 1
+   },
+   "1000": {
+    "w": 2
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.09, 1.17, 0.7, 1.01)": {
+    "w": 2
+   },
+   "ease": {
+    "w": 1
+   },
+   "cubic-bezier(0.55, 0, 0.1, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 56,
+   "flex": 6,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 4,
+   "images": 0,
+   "svgs": 8,
+   "videos": 0,
+   "sticky": 1
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "halantregular",
+    "stack": "halantregular, cursive",
+    "size": 19,
+    "weight": 200,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.135,
+    "transform": "capitalize",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 137,
+    "text": "The story about little bird"
+   },
+   {
+    "tag": "h2",
+    "family": "halantregular",
+    "stack": "halantregular, cursive",
+    "size": 14,
+    "weight": 200,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.135,
+    "transform": "capitalize",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 166,
+    "text": "crossing the river"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "div#intro-enter-btn > button.btn--primary.btn",
+    "w": 226,
+    "h": 58,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 16.5272,
+    "fontWeight": 400,
+    "family": "Gurajada",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Enter",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#eeeeee",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "span > div.btn--content",
+    "fg": "#ffffff",
+    "bg": "#eeeeee",
+    "ratio": 1.16
+   }
+  ],
+  "nav": {
+   "sel": "header",
+   "w": 1440,
+   "h": 116,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#000000",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 40,
+   "padX": 40,
+   "fontSize": 16.5272,
+   "fontWeight": 400,
+   "family": "Gurajada",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "",
+   "backdrop": null,
+   "transition": null,
+   "position": "static",
+   "linkCount": 1,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "halantregular",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Gurajada",
+   "weight": "200",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#dbe5f5",
+    "share": 0.766
+   },
+   {
+    "hex": "#e9eff9",
+    "share": 0.165
+   },
+   {
+    "hex": "#fefeff",
+    "share": 0.049
+   },
+   {
+    "hex": "#8ca5c4",
+    "share": 0.007
+   },
+   {
+    "hex": "#adbed3",
+    "share": 0.005
+   },
+   {
+    "hex": "#c0d2e0",
+    "share": 0.005
+   },
+   {
+    "hex": "#8dced8",
+    "share": 0.003
+   }
+  ],
+  "meanLightness": 0.93,
+  "lightnessStd": 0.031,
+  "meanChroma": 0.021,
+  "chromaticShare": 0.007,
+  "negativeSpace": 0.766,
+  "busyness": 0.002,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 16,
+  "h1Size": 19,
+  "gutter": 15,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

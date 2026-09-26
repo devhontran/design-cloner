@@ -1,0 +1,15 @@
+{
+  "color": { "roles": { "background": "#f0f1fa", "foreground": "#0a0a0a", "surface": "#ffffff", "surface-foreground": "#0a0a0a", "muted": "#e4e6f2", "muted-foreground": "#7f7f7f", "border": "#d6d8e6", "primary": "#0a0a0a", "primary-foreground": "#ffffff", "accent": "#1a2ffb", "accent-foreground": "#ffffff", "ring": "#1a2ffb" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Aeonik", "use": "Figtree", "alternative": "Figtree", "weights": [400, 500] },
+      "body": { "name": "Aeonik", "use": "Figtree", "alternative": "Figtree", "weights": [400] },
+      "mono": { "name": "IBM Plex Mono", "use": "IBM Plex Mono", "alternative": "IBM Plex Mono", "weights": [400, 500] }
+    },
+    "headings": { "h1": { "size": 96, "weight": 400, "lineHeight": 0.95, "letterSpacing": -0.03, "transform": "none" }, "h2": { "size": 48, "weight": 400, "lineHeight": 1.05, "letterSpacing": -0.02, "transform": "none" }, "h3": { "size": 24, "weight": 400, "lineHeight": 1.15, "letterSpacing": -0.01, "transform": "none" } },
+    "body": { "size": 14, "weight": 400, "lineHeight": 1.35, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 4, "md": 8, "lg": 18, "xl": 24, "full": 9999 }, "style": "rounded", "buttonShape": "pill" },
+  "motion": { "style": "expressive", "duration": 900, "easing": "cubic-bezier(0.52, 0.01, 0, 1)" },
+  "personality": { "keywords": ["real-time webgl studio", "3D object as hero", "rounded media stage", "dark pill buttons", "LUSION:LABS mono tags", "cinematic preloader %", "light grotesk statements", "experiments & storytelling"] }
+}

@@ -1,0 +1,252 @@
+{
+ "url": "https://ai-quest.lusion.co/",
+ "title": "Little Red Riding Hood",
+ "description": "Little Red Riding Hood. A Lusion Labs AI Fairytale.",
+ "themeColor": "#000000",
+ "ogImage": "https://ai-quest.lusion.co/assets/meta/cover.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#27363c",
+ "rootFontSize": 12,
+ "agg": {
+  "bg": {
+   "#27363c": {
+    "w": 2596480,
+    "ex": "body"
+   }
+  },
+  "text": {
+   "#bfa781": {
+    "w": 15,
+    "ex": "h2#startScreen-start-btn-copy"
+   }
+  },
+  "border": {},
+  "families": {
+   "neue_haas_grotesk_display65Md": {
+    "w": 15
+   }
+  },
+  "typeStyles": {
+   "neue_haas_grotesk_display65Md|12|400|1.15|0.167|uppercase": {
+    "family": "neue_haas_grotesk_display65Md",
+    "stack": "neue_haas_grotesk_display65Md",
+    "generic": "",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.15,
+    "letterSpacing": 0.167,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 15,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "h2#startScreen-start-btn-copy"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "10": {
+     "w": 2
+    },
+    "12": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "24": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "500": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.215, 0.61, 0.355, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 13,
+   "flex": 3,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 3,
+   "transitions": 1,
+   "images": 0,
+   "svgs": 4,
+   "videos": 0,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h2",
+    "family": "neue_haas_grotesk_display65Md",
+    "stack": "neue_haas_grotesk_display65Md",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.15,
+    "letterSpacing": 0.167,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#bfa781",
+    "y": 650,
+    "text": "start the story"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#27363c",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#27363c",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 458,
+    "bg": "#27363c",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1380,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 552,
+    "maxW": "800px",
+    "padX": 0
+   },
+   {
+    "w": 552,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--color-white": "#efefef",
+  "--color-white-transparent": "rgba(239, 239, 239, .5)",
+  "--vh": "9px",
+  "--color-black": "#000000",
+  "--color-error": "#ff1a1a"
+ },
+ "colorVars": {
+  "--color-white": "#efefef",
+  "--color-white-transparent": "#8b9396",
+  "--color-black": "#000000",
+  "--color-error": "#ff1a1a"
+ },
+ "loadedFonts": [
+  {
+   "family": "ledgerregular",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "neue_haas_grotesk_display65Md",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#172328",
+    "share": 0.408
+   },
+   {
+    "hex": "#1c2b30",
+    "share": 0.293
+   },
+   {
+    "hex": "#344348",
+    "share": 0.106
+   },
+   {
+    "hex": "#2c3b3f",
+    "share": 0.104
+   },
+   {
+    "hex": "#404c4e",
+    "share": 0.042
+   },
+   {
+    "hex": "#aaa27c",
+    "share": 0.017
+   },
+   {
+    "hex": "#e0d5ae",
+    "share": 0.017
+   },
+   {
+    "hex": "#747460",
+    "share": 0.012
+   },
+   {
+    "hex": "#b4404d",
+    "share": 0.001
+   }
+  ],
+  "meanLightness": 0.312,
+  "lightnessStd": 0.108,
+  "meanChroma": 0.022,
+  "chromaticShare": 0.014,
+  "negativeSpace": 0.408,
+  "busyness": 0.015,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 14.2862,
+  "h1Size": null,
+  "gutter": 105,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

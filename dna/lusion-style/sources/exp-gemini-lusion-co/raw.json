@@ -1,0 +1,493 @@
+{
+ "url": "https://exp-gemini.lusion.co/motion",
+ "title": "GEMINI - A WebGL Car Demo by Lusion",
+ "description": "Gemini is a Lusion Monthly Experiment. It is visualising one of our interpretations about the contrast of motion and style",
+ "themeColor": "#000000",
+ "ogImage": "https://exp-gemini.lusion.co/assets/app/share.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 16.5272,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 1618560,
+    "ex": "body"
+   },
+   "#242424": {
+    "w": 6048,
+    "ex": "a > div.logo-title--lab"
+   },
+   "#181818": {
+    "w": 18312.90625,
+    "ex": "div > div.header-more--audio"
+   },
+   "#efefef": {
+    "w": 8,
+    "ex": "div#audio-btn > div.audio__bar"
+   }
+  },
+  "text": {
+   "#ffffff": {
+    "w": 19,
+    "ex": "div > h2"
+   },
+   "#efefef": {
+    "w": 17,
+    "ex": "div > div.stage-nav-btn-text"
+   }
+  },
+  "border": {
+   "#c4c4c4": {
+    "w": 64,
+    "ex": "div#cinematic-header-icon"
+   },
+   "#bcbcbc": {
+    "w": 240,
+    "ex": "div > div.themes-selector-option-color.is-selected"
+   }
+  },
+  "families": {
+   "Exo 2": {
+    "w": 19
+   },
+   "Days One": {
+    "w": 17
+   }
+  },
+  "typeStyles": {
+   "Exo 2|11|500|2.5|0.285|uppercase": {
+    "family": "Exo 2",
+    "stack": "\"Exo 2\", sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 500,
+    "lineHeight": 2.5,
+    "letterSpacing": 0.285,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div > h2"
+   },
+   "Days One|10|400|1|0|uppercase": {
+    "family": "Days One",
+    "stack": "\"Days One\", sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 17,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "div > div.stage-nav-btn-text"
+   },
+   "Exo 2|12|400|1.69|0.02|uppercase": {
+    "family": "Exo 2",
+    "stack": "\"Exo 2\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.69,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 14,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div#cinematic-header-headline > h2"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "2": {
+     "w": 8
+    },
+    "3": {
+     "w": 3
+    },
+    "5": {
+     "w": 1
+    },
+    "7": {
+     "w": 2
+    },
+    "10": {
+     "w": 3
+    },
+    "11": {
+     "w": 4
+    },
+    "12": {
+     "w": 4
+    },
+    "50": {
+     "w": 2
+    },
+    "65": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "15": {
+     "w": 2
+    },
+    "20": {
+     "w": 5
+    },
+    "30": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 4,
+    "w": 168,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 1,
+    "w": 39,
+    "h": 34,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 1,
+    "w": 76,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 16,
+    "h": 16,
+    "kind": "box"
+   },
+   {
+    "r": 1,
+    "w": 286,
+    "h": 50,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 3,
+    "w": 30,
+    "h": 30,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(126deg, rgb(242, 245, 248) 0%, rgb(117, 119, 122) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   },
+   "linear-gradient(126deg, rgb(219, 203, 189) 0%, rgb(250, 144, 98) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   },
+   "linear-gradient(126deg, rgb(200, 60, 67) 0%, rgb(245, 192, 182) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   },
+   "linear-gradient(126deg, rgb(195, 26, 101) 0%, rgb(155, 129, 234) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   },
+   "linear-gradient(126deg, rgb(155, 159, 194) 0%, rgb(115, 83, 138) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color.is-selected"
+   },
+   "linear-gradient(126deg, rgb(32, 164, 129) 0%, rgb(69, 98, 169) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   },
+   "linear-gradient(126deg, rgb(48, 48, 48) 0%, rgb(0, 0, 0) 100%)": {
+    "w": 900,
+    "ex": "div > div.themes-selector-option-color"
+   }
+  },
+  "durations": {
+   "50": {
+    "w": 1
+   },
+   "200": {
+    "w": 15
+   },
+   "300": {
+    "w": 2
+   },
+   "600": {
+    "w": 4
+   }
+  },
+  "easings": {
+   "ease-in-out": {
+    "w": 1
+   },
+   "ease": {
+    "w": 8
+   },
+   "cubic-bezier(0.19, 1, 0.22, 1)": {
+    "w": 2
+   },
+   "cubic-bezier(0.075, 0.82, 0.165, 1)": {
+    "w": 1
+   },
+   "cubic-bezier(0.23, 1, 0.32, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 53,
+   "flex": 26,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 13,
+   "images": 0,
+   "svgs": 3,
+   "videos": 0,
+   "sticky": 0
+  },
+  "headings": [
+   {
+    "tag": "h2",
+    "family": "Exo 2",
+    "stack": "\"Exo 2\", sans-serif",
+    "size": 11,
+    "weight": 500,
+    "lineHeight": 2.5,
+    "letterSpacing": 0.285,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 52,
+    "text": "About"
+   },
+   {
+    "tag": "h2",
+    "family": "Exo 2",
+    "stack": "\"Exo 2\", sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.69,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 217,
+    "text": "IN MOTION VIEW"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [],
+  "nav": {
+   "sel": "div#ui > header",
+   "w": 1440,
+   "h": 136,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#efefef",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 50,
+   "padX": 65,
+   "fontSize": 16.5272,
+   "fontWeight": 400,
+   "family": "Days One",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "About",
+   "backdrop": null,
+   "transition": "0.2s ease-in-out",
+   "position": "absolute",
+   "linkCount": 1,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Days One",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Exo 2",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Zen Dots",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#5f4a7d",
+    "share": 0.153
+   },
+   {
+    "hex": "#ac97c1",
+    "share": 0.137
+   },
+   {
+    "hex": "#735e8f",
+    "share": 0.12
+   },
+   {
+    "hex": "#462b66",
+    "share": 0.113
+   },
+   {
+    "hex": "#9884b0",
+    "share": 0.108
+   },
+   {
+    "hex": "#8571a0",
+    "share": 0.108
+   },
+   {
+    "hex": "#2d195a",
+    "share": 0.096
+   },
+   {
+    "hex": "#c3cee6",
+    "share": 0.082
+   },
+   {
+    "hex": "#b0b5d1",
+    "share": 0.082
+   },
+   {
+    "hex": "#dc8e81",
+    "share": 0.001
+   }
+  ],
+  "meanLightness": 0.564,
+  "lightnessStd": 0.171,
+  "meanChroma": 0.076,
+  "chromaticShare": 0.731,
+  "negativeSpace": 0.153,
+  "busyness": 0.005,
+  "dark": false
+ }
+}

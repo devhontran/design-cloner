@@ -1,0 +1,357 @@
+{
+ "url": "https://exp-ion.lusion.co/",
+ "title": "Ion X1 | Overview",
+ "description": "Your new speaker",
+ "themeColor": "#000000",
+ "ogImage": "https://exp-ion.lusion.co/assets/meta/cover.png",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 10,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#282828": {
+    "w": 6048,
+    "ex": "a > div.header-item--lab"
+   },
+   "#404040": {
+    "w": 225,
+    "ex": "div#cursor-outer"
+   },
+   "#bfbfbf": {
+    "w": 225,
+    "ex": "div#cursor-inner"
+   }
+  },
+  "text": {
+   "#efefef": {
+    "w": 44,
+    "ex": "span > span.letter"
+   },
+   "#ffffff": {
+    "w": 8,
+    "ex": "div > div.btn-text-content"
+   }
+  },
+  "border": {
+   "#efefef": {
+    "w": 274,
+    "ex": "div > button.btn.btn-container"
+   },
+   "#787878": {
+    "w": 100,
+    "ex": "div#audio-wave"
+   }
+  },
+  "families": {
+   "PPNeueMontreal": {
+    "w": 52
+   }
+  },
+  "typeStyles": {
+   "PPNeueMontreal|250|500|0.75|0|uppercase": {
+    "family": "PPNeueMontreal",
+    "stack": "PPNeueMontreal, -apple-system, BlinkMacSystemFont, \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+    "generic": "sans-serif",
+    "size": 250,
+    "weight": 500,
+    "lineHeight": 0.75,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 6,
+    "count": 6,
+    "tags": {
+     "span": 6
+    },
+    "ex": "span > span.letter"
+   },
+   "PPNeueMontreal|20|500|1.1|0|uppercase": {
+    "family": "PPNeueMontreal",
+    "stack": "PPNeueMontreal, -apple-system, BlinkMacSystemFont, \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 31,
+    "count": 31,
+    "tags": {
+     "span": 31
+    },
+    "ex": "span > span.letter"
+   },
+   "PPNeueMontreal|11|600|normal|0|uppercase": {
+    "family": "PPNeueMontreal",
+    "stack": "PPNeueMontreal, -apple-system, BlinkMacSystemFont, \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 8,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.btn-text-content"
+   },
+   "PPNeueMontreal|11|600|1.15|0|uppercase": {
+    "family": "PPNeueMontreal",
+    "stack": "PPNeueMontreal, -apple-system, BlinkMacSystemFont, \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 600,
+    "lineHeight": 1.15,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 7,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div#footer-content--right > div.footer-item.footer-item--credits"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "10": {
+     "w": 2
+    },
+    "12": {
+     "w": 2
+    },
+    "50": {
+     "w": 10
+    }
+   },
+   "margin": {
+    "5": {
+     "w": 5
+    },
+    "10": {
+     "w": 2
+    },
+    "30": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 4,
+    "w": 168,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 101,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 25,
+    "h": 25,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 23,
+    "h": 23,
+    "kind": "media"
+   },
+   {
+    "r": 50,
+    "w": 15,
+    "h": 15,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 15,
+    "h": 15,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {},
+  "easings": {},
+  "gridCols": {},
+  "counts": {
+   "elements": 77,
+   "flex": 6,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 0,
+   "images": 0,
+   "svgs": 1,
+   "videos": 0,
+   "sticky": 4
+  },
+  "headings": [],
+  "buttons": [
+   {
+    "sel": "div > button.btn.btn-container",
+    "w": 101,
+    "h": 36,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#ffffff",
+    "radius": 50,
+    "border": "1px solid #efefef",
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 11,
+    "fontWeight": 600,
+    "family": "PPNeueMontreal",
+    "transform": "uppercase",
+    "letterSpacing": 0,
+    "text": "Preorder",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 784,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 784,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--vh": "9px"
+ },
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "PPNeueMontreal",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "PPNeueMontreal",
+   "weight": "500",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#040404",
+    "share": 0.878
+   },
+   {
+    "hex": "#121416",
+    "share": 0.042
+   },
+   {
+    "hex": "#0a0b0d",
+    "share": 0.041
+   },
+   {
+    "hex": "#bfbfbf",
+    "share": 0.013
+   },
+   {
+    "hex": "#30302f",
+    "share": 0.008
+   },
+   {
+    "hex": "#555555",
+    "share": 0.008
+   },
+   {
+    "hex": "#242424",
+    "share": 0.006
+   },
+   {
+    "hex": "#989898",
+    "share": 0.004
+   },
+   {
+    "hex": "#d5d5d5",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.129,
+  "lightnessStd": 0.096,
+  "meanChroma": 0.001,
+  "chromaticShare": 0,
+  "negativeSpace": 0.878,
+  "busyness": 0.013,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": null,
+  "gutter": null,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

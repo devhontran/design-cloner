@@ -1,0 +1,2738 @@
+{
+ "url": "https://vividand.co/",
+ "title": "Vivid+Co | Full-Service Agency and Strategic Advisor",
+ "description": "A full-service agency and strategic advisor partnering with visionaries to solve their toughest challenges.",
+ "themeColor": "#FFFFFF",
+ "ogImage": "https://vividand.co/images/sharing.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 9251,
+ "canvasBg": "#101010",
+ "rootFontSize": 10,
+ "agg": {
+  "bg": {
+   "#101010": {
+    "w": 13321440,
+    "ex": "body"
+   },
+   "#4a5765": {
+    "w": 1714.296875,
+    "ex": "div > div.TeamMemberHr-sc-1a3277h-3.azVxy"
+   }
+  },
+  "text": {
+   "#fffdf9": {
+    "w": 7075,
+    "ex": "div > div.char"
+   },
+   "#101010": {
+    "w": 4,
+    "ex": "div > div.CursorText-xs6u3e-5.jsXBht"
+   }
+  },
+  "border": {
+   "#fffdf9": {
+    "w": 507.90625,
+    "ex": "li > a.HeaderMenuButton-sc-11swxyq-16.dGLRCH"
+   },
+   "#40403f": {
+    "w": 993.578125,
+    "ex": "div > div.ServicesItemContainer-rs4l6k-0.jKrXNc"
+   },
+   "#4a5765": {
+    "w": 5867.953125,
+    "ex": "ul > li.WorkListItemMain-sc-11omo7k-0.btcfes"
+   }
+  },
+  "families": {
+   "Neue Montreal": {
+    "w": 7079
+   }
+  },
+  "typeStyles": {
+   "Neue Montreal|18|400|1.17|0.02|uppercase": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\", sans-serif",
+    "generic": "sans-serif",
+    "size": 18,
+    "weight": 400,
+    "lineHeight": 1.17,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 62,
+    "count": 62,
+    "tags": {
+     "div": 62
+    },
+    "ex": "div > div.char"
+   },
+   "Neue Montreal|136|400|1|-0.02|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 136,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 67,
+    "count": 12,
+    "tags": {
+     "span": 12
+    },
+    "ex": "span > span.HeroTextHeader-ixlmcu-1.eKHobc"
+   },
+   "Neue Montreal|33.5|400|1.2|-0.01|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 33.5,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 495,
+    "count": 24,
+    "tags": {
+     "div": 18,
+     "p": 5,
+     "a": 1
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|105.5|400|1.01|0|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 105.5,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 243,
+    "count": 18,
+    "tags": {
+     "div": 18
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|17|400|1.5|0.02|uppercase": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\", sans-serif",
+    "generic": "sans-serif",
+    "size": 17,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 42,
+    "count": 3,
+    "tags": {
+     "p": 3
+    },
+    "ex": "div > p.ServicesItemLabelText-rs4l6k-3.inSVqu"
+   },
+   "Neue Montreal|20|400|1.2|-0.01|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 989,
+    "count": 39,
+    "tags": {
+     "div": 39
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|32|400|1.01|0|uppercase": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 32,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 136,
+    "count": 15,
+    "tags": {
+     "div": 15
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|15|400|1.2|0.01|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 15,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 2353,
+    "count": 18,
+    "tags": {
+     "p": 10,
+     "span": 5,
+     "div": 3
+    },
+    "ex": "button > p.TextBodySmall-sc-1qqpy3q-7.iiiZqt"
+   },
+   "Neue Montreal|56|400|1.13|0|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1.13,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 27,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|22|400|1.2|-0.01|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "generic": "",
+    "size": 22,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 2644,
+    "count": 36,
+    "tags": {
+     "div": 30,
+     "em": 6
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|21|400|1.24|0.01|none": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\", sans-serif",
+    "generic": "sans-serif",
+    "size": 21,
+    "weight": 400,
+    "lineHeight": 1.24,
+    "letterSpacing": 0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 17,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.split__text"
+   },
+   "Neue Montreal|14|400|1.5|0|uppercase": {
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\", sans-serif",
+    "generic": "sans-serif",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.CursorText-xs6u3e-5.jsXBht"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "5": {
+     "w": 3
+    },
+    "9": {
+     "w": 2
+    },
+    "10": {
+     "w": 1
+    },
+    "11": {
+     "w": 5
+    },
+    "15": {
+     "w": 24
+    },
+    "20": {
+     "w": 3
+    },
+    "30": {
+     "w": 3
+    },
+    "40": {
+     "w": 4
+    },
+    "48": {
+     "w": 1
+    },
+    "53": {
+     "w": 3
+    },
+    "56": {
+     "w": 3
+    },
+    "60": {
+     "w": 3
+    },
+    "64": {
+     "w": 9
+    },
+    "72": {
+     "w": 2
+    },
+    "109": {
+     "w": 1
+    },
+    "225": {
+     "w": 1
+    },
+    "318": {
+     "w": 1
+    },
+    "450": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "1": {
+     "w": 5
+    },
+    "6": {
+     "w": 5
+    },
+    "7": {
+     "w": 19
+    },
+    "14": {
+     "w": 1
+    },
+    "16": {
+     "w": 3
+    },
+    "17": {
+     "w": 5
+    },
+    "19": {
+     "w": 3
+    },
+    "20": {
+     "w": 1
+    },
+    "21": {
+     "w": 1
+    },
+    "26": {
+     "w": 1
+    },
+    "108": {
+     "w": 4
+    }
+   },
+   "gap": {
+    "38": {
+     "w": 12
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 5,
+    "w": 121,
+    "h": 41,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 140,
+    "h": 58,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 343,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 343,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 343,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 343,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 343,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 10,
+    "h": 10,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "150": {
+    "w": 7
+   },
+   "200": {
+    "w": 7
+   },
+   "250": {
+    "w": 37
+   },
+   "300": {
+    "w": 22
+   },
+   "500": {
+    "w": 132
+   },
+   "1000": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.215, 0.61, 0.355, 1)": {
+    "w": 1
+   },
+   "cubic-bezier(0.52, 0.01, 0, 1)": {
+    "w": 148
+   },
+   "ease": {
+    "w": 18
+   },
+   "linear": {
+    "w": 37
+   },
+   "cubic-bezier(0.645, 0.045, 0.355, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {
+   "8": {
+    "w": 12
+   }
+  },
+  "counts": {
+   "elements": 996,
+   "flex": 92,
+   "grid": 12,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 5,
+   "transitions": 205,
+   "images": 74,
+   "svgs": 19,
+   "videos": 0,
+   "sticky": 3
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 36,
+    "weight": 700,
+    "lineHeight": 1.5,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 0,
+    "text": "Vivid+Co"
+   },
+   {
+    "tag": "h2",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 135.937,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 318,
+    "text": "We are StorytellersStrategistsCreativesMarketersTechnologistsVivid+Co"
+   },
+   {
+    "tag": "h2",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 105.284,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 1446,
+    "text": "Putting the pieces together is in our DNA"
+   },
+   {
+    "tag": "h2",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 105.284,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 2215,
+    "text": "Strategy without clarity, PR without purpose, and creative without identity simp"
+   },
+   {
+    "tag": "h2",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 105.284,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 4102,
+    "text": "Our unconventional process generates unconventional outcomes"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#fffdf9",
+    "y": 4901,
+    "text": "Fintech Company"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#fffdf9",
+    "y": 5080,
+    "text": "Data Automation Tech Company"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#fffdf9",
+    "y": 5291,
+    "text": "Major European Government"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 5646,
+    "text": "Our clients"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 5835,
+    "text": "Featured in"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 105.284,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 6351,
+    "text": "Meet our people"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 55.9156,
+    "weight": 400,
+    "lineHeight": 1.13,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 7135,
+    "text": "Advisors + Notable Investors"
+   },
+   {
+    "tag": "h3",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 31.9792,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 8294,
+    "text": "Join us"
+   },
+   {
+    "tag": "h2",
+    "family": "Neue Montreal",
+    "stack": "\"Neue Montreal\"",
+    "size": 105.284,
+    "weight": 400,
+    "lineHeight": 1.01,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#fffdf9",
+    "y": 8377,
+    "text": "We value innovation + collaboration + execution"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "li > button.HeaderMenuButton-sc-11swxyq-16.dGLRCH",
+    "w": 95,
+    "h": 21,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "ExpertiseExpertise",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.HeaderMenuButton-sc-11swxyq-16.dGLRCH",
+    "w": 55,
+    "h": 21,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "WorkWork",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.HeaderMenuButton-sc-11swxyq-16.dGLRCH",
+    "w": 51,
+    "h": 21,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "TeamTeam",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.HeaderMenuButton-sc-11swxyq-16.gJsNLS",
+    "w": 83,
+    "h": 21,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "CareersCareers",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > a.HeaderMenuButton-sc-11swxyq-16.dGLRCH",
+    "w": 121,
+    "h": 41,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 5,
+    "border": "1px solid #fffdf9",
+    "shadow": null,
+    "padY": 9,
+    "padX": 15,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "ContactContact",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.ServicesItemHeader-rs4l6k-2.kpvcvj",
+    "w": 331,
+    "h": 80,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 20,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Strategy",
+    "backdrop": null,
+    "transition": "0.15s ease"
+   },
+   {
+    "sel": "div > button.ServicesItemHeader-rs4l6k-2.jnamfr",
+    "w": 331,
+    "h": 80,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 20,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Communications + marketing",
+    "backdrop": null,
+    "transition": "0.15s ease"
+   },
+   {
+    "sel": "div > button.ServicesItemHeader-rs4l6k-2.jnamfr",
+    "w": 331,
+    "h": 80,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 20,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Creative",
+    "backdrop": null,
+    "transition": "0.15s ease"
+   },
+   {
+    "sel": "div > button.TeamMemberTitle-sc-1a3277h-1.fiegiR",
+    "w": 233,
+    "h": 40,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Caitlin Kelly+ Founder",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.TeamMemberTitle-sc-1a3277h-1.fiegiR",
+    "w": 215,
+    "h": 40,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Neel Shah+ Founder",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.TeamMemberTitle-sc-1a3277h-1.fiegiR",
+    "w": 236,
+    "h": 40,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Drew Lord+ Operations",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.TeamMemberTitle-sc-1a3277h-1.fiegiR",
+    "w": 232,
+    "h": 40,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Rocky Choi+ Creative",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.TeamMemberTitle-sc-1a3277h-1.fiegiR",
+    "w": 239,
+    "h": 40,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fffdf9",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Neue Montreal",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Pranjal Deep+ Design",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [
+   {
+    "color": "#fffdf9",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9251,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 789,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 789,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 789,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 318,
+    "padBottom": 0,
+    "h": 789,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 472,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 472,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 450,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 526,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 450,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 731,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 932,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 932,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 225,
+    "padBottom": 0,
+    "h": 932,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 707,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 450,
+    "h": 707,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 257,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 257,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 664,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 601,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 269,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 450,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 679,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 679,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 679,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 10,
+    "padBottom": 0,
+    "h": 679,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 669,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 669,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 669,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 109,
+    "h": 669,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 709,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 450,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 509,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 449,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 449,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 449,
+    "bg": "#101010",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 449,
+    "bg": "#101010",
+    "tag": "footer"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1296,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1296,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "1158.13px",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "1210.77px",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1070,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   },
+   {
+    "w": 140,
+    "h": 58,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.43
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > div.CursorText-xs6u3e-5.jsXBht",
+    "fg": "#101010",
+    "bg": "#101010",
+    "ratio": 1
+   }
+  ],
+  "nav": {
+   "sel": "div#scroll-container > header.HeaderContainer-sc-11swxyq-0.iEPEiY",
+   "w": 1440,
+   "h": 121,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#fffdf9",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 0,
+   "padX": 72,
+   "fontSize": 18,
+   "fontWeight": 400,
+   "family": "Neue Montreal",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "Vivid+CoExpertiseExpertiseWorkWorkTeamTe",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 5,
+   "hasCta": false
+  }
+ },
+ "vars": {
+  "--vh": "9px"
+ },
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Neue Montreal",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#1c2428",
+    "share": 0.397
+   },
+   {
+    "hex": "#171b1c",
+    "share": 0.329
+   },
+   {
+    "hex": "#262d31",
+    "share": 0.177
+   },
+   {
+    "hex": "#383d42",
+    "share": 0.035
+   },
+   {
+    "hex": "#4b5358",
+    "share": 0.02
+   },
+   {
+    "hex": "#647075",
+    "share": 0.019
+   },
+   {
+    "hex": "#8f9a9f",
+    "share": 0.013
+   },
+   {
+    "hex": "#ebebe9",
+    "share": 0.01
+   }
+  ],
+  "meanLightness": 0.268,
+  "lightnessStd": 0.103,
+  "meanChroma": 0.012,
+  "chromaticShare": 0.007,
+  "negativeSpace": 0.397,
+  "busyness": 0.016,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 12,
+  "h1Size": 36,
+  "gutter": 26,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}
