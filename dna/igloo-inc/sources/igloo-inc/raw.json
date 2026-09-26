@@ -1,0 +1,127 @@
+{
+ "url": "https://www.igloo.inc/",
+ "title": "Igloo Inc.",
+ "description": "Our mission is to create the largest onchain community, driving the consumer crypto revolution.",
+ "themeColor": null,
+ "ogImage": "https://www.igloo.inc/assets/images/social.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#a0a5b1",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#a0a5b1": {
+    "w": 1296000,
+    "ex": "body"
+   }
+  },
+  "text": {},
+  "border": {},
+  "families": {},
+  "typeStyles": {},
+  "spacing": {
+   "padding": {},
+   "margin": {},
+   "gap": {}
+  },
+  "radius": [],
+  "shadows": {},
+  "gradients": {},
+  "durations": {},
+  "easings": {},
+  "gridCols": {},
+  "counts": {
+   "elements": 2,
+   "flex": 0,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 0,
+   "images": 0,
+   "svgs": 0,
+   "videos": 0,
+   "sticky": 0
+  },
+  "headings": [],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a0a5b1",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a0a5b1",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--bgColor": "#A0A5B1",
+  "--default-font": "sans-serif"
+ },
+ "colorVars": {
+  "--bgColor": "#a0a5b1"
+ },
+ "loadedFonts": [],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#a1a6b1",
+    "share": 0.944
+   },
+   {
+    "hex": "#acb1bb",
+    "share": 0.046
+   },
+   {
+    "hex": "#bec2cb",
+    "share": 0.006
+   },
+   {
+    "hex": "#cacdd4",
+    "share": 0.004
+   },
+   {
+    "hex": "#dbdee2",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.725,
+  "lightnessStd": 0.016,
+  "meanChroma": 0.017,
+  "chromaticShare": 0,
+  "negativeSpace": 0.944,
+  "busyness": 0.002,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": null,
+  "gutter": null,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

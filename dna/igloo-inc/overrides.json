@@ -1,0 +1,13 @@
+{
+  "color": { "roles": { "background": "#a0a5b1", "foreground": "#ffffff", "surface": "#d6dae2", "surface-foreground": "#12161e", "muted": "#8f949f", "muted-foreground": "#e6e9ef", "border": "#ffffff", "primary": "#ffffff", "primary-foreground": "#12161e", "accent": "#12161e", "accent-foreground": "#ffffff", "ring": "#ffffff" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Igloo pixel-outline wordmark", "use": "Silkscreen", "alternative": "Silkscreen", "weights": [400] },
+      "body": { "name": "Pixel mono", "use": "Space Mono", "alternative": "Space Mono", "weights": [400, 700] },
+      "mono": { "name": "Pixel mono", "use": "Space Mono", "alternative": "Space Mono", "weights": [400, 700] }
+    },
+    "body": { "size": 10, "weight": 400, "lineHeight": 1.3, "letterSpacing": 0.04, "transform": "uppercase" }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp" },
+  "personality": { "keywords": ["web3 venture studio", "arctic monochrome", "wireframe to ice 3D build", "glowing seams", "inverted HUD text blocks", "pixel outline wordmark", "prismatic glitch transitions", "cinematic webgl"] }
+}

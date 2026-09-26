@@ -1,0 +1,297 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "igloo-inc",
+  "generatedAt": "2026-09-26T05:57:53.629Z",
+  "sources": [
+    {
+      "id": "igloo-inc",
+      "type": "web",
+      "input": "https://www.igloo.inc/",
+      "weight": 1,
+      "title": "Igloo Inc."
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "web3 venture studio",
+      "arctic monochrome",
+      "wireframe to ice 3D build",
+      "glowing seams",
+      "inverted HUD text blocks",
+      "pixel outline wordmark",
+      "prismatic glitch transitions",
+      "cinematic webgl"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#a0a5b1",
+      "foreground": "#ffffff",
+      "surface": "#d6dae2",
+      "surface-foreground": "#12161e",
+      "muted": "#8f949f",
+      "muted-foreground": "#e6e9ef",
+      "border": "#ffffff",
+      "primary": "#ffffff",
+      "primary-foreground": "#12161e",
+      "accent": "#12161e",
+      "accent-foreground": "#ffffff",
+      "ring": "#ffffff",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "foreground",
+      "surface",
+      "muted-foreground",
+      "border",
+      "primary (monochrome: using foreground)",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#a0a5b1",
+        "share": 1,
+        "oklch": "oklch(0.722 0.018 268)",
+        "role": "background"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#ffffff",
+        "100": "#f3f3f3",
+        "200": "#dfdfdf",
+        "300": "#c5c5c5",
+        "400": "#a4a4a4",
+        "500": "#878787",
+        "600": "#707070",
+        "700": "#595959",
+        "800": "#454545",
+        "900": "#333333",
+        "950": "#222222"
+      },
+      "neutral": {
+        "50": "#f8faff",
+        "100": "#f0f3fc",
+        "200": "#e1e4ed",
+        "300": "#d1d4dc",
+        "400": "#9ea1a9",
+        "500": "#70737a",
+        "600": "#51545b",
+        "700": "#3d4046",
+        "800": "#24262c",
+        "900": "#15171d",
+        "950": "#080a0f"
+      },
+      "accent": {
+        "50": "#f5f7f9",
+        "100": "#eaedf2",
+        "200": "#d5dbe6",
+        "300": "#bbc3d2",
+        "400": "#9aa3b6",
+        "500": "#7e889b",
+        "600": "#646d80",
+        "700": "#4c5464",
+        "800": "#363d4b",
+        "900": "#232934",
+        "950": "#12161e"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--bgColor": "#a0a5b1"
+    },
+    "traits": {
+      "saturation": "monochrome",
+      "contrast": "soft",
+      "contrastRatio": 7.34,
+      "temperature": "cool-neutral",
+      "harmony": "monochrome",
+      "primaryHue": "neutral",
+      "accentHue": "neutral"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Igloo pixel-outline wordmark",
+        "category": "sans",
+        "source": "custom",
+        "use": "Silkscreen",
+        "alternative": "Silkscreen",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "name": "Pixel mono",
+        "category": "mono",
+        "source": "custom",
+        "use": "Space Mono",
+        "alternative": "Space Mono",
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "mono": {
+        "name": "Pixel mono",
+        "category": "mono",
+        "source": "custom",
+        "use": "Space Mono",
+        "alternative": "Space Mono",
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "weights": [
+          400,
+          700
+        ]
+      }
+    },
+    "scale": {
+      "base": 16
+    },
+    "ratio": 1.25,
+    "ratioName": "major third",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 32,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 22,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 10,
+      "weight": 400,
+      "lineHeight": 1.3,
+      "letterSpacing": 0.04,
+      "transform": "uppercase"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": null,
+      "body": null
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0,
+    "scale": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": null
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 2,
+    "nav": null,
+    "mobile": {
+      "bodySize": null,
+      "h1Size": null,
+      "gutter": null,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 200,
+    "durations": [],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 0,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>igloo-inc — Design DNA specimen</title>
+<link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<style>
+  .grid3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:var(--space-5, 24px); }
+  .label { font:600 12px/1 var(--font-mono, ui-monospace, monospace); text-transform:uppercase; letter-spacing:.08em; color:var(--color-muted-foreground); margin:0 0 20px; }
+  .spec { padding-block: 56px; border-top:1px solid var(--color-border); }
+  .sws { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:16px; }
+  .sw { display:flex; flex-direction:column; gap:4px; font-size:13px; }
+  .sw .chip { height:64px; border-radius:var(--radius-md, 8px); border:1px solid var(--color-border); }
+  .sw code, .ts code, .sp code, .rd code { font:12px var(--font-mono, ui-monospace, monospace); color:var(--color-muted-foreground); }
+  .ramp { display:grid; grid-template-columns:90px repeat(11,1fr); gap:4px; margin-bottom:6px; align-items:center; }
+  .ramp div { height:40px; border-radius:6px; display:flex; align-items:end; padding:4px; } .ramp small { font-size:10px; opacity:.8 }
+  .rn { font:12px var(--font-mono, monospace); }
+  .ts { display:grid; grid-template-columns:160px 1fr; align-items:baseline; gap:16px; padding:10px 0; border-bottom:1px dashed var(--color-border); overflow:hidden; white-space:nowrap; }
+  .sp { display:grid; grid-template-columns:160px 1fr; align-items:center; gap:16px; margin:6px 0; } .sp div { height:14px; background:var(--color-primary); border-radius:3px; }
+  .rds { display:flex; gap:16px; flex-wrap:wrap; } .rd { width:96px; height:96px; background:var(--color-muted); border:1px solid var(--color-border); display:grid; place-items:center; text-align:center; }
+  .shd { min-height:100px; display:grid; place-items:center; }
+  .hero { padding-block: calc(var(--section-y) * .9);  }
+  .hero .actions { display:flex; gap:12px; margin-top:32px;  flex-wrap:wrap; }
+  .hero .lead { max-width:640px; margin-top:20px;  }
+  
+  .kw { display:flex; gap:8px; flex-wrap:wrap; margin-top:28px; } .kw span { font-size:12px; padding:4px 10px; border:1px solid var(--color-border); border-radius:var(--radius-sm, 4px); color:var(--color-muted-foreground); }
+  .form { display:grid; gap:12px; max-width:420px; }
+</style></head>
+<body>
+  <header class="nav"><div class="container nav-inner">
+    <strong style="font-family:var(--font-display);font-size:20px">igloo-inc</strong>
+    <nav style="display:flex;gap:28px;font-size:var(--text-sm, 14px)"><a style="color:var(--color-foreground)">Product</a><a style="color:var(--color-foreground)">Pricing</a><a style="color:var(--color-foreground)">Docs</a></nav>
+    <a class="btn btn-primary">Get started</a>
+  </div></header>
+
+  <section class="hero"><div class="container">
+    <p class="eyebrow">Design DNA specimen</p>
+    <h1 style="margin-top:16px">Build interfaces that feel <span class="" style="color:var(--color-primary)">unmistakably yours</span>.</h1>
+    <p class="lead">This page is rendered only from the extracted tokens and component recipes. Compare it side by side with the reference screenshots.</p>
+    <div class="actions"><a class="btn btn-primary">Start free trial</a><a class="btn btn-secondary">View showcase</a></div>
+    <div class="kw" style=""><span>web3 venture studio</span><span>arctic monochrome</span><span>wireframe to ice 3D build</span><span>glowing seams</span><span>inverted HUD text blocks</span><span>pixel outline wordmark</span><span>prismatic glitch transitions</span><span>cinematic webgl</span></div>
+  </div></section>
+
+  <section class="section" style="background:var(--color-muted)"><div class="container">
+    <h2>Components</h2>
+    <div class="grid3" style="margin-top:40px">
+      <article class="card"><p class="eyebrow">01</p><h3 style="margin:12px 0 8px">Fast by default</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">02</p><h3 style="margin:12px 0 8px">Composable</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">03</p><h3 style="margin:12px 0 8px">Accessible</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article>
+    </div>
+    <div class="grid3" style="margin-top:40px;align-items:start">
+      <form class="form" onsubmit="return false"><input class="input" placeholder="you@company.com"><input class="input" placeholder="Company"><button class="btn btn-primary">Subscribe</button></form>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-primary">Primary</a><a class="btn btn-secondary">Secondary</a></div>
+    </div>
+  </div></section>
+
+  <div class="container">
+    <section class="spec"><p class="label">Color roles</p><div class="sws">
+      <div class="sw"><div class="chip" style="background:#a0a5b1"></div><b>background</b><code>#a0a5b1</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>foreground</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#d6dae2"></div><b>surface</b><code>#d6dae2</code></div>
+      <div class="sw"><div class="chip" style="background:#12161e"></div><b>surface-foreground</b><code>#12161e</code></div>
+      <div class="sw"><div class="chip" style="background:#8f949f"></div><b>muted</b><code>#8f949f</code></div>
+      <div class="sw"><div class="chip" style="background:#e6e9ef"></div><b>muted-foreground</b><code>#e6e9ef</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>border</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>primary</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#12161e"></div><b>primary-foreground</b><code>#12161e</code></div>
+      <div class="sw"><div class="chip" style="background:#12161e"></div><b>accent</b><code>#12161e</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>accent-foreground</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>ring</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#287c42"></div><b>success</b><code>#287c42</code></div>
+      <div class="sw"><div class="chip" style="background:#8d5e00"></div><b>warning</b><code>#8d5e00</code></div>
+      <div class="sw"><div class="chip" style="background:#a34942"></div><b>danger</b><code>#a34942</code></div></div></section>
+    <section class="spec"><p class="label">Ramps</p>
+      <div class="ramp"><span class="rn">primary</span><div title="primary-50 #ffffff" style="background:#ffffff"><small style="color:#000">50</small></div><div title="primary-100 #f3f3f3" style="background:#f3f3f3"><small style="color:#000">100</small></div><div title="primary-200 #dfdfdf" style="background:#dfdfdf"><small style="color:#000">200</small></div><div title="primary-300 #c5c5c5" style="background:#c5c5c5"><small style="color:#000">300</small></div><div title="primary-400 #a4a4a4" style="background:#a4a4a4"><small style="color:#000">400</small></div><div title="primary-500 #878787" style="background:#878787"><small style="color:#fff">500</small></div><div title="primary-600 #707070" style="background:#707070"><small style="color:#fff">600</small></div><div title="primary-700 #595959" style="background:#595959"><small style="color:#fff">700</small></div><div title="primary-800 #454545" style="background:#454545"><small style="color:#fff">800</small></div><div title="primary-900 #333333" style="background:#333333"><small style="color:#fff">900</small></div><div title="primary-950 #222222" style="background:#222222"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">neutral</span><div title="neutral-50 #f8faff" style="background:#f8faff"><small style="color:#000">50</small></div><div title="neutral-100 #f0f3fc" style="background:#f0f3fc"><small style="color:#000">100</small></div><div title="neutral-200 #e1e4ed" style="background:#e1e4ed"><small style="color:#000">200</small></div><div title="neutral-300 #d1d4dc" style="background:#d1d4dc"><small style="color:#000">300</small></div><div title="neutral-400 #9ea1a9" style="background:#9ea1a9"><small style="color:#000">400</small></div><div title="neutral-500 #70737a" style="background:#70737a"><small style="color:#fff">500</small></div><div title="neutral-600 #51545b" style="background:#51545b"><small style="color:#fff">600</small></div><div title="neutral-700 #3d4046" style="background:#3d4046"><small style="color:#fff">700</small></div><div title="neutral-800 #24262c" style="background:#24262c"><small style="color:#fff">800</small></div><div title="neutral-900 #15171d" style="background:#15171d"><small style="color:#fff">900</small></div><div title="neutral-950 #080a0f" style="background:#080a0f"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">accent</span><div title="accent-50 #f5f7f9" style="background:#f5f7f9"><small style="color:#000">50</small></div><div title="accent-100 #eaedf2" style="background:#eaedf2"><small style="color:#000">100</small></div><div title="accent-200 #d5dbe6" style="background:#d5dbe6"><small style="color:#000">200</small></div><div title="accent-300 #bbc3d2" style="background:#bbc3d2"><small style="color:#000">300</small></div><div title="accent-400 #9aa3b6" style="background:#9aa3b6"><small style="color:#000">400</small></div><div title="accent-500 #7e889b" style="background:#7e889b"><small style="color:#fff">500</small></div><div title="accent-600 #646d80" style="background:#646d80"><small style="color:#fff">600</small></div><div title="accent-700 #4c5464" style="background:#4c5464"><small style="color:#fff">700</small></div><div title="accent-800 #363d4b" style="background:#363d4b"><small style="color:#fff">800</small></div><div title="accent-900 #232934" style="background:#232934"><small style="color:#fff">900</small></div><div title="accent-950 #12161e" style="background:#12161e"><small style="color:#fff">950</small></div></div></section>
+    <section class="spec"><p class="label">Type scale · Silkscreen / Space Mono · ratio 1.25 (major third)</p>
+      <div class="ts"><code>text-base · 16px</code><span style="font-size:16px;font-family:var(--font-body);line-height:1.15;">Design DNA igloo-inc</span></div></section>
+    <section class="spec"><p class="label">Spacing · 4px grid · balanced</p><div class="sp"><code>space-1 · 4px</code><div style="width:4px"></div></div><div class="sp"><code>space-2 · 8px</code><div style="width:8px"></div></div><div class="sp"><code>space-3 · 12px</code><div style="width:12px"></div></div><div class="sp"><code>space-4 · 16px</code><div style="width:16px"></div></div><div class="sp"><code>space-5 · 24px</code><div style="width:24px"></div></div><div class="sp"><code>space-6 · 32px</code><div style="width:32px"></div></div><div class="sp"><code>space-7 · 48px</code><div style="width:48px"></div></div><div class="sp"><code>space-8 · 64px</code><div style="width:64px"></div></div><div class="sp"><code>space-9 · 96px</code><div style="width:96px"></div></div><div class="sp"><code>space-10 · 128px</code><div style="width:128px"></div></div></section>
+    <section class="spec"><p class="label">Radius · sharp</p><div class="rds"><div class="rd" style="border-radius:0px"><code>sm<br>0px</code></div><div class="rd" style="border-radius:0px"><code>md<br>0px</code></div><div class="rd" style="border-radius:0px"><code>lg<br>0px</code></div><div class="rd" style="border-radius:9999px"><code>full<br>full</code></div></div></section>
+    <section class="spec"><p class="label">Elevation · flat</p><div class="grid3"><p class="muted">Flat design — no shadows.</p></div></section>
+  </div>
+</body></html>
