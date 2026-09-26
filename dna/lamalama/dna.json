@@ -1,0 +1,375 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "lamalama",
+  "generatedAt": "2026-09-26T02:22:48.434Z",
+  "sources": [
+    {
+      "id": "lamalama-com",
+      "type": "web",
+      "input": "https://lamalama.com/",
+      "weight": 1,
+      "title": "Lama Lama | Creative Digital Agency Amsterdam"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "amsterdam agency",
+      "graphite + cream",
+      "halftone dot texture",
+      "heavy caps headlines",
+      "bracketed mono labels",
+      "floating widget stack",
+      "pixel logo",
+      "live clock footer"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#1a1c1c",
+      "foreground": "#f9f4eb",
+      "surface": "#232525",
+      "surface-foreground": "#f9f4eb",
+      "muted": "#303231",
+      "muted-foreground": "#a09e98",
+      "border": "#474745",
+      "primary": "#f9f4eb",
+      "primary-foreground": "#1a1c1c",
+      "accent": "#ff0000",
+      "accent-foreground": "#ffffff",
+      "ring": "#f9f4eb",
+      "success": "#00a44b",
+      "warning": "#b67b00",
+      "danger": "#e94640"
+    },
+    "derived": [
+      "muted-foreground",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#f9f4eb",
+        "share": 0.27,
+        "oklch": "oklch(0.969 0.013 82)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#1a1c1c",
+        "share": 0.262,
+        "oklch": "oklch(0.224 0.003 197)",
+        "role": "background"
+      },
+      {
+        "hex": "#303231",
+        "share": 0.215,
+        "oklch": "oklch(0.315 0.003 165)",
+        "role": "surface"
+      },
+      {
+        "hex": "#ff0000",
+        "share": 0.211,
+        "oklch": "oklch(0.628 0.258 29)",
+        "role": "primary"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.041,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0,
+        "oklch": "oklch(1 0 0)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f9f4eb",
+        "100": "#f4ead7",
+        "200": "#ecd7b1",
+        "300": "#dcbd84",
+        "400": "#c29d55",
+        "500": "#a8812e",
+        "600": "#8f690b",
+        "700": "#745300",
+        "800": "#5a4000",
+        "900": "#432f00",
+        "950": "#2e1f00"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      },
+      "accent": {
+        "50": "#fff4f2",
+        "100": "#ffe7e3",
+        "200": "#ffcec5",
+        "300": "#ffaa9c",
+        "400": "#ff715f",
+        "500": "#ff0000",
+        "600": "#d50000",
+        "700": "#ac0000",
+        "800": "#870000",
+        "900": "#660000",
+        "950": "#470000"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--tw-ring-color": "#2b4f89",
+      "--tw-ring-offset-color": "#ffffff"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 15.62,
+      "temperature": "warm",
+      "harmony": "single-hue",
+      "primaryHue": "red",
+      "accentHue": "red"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "SuisseBPIntl",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "body": {
+        "name": "SuisseBPIntl",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "ui": {
+        "name": "Sometype",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Sometype, Helvetica, Arial, sans-serif",
+        "weights": [
+          500
+        ]
+      },
+      "mono": {
+        "name": "Sometype Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Sometype Mono",
+        "alternative": "Sometype Mono",
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "weights": [
+          400,
+          700
+        ]
+      }
+    },
+    "scale": {
+      "xs": 10,
+      "sm": 14,
+      "base": 16,
+      "lg": 20,
+      "xl": 32,
+      "2xl": 40,
+      "3xl": 48,
+      "4xl": 72,
+      "5xl": 80
+    },
+    "ratio": 1.308,
+    "ratioName": "perfect fourth",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 72,
+        "weight": 700,
+        "lineHeight": 0.8,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 56,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.4
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 40,
+      "body": 16
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "gridConformance": 0.72,
+    "scale": [
+      2,
+      4,
+      8,
+      10,
+      12,
+      16,
+      20,
+      24,
+      32,
+      40,
+      56,
+      102,
+      232
+    ],
+    "sectionY": 56,
+    "container": 1360,
+    "gutter": 16,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 2,
+      "md": 2,
+      "full": 9999,
+      "lg": 2
+    },
+    "zeroRadiusShare": 0.75,
+    "style": "sharp",
+    "buttonShape": "0px",
+    "card": 0,
+    "input": 0,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 39,
+    "nav": null,
+    "mobile": {
+      "bodySize": 16,
+      "h1Size": 40,
+      "gutter": 16,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 200,
+    "durations": [],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 4,
+      "videos": false,
+      "iconsSvg": 55,
+      "roundedImages": 0,
+      "commonAspect": "wide"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 50,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 16,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": -0.02,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "What we do"
+    },
+    "card": {
+      "background": "surface",
+      "radius": 0,
+      "border": null,
+      "shadow": null,
+      "paddingX": 0,
+      "paddingY": 0
+    },
+    "input": {
+      "background": null,
+      "radius": 0,
+      "border": null,
+      "height": 22,
+      "paddingX": 0,
+      "fontSize": 16
+    },
+    "link": null
+  }
+}

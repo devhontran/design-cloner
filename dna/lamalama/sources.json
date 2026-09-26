@@ -1,0 +1,8 @@
+[
+  {
+    "id": "lamalama-com",
+    "type": "web",
+    "input": "https://lamalama.com/",
+    "weight": 1
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "color": {
+    "roles": {
+      "background": "#1a1c1c",
+      "foreground": "#f9f4eb",
+      "surface": "#232525",
+      "muted": "#303231",
+      "muted-foreground": "#a09e98",
+      "border": "#474745",
+      "primary": "#f9f4eb",
+      "primary-foreground": "#1a1c1c",
+      "accent": "#ff0000",
+      "accent-foreground": "#ffffff",
+      "ring": "#f9f4eb"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "SuisseBPIntl", "use": "Inter", "alternative": "Inter", "weights": [400, 700] },
+      "body": { "name": "SuisseBPIntl", "use": "Inter", "alternative": "Inter", "weights": [400, 700] },
+      "mono": { "name": "Sometype Mono", "use": "Sometype Mono", "alternative": "Sometype Mono", "weights": [400, 700] }
+    }
+  },
+  "shape": { "radius": { "sm": 2, "md": 2, "lg": 2, "full": 9999 }, "style": "sharp" },
+  "personality": {
+    "keywords": ["amsterdam agency", "graphite + cream", "halftone dot texture", "heavy caps headlines", "bracketed mono labels", "floating widget stack", "pixel logo", "live clock footer"]
+  }
+}
