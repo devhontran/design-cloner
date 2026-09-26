@@ -1,0 +1,506 @@
+{
+ "url": "https://kriss.ai/",
+ "title": "Kriss.ai",
+ "description": "An AI chatbot for healthcare professionals.",
+ "themeColor": null,
+ "ogImage": "https://kriss-ai-cms-3c06b05.payloadcms.app/media/share-image-1.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 1331985.125,
+    "ex": "body"
+   },
+   "#0f0f0f": {
+    "w": 6251,
+    "ex": "div > a.nav_button.svelte-na9uof"
+   }
+  },
+  "text": {
+   "#000000": {
+    "w": 53,
+    "ex": "div > span"
+   },
+   "#0f0f0f": {
+    "w": 32,
+    "ex": "div > div.text.svelte-9mb1te"
+   },
+   "#ffffff": {
+    "w": 60,
+    "ex": "div > div.scroll_text.D8"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 24,
+    "ex": "div#cgptcb-body > div.cgptcb-chat-bubble.visible"
+   }
+  },
+  "families": {
+   "Krissai": {
+    "w": 145
+   }
+  },
+  "typeStyles": {
+   "Krissai|60|600|0.97|0|none": {
+    "family": "Krissai",
+    "stack": "Krissai",
+    "generic": "",
+    "size": 60,
+    "weight": 600,
+    "lineHeight": 0.97,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 12,
+    "count": 12,
+    "tags": {
+     "span": 12
+    },
+    "ex": "div > span"
+   },
+   "Krissai|24|400|1.2|0|none": {
+    "family": "Krissai",
+    "stack": "Krissai",
+    "generic": "",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 41,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "div > div.description_line.svelte-hipe91"
+   },
+   "Krissai|12|400|1.5|0|none": {
+    "family": "Krissai",
+    "stack": "Krissai",
+    "generic": "",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 10,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.text.svelte-9mb1te"
+   },
+   "Krissai|14|400|1.2|0|none": {
+    "family": "Krissai",
+    "stack": "Krissai",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 51,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.scroll_text.D8"
+   },
+   "Krissai|14|400|1.5|0|none": {
+    "family": "Krissai",
+    "stack": "Krissai",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 31,
+    "count": 6,
+    "tags": {
+     "a": 6
+    },
+    "ex": "div > a.nav_link.svelte-na9uof"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "2": {
+     "w": 4
+    },
+    "10": {
+     "w": 2
+    },
+    "15": {
+     "w": 10
+    },
+    "30": {
+     "w": 4
+    }
+   },
+   "margin": {
+    "8": {
+     "w": 2
+    },
+    "16": {
+     "w": 1
+    },
+    "20": {
+     "w": 1
+    },
+    "50": {
+     "w": 2
+    },
+    "300": {
+     "w": 2
+    }
+   },
+   "gap": {
+    "5": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 133,
+    "h": 47,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 6,
+    "h": 6,
+    "kind": "box"
+   }
+  ],
+  "shadows": {
+   "rgba(64,179,166,0.08) 10px 10px 40px 0px, rgba(66,181,165,0.12) 5px 14px 80px 0px": {
+    "w": 1,
+    "ex": "div#cgptcb-body > div.cgptcb-chat-bubble.visible"
+   }
+  },
+  "gradients": {
+   "radial-gradient(57.58% 71.02% at 45% 100%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(73.61% 153.78% at 43.64% -58.9%, rgba(242, 242, 242, 0.33) 0%, rgba(242, 242, 242, 0) 100%), linear-gradient(rgba(242, 242, 242, 0.05) 0%, rgba(242, 242, 242, 0.02) 100%)": {
+    "w": 36,
+    "ex": "div#cgptcb-body > div.cgptcb-chat-bubble.visible"
+   }
+  },
+  "durations": {
+   "150": {
+    "w": 1
+   },
+   "300": {
+    "w": 10
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 10
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 56,
+   "flex": 7,
+   "grid": 0,
+   "glass": 2,
+   "textGradient": 0,
+   "animations": 1,
+   "transitions": 10,
+   "images": 0,
+   "svgs": 5,
+   "videos": 0,
+   "sticky": 5
+  },
+  "headings": [],
+  "buttons": [
+   {
+    "sel": "div > a.nav_button.svelte-na9uof",
+    "w": 133,
+    "h": 47,
+    "bg": "#0f0f0f",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 30,
+    "fontSize": 14,
+    "fontWeight": 400,
+    "family": "Krissai",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Book Demo",
+    "backdrop": null,
+    "transition": "0.3s, 0.3s ease, ease"
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [
+   {
+    "color": "#0f0f0f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#0f0f0f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#0f0f0f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#0f0f0f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#0f0f0f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 990,
+    "bg": "#ffffff",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--surgery-room-cta": "rgba(107, 23, 147, .35)",
+  "--text-color-50": "color-mix(in lch, rgb(15, 15, 15) 50%, transparent)",
+  "--blue-text": "rgb(15, 15, 15)",
+  "--front-desk-cta-text": "rgb(108, 0, 0)",
+  "--picker-width": "300px",
+  "--body-font": "normal 400 16px/1.2em \"Krissai\", sans-serif",
+  "--consultation-room-cta-text": "rgb(26, 61, 28)",
+  "--administration-room-cta-text": "rgb(24, 26, 90)",
+  "--ui-hover-color": "#fff",
+  "--doctors-office-cta": "rgba(229, 174, 32, .35)",
+  "--server-room-cta-text": "rgb(86, 52, 2)",
+  "--text-color-20": "color-mix(in lch, rgb(15, 15, 15) 20%, transparent)",
+  "--checker-color-1": "#1b1b1b",
+  "--administration-room-cta": "rgba(23, 124, 147, .35)",
+  "--consultation-room-cta": "rgba(25, 147, 23, .35)",
+  "--info-red": "rgba(15, 15, 15, .6)",
+  "--cta-hover-color": "rgb(51, 51, 51)",
+  "--front-desk-cta-hover": "rgba(196, 45, 45, .5)",
+  "--pad": "30px",
+  "--blue-cta-hover": "rgb(51, 51, 51)",
+  "--doctors-office-cta-hover": "rgba(229, 174, 32, .6)",
+  "--front-desk-text": "rgb(108, 0, 0)",
+  "--info-blue": "#0f0f0f",
+  "--slider-width": "12px",
+  "--blue-cta-text": "rgb(255, 255, 255)",
+  "--ui-color": "#000",
+  "--white": "#fff",
+  "--aftercare-cta-hover": "rgba(23, 147, 72, .6)",
+  "--aftercare-cta": "rgba(23, 147, 72, .35)",
+  "--doctors-office-cta-text": "rgb(54, 39, 16)",
+  "--server-room-text": "rgb(86, 52, 2)",
+  "--doctors-office-text": "rgb(54, 39, 16)",
+  "--info-blue-50": "color-mix(in lch, #0f0f0f 50%, transparent)",
+  "--blue-cta": "rgb(15, 15, 15)",
+  "--cgpt-chat-box-container-height": "704px",
+  "--text-color": "rgb(15, 15, 15)",
+  "--surgery-room-cta-hover": "rgba(107, 23, 147, .6)",
+  "--picker-height": "200px",
+  "--surgery-room-cta-text": "rgb(41, 26, 61)",
+  "--front-desk-cta": "rgba(196, 45, 45, .35)",
+  "--glass-color": "rgba(255, 255, 255, .2)",
+  "--checker-color-2": "#333",
+  "--consultation-room-cta-hover": "rgba(25, 147, 23, .6)",
+  "--server-room-cta": "rgba(216, 94, 6, .35)",
+  "--glass-stroke-color": "rgba(255, 255, 255, .3)",
+  "--aftercare-cta-text": "rgb(15, 56, 34)",
+  "--administration-room-cta-hover": "rgba(23, 124, 147, .6)",
+  "--cta-text-color": "rgb(255, 255, 255)",
+  "--info-blue-15": "color-mix(in lch, #0f0f0f 15%, transparent)",
+  "--administration-room-text": "rgb(24, 26, 90)",
+  "--bg-color": "#fff",
+  "--surgery-room-text": "rgb(41, 26, 61)",
+  "--cta-color": "rgb(15, 15, 15)",
+  "--consultation-room-text": "rgb(26, 61, 28)",
+  "--server-room-cta-hover": "linear-gradient(0deg, rgba(0, 0, 0, .05) 0%, rgba(0, 0, 0, .05) 100%), rgba(216, 94, 6, .6)",
+  "--aftercare-text": "rgb(15, 56, 34)",
+  "--body-color": "#000",
+  "--cgpt-chat-box-header-height": "52px"
+ },
+ "colorVars": {
+  "--surgery-room-cta": "#cbaed9",
+  "--blue-text": "#0f0f0f",
+  "--front-desk-cta-text": "#6c0000",
+  "--consultation-room-cta-text": "#1a3d1c",
+  "--administration-room-cta-text": "#181a5a",
+  "--ui-hover-color": "#ffffff",
+  "--doctors-office-cta": "#f6e3b1",
+  "--server-room-cta-text": "#563402",
+  "--checker-color-1": "#1b1b1b",
+  "--administration-room-cta": "#aed1d9",
+  "--consultation-room-cta": "#afd9ae",
+  "--info-red": "#6f6f6f",
+  "--cta-hover-color": "#333333",
+  "--front-desk-cta-hover": "#e19696",
+  "--blue-cta-hover": "#333333",
+  "--doctors-office-cta-hover": "#efce79",
+  "--front-desk-text": "#6c0000",
+  "--info-blue": "#0f0f0f",
+  "--blue-cta-text": "#ffffff",
+  "--ui-color": "#000000",
+  "--white": "#ffffff",
+  "--aftercare-cta-hover": "#74be91",
+  "--aftercare-cta": "#aed9bf",
+  "--doctors-office-cta-text": "#362710",
+  "--server-room-text": "#563402",
+  "--doctors-office-text": "#362710",
+  "--blue-cta": "#0f0f0f",
+  "--text-color": "#0f0f0f",
+  "--surgery-room-cta-hover": "#a674be",
+  "--surgery-room-cta-text": "#291a3d",
+  "--front-desk-cta": "#eab6b6",
+  "--glass-color": "#ffffff",
+  "--checker-color-2": "#333333",
+  "--consultation-room-cta-hover": "#75be74",
+  "--server-room-cta": "#f1c7a8",
+  "--glass-stroke-color": "#ffffff",
+  "--aftercare-cta-text": "#0f3822",
+  "--administration-room-cta-hover": "#74b0be",
+  "--cta-text-color": "#ffffff",
+  "--administration-room-text": "#181a5a",
+  "--bg-color": "#ffffff",
+  "--surgery-room-text": "#291a3d",
+  "--cta-color": "#0f0f0f",
+  "--consultation-room-text": "#1a3d1c",
+  "--aftercare-text": "#0f3822",
+  "--body-color": "#000000"
+ },
+ "loadedFonts": [
+  {
+   "family": "Krissai",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Krissai",
+   "weight": "600",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#c5bbbc",
+    "share": 0.449
+   },
+   {
+    "hex": "#bdafb2",
+    "share": 0.275
+   },
+   {
+    "hex": "#b1a2a5",
+    "share": 0.169
+   },
+   {
+    "hex": "#998d92",
+    "share": 0.06
+   },
+   {
+    "hex": "#aa8a76",
+    "share": 0.02
+   },
+   {
+    "hex": "#766e72",
+    "share": 0.014
+   },
+   {
+    "hex": "#131313",
+    "share": 0.006
+   },
+   {
+    "hex": "#494447",
+    "share": 0.006
+   },
+   {
+    "hex": "#799274",
+    "share": 0.001
+   }
+  ],
+  "meanLightness": 0.763,
+  "lightnessStd": 0.077,
+  "meanChroma": 0.016,
+  "chromaticShare": 0.007,
+  "negativeSpace": 0.449,
+  "busyness": 0.008,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": null,
+  "gutter": null,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

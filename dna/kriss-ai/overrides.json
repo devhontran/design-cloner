@@ -1,0 +1,10 @@
+{
+  "color": { "roles": { "background": "#e9dfe1", "foreground": "#0f0f0f", "surface": "#f4efef", "muted": "#ded2d5", "muted-foreground": "#5a5557", "border": "#ffffff", "primary": "#0f0f0f", "primary-foreground": "#ffffff", "accent": "#cbaed9", "accent-foreground": "#0f0f0f", "ring": "#0f0f0f" } },
+  "typography": {
+    "families": { "display": { "name": "Krissai (geometric sans)", "use": "Manrope", "alternative": "Manrope", "weights": [500, 700] }, "body": { "name": "Krissai", "use": "Manrope", "alternative": "Manrope", "weights": [400, 500] } },
+    "headings": { "h1": { "size": 48, "weight": 700, "lineHeight": 1.1, "letterSpacing": -0.02, "transform": "none" }, "h2": { "size": 30, "weight": 500, "lineHeight": 1.1, "letterSpacing": -0.01, "transform": "none" } },
+    "body": { "size": 11, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 2, "md": 4, "lg": 8, "full": 9999 }, "style": "soft" },
+  "personality": { "keywords": ["ai chatbot for dentists", "isometric 3D clinic dollhouse", "pastel pink + lilac + mint", "frosted glass info cards", "corner-bracket frames", "camera-tour navigation", "typewriter hero", "soft clay renders"] }
+}

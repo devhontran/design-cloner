@@ -1,0 +1,8 @@
+[
+  {
+    "id": "kriss-ai",
+    "type": "web",
+    "input": "https://kriss.ai/",
+    "weight": 1
+  }
+]

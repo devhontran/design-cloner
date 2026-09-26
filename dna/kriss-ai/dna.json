@@ -1,0 +1,394 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "kriss-ai",
+  "generatedAt": "2026-09-26T06:19:06.151Z",
+  "sources": [
+    {
+      "id": "kriss-ai",
+      "type": "web",
+      "input": "https://kriss.ai/",
+      "weight": 1,
+      "title": "Kriss.ai"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "ai chatbot for dentists",
+      "isometric 3D clinic dollhouse",
+      "pastel pink + lilac + mint",
+      "frosted glass info cards",
+      "corner-bracket frames",
+      "camera-tour navigation",
+      "typewriter hero",
+      "soft clay renders"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#e9dfe1",
+      "foreground": "#0f0f0f",
+      "surface": "#f4efef",
+      "surface-foreground": "#000000",
+      "muted": "#ded2d5",
+      "muted-foreground": "#5a5557",
+      "border": "#ffffff",
+      "primary": "#0f0f0f",
+      "primary-foreground": "#ffffff",
+      "accent": "#cbaed9",
+      "accent-foreground": "#0f0f0f",
+      "ring": "#0f0f0f",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "surface",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.707,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.108,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#0f0f0f",
+        "share": 0.068,
+        "oklch": "oklch(0.168 0 0)",
+        "role": "muted-foreground"
+      },
+      {
+        "hex": "#1a3d1c",
+        "share": 0.026,
+        "oklch": "oklch(0.324 0.07 145)",
+        "role": "primary"
+      },
+      {
+        "hex": "#afd9ae",
+        "share": 0.026,
+        "oklch": "oklch(0.844 0.074 144)",
+        "role": null
+      },
+      {
+        "hex": "#74be91",
+        "share": 0.026,
+        "oklch": "oklch(0.741 0.099 156)",
+        "role": null
+      },
+      {
+        "hex": "#cbaed9",
+        "share": 0.013,
+        "oklch": "oklch(0.79 0.068 315)",
+        "role": "accent"
+      },
+      {
+        "hex": "#6c0000",
+        "share": 0.013,
+        "oklch": "oklch(0.334 0.137 29)",
+        "role": null
+      },
+      {
+        "hex": "#181a5a",
+        "share": 0.013,
+        "oklch": "oklch(0.265 0.112 274)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#6b6b6b",
+        "700": "#505050",
+        "800": "#383838",
+        "900": "#232323",
+        "950": "#0f0f0f"
+      },
+      "accent": {
+        "50": "#f6f1f9",
+        "100": "#eee4f3",
+        "200": "#e0cce9",
+        "300": "#cbaed9",
+        "400": "#b08dc1",
+        "500": "#9772a9",
+        "600": "#815d91",
+        "700": "#694978",
+        "800": "#533960",
+        "900": "#3e2948",
+        "950": "#2a1a32"
+      },
+      "neutral": {
+        "50": "#fff8f9",
+        "100": "#fbf0f2",
+        "200": "#ece1e4",
+        "300": "#dcd1d3",
+        "400": "#a99fa1",
+        "500": "#7a7072",
+        "600": "#5a5153",
+        "700": "#463d3f",
+        "800": "#2c2426",
+        "900": "#1c1517",
+        "950": "#0f080a"
+      }
+    },
+    "gradients": [
+      "radial-gradient(57.58% 71.02% at 45% 100%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), radial-gradient(73.61% 153.78% at 43.64% -58.9%, rgba(242, 242, 242, 0.33) 0%, rgba(242, 242, 242, 0) 100%), linear-gradient(rgba(242, 242, 242, 0.05) 0%, rgba(242, 242, 242, 0.02) 100%)"
+    ],
+    "cssVars": {
+      "--surgery-room-cta": "#cbaed9",
+      "--blue-text": "#0f0f0f",
+      "--front-desk-cta-text": "#6c0000",
+      "--consultation-room-cta-text": "#1a3d1c",
+      "--administration-room-cta-text": "#181a5a",
+      "--ui-hover-color": "#ffffff",
+      "--doctors-office-cta": "#f6e3b1",
+      "--server-room-cta-text": "#563402",
+      "--checker-color-1": "#1b1b1b",
+      "--administration-room-cta": "#aed1d9",
+      "--consultation-room-cta": "#afd9ae",
+      "--info-red": "#6f6f6f",
+      "--cta-hover-color": "#333333",
+      "--front-desk-cta-hover": "#e19696",
+      "--blue-cta-hover": "#333333",
+      "--doctors-office-cta-hover": "#efce79",
+      "--front-desk-text": "#6c0000",
+      "--info-blue": "#0f0f0f",
+      "--blue-cta-text": "#ffffff",
+      "--ui-color": "#000000",
+      "--white": "#ffffff",
+      "--aftercare-cta-hover": "#74be91",
+      "--aftercare-cta": "#aed9bf",
+      "--doctors-office-cta-text": "#362710",
+      "--server-room-text": "#563402",
+      "--doctors-office-text": "#362710",
+      "--blue-cta": "#0f0f0f",
+      "--text-color": "#0f0f0f",
+      "--surgery-room-cta-hover": "#a674be",
+      "--surgery-room-cta-text": "#291a3d",
+      "--front-desk-cta": "#eab6b6",
+      "--glass-color": "#ffffff",
+      "--checker-color-2": "#333333",
+      "--consultation-room-cta-hover": "#75be74",
+      "--server-room-cta": "#f1c7a8",
+      "--glass-stroke-color": "#ffffff",
+      "--aftercare-cta-text": "#0f3822",
+      "--administration-room-cta-hover": "#74b0be",
+      "--cta-text-color": "#ffffff",
+      "--administration-room-text": "#181a5a"
+    },
+    "traits": {
+      "saturation": "muted",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "cool",
+      "harmony": "complementary",
+      "primaryHue": "green",
+      "accentHue": "purple-magenta"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Krissai (geometric sans)",
+        "category": "sans",
+        "source": "custom",
+        "use": "Manrope",
+        "alternative": "Manrope",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          500,
+          700
+        ]
+      },
+      "body": {
+        "name": "Krissai",
+        "category": "sans",
+        "source": "custom",
+        "use": "Manrope",
+        "alternative": "Manrope",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      }
+    },
+    "scale": {
+      "sm": 12,
+      "base": 14,
+      "lg": 24,
+      "xl": 60
+    },
+    "ratio": 2.07,
+    "ratioName": "golden ratio",
+    "base": 14,
+    "headings": {
+      "h1": {
+        "size": 48,
+        "weight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 30,
+        "weight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 18,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 11,
+      "weight": 400,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "transform": "none"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": null,
+      "body": null
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.26,
+    "scale": [
+      2,
+      6,
+      8,
+      10,
+      16,
+      20,
+      30,
+      50
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 2,
+      "md": 4,
+      "lg": 8,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "soft",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "dramatic",
+    "shadows": {
+      "md": "rgba(64,179,166,0.08) 10px 10px 40px 0px, rgba(66,181,165,0.12) 5px 14px 80px 0px"
+    },
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 3,
+    "nav": null,
+    "mobile": {
+      "bodySize": null,
+      "h1Size": null,
+      "gutter": null,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 300,
+    "durations": [
+      150,
+      300
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 1
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 5,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "muted-foreground",
+      "color": "background",
+      "radius": 0,
+      "height": 47,
+      "paddingX": 30,
+      "paddingY": 0,
+      "fontSize": 14,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.3s, 0.3s ease, ease",
+      "example": "Book Demo"
+    },
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "muted-foreground",
+      "underline": false
+    }
+  }
+}
