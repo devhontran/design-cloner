@@ -1,0 +1,349 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "slosh-seltzer",
+  "generatedAt": "2026-09-26T05:44:21.159Z",
+  "sources": [
+    {
+      "id": "sloshseltzer-com",
+      "type": "web",
+      "input": "https://sloshseltzer.com/",
+      "weight": 1,
+      "title": "Buttermax: Slosh Seltzer"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "vibrant",
+      "energetic",
+      "warm",
+      "bold headlines",
+      "dramatic type scale",
+      "sharp corners",
+      "architectural",
+      "flat",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffc1ff",
+      "foreground": "#1b131b",
+      "surface": "#ffffff",
+      "surface-foreground": "#1b131b",
+      "muted": "#f0b3f0",
+      "muted-foreground": "#765976",
+      "border": "#e4ace4",
+      "primary": "#ff0837",
+      "primary-foreground": "#0a0a0a",
+      "accent": "#00a165",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#ff0837",
+      "success": "#00a64c",
+      "warning": "#b87c00",
+      "danger": "#ea4841"
+    },
+    "derived": [
+      "foreground",
+      "surface",
+      "muted-foreground",
+      "border",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffc1ff",
+        "share": 0.38,
+        "oklch": "oklch(0.886 0.107 326)",
+        "role": "background"
+      },
+      {
+        "hex": "#ff0837",
+        "share": 0.305,
+        "oklch": "oklch(0.632 0.253 23)",
+        "role": "primary"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.129,
+        "oklch": "oklch(1 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.129,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#00a165",
+        "share": 0.054,
+        "oklch": "oklch(0.625 0.145 158)",
+        "role": "accent"
+      },
+      {
+        "hex": "#ffabe7",
+        "share": 0.001,
+        "oklch": "oklch(0.841 0.123 338)",
+        "role": null
+      },
+      {
+        "hex": "#ff79b1",
+        "share": 0.001,
+        "oklch": "oklch(0.748 0.173 356)",
+        "role": null
+      },
+      {
+        "hex": "#ff386b",
+        "share": 0.001,
+        "oklch": "oklch(0.661 0.232 12)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#fff4f3",
+        "100": "#ffe7e5",
+        "200": "#ffceca",
+        "300": "#ffaaa5",
+        "400": "#ff7170",
+        "500": "#ff0837",
+        "600": "#d5002b",
+        "700": "#ac0021",
+        "800": "#870017",
+        "900": "#66000f",
+        "950": "#470007"
+      },
+      "accent": {
+        "50": "#eefbf2",
+        "100": "#daf5e4",
+        "200": "#b3eac9",
+        "300": "#82d8a8",
+        "400": "#4abc83",
+        "500": "#00a165",
+        "600": "#008553",
+        "700": "#006b41",
+        "800": "#005332",
+        "900": "#003e24",
+        "950": "#002a17"
+      },
+      "neutral": {
+        "50": "#fff7fe",
+        "100": "#f8f1f8",
+        "200": "#e9e2e9",
+        "300": "#d9d2d8",
+        "400": "#a69fa5",
+        "500": "#777177",
+        "600": "#585257",
+        "700": "#433e43",
+        "800": "#2a242a",
+        "900": "#1a151a",
+        "950": "#0d080d"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "medium",
+      "contrastRatio": 12.4,
+      "temperature": "warm",
+      "harmony": "multi-hue",
+      "primaryHue": "red",
+      "accentHue": "green"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "steelfish-eb",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "steelfish-eb",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "name": "FKGrotesk",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "FKGrotesk",
+        "weights": [
+          400
+        ]
+      },
+      "ui": {
+        "name": "FKGrotesk-Medium",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "FKGrotesk-Medium",
+        "weights": [
+          700
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 12,
+      "base": 16,
+      "lg": 24,
+      "xl": 38,
+      "2xl": 40,
+      "3xl": 207
+    },
+    "ratio": 1.897,
+    "ratioName": "golden ratio",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 207,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 145,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 32,
+      "body": 12
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.39,
+    "scale": [
+      20,
+      22,
+      28,
+      34,
+      50,
+      54,
+      82,
+      92,
+      100
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 59,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 11,
+    "nav": null,
+    "mobile": {
+      "bodySize": 12,
+      "h1Size": 32,
+      "gutter": 59,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 600,
+    "durations": [
+      100,
+      450,
+      500,
+      600
+    ],
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "animatedElements": 5
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 1,
+      "videos": false,
+      "iconsSvg": 2,
+      "roundedImages": 0,
+      "commonAspect": "square"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "primary",
+      "underline": false
+    }
+  }
+}

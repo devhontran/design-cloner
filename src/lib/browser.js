@@ -34,6 +34,16 @@ export async function newContext(browser, { width = 1440, height = 900, mobile =
     colorScheme: 'light',
   });
   if (process.env.DNA_FETCH_VIA_NODE) await ctx.route('**/*', fetchViaNode);
+  // Opt-in (DNA_GPU_NAME="…"): report this WebGL renderer name instead of the software one, for WebGL sites
+  // that refuse to start on SwiftShader and would otherwise only show a "browser not supported" screen.
+  if (process.env.DNA_GPU_NAME) {
+    await ctx.addInitScript((name) => {
+      for (const C of [self.WebGLRenderingContext, self.WebGL2RenderingContext].filter(Boolean)) {
+        const orig = C.prototype.getParameter;
+        C.prototype.getParameter = function (p) { return p === 0x9246 ? name : orig.call(this, p); }; // UNMASKED_RENDERER_WEBGL
+      }
+    }, process.env.DNA_GPU_NAME);
+  }
   return ctx;
 }
 

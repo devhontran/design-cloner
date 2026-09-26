@@ -1,0 +1,364 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "slosh-seltzer",
+  "generatedAt": "2026-09-26T05:44:21.159Z",
+  "sources": [
+    {
+      "id": "sloshseltzer-com",
+      "type": "web",
+      "input": "https://sloshseltzer.com/",
+      "weight": 1,
+      "title": "Buttermax: Slosh Seltzer"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "party seltzer brand",
+      "bubblegum pink + cherry red + kelly green",
+      "ultra-condensed caps",
+      "inline-striped letterforms",
+      "3D can hero",
+      "sticker confetti",
+      "rotating badge text",
+      "playful webgl"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#00a165",
+      "foreground": "#ffc1ff",
+      "surface": "#ffc1ff",
+      "surface-foreground": "#ff0837",
+      "muted": "#ffabe7",
+      "muted-foreground": "#ff79b1",
+      "border": "#ffc1ff",
+      "primary": "#ff0837",
+      "primary-foreground": "#ffc1ff",
+      "accent": "#ffc1ff",
+      "accent-foreground": "#00a165",
+      "ring": "#ff0837",
+      "success": "#00a64c",
+      "warning": "#b87c00",
+      "danger": "#ea4841"
+    },
+    "derived": [
+      "foreground",
+      "surface",
+      "muted-foreground",
+      "border",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffc1ff",
+        "share": 0.38,
+        "oklch": "oklch(0.886 0.107 326)",
+        "role": "background"
+      },
+      {
+        "hex": "#ff0837",
+        "share": 0.305,
+        "oklch": "oklch(0.632 0.253 23)",
+        "role": "primary"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.129,
+        "oklch": "oklch(1 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.129,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#00a165",
+        "share": 0.054,
+        "oklch": "oklch(0.625 0.145 158)",
+        "role": "accent"
+      },
+      {
+        "hex": "#ffabe7",
+        "share": 0.001,
+        "oklch": "oklch(0.841 0.123 338)",
+        "role": null
+      },
+      {
+        "hex": "#ff79b1",
+        "share": 0.001,
+        "oklch": "oklch(0.748 0.173 356)",
+        "role": null
+      },
+      {
+        "hex": "#ff386b",
+        "share": 0.001,
+        "oklch": "oklch(0.661 0.232 12)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#fff4f3",
+        "100": "#ffe7e5",
+        "200": "#ffceca",
+        "300": "#ffaaa5",
+        "400": "#ff7170",
+        "500": "#ff0837",
+        "600": "#d5002b",
+        "700": "#ac0021",
+        "800": "#870017",
+        "900": "#66000f",
+        "950": "#470007"
+      },
+      "accent": {
+        "50": "#fff1ff",
+        "100": "#ffe0ff",
+        "200": "#ffc1ff",
+        "300": "#f69bf8",
+        "400": "#df6fe2",
+        "500": "#c54bc9",
+        "600": "#ab2faf",
+        "700": "#8d1a91",
+        "800": "#700d73",
+        "900": "#550358",
+        "950": "#3b003e"
+      },
+      "neutral": {
+        "50": "#f4fdf7",
+        "100": "#edf6f0",
+        "200": "#dee7e1",
+        "300": "#ced7d1",
+        "400": "#9ca49f",
+        "500": "#6d7570",
+        "600": "#4f5651",
+        "700": "#3b423d",
+        "800": "#222824",
+        "900": "#131915",
+        "950": "#060c08"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "medium",
+      "contrastRatio": 12.4,
+      "temperature": "warm",
+      "harmony": "multi-hue",
+      "primaryHue": "red",
+      "accentHue": "green"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Steelfish",
+        "category": "sans",
+        "source": "custom",
+        "use": "Big Shoulders Display",
+        "alternative": "Big Shoulders Display",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          800,
+          900
+        ]
+      },
+      "body": {
+        "name": "FK Grotesk",
+        "category": "sans",
+        "source": "custom",
+        "use": "Space Mono",
+        "alternative": "Space Mono",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "ui": {
+        "name": "FKGrotesk-Medium",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "FKGrotesk-Medium",
+        "weights": [
+          700
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 12,
+      "base": 16,
+      "lg": 24,
+      "xl": 38,
+      "2xl": 40,
+      "3xl": 207
+    },
+    "ratio": 1.897,
+    "ratioName": "golden ratio",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 207,
+        "weight": 800,
+        "lineHeight": 0.85,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 100,
+        "weight": 800,
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 10,
+      "weight": 400,
+      "lineHeight": 1.4,
+      "letterSpacing": 0.02,
+      "transform": "none"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 32,
+      "body": 12
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.39,
+    "scale": [
+      20,
+      22,
+      28,
+      34,
+      50,
+      54,
+      82,
+      92,
+      100
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 59,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "pill",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 11,
+    "nav": null,
+    "mobile": {
+      "bodySize": 12,
+      "h1Size": 32,
+      "gutter": 59,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 600,
+    "durations": [
+      100,
+      450,
+      500,
+      600
+    ],
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "animatedElements": 5
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 1,
+      "videos": false,
+      "iconsSvg": 2,
+      "roundedImages": 0,
+      "commonAspect": "square"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "primary",
+      "color": "primary-foreground",
+      "radius": 9999,
+      "height": 38,
+      "paddingX": 40,
+      "paddingY": 0,
+      "fontSize": 13,
+      "fontWeight": 800,
+      "transform": "uppercase",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.6s cubic-bezier(0.215, 0.61, 0.355, 1)",
+      "example": "I'M READY TO PARTY"
+    },
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "primary",
+      "underline": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "color": { "roles": { "background": "#00a165", "foreground": "#ffc1ff", "surface": "#ffc1ff", "surface-foreground": "#ff0837", "muted": "#ffabe7", "muted-foreground": "#ff79b1", "border": "#ffc1ff", "primary": "#ff0837", "primary-foreground": "#ffc1ff", "accent": "#ffc1ff", "accent-foreground": "#00a165", "ring": "#ff0837" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Steelfish", "use": "Big Shoulders Display", "alternative": "Big Shoulders Display", "weights": [800, 900] },
+      "body": { "name": "FK Grotesk", "use": "Space Mono", "alternative": "Space Mono", "weights": [400, 700] }
+    },
+    "headings": { "h1": { "size": 207, "weight": 800, "lineHeight": 0.85, "letterSpacing": -0.01, "transform": "uppercase" }, "h2": { "size": 100, "weight": 800, "lineHeight": 0.9, "letterSpacing": 0, "transform": "uppercase" } },
+    "body": { "size": 10, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0.02, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp", "buttonShape": "pill" },
+  "components": { "buttonPrimary": { "background": "primary", "color": "primary-foreground", "radius": 9999, "height": 38, "paddingX": 40, "paddingY": 0, "fontSize": 13, "fontWeight": 800, "transform": "uppercase", "letterSpacing": 0, "border": null, "shadow": null, "transition": "0.6s cubic-bezier(0.215, 0.61, 0.355, 1)", "example": "I'M READY TO PARTY" } },
+  "personality": { "keywords": ["party seltzer brand", "bubblegum pink + cherry red + kelly green", "ultra-condensed caps", "inline-striped letterforms", "3D can hero", "sticker confetti", "rotating badge text", "playful webgl"] }
+}
