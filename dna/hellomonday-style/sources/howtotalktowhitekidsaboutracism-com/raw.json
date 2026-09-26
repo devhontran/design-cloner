@@ -1,0 +1,457 @@
+{
+ "url": "https://howtotalktowhitekidsaboutracism.com/",
+ "title": "HTWKR - How to Talk to White Kids about Racism",
+ "description": "A beginners guide to help white families learn how to make an active choice to acknowledge biases and help create equity for all people, on an individual and institutional level.",
+ "themeColor": "#ffffff",
+ "ogImage": "https://howtotalktowhitekidsaboutracism.com/images/social_share.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 1296000,
+    "ex": "body"
+   }
+  },
+  "text": {
+   "#5f5f5f": {
+    "w": 25,
+    "ex": "li > span"
+   },
+   "#ffffff": {
+    "w": 326,
+    "ex": "li > a"
+   },
+   "#8c8c8c": {
+    "w": 30,
+    "ex": "p > span"
+   },
+   "#8f8f8f": {
+    "w": 23,
+    "ex": "a.helloMondayLink"
+   }
+  },
+  "border": {},
+  "families": {
+   "Canela Web": {
+    "w": 404
+   }
+  },
+  "typeStyles": {
+   "Canela Web|20|400|1.4|0.02|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.4,
+    "letterSpacing": 0.02,
+    "transform": "none",
+    "style": "italic",
+    "chars": 25,
+    "count": 4,
+    "tags": {
+     "span": 4
+    },
+    "ex": "li > span"
+   },
+   "Canela Web|20|400|normal|0|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 137,
+    "count": 4,
+    "tags": {
+     "a": 4
+    },
+    "ex": "li > a"
+   },
+   "Canela Web|12|300|1.87|0.04|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 300,
+    "lineHeight": 1.87,
+    "letterSpacing": 0.04,
+    "transform": "none",
+    "style": "normal",
+    "chars": 9,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "a > span"
+   },
+   "Canela Web|16|400|1.4|0.03|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.4,
+    "letterSpacing": 0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 53,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p"
+   },
+   "Canela Web|14|300|1.6|0.034|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 14,
+    "weight": 300,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.034,
+    "transform": "none",
+    "style": "italic",
+    "chars": 52,
+    "count": 3,
+    "tags": {
+     "span": 3
+    },
+    "ex": "p > span"
+   },
+   "Canela Web|20|300|1.12|0.024|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 300,
+    "lineHeight": 1.12,
+    "letterSpacing": 0.024,
+    "transform": "none",
+    "style": "normal",
+    "chars": 19,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "p > span.love"
+   },
+   "Canela Web|16|400|normal|0|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 38,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div.logo"
+   },
+   "Canela Web|12|400|1|0.02|none": {
+    "family": "Canela Web",
+    "stack": "\"Canela Web\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 71,
+    "count": 9,
+    "tags": {
+     "a": 5,
+     "span": 3,
+     "div": 1
+    },
+    "ex": "a.helloMondayLink"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "10": {
+     "w": 3
+    },
+    "33": {
+     "w": 4
+    },
+    "40": {
+     "w": 1
+    },
+    "60": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "4": {
+     "w": 1
+    },
+    "7": {
+     "w": 1
+    },
+    "10": {
+     "w": 2
+    },
+    "14": {
+     "w": 2
+    },
+    "18": {
+     "w": 1
+    },
+    "27": {
+     "w": 1
+    },
+    "60": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "500": {
+    "w": 3
+   },
+   "1000": {
+    "w": 2
+   }
+  },
+  "easings": {
+   "ease-in-out": {
+    "w": 2
+   },
+   "ease": {
+    "w": 3
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 34,
+   "flex": 5,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 5,
+   "images": 0,
+   "svgs": 0,
+   "videos": 0,
+   "sticky": 1
+  },
+  "headings": [],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#8f8f8f",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 40,
+    "h": 323,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "li > span",
+    "fg": "#5f5f5f",
+    "bg": "#000000",
+    "ratio": 3.29
+   },
+   {
+    "sel": "li > span",
+    "fg": "#5f5f5f",
+    "bg": "#000000",
+    "ratio": 3.29
+   },
+   {
+    "sel": "li > span",
+    "fg": "#5f5f5f",
+    "bg": "#000000",
+    "ratio": 3.29
+   },
+   {
+    "sel": "li > span",
+    "fg": "#5f5f5f",
+    "bg": "#000000",
+    "ratio": 3.29
+   }
+  ],
+  "nav": null
+ },
+ "vars": {
+  "--bookPixelWidth": "1037.5799114357574px",
+  "--window-height": "900px",
+  "--window-ui-offset": "0px",
+  "--color-bg": "#000",
+  "--color-text": "#fff"
+ },
+ "colorVars": {
+  "--color-bg": "#000000",
+  "--color-text": "#ffffff"
+ },
+ "loadedFonts": [
+  {
+   "family": "Canela Web",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Canela Web",
+   "weight": "400",
+   "style": "italic"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#050506",
+    "share": 0.84
+   },
+   {
+    "hex": "#111213",
+    "share": 0.101
+   },
+   {
+    "hex": "#1c1e21",
+    "share": 0.016
+   },
+   {
+    "hex": "#313235",
+    "share": 0.014
+   },
+   {
+    "hex": "#47484b",
+    "share": 0.013
+   },
+   {
+    "hex": "#636568",
+    "share": 0.008
+   },
+   {
+    "hex": "#878a8d",
+    "share": 0.005
+   },
+   {
+    "hex": "#afb2b5",
+    "share": 0.004
+   }
+  ],
+  "meanLightness": 0.151,
+  "lightnessStd": 0.075,
+  "meanChroma": 0.003,
+  "chromaticShare": 0,
+  "negativeSpace": 0.84,
+  "busyness": 0.007,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 14,
+  "h1Size": null,
+  "gutter": 174,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

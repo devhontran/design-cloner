@@ -1,0 +1,290 @@
+{
+ "url": "https://fingerspelling.xyz/",
+ "title": "Fingerspelling with Machine Learning",
+ "description": "Fingerspelling.xyz uses your webcam and machine learning to analyze your hand shapes so you can learn to sign the American Sign Language alphabet.",
+ "themeColor": "#ffffff",
+ "ogImage": "https://fingerspelling.xyz/assets/meta.png",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 912,
+ "canvasBg": "#683aff",
+ "rootFontSize": 22,
+ "agg": {
+  "bg": {
+   "#683aff": {
+    "w": 1313280,
+    "ex": "body"
+   },
+   "#ffe090": {
+    "w": 20736,
+    "ex": "div > div.allowWebcamButton"
+   },
+   "#ffffff": {
+    "w": 160030.78833007812,
+    "ex": "div > div.innerBG"
+   },
+   "#fff6df": {
+    "w": 14400,
+    "ex": "div > div.progressBar"
+   }
+  },
+  "text": {
+   "#ffe090": {
+    "w": 227,
+    "ex": "div > div.line2"
+   },
+   "#683aff": {
+    "w": 7,
+    "ex": "div > div"
+   }
+  },
+  "border": {},
+  "families": {
+   "LabilGroteskRegular": {
+    "w": 234
+   }
+  },
+  "typeStyles": {
+   "LabilGroteskRegular|25|400|1.17|0|none": {
+    "family": "LabilGroteskRegular",
+    "stack": "LabilGroteskRegular, sans-serif",
+    "generic": "sans-serif",
+    "size": 25,
+    "weight": 400,
+    "lineHeight": 1.17,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 60,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.line2"
+   },
+   "LabilGroteskRegular|28|400|2.2|0|none": {
+    "family": "LabilGroteskRegular",
+    "stack": "LabilGroteskRegular, sans-serif",
+    "generic": "sans-serif",
+    "size": 28,
+    "weight": 400,
+    "lineHeight": 2.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 7,
+    "count": 7,
+    "tags": {
+     "div": 7
+    },
+    "ex": "div > div"
+   },
+   "LabilGroteskRegular|14|400|1.43|0|none": {
+    "family": "LabilGroteskRegular",
+    "stack": "LabilGroteskRegular, sans-serif",
+    "generic": "sans-serif",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.43,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 167,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.innerText"
+   }
+  },
+  "spacing": {
+   "padding": {},
+   "margin": {
+    "20": {
+     "w": 1
+    },
+    "40": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 30,
+    "w": 324,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 465,
+    "h": 344,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 10,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {},
+  "easings": {},
+  "gridCols": {},
+  "counts": {
+   "elements": 25,
+   "flex": 0,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 0,
+   "images": 0,
+   "svgs": 2,
+   "videos": 0,
+   "sticky": 0
+  },
+  "headings": [],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#683aff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 904,
+    "bg": "#683aff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#683aff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#683aff",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 670,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 670,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 670,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "div > div.innerText",
+    "fg": "#ffe090",
+    "bg": "#683aff",
+    "ratio": 4.49
+   }
+  ],
+  "nav": null
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "LabilGroteskRegular",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#683aff",
+    "share": 0.909
+   },
+   {
+    "hex": "#5715ff",
+    "share": 0.028
+   },
+   {
+    "hex": "#fdde91",
+    "share": 0.016
+   },
+   {
+    "hex": "#7b4ef1",
+    "share": 0.014
+   },
+   {
+    "hex": "#956adc",
+    "share": 0.01
+   },
+   {
+    "hex": "#e5c3a2",
+    "share": 0.007
+   },
+   {
+    "hex": "#aa7fcd",
+    "share": 0.006
+   },
+   {
+    "hex": "#7633f4",
+    "share": 0.005
+   },
+   {
+    "hex": "#c39dbb",
+    "share": 0.005
+   }
+  ],
+  "meanLightness": 0.549,
+  "lightnessStd": 0.056,
+  "meanChroma": 0.26,
+  "chromaticShare": 0.995,
+  "negativeSpace": 0.909,
+  "busyness": 0.005,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": 30,
+  "gutter": 0,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

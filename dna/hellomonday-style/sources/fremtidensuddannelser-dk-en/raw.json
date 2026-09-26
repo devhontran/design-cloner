@@ -1,0 +1,759 @@
+{
+ "url": "https://fremtidensuddannelser.dk/en",
+ "title": "SDU - Future Education",
+ "description": "With the Future Education project, SDU tests a flexible teaching method matched to the needs of the student and the ever-changing labour market. Get a sneak peek here and help us create the education of the future.",
+ "themeColor": "#d6bdb6",
+ "ogImage": "/sharing_gfx_en.4c600b8d.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 981,
+ "canvasBg": "#d6bdb6",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#d6bdb6": {
+    "w": 2708640,
+    "ex": "body"
+   },
+   "#fff8ea": {
+    "w": 118350,
+    "ex": "div#buorg"
+   },
+   "#5ab400": {
+    "w": 4793.82763671875,
+    "ex": "a#buorgul"
+   },
+   "#edbc68": {
+    "w": 2315.68408203125,
+    "ex": "a#buorgig"
+   },
+   "#ece1de": {
+    "w": 370080,
+    "ex": "div > p"
+   },
+   "#000000": {
+    "w": 263.565673828125,
+    "ex": "div > div.burger-icon__bar"
+   },
+   "#4d4442": {
+    "w": 79430,
+    "ex": "div#CookieOptOut"
+   },
+   "#dbdad9": {
+    "w": 6192,
+    "ex": "div > a.cookie-dialogue-button.cookie-dialogue-accept-button"
+   },
+   "#bfbcbb": {
+    "w": 6192,
+    "ex": "div > a.cookie-dialogue-button.cookie-dialogue-deny-button"
+   }
+  },
+  "text": {
+   "#000000": {
+    "w": 1193,
+    "ex": "div > b.buorg-mainmsg"
+   },
+   "#ffffff": {
+    "w": 129,
+    "ex": "a#buorgul"
+   }
+  },
+  "border": {
+   "#a29330": {
+    "w": 1440,
+    "ex": "div#buorg"
+   },
+   "#000000": {
+    "w": 456,
+    "ex": "div > button.intro__cta"
+   },
+   "#ffffff": {
+    "w": 246,
+    "ex": "p > a"
+   }
+  },
+  "families": {
+   "Calibri": {
+    "w": 147
+   },
+   "Brown Pro": {
+    "w": 1175
+   }
+  },
+  "typeStyles": {
+   "Calibri|18|400|1.7|0|none": {
+    "family": "Calibri",
+    "stack": "Calibri, Helvetica, sans-serif",
+    "generic": "sans-serif",
+    "size": 18,
+    "weight": 400,
+    "lineHeight": 1.7,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 147,
+    "count": 4,
+    "tags": {
+     "b": 1,
+     "span": 1,
+     "a": 2
+    },
+    "ex": "div > b.buorg-mainmsg"
+   },
+   "Brown Pro|93|700|1|0|uppercase": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 93,
+    "weight": 700,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 6,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "div > h1.title"
+   },
+   "Brown Pro|38|700|1|0.23|uppercase": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 38,
+    "weight": 700,
+    "lineHeight": 1,
+    "letterSpacing": 0.23,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 9,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.subtitle"
+   },
+   "Brown Pro|16|400|normal|0.13|uppercase": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0.13,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "button > span"
+   },
+   "Brown Pro|16|400|1.2|0.13|uppercase": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.13,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 49,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.intro__disclaimer"
+   },
+   "Brown Pro|20|400|1.6|0|none": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 984,
+    "count": 10,
+    "tags": {
+     "p": 10
+    },
+    "ex": "div > p"
+   },
+   "Brown Pro|12|400|1.25|0|none": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.25,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 109,
+    "count": 2,
+    "tags": {
+     "p": 1,
+     "a": 1
+    },
+    "ex": "div#CookieOptOut > p.cookie-message"
+   },
+   "Brown Pro|14|400|2.57|0|none": {
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 2.57,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 2,
+    "tags": {
+     "a": 2
+    },
+    "ex": "div > a.cookie-dialogue-button.cookie-dialogue-accept-button"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "1": {
+     "w": 4
+    },
+    "4": {
+     "w": 20
+    },
+    "5": {
+     "w": 1
+    },
+    "8": {
+     "w": 2
+    },
+    "9": {
+     "w": 4
+    },
+    "10": {
+     "w": 4
+    },
+    "23": {
+     "w": 1
+    },
+    "32": {
+     "w": 3
+    },
+    "35": {
+     "w": 2
+    },
+    "36": {
+     "w": 4
+    }
+   },
+   "margin": {
+    "3": {
+     "w": 6
+    },
+    "18": {
+     "w": 1
+    },
+    "21": {
+     "w": 1
+    },
+    "25": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 82,
+    "kind": "box"
+   },
+   {
+    "r": 4,
+    "w": 147,
+    "h": 33,
+    "kind": "box"
+   },
+   {
+    "r": 4,
+    "w": 71,
+    "h": 33,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 80,
+    "h": 34,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 443,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 461,
+    "h": 96,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 466,
+    "h": 96,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 474,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 468,
+    "h": 96,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 465,
+    "h": 96,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 451,
+    "h": 96,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 462,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 474,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 463,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 30,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 30,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 30,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 3,
+    "h": 7,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 3,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 3,
+    "h": 4,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 3,
+    "h": 11,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 470,
+    "h": 169,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 172,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 172,
+    "h": 36,
+    "kind": "box"
+   }
+  ],
+  "shadows": {
+   "rgba(0,0,0,0.2) 0px 0px 5px 0px": {
+    "w": 1,
+    "ex": "div#buorg"
+   },
+   "rgba(0,0,0,0.4) 0px 0px 2px 0px": {
+    "w": 2,
+    "ex": "a#buorgul"
+   },
+   "rgba(255,255,255,0.54) 10px 0px 0px 0px, rgba(255,255,255,0.54) -10px 0px 0px 0px": {
+    "w": 10,
+    "ex": "div > p"
+   }
+  },
+  "gradients": {},
+  "durations": {
+   "150": {
+    "w": 4
+   },
+   "200": {
+    "w": 1
+   },
+   "500": {
+    "w": 1
+   },
+   "600": {
+    "w": 3
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 4
+   },
+   "ease-in-out": {
+    "w": 3
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 52,
+   "flex": 9,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 1,
+   "transitions": 7,
+   "images": 0,
+   "svgs": 2,
+   "videos": 0,
+   "sticky": 7
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Brown Pro",
+    "stack": "\"Brown Pro\"",
+    "size": 93,
+    "weight": 700,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 359,
+    "text": "Future"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "a#buorgul",
+    "w": 147,
+    "h": 33,
+    "bg": "#5ab400",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 4,
+    "border": null,
+    "shadow": "rgba(0, 0, 0, 0.4) 0px 0px 2px 0px",
+    "padY": 1,
+    "padX": 10,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Calibri",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Update browser",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "a#buorgig",
+    "w": 71,
+    "h": 33,
+    "bg": "#edbc68",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 4,
+    "border": null,
+    "shadow": "rgba(0, 0, 0, 0.4) 0px 0px 2px 0px",
+    "padY": 1,
+    "padX": 10,
+    "fontSize": 18,
+    "fontWeight": 400,
+    "family": "Calibri",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Ignore",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.intro__cta",
+    "w": 80,
+    "h": 34,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": "2px solid #000000",
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 16,
+    "fontWeight": 400,
+    "family": "Arial",
+    "transform": "uppercase",
+    "letterSpacing": 0.13,
+    "text": "Start",
+    "backdrop": null,
+    "transition": "0.5s, 0.15s, 0.15s ease, ease, ease"
+   }
+  ],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "div#CookieOptOut",
+    "w": 470,
+    "h": 169,
+    "bg": "#4d4442",
+    "bgAlpha": 0.64,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 36,
+    "padX": 36,
+    "fontSize": 12,
+    "fontWeight": 400,
+    "family": "Brown Pro",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "We use cookies for targeted marketing, r",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#000000",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#000000",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#d6bdb6",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#d6bdb6",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#d6bdb6",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#d6bdb6",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 546,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [
+   {
+    "sel": "a#buorgul",
+    "fg": "#ffffff",
+    "bg": "#5ab400",
+    "ratio": 2.64
+   },
+   {
+    "sel": "a#buorgig",
+    "fg": "#ffffff",
+    "bg": "#edbc68",
+    "ratio": 1.75
+   }
+  ],
+  "nav": {
+   "sel": "div#MainNavigation > header.header",
+   "w": 1440,
+   "h": 97,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#000000",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 32,
+   "padX": 35,
+   "fontSize": 16,
+   "fontWeight": 400,
+   "family": "Brown Pro",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 0,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Brown Pro",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "Brown Pro",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#d6bdb6",
+    "share": 0.852
+   },
+   {
+    "hex": "#fff8ea",
+    "share": 0.07
+   },
+   {
+    "hex": "#4b4341",
+    "share": 0.025
+   },
+   {
+    "hex": "#b7a69f",
+    "share": 0.014
+   },
+   {
+    "hex": "#ddd7c9",
+    "share": 0.01
+   },
+   {
+    "hex": "#988c85",
+    "share": 0.009
+   },
+   {
+    "hex": "#615754",
+    "share": 0.006
+   },
+   {
+    "hex": "#060505",
+    "share": 0.005
+   },
+   {
+    "hex": "#80736b",
+    "share": 0.005
+   },
+   {
+    "hex": "#75bf34",
+    "share": 0.004
+   }
+  ],
+  "meanLightness": 0.808,
+  "lightnessStd": 0.104,
+  "meanChroma": 0.029,
+  "chromaticShare": 0.006,
+  "negativeSpace": 0.852,
+  "busyness": 0.008,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 15.625,
+  "h1Size": 47.071,
+  "gutter": 106,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

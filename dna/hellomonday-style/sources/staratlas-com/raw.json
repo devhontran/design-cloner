@@ -1,0 +1,1834 @@
+{
+ "url": "https://staratlas.com/",
+ "title": "Star Atlas | AAA Space Exploration MMO - Explore, Conquer, Earn",
+ "description": "Star Atlas is a AAA space exploration MMO featuring immersive ship-to-ship and FPS combat, strategic fleet command, and a real player-driven economy built on blockchain.",
+ "themeColor": "#000000",
+ "ogImage": "https://staratlas.com/Icon.png",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 3455,
+ "canvasBg": "#0a0000",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#0a0000": {
+    "w": 4975200,
+    "ex": "body"
+   },
+   "#32feff": {
+    "w": 3327612.622927174,
+    "ex": "div > div.glow"
+   },
+   "#010000": {
+    "w": 2877677,
+    "ex": "nav.gated-content"
+   },
+   "#000000": {
+    "w": 301030.3896484375,
+    "ex": "div > a.download-btn"
+   },
+   "#0e0d0d": {
+    "w": 213720,
+    "ex": "div > div.terminal-header"
+   },
+   "#0a0909": {
+    "w": 17760,
+    "ex": "div > div.terminal-icon-box"
+   },
+   "#030000": {
+    "w": 100800,
+    "ex": "div#stickyFooterBar"
+   },
+   "#020000": {
+    "w": 4900,
+    "ex": "div > div.footer-bar-icon-box"
+   }
+  },
+  "text": {
+   "#b3b3b3": {
+    "w": 404,
+    "ex": "li > a"
+   },
+   "#cccccc": {
+    "w": 20,
+    "ex": "a > span"
+   },
+   "#ffffff": {
+    "w": 322,
+    "ex": "div#heroContent > h1.sr-only"
+   },
+   "#000000": {
+    "w": 84,
+    "ex": "button > span"
+   },
+   "#999999": {
+    "w": 148,
+    "ex": "div > div.disclaimer-text"
+   },
+   "#32feff": {
+    "w": 82,
+    "ex": "div > span.section-number"
+   },
+   "#989898": {
+    "w": 55,
+    "ex": "div > div.stat-label"
+   },
+   "#808080": {
+    "w": 42,
+    "ex": "div > p.footer-text"
+   },
+   "#9a9999": {
+    "w": 10,
+    "ex": "span#footer-timestamp-date"
+   }
+  },
+  "border": {
+   "#1b1a1a": {
+    "w": 14156.5,
+    "ex": "nav.gated-content"
+   },
+   "#272626": {
+    "w": 3562,
+    "ex": "div > div.terminal-header"
+   },
+   "#232222": {
+    "w": 178,
+    "ex": "div > div.terminal-icon-box"
+   },
+   "#333333": {
+    "w": 694,
+    "ex": "input#heroEmailInput"
+   },
+   "#32feff": {
+    "w": 2137.59375,
+    "ex": "div > button.hero-submit-btn"
+   },
+   "#1a1a1a": {
+    "w": 8935.25,
+    "ex": "div > button.toggle-btn"
+   },
+   "#1a0700": {
+    "w": 1342,
+    "ex": "div > div.footer-bottom"
+   },
+   "#1d1a1a": {
+    "w": 1440,
+    "ex": "div#stickyFooterBar"
+   },
+   "#1c1a1a": {
+    "w": 140,
+    "ex": "div > div.footer-bar-icon-box"
+   },
+   "#343333": {
+    "w": 750.78125,
+    "ex": "div > input.footer-email-input"
+   }
+  },
+  "families": {
+   "Tabular": {
+    "w": 976
+   },
+   "Orbitron": {
+    "w": 191
+   }
+  },
+  "typeStyles": {
+   "Tabular|14|400|1.6|0.05|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.05,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 32,
+    "count": 4,
+    "tags": {
+     "a": 4
+    },
+    "ex": "li > a"
+   },
+   "Tabular|14.5|600|1.6|0.1|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14.5,
+    "weight": 600,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 20,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "a > span"
+   },
+   "Tabular|32|700|1.6|0|none": {
+    "family": "Tabular",
+    "stack": "Tabular, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "generic": "sans-serif",
+    "size": 32,
+    "weight": 700,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 63,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "div#heroContent > h1.sr-only"
+   },
+   "Tabular|17.5|800|1.5|0.3|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, sans-serif",
+    "generic": "sans-serif",
+    "size": 17.5,
+    "weight": 800,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.3,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 52,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "div > span"
+   },
+   "Orbitron|14|500|1.6|0.15|uppercase": {
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.15,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 63,
+    "count": 7,
+    "tags": {
+     "span": 3,
+     "h2": 2,
+     "h4": 1,
+     "div": 1
+    },
+    "ex": "div > span.terminal-title"
+   },
+   "Tabular|14.5|300|1.6|0.05|none": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14.5,
+    "weight": 300,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.05,
+    "transform": "none",
+    "style": "normal",
+    "chars": 220,
+    "count": 3,
+    "tags": {
+     "p": 3
+    },
+    "ex": "div > p.terminal-description"
+   },
+   "Tabular|14|600|normal|0.1|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 34,
+    "count": 2,
+    "tags": {
+     "span": 1,
+     "button": 1
+    },
+    "ex": "button > span"
+   },
+   "Tabular|13|800|1.6|0|none": {
+    "family": "Tabular",
+    "stack": "Tabular, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "generic": "sans-serif",
+    "size": 13,
+    "weight": 800,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 100,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.disclaimer-text"
+   },
+   "Orbitron|11|400|1.6|0.2|uppercase": {
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "generic": "monospace",
+    "size": 11,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.2,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 36,
+    "count": 4,
+    "tags": {
+     "span": 4
+    },
+    "ex": "div#starAtlasLog > span.log-date"
+   },
+   "Orbitron|14.5|500|normal|0.15|uppercase": {
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "generic": "monospace",
+    "size": 14.5,
+    "weight": 500,
+    "lineHeight": "normal",
+    "letterSpacing": 0.15,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 38,
+    "count": 2,
+    "tags": {
+     "button": 2
+    },
+    "ex": "div > button.toggle-btn"
+   },
+   "Tabular|16|800|1.6|0|none": {
+    "family": "Tabular",
+    "stack": "Tabular, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 800,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 136,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div#3rdperson > p"
+   },
+   "Orbitron|32|700|1.6|0.05|none": {
+    "family": "Orbitron",
+    "stack": "Orbitron, \"Space Mono\", monospace",
+    "generic": "monospace",
+    "size": 32,
+    "weight": 700,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.05,
+    "transform": "none",
+    "style": "normal",
+    "chars": 17,
+    "count": 3,
+    "tags": {
+     "div": 3
+    },
+    "ex": "div > div.stat-value"
+   },
+   "Tabular|12|400|1.6|0.1|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 55,
+    "count": 3,
+    "tags": {
+     "div": 3
+    },
+    "ex": "div > div.stat-label"
+   },
+   "Tabular|14|600|1.6|0.1|uppercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 600,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 50,
+    "count": 2,
+    "tags": {
+     "a": 2
+    },
+    "ex": "div > a.secondary-btn"
+   },
+   "Tabular|14|300|1.6|0|none": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 300,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 68,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.slide-description"
+   },
+   "Tabular|14|400|1.6|0.05|lowercase": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.05,
+    "transform": "lowercase",
+    "style": "normal",
+    "chars": 20,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.discord-cta"
+   },
+   "Orbitron|14|500|1.6|0.1|uppercase": {
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 23,
+    "count": 3,
+    "tags": {
+     "h4": 3
+    },
+    "ex": "div > h4"
+   },
+   "Tabular|14|300|2.2|0|none": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 14,
+    "weight": 300,
+    "lineHeight": 2.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 54,
+    "count": 8,
+    "tags": {
+     "a": 8
+    },
+    "ex": "li > a"
+   },
+   "Tabular|12|300|1.6|0.05|none": {
+    "family": "Tabular",
+    "stack": "Tabular, monospace",
+    "generic": "monospace",
+    "size": 12,
+    "weight": 300,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.05,
+    "transform": "none",
+    "style": "normal",
+    "chars": 72,
+    "count": 3,
+    "tags": {
+     "p": 1,
+     "a": 2
+    },
+    "ex": "div > p.footer-text"
+   },
+   "Orbitron|11|700|1.6|0.2|uppercase": {
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "generic": "monospace",
+    "size": 11,
+    "weight": 700,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.2,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 14,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.footer-log-prefix"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "13": {
+     "w": 2
+    },
+    "16": {
+     "w": 22
+    },
+    "19": {
+     "w": 4
+    },
+    "20": {
+     "w": 2
+    },
+    "24": {
+     "w": 12
+    },
+    "32": {
+     "w": 21
+    },
+    "40": {
+     "w": 3
+    },
+    "48": {
+     "w": 27
+    },
+    "64": {
+     "w": 3
+    },
+    "72": {
+     "w": 2
+    },
+    "80": {
+     "w": 4
+    },
+    "120": {
+     "w": 1
+    },
+    "192": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "6": {
+     "w": 1
+    },
+    "8": {
+     "w": 10
+    },
+    "13": {
+     "w": 3
+    },
+    "19": {
+     "w": 3
+    },
+    "24": {
+     "w": 2
+    },
+    "32": {
+     "w": 3
+    },
+    "40": {
+     "w": 1
+    },
+    "48": {
+     "w": 8
+    },
+    "50": {
+     "w": 1
+    },
+    "64": {
+     "w": 7
+    },
+    "80": {
+     "w": 1
+    },
+    "160": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "6": {
+     "w": 1
+    },
+    "16": {
+     "w": 5
+    },
+    "24": {
+     "w": 2
+    },
+    "32": {
+     "w": 1
+    },
+    "48": {
+     "w": 1
+    },
+    "80": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 1287,
+    "h": 1287,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 1269,
+    "h": 1269,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 82,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 133,
+    "h": 40,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 268,
+    "h": 49,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 300,
+    "h": 90,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 688,
+    "h": 396,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 686,
+    "h": 60,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 60,
+    "h": 60,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 24,
+    "h": 24,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 295,
+    "h": 52,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 295,
+    "h": 52,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 641,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1438,
+    "h": 60,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 120,
+    "h": 59,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 16,
+    "h": 21,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 364,
+    "h": 58,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 321,
+    "h": 58,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1342,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 100,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 178,
+    "h": 98,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 100,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 178,
+    "h": 98,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 100,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 178,
+    "h": 98,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 100,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 178,
+    "h": 98,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 578,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1438,
+    "h": 60,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 120,
+    "h": 59,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 16,
+    "h": 21,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 277,
+    "h": 56,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 332,
+    "h": 56,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 280,
+    "h": 771,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 350,
+    "h": 696,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 325,
+    "h": 665,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 300,
+    "h": 532,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 298,
+    "h": 350,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 298,
+    "h": 350,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 65,
+    "h": 65,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 298,
+    "h": 180,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 362,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 70,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 70,
+    "h": 70,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 24,
+    "h": 24,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 323,
+    "h": 52,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 197,
+    "h": 52,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "radial-gradient(circle, rgba(255, 0, 0, 0.4) 0.8px, rgba(0, 0, 0, 0) 1px), radial-gradient(circle, rgba(0, 255, 255, 0.4) 0.8px, rgba(0, 0, 0, 0) 1px)": {
+    "w": 1296000,
+    "ex": "div > div.grid-layer.dots"
+   },
+   "radial-gradient(rgba(50, 254, 255, 0.05) 0%, rgba(0, 0, 0, 0) 50%)": {
+    "w": 1296000,
+    "ex": "section.hero"
+   },
+   "radial-gradient(rgba(0, 0, 0, 0) 0%, rgba(10, 0, 0, 0) 100%), linear-gradient(rgba(10, 0, 0, 0.1) 0%, rgba(10, 0, 0, 0.3) 70%, rgb(10, 0, 0) 100%)": {
+    "w": 1296000,
+    "ex": "section > div.video-overlay"
+   },
+   "linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(50, 254, 255, 0.5), rgba(0, 0, 0, 0))": {
+    "w": 2880,
+    "ex": "div.scan-line"
+   }
+  },
+  "durations": {
+   "300": {
+    "w": 52
+   },
+   "500": {
+    "w": 5
+   },
+   "800": {
+    "w": 2
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 56
+   },
+   "cubic-bezier(0.25, 0.46, 0.45, 0.94)": {
+    "w": 3
+   }
+  },
+  "gridCols": {
+   "1": {
+    "w": 3
+   }
+  },
+  "counts": {
+   "elements": 173,
+   "flex": 36,
+   "grid": 3,
+   "glass": 8,
+   "textGradient": 0,
+   "animations": 10,
+   "transitions": 59,
+   "images": 15,
+   "svgs": 3,
+   "videos": 1,
+   "sticky": 9
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Tabular",
+    "stack": "Tabular, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "size": 32,
+    "weight": 700,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "left",
+    "color": "#ffffff",
+    "y": 232,
+    "text": "Star Atlas | AAA Space Exploration MMO - Explore, Conquer, Earn"
+   },
+   {
+    "tag": "h2",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.15,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 1045,
+    "text": "GAME"
+   },
+   {
+    "tag": "h2",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.15,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 1750,
+    "text": "Economy"
+   },
+   {
+    "tag": "h4",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.15,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#32feff",
+    "y": 2887,
+    "text": "STAR ATLAS DISCORD"
+   },
+   {
+    "tag": "h4",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#32feff",
+    "y": 3158,
+    "text": "Community"
+   },
+   {
+    "tag": "h4",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#32feff",
+    "y": 3158,
+    "text": "Support"
+   },
+   {
+    "tag": "h4",
+    "family": "Orbitron",
+    "stack": "Orbitron, monospace",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.1,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#32feff",
+    "y": 3158,
+    "text": "Company"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "div > a.download-btn",
+    "w": 268,
+    "h": 49,
+    "bg": "#000000",
+    "bgAlpha": 1,
+    "color": "#cccccc",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 13,
+    "padX": 32,
+    "fontSize": 14.4,
+    "fontWeight": 600,
+    "family": "Tabular",
+    "transform": "uppercase",
+    "letterSpacing": 0.1,
+    "text": "Galactic Marketplace",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > button.terminal-close",
+    "w": 60,
+    "h": 60,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#575656",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "Arial",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > button.hero-submit-btn",
+    "w": 295,
+    "h": 52,
+    "bg": "#32feff",
+    "bgAlpha": 1,
+    "color": "#000000",
+    "radius": 0,
+    "border": "1px solid #32feff",
+    "shadow": null,
+    "padY": 16,
+    "padX": 32,
+    "fontSize": 14,
+    "fontWeight": 600,
+    "family": "Tabular",
+    "transform": "uppercase",
+    "letterSpacing": 0.1,
+    "text": "GET EARLY ACCESS NOW",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > button.toggle-btn",
+    "w": 364,
+    "h": 58,
+    "bg": "#000000",
+    "bgAlpha": 0.7,
+    "color": "#999999",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 19,
+    "padX": 48,
+    "fontSize": 14.4,
+    "fontWeight": 500,
+    "family": "Orbitron",
+    "transform": "uppercase",
+    "letterSpacing": 0.15,
+    "text": "3rd Person Experience",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > button.toggle-btn",
+    "w": 321,
+    "h": 58,
+    "bg": "#000000",
+    "bgAlpha": 0.7,
+    "color": "#999999",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 19,
+    "padX": 48,
+    "fontSize": 14.4,
+    "fontWeight": 500,
+    "family": "Orbitron",
+    "transform": "uppercase",
+    "letterSpacing": 0.15,
+    "text": "Top-Down RTS View",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > a.secondary-btn",
+    "w": 277,
+    "h": 56,
+    "bg": "#32feff",
+    "bgAlpha": 1,
+    "color": "#000000",
+    "radius": 0,
+    "border": "1px solid #32feff",
+    "shadow": null,
+    "padY": 16,
+    "padX": 32,
+    "fontSize": 14,
+    "fontWeight": 600,
+    "family": "Tabular",
+    "transform": "uppercase",
+    "letterSpacing": 0.1,
+    "text": "Latest Economic Report",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > a.secondary-btn",
+    "w": 332,
+    "h": 56,
+    "bg": "#32feff",
+    "bgAlpha": 1,
+    "color": "#000000",
+    "radius": 0,
+    "border": "1px solid #32feff",
+    "shadow": null,
+    "padY": 16,
+    "padX": 32,
+    "fontSize": 14,
+    "fontWeight": 600,
+    "family": "Tabular",
+    "transform": "uppercase",
+    "letterSpacing": 0.1,
+    "text": "Explore Galactic Marketplace",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "form > button.footer-submit-btn",
+    "w": 197,
+    "h": 52,
+    "bg": "#32feff",
+    "bgAlpha": 1,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 16,
+    "padX": 32,
+    "fontSize": 14,
+    "fontWeight": 600,
+    "family": "Tabular",
+    "transform": "uppercase",
+    "letterSpacing": 0.1,
+    "text": "GET ACCESS NOW",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > button.footer-bar-close",
+    "w": 14,
+    "h": 70,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#4f4d4d",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.3333,
+    "fontWeight": 400,
+    "family": "Arial",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   }
+  ],
+  "inputs": [
+   {
+    "sel": "input#heroEmailInput",
+    "w": 295,
+    "h": 52,
+    "bg": "#000000",
+    "bgAlpha": 0.5,
+    "color": "#4d4d4d",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 16,
+    "padX": 24,
+    "fontSize": 14,
+    "fontWeight": 400,
+    "family": "Tabular",
+    "transform": "none",
+    "letterSpacing": 0.05,
+    "text": "Email Address",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > input.footer-email-input",
+    "w": 323,
+    "h": 52,
+    "bg": "#010000",
+    "bgAlpha": 0.5,
+    "color": "#4e4d4d",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 16,
+    "padX": 20,
+    "fontSize": 14,
+    "fontWeight": 400,
+    "family": "Tabular",
+    "transform": "none",
+    "letterSpacing": 0.05,
+    "text": "Add email for early access",
+    "backdrop": null,
+    "transition": "0.3s ease"
+   }
+  ],
+  "cards": [
+   {
+    "sel": "div > div.terminal-box",
+    "w": 688,
+    "h": 396,
+    "bg": "#010000",
+    "bgAlpha": 0.9,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 16,
+    "fontWeight": 800,
+    "family": "Tabular",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "EARLY ACCESS\n                        \n  ",
+    "backdrop": "blur(20px)",
+    "transition": "0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)"
+   },
+   {
+    "sel": "a > div.discord-card",
+    "w": 300,
+    "h": 532,
+    "bg": "#010000",
+    "bgAlpha": 0.9,
+    "color": "#0000ee",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 16,
+    "fontWeight": 800,
+    "family": "Tabular",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "STAR ATLAS DISCORD\n                     ",
+    "backdrop": "blur(20px)",
+    "transition": "0.3s ease"
+   },
+   {
+    "sel": "div > div.slide-caption.discord-card-text",
+    "w": 298,
+    "h": 180,
+    "bg": "#000000",
+    "bgAlpha": 0.5,
+    "color": "#0000ee",
+    "radius": 0,
+    "border": "1px solid #ffffff",
+    "shadow": null,
+    "padY": 24,
+    "padX": 24,
+    "fontSize": 16,
+    "fontWeight": 800,
+    "family": "Tabular",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "STAR ATLAS DISCORD\n                     ",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": true
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   },
+   {
+    "color": "#b3b3b3",
+    "decoration": "none",
+    "weight": 300,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#0a0000",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2411,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 80,
+    "padBottom": 80,
+    "h": 641,
+    "bg": "#010000",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 257,
+    "bg": "#010000",
+    "tag": "div"
+   },
+   {
+    "padTop": 80,
+    "padBottom": 80,
+    "h": 578,
+    "bg": "#010000",
+    "tag": "section"
+   },
+   {
+    "padTop": 120,
+    "padBottom": 0,
+    "h": 702,
+    "bg": "#0a0000",
+    "tag": "section"
+   },
+   {
+    "padTop": 48,
+    "padBottom": 0,
+    "h": 550,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 502,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 582,
+    "bg": "#0a0000",
+    "tag": "div"
+   },
+   {
+    "padTop": 64,
+    "padBottom": 32,
+    "h": 362,
+    "bg": "#010000",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 265,
+    "bg": "#010000",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1342,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1342,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 1342,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 900,
+    "maxW": "900px",
+    "padX": 0
+   },
+   {
+    "w": 1342,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1342,
+    "maxW": "1400px",
+    "padX": 0
+   },
+   {
+    "w": 1342,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 600,
+    "maxW": "600px",
+    "padX": 32
+   }
+  ],
+  "images": [
+   {
+    "w": 133,
+    "h": 40,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 3.33
+   },
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 300,
+    "h": 90,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 3.33
+   },
+   {
+    "w": 178,
+    "h": 98,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.82
+   },
+   {
+    "w": 178,
+    "h": 98,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.82
+   },
+   {
+    "w": 178,
+    "h": 98,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.82
+   },
+   {
+    "w": 178,
+    "h": 98,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.82
+   },
+   {
+    "w": 280,
+    "h": 771,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.36
+   },
+   {
+    "w": 350,
+    "h": 696,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.5
+   },
+   {
+    "w": 325,
+    "h": 665,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 0.49
+   },
+   {
+    "w": 298,
+    "h": 350,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.85
+   }
+  ],
+  "lowContrast": [],
+  "nav": {
+   "sel": "nav.gated-content",
+   "w": 1440,
+   "h": 82,
+   "bg": "#010000",
+   "bgAlpha": 0.9,
+   "color": "#ffffff",
+   "radius": 0,
+   "border": "0px none #ffffff",
+   "shadow": null,
+   "padY": 0,
+   "padX": 0,
+   "fontSize": 16,
+   "fontWeight": 800,
+   "family": "Tabular",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "Game\n                            \n      ",
+   "backdrop": "blur(20px)",
+   "transition": "0.3s ease",
+   "position": "fixed",
+   "linkCount": 8,
+   "hasCta": true
+  }
+ },
+ "vars": {
+  "--accent-gradient": "linear-gradient(135deg, #32feff 0%, #5affff 100%)",
+  "--text-secondary": "#989898",
+  "--text-primary": "#ffffff",
+  "--dot-color": "rgba(255, 69, 0, 0.08)",
+  "--card-border": "rgba(255, 69, 0, 0.1)",
+  "--grid-color": "rgba(255, 69, 0, 0.02)",
+  "--primary-color": "#FF4500",
+  "--dark-bg": "#0A0000",
+  "--accent-color": "#FFA500",
+  "--darker-bg": "#000000",
+  "--secondary-color": "#FF6B35",
+  "--card-bg": "rgba(255, 255, 255, 0.02)"
+ },
+ "colorVars": {
+  "--text-secondary": "#989898",
+  "--text-primary": "#ffffff",
+  "--dot-color": "#1d0500",
+  "--card-border": "#230700",
+  "--grid-color": "#0f0100",
+  "--primary-color": "#ff4500",
+  "--dark-bg": "#0a0000",
+  "--accent-color": "#ffa500",
+  "--darker-bg": "#000000",
+  "--secondary-color": "#ff6b35",
+  "--card-bg": "#0f0505"
+ },
+ "loadedFonts": [
+  {
+   "family": "Tabular",
+   "weight": "300",
+   "style": "normal"
+  },
+  {
+   "family": "Tabular",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Tabular",
+   "weight": "600",
+   "style": "normal"
+  },
+  {
+   "family": "Tabular",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "Orbitron",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Orbitron",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "Orbitron",
+   "weight": "700",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [
+  "https://api.fontshare.com/",
+  "https://fonts.googleapis.com/",
+  "https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap"
+ ],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#0c2020",
+    "share": 0.616
+   },
+   {
+    "hex": "#0e2e2f",
+    "share": 0.18
+   },
+   {
+    "hex": "#000404",
+    "share": 0.079
+   },
+   {
+    "hex": "#153c3c",
+    "share": 0.061
+   },
+   {
+    "hex": "#0c1515",
+    "share": 0.025
+   },
+   {
+    "hex": "#4aa7a7",
+    "share": 0.012
+   },
+   {
+    "hex": "#385d5d",
+    "share": 0.011
+   },
+   {
+    "hex": "#487f7f",
+    "share": 0.008
+   },
+   {
+    "hex": "#090c0c",
+    "share": 0.004
+   },
+   {
+    "hex": "#c2dbdb",
+    "share": 0.004
+   }
+  ],
+  "meanLightness": 0.244,
+  "lightnessStd": 0.09,
+  "meanChroma": 0.029,
+  "chromaticShare": 0.017,
+  "negativeSpace": 0.616,
+  "busyness": 0.009,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 14.4,
+  "h1Size": 32,
+  "gutter": 41,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

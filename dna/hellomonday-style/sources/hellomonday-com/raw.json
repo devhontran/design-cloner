@@ -1,0 +1,1863 @@
+{
+ "url": "https://www.hellomonday.com/",
+ "title": "Hello Monday",
+ "description": "Hello Monday is a creative studio in New York, Copenhagen, and Aarhus that handcrafts digital (and magical) products, brands, and experiences.",
+ "themeColor": "#ffffff",
+ "ogImage": "https://www.hellomonday.com/assets/images/icons/hello_monday_default_meta.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 10677,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 22,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 28190880,
+    "ex": "body"
+   },
+   "#f8f6f5": {
+    "w": 5993326.5,
+    "ex": "a > div.imageContainer.portrait"
+   },
+   "#191919": {
+    "w": 1503620.5078125,
+    "ex": "div > div.innerContainer"
+   },
+   "#db7093": {
+    "w": 819281.25,
+    "ex": "div > div.col-1"
+   }
+  },
+  "text": {
+   "#000000": {
+    "w": 1875,
+    "ex": "div > div.display"
+   },
+   "#c6c5c5": {
+    "w": 482,
+    "ex": "div > p.tag"
+   },
+   "#ffffff": {
+    "w": 182,
+    "ex": "div > h3.title"
+   },
+   "#2c2d2e": {
+    "w": 33,
+    "ex": "a > p.city"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 50896,
+    "ex": "a > div.imageContainer.portrait"
+   },
+   "#000000": {
+    "w": 142,
+    "ex": "div > a"
+   },
+   "#cacaca": {
+    "w": 1525,
+    "ex": "div > div.section"
+   },
+   "#994e67": {
+    "w": 12620.625,
+    "ex": "div > div.col-1"
+   }
+  },
+  "families": {
+   "nb_internationalproregular": {
+    "w": 939
+   },
+   "ClarendonBTWXX-Light": {
+    "w": 1485
+   },
+   "nb_internationalprolight": {
+    "w": 148
+   }
+  },
+  "typeStyles": {
+   "nb_internationalproregular|13|400|1.54|0|none": {
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "generic": "",
+    "size": 13,
+    "weight": 400,
+    "lineHeight": 1.54,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 19,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.display"
+   },
+   "nb_internationalproregular|14|400|1.57|0|none": {
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.57,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 94,
+    "count": 5,
+    "tags": {
+     "h3": 1,
+     "p": 4
+    },
+    "ex": "div > h3.title"
+   },
+   "ClarendonBTWXX-Light|80|300|0.8|0|none": {
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "generic": "",
+    "size": 80,
+    "weight": 300,
+    "lineHeight": 0.8,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 11,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "div > h1.headline"
+   },
+   "ClarendonBTWXX-Light|23|300|1.19|0|none": {
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "generic": "",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1333,
+    "count": 34,
+    "tags": {
+     "h3": 34
+    },
+    "ex": "div > h3.title"
+   },
+   "nb_internationalproregular|13|400|1.29|0|none": {
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "generic": "",
+    "size": 13,
+    "weight": 400,
+    "lineHeight": 1.29,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 482,
+    "count": 52,
+    "tags": {
+     "p": 52
+    },
+    "ex": "div > p.tag"
+   },
+   "nb_internationalprolight|19|400|1.39|0|none": {
+    "family": "nb_internationalprolight",
+    "stack": "nb_internationalprolight",
+    "generic": "",
+    "size": 19,
+    "weight": 400,
+    "lineHeight": 1.39,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 135,
+    "count": 2,
+    "tags": {
+     "a": 1,
+     "div": 1
+    },
+    "ex": "div > a"
+   },
+   "ClarendonBTWXX-Light|90|400|0.93|0|none": {
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "generic": "",
+    "size": 90,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 40,
+    "count": 1,
+    "tags": {
+     "h3": 1
+    },
+    "ex": "div > h3.title"
+   },
+   "nb_internationalprolight|15|400|1.39|0|none": {
+    "family": "nb_internationalprolight",
+    "stack": "nb_internationalprolight",
+    "generic": "",
+    "size": 15,
+    "weight": 400,
+    "lineHeight": 1.39,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 1,
+    "tags": {
+     "a": 1
+    },
+    "ex": "div > a"
+   },
+   "nb_internationalproregular|14|400|1.43|0|none": {
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.43,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 101,
+    "count": 6,
+    "tags": {
+     "p": 5,
+     "a": 1
+    },
+    "ex": "div > p.title"
+   },
+   "ClarendonBTWXX-Light|18|400|1.39|0|none": {
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "generic": "",
+    "size": 18,
+    "weight": 400,
+    "lineHeight": 1.39,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 68,
+    "count": 4,
+    "tags": {
+     "div": 4
+    },
+    "ex": "div > div.emailLink"
+   },
+   "ClarendonBTWXX-Light|18|300|1.39|0|none": {
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "generic": "",
+    "size": 18,
+    "weight": 300,
+    "lineHeight": 1.39,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 33,
+    "count": 4,
+    "tags": {
+     "p": 4
+    },
+    "ex": "a > p.city"
+   },
+   "nb_internationalproregular|14|400|1.29|0|none": {
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.29,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 243,
+    "count": 5,
+    "tags": {
+     "p": 5
+    },
+    "ex": "a > p.address"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "9": {
+     "w": 4
+    },
+    "20": {
+     "w": 2
+    },
+    "37": {
+     "w": 1
+    },
+    "40": {
+     "w": 2
+    },
+    "47": {
+     "w": 4
+    },
+    "49": {
+     "w": 1
+    },
+    "50": {
+     "w": 3
+    },
+    "60": {
+     "w": 1
+    },
+    "63": {
+     "w": 3
+    },
+    "64": {
+     "w": 1
+    },
+    "70": {
+     "w": 12
+    },
+    "71": {
+     "w": 2
+    },
+    "660": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "7": {
+     "w": 4
+    },
+    "8": {
+     "w": 1
+    },
+    "10": {
+     "w": 53
+    },
+    "15": {
+     "w": 36
+    },
+    "30": {
+     "w": 39
+    },
+    "37": {
+     "w": 1
+    },
+    "40": {
+     "w": 1
+    },
+    "50": {
+     "w": 3
+    },
+    "60": {
+     "w": 4
+    },
+    "78": {
+     "w": 1
+    },
+    "80": {
+     "w": 1
+    },
+    "100": {
+     "w": 31
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 956,
+    "h": 664,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 16,
+    "h": 131,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 215,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 381,
+    "h": 503,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1299,
+    "h": 1157,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1173,
+    "h": 150,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 856,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 250,
+    "h": 197,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1299,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 152,
+    "h": 900,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "1000": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 341,
+   "flex": 4,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 1,
+   "images": 3,
+   "svgs": 5,
+   "videos": 1,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h3",
+    "family": "nb_internationalproregular",
+    "stack": "nb_internationalproregular",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": 1.57,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 639,
+    "text": "We make digital (and magical)…"
+   },
+   {
+    "tag": "h1",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 80,
+    "weight": 300,
+    "lineHeight": 0.8,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 676,
+    "text": "Experiences"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 1498,
+    "text": "Google - Gemini Developer Competition"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 1938,
+    "text": "The best delivery experience not on earth."
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 2665,
+    "text": "A delightful, welcoming, and adventurous identity for Netflix"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3133,
+    "text": "Ramasjang Krea App"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3833,
+    "text": "Universal Music for Creators - Putting Creators in the Spotlight"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 4300,
+    "text": "A state-of-the-art virtual exhibition"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5028,
+    "text": "DIG:\nCloud Castles"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5440,
+    "text": "Google - Celebrating the Most Searched in History"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 6168,
+    "text": "Illustrating Google Kids Space"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 6895,
+    "text": "Wongle - An alphabet adventure"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 7623,
+    "text": "YouTube creates a new generation"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 8351,
+    "text": "Google’s Search On - A series of inspiring stories"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 1498,
+    "text": "Bang & Olufsen - See yourself in Sound"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 1938,
+    "text": "Strava - Year In Sport"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 2638,
+    "text": "Google Gemini - Generative AI Apps"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3366,
+    "text": "The Web Can Do What?! with Google"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3806,
+    "text": "Aurora Solar - Hitting fast-forward on the solar future"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 4561,
+    "text": "Strava - Year In Sport"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 4973,
+    "text": "Meta Mansions - Powered by KEYS Token."
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5413,
+    "text": "Alan Menken - A Whole New World"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 6140,
+    "text": "EPOS – branding meets ecommerce"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 6580,
+    "text": "Lyft - America is an idea. Not a geography."
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 7020,
+    "text": "T-Mobile’s little device that sets you free"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 1498,
+    "text": "Gemini - AI for Every Developer"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 2226,
+    "text": "Fingerspelling with Machine Learning"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 2953,
+    "text": "The best things are the Simple Things"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3393,
+    "text": "Undo the Firewall - Bring Independent News to Russians"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 4148,
+    "text": "Star Atlas - Experience a virtual gaming metaverse"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 4588,
+    "text": "Designing the Kids Space Universe"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5028,
+    "text": "OPPO - A unified design system for a truly global brand"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5495,
+    "text": "Artist. Creator. Performer. Collaborator. Human."
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 5934,
+    "text": "Søstrene Grene - Helping a worldwide retailer go digital"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 6402,
+    "text": "How to Talk to White Kids About Racism"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 23,
+    "weight": 300,
+    "lineHeight": 1.19,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 7129,
+    "text": "Bearaby - Weighted bedding reinvented"
+   },
+   {
+    "tag": "h3",
+    "family": "ClarendonBTWXX-Light",
+    "stack": "ClarendonBTWXX-Light",
+    "size": 90,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 8680,
+    "text": "A booster \nrocket for digital \nproduct teams"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [
+   {
+    "color": "#000000",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#000000",
+    "decoration": "underline",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 10677,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9820,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9820,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 9820,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 71,
+    "h": 7619,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 7508,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 7508,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 7481,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1221,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 64,
+    "h": 1221,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 49,
+    "padBottom": 63,
+    "h": 1157,
+    "bg": "#191919",
+    "tag": "div"
+   },
+   {
+    "padTop": 71,
+    "padBottom": 0,
+    "h": 856,
+    "bg": "#f8f6f5",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 785,
+    "bg": "#f8f6f5",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 730,
+    "bg": "#f8f6f5",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 956,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 63
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 40
+   },
+   {
+    "w": 1173,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1173,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1173,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1299,
+    "maxW": "1670px",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 956,
+    "h": 664,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.44
+   },
+   {
+    "w": 1173,
+    "h": 150,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 7.82
+   },
+   {
+    "w": 250,
+    "h": 197,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.27
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   },
+   {
+    "sel": "div > p.tag",
+    "fg": "#c6c5c5",
+    "bg": "#afeeee",
+    "ratio": 1.34
+   }
+  ],
+  "nav": null
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "ClarendonBTWXX-Light",
+   "weight": "normal",
+   "style": "normal"
+  },
+  {
+   "family": "nb_internationalprolight",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "nb_internationalproregular",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#ffffff",
+    "share": 0.925
+   },
+   {
+    "hex": "#000000",
+    "share": 0.028
+   },
+   {
+    "hex": "#e4e4e4",
+    "share": 0.008
+   },
+   {
+    "hex": "#cccccc",
+    "share": 0.007
+   },
+   {
+    "hex": "#b3b3b4",
+    "share": 0.006
+   },
+   {
+    "hex": "#818181",
+    "share": 0.006
+   },
+   {
+    "hex": "#9c9c9c",
+    "share": 0.006
+   },
+   {
+    "hex": "#5b5b5b",
+    "share": 0.005
+   },
+   {
+    "hex": "#343434",
+    "share": 0.004
+   },
+   {
+    "hex": "#111111",
+    "share": 0.003
+   }
+  ],
+  "meanLightness": 0.956,
+  "lightnessStd": 0.184,
+  "meanChroma": 0,
+  "chromaticShare": 0,
+  "negativeSpace": 0.925,
+  "busyness": 0.018,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 12,
+  "h1Size": 40,
+  "gutter": 19,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

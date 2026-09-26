@@ -1,0 +1,677 @@
+{
+ "url": "https://www.cloudcastles.gg/",
+ "title": "Cloud Castles",
+ "description": "Cloud Castles is a next-gen Action Strategy game where players collect and evolve fantasy creatures to magically command in teams to win fast-paced battles.",
+ "themeColor": "000000",
+ "ogImage": "./meta/og.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 2592000,
+    "ex": "body"
+   },
+   "#fff5c3": {
+    "w": 316,
+    "ex": "div > div.dot.svelte-1l82v0q"
+   },
+   "#595749": {
+    "w": 280,
+    "ex": "div > div.progressbar.fade"
+   }
+  },
+  "text": {
+   "#fff5c3": {
+    "w": 124,
+    "ex": "span > p.label.type:l2"
+   }
+  },
+  "border": {},
+  "families": {
+   "Casta": {
+    "w": 71
+   },
+   "Averia Gruesa Libre": {
+    "w": 53
+   }
+  },
+  "typeStyles": {
+   "Casta|12|500|1.1|0.3|uppercase": {
+    "family": "Casta",
+    "stack": "Casta",
+    "generic": "",
+    "size": 12,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0.3,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 68,
+    "count": 7,
+    "tags": {
+     "p": 2,
+     "div": 4,
+     "span": 1
+    },
+    "ex": "span > p.label.type:l2"
+   },
+   "Averia Gruesa Libre|12|400|1.6|0|none": {
+    "family": "Averia Gruesa Libre",
+    "stack": "\"Averia Gruesa Libre\"",
+    "generic": "",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 15,
+    "count": 15,
+    "tags": {
+     "div": 15
+    },
+    "ex": "p > div"
+   },
+   "Casta|14|500|1.1|0.3|uppercase": {
+    "family": "Casta",
+    "stack": "Casta",
+    "generic": "",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.1,
+    "letterSpacing": 0.3,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 3,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.percent.fade"
+   },
+   "Averia Gruesa Libre|16|400|1.6|-0.01|none": {
+    "family": "Averia Gruesa Libre",
+    "stack": "\"Averia Gruesa Libre\"",
+    "generic": "",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 38,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.type:b3"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "5": {
+     "w": 2
+    },
+    "14": {
+     "w": 4
+    },
+    "40": {
+     "w": 4
+    },
+    "50": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "17": {
+     "w": 1
+    },
+    "20": {
+     "w": 2
+    },
+    "30": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "9": {
+     "w": 4
+    },
+    "12": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 79,
+    "h": 32,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 4,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 17,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 8,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 17,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 15,
+    "h": 15,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 15,
+    "h": 15,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 15,
+    "h": 15,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 15,
+    "h": 15,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 15,
+    "h": 15,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 40,
+    "h": 112,
+    "kind": "media"
+   },
+   {
+    "r": 50,
+    "w": 6,
+    "h": 6,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 24,
+    "h": 48,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 24,
+    "h": 48,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 302,
+    "h": 48,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 9,
+    "h": 16,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 9,
+    "h": 16,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 294,
+    "h": 48,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 19,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 19,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 88,
+    "h": 36,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 280,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 280,
+    "h": 1,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(rgba(255, 245, 195, 0.5), rgb(255, 245, 195), rgba(255, 245, 195, 0.5))": {
+    "w": 47.03778076171875,
+    "ex": "div > div.bar.bar--1"
+   },
+   "linear-gradient(to left, rgb(122, 115, 105), rgb(105, 90, 67), rgba(122, 105, 105, 0))": {
+    "w": 19,
+    "ex": "div > div.line.line--left"
+   },
+   "linear-gradient(to right, rgb(122, 115, 105), rgb(105, 90, 67), rgba(122, 105, 105, 0))": {
+    "w": 19,
+    "ex": "div > div.line.line--right"
+   }
+  },
+  "durations": {
+   "200": {
+    "w": 2
+   },
+   "250": {
+    "w": 6
+   },
+   "350": {
+    "w": 5
+   },
+   "450": {
+    "w": 5
+   },
+   "500": {
+    "w": 3
+   },
+   "800": {
+    "w": 1
+   },
+   "850": {
+    "w": 4
+   },
+   "1200": {
+    "w": 5
+   },
+   "2000": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.86, 0, 0.07, 1)": {
+    "w": 4
+   },
+   "ease": {
+    "w": 8
+   },
+   "cubic-bezier(0.455, 0.03, 0.515, 0.955)": {
+    "w": 9
+   },
+   "cubic-bezier(0.23, 1, 0.32, 1)": {
+    "w": 5
+   },
+   "cubic-bezier(0.19, 1, 0.22, 1)": {
+    "w": 1
+   },
+   "cubic-bezier(0.215, 0.61, 0.355, 1)": {
+    "w": 5
+   }
+  },
+  "gridCols": {
+   "1": {
+    "w": 2
+   }
+  },
+  "counts": {
+   "elements": 105,
+   "flex": 27,
+   "grid": 2,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 6,
+   "transitions": 32,
+   "images": 14,
+   "svgs": 6,
+   "videos": 0,
+   "sticky": 2
+  },
+  "headings": [],
+  "buttons": [
+   {
+    "sel": "div > button.type:l2.util:reset-btn",
+    "w": 302,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#fff5c3",
+    "radius": 30,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 12,
+    "fontWeight": 500,
+    "family": "Casta",
+    "transform": "uppercase",
+    "letterSpacing": 0.3,
+    "text": "Enter Elisus",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 20700,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "article"
+   }
+  ],
+  "containers": [],
+  "images": [
+   {
+    "w": 302,
+    "h": 48,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 6.29
+   },
+   {
+    "w": 294,
+    "h": 48,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 6.13
+   }
+  ],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--ease-out-back": "cubic-bezier(.34, 1.85, .64, 1)",
+  "--ease-in-out-quint": "cubic-bezier(.86, 0, .07, 1)",
+  "--font-size-l2": "12px",
+  "--tp-button-background-color": "hsla(0, 0%, 80%, 1)",
+  "--font-size-title": "90px",
+  "--size-ui-logo-top": "calc(42px + 5px)",
+  "--tp-input-background-color": "hsla(0, 0%, 0%, 0.3)",
+  "--font-size-l1": "14px",
+  "--tp-button-foreground-color": "hsla(0, 0%, 0%, 0.8)",
+  "--tp-button-background-color-focus": "hsla(0, 0%, 95%, 1)",
+  "--ease-out-quad": "cubic-bezier(.25, .46, .45, .94)",
+  "--ease-in-out-expo": "cubic-bezier(1, 0, 0, 1)",
+  "--tp-button-background-color-active": "hsla(0, 0%, 100%, 1)",
+  "--tp-monitor-foreground-color": "hsla(0, 0%, 100%, 0.3)",
+  "--font-size-h2": "32px",
+  "--font-size-h3": "20px",
+  "--ease-in-quint": "cubic-bezier(.755, .05, .855, .06)",
+  "--tp-container-background-color-active": "hsla(0, 0%, 0%, 0.6)",
+  "--font-size-b1": "29px",
+  "--ease-out-cubic": "cubic-bezier(.215, .61, .355, 1)",
+  "--tp-button-background-color-hover": "hsla(0, 0%, 85%, 1)",
+  "--color-yellow-light": "255 226 171",
+  "--font-secondary": "\"Casta\"",
+  "--tp-container-foreground-color": "hsla(0, 0%, 100%, 0.5)",
+  "--font-size-d4": "10px",
+  "--ease-in-out-quart": "cubic-bezier(.77, 0, .175, 1)",
+  "--font-size-b3": "16px",
+  "--font-size-h1": "48px",
+  "--color-yellow": "255 166 0",
+  "--ease-in-out-quad": "cubic-bezier(.455, .03, .515, .955)",
+  "--tp-monitor-background-color": "hsla(0, 0%, 0%, 0.3)",
+  "--size-ui-fade-bottom-height": "35vh",
+  "--font-size-d1": "12px",
+  "--ease-out-circ": "cubic-bezier(.075, .82, .165, 1)",
+  "--tp-groove-foreground-color": "hsla(0, 0%, 0%, 0.2)",
+  "--ease-out-quint": "cubic-bezier(.23, 1, .32, 1)",
+  "--font-size-h4": "16px",
+  "--tp-container-background-color-focus": "hsla(0, 0%, 0%, 0.5)",
+  "--font-primary": "\"Averia Gruesa Libre\"",
+  "--color-orange": "255 123 0",
+  "--color-red-light": "55 176 142",
+  "--color-white": "255 255 255",
+  "--tp-input-background-color-hover": "hsla(0, 0%, 0%, 0.4)",
+  "--font-size-d2": "12px",
+  "--tp-plugin-image-dragging-color": "hsla(230, 100%, 66%, 1.00)",
+  "--ease-in-quad": "cubic-bezier(.55, .085, .68, .53)",
+  "--ease-in-out-circ": "cubic-bezier(.785, .135, .15, .86)",
+  "--font-size-base": "16px",
+  "--tp-input-foreground-color": "hsla(0, 0%, 100%, 0.5)",
+  "--ease-out-quart": "cubic-bezier(.165, .84, .44, 1)",
+  "--color-gold": "255 245 195",
+  "--size-ui-bottom-height": "100px",
+  "--color-bright": "236 234 223",
+  "--ease-in-expo": "cubic-bezier(.95, .05, .795, .035)",
+  "--ease-in-cubic": "cubic-bezier(.55, .055, .675, .19)",
+  "--color-inner-shadow": "205 192 128",
+  "--ease-in-circ": "cubic-bezier(.6, .04, .98, .335)",
+  "--tp-input-background-color-focus": "hsla(0, 0%, 0%, 0.5)",
+  "--color-red": "255 77 0",
+  "--color-orange-light": "255 212 171",
+  "--font-size-d3": "10px",
+  "--color-black": "0 0 0",
+  "--color-green": "64 180 14",
+  "--font-size-b4": "12px",
+  "--size-ui-padding": "42px",
+  "--color-blue": "0 128 255",
+  "--size-ui-menu-max-width": "calc(540px + 2 * 42px)",
+  "--color-faded-gold": "178 173 146",
+  "--gradient-centered": "linear-gradient( 90deg, rgb(255 245 195 / 0) 0%, rgb(236 234 223) 50%, rgb(255 245 195 / 0) 100% )",
+  "--size-ui-mobile-nav-top": "32px",
+  "--ease-out-expo": "cubic-bezier(.19, 1, .22, 1)",
+  "--color-blue-light": "171 213 255",
+  "--tp-container-background-color": "hsla(0, 0%, 0%, 0.3)",
+  "--tp-base-background-color": "hsla(0, 0%, 10%, 1)",
+  "--color-green-light": "196 255 171",
+  "--tp-base-shadow-color": "hsla(0, 0%, 0%, 0.2)",
+  "--tp-input-background-color-active": "hsla(0, 0%, 0%, 0.6)",
+  "--tp-container-background-color-hover": "hsla(0, 0%, 0%, 0.4)",
+  "--ease-in-quart": "cubic-bezier(.895, .03, .685, .22)",
+  "--ease-in-out-cubic": "cubic-bezier(.645, .045, .355, 1)",
+  "--color-warm-grey": "156 155 149",
+  "--font-size-b2": "17px",
+  "--size-ui-button-height": "42px",
+  "--tp-label-foreground-color": "hsla(0, 0%, 100%, 0.5)"
+ },
+ "colorVars": {
+  "--tp-button-background-color": "#cccccc",
+  "--tp-input-background-color": "#000000",
+  "--tp-button-foreground-color": "#000000",
+  "--tp-button-background-color-focus": "#f2f2f2",
+  "--tp-button-background-color-active": "#ffffff",
+  "--tp-monitor-foreground-color": "#4d4d4d",
+  "--tp-container-background-color-active": "#000000",
+  "--tp-button-background-color-hover": "#d9d9d9",
+  "--tp-container-foreground-color": "#808080",
+  "--tp-monitor-background-color": "#000000",
+  "--tp-groove-foreground-color": "#000000",
+  "--tp-container-background-color-focus": "#000000",
+  "--tp-input-background-color-hover": "#000000",
+  "--tp-plugin-image-dragging-color": "#526fff",
+  "--tp-input-foreground-color": "#808080",
+  "--tp-input-background-color-focus": "#000000",
+  "--tp-container-background-color": "#000000",
+  "--tp-base-background-color": "#1a1a1a",
+  "--tp-base-shadow-color": "#000000",
+  "--tp-input-background-color-active": "#000000",
+  "--tp-container-background-color-hover": "#000000",
+  "--tp-label-foreground-color": "#808080"
+ },
+ "loadedFonts": [
+  {
+   "family": "Averia Gruesa Libre",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Casta",
+   "weight": "500",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#000000",
+    "share": 0.993
+   },
+   {
+    "hex": "#343228",
+    "share": 0.002
+   },
+   {
+    "hex": "#27251d",
+    "share": 0.001
+   },
+   {
+    "hex": "#1c1a15",
+    "share": 0.001
+   },
+   {
+    "hex": "#13120e",
+    "share": 0.001
+   },
+   {
+    "hex": "#0b0b09",
+    "share": 0.001
+   },
+   {
+    "hex": "#4a4739",
+    "share": 0.001
+   },
+   {
+    "hex": "#635f4b",
+    "share": 0
+   },
+   {
+    "hex": "#726e57",
+    "share": 0
+   },
+   {
+    "hex": "#878166",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.002,
+  "lightnessStd": 0.026,
+  "meanChroma": 0,
+  "chromaticShare": 0,
+  "negativeSpace": 0.993,
+  "busyness": 0.001,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 16,
+  "h1Size": null,
+  "gutter": 0,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

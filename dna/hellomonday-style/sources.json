@@ -1,0 +1,56 @@
+[
+  {
+    "id": "hellomonday-com",
+    "type": "web",
+    "input": "https://www.hellomonday.com/",
+    "weight": 3
+  },
+  {
+    "id": "thewebshowcase-withgoogle-com",
+    "type": "web",
+    "input": "https://thewebshowcase.withgoogle.com/",
+    "weight": 1
+  },
+  {
+    "id": "giveahand-ai",
+    "type": "web",
+    "input": "https://www.giveahand.ai/",
+    "weight": 1
+  },
+  {
+    "id": "cloudcastles-gg",
+    "type": "web",
+    "input": "https://www.cloudcastles.gg/",
+    "weight": 1
+  },
+  {
+    "id": "staratlas-com",
+    "type": "web",
+    "input": "https://staratlas.com/",
+    "weight": 1
+  },
+  {
+    "id": "fingerspelling-xyz",
+    "type": "web",
+    "input": "https://fingerspelling.xyz/",
+    "weight": 1
+  },
+  {
+    "id": "howtotalktowhitekidsaboutracism-com",
+    "type": "web",
+    "input": "https://howtotalktowhitekidsaboutracism.com/",
+    "weight": 1
+  },
+  {
+    "id": "fremtidensuddannelser-dk-en",
+    "type": "web",
+    "input": "https://fremtidensuddannelser.dk/en",
+    "weight": 1
+  },
+  {
+    "id": "alanmenken-com",
+    "type": "web",
+    "input": "https://www.alanmenken.com/",
+    "weight": 1
+  }
+]

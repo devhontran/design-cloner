@@ -1,0 +1,661 @@
+{
+ "url": "https://www.giveahand.ai/",
+ "title": "Give A Hand — AI",
+ "description": "Help build the worlds largest dataset of hands. So we can detect the full spectrum of Sign Language.",
+ "themeColor": "#000000",
+ "ogImage": "https://giveahand.ai/assets/social/facebook.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 22,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#ffffff": {
+    "w": 10008,
+    "ex": "div > div.loaderLine"
+   },
+   "#d65e3d": {
+    "w": 18456,
+    "ex": "div > div.button.button1"
+   },
+   "#111111": {
+    "w": 360000,
+    "ex": "div#HandData"
+   }
+  },
+  "text": {
+   "#ffffff": {
+    "w": 551,
+    "ex": "div > div.scrollToContinueText"
+   },
+   "#000000": {
+    "w": 12,
+    "ex": "div > div.buttonInverted"
+   }
+  },
+  "border": {
+   "#ffffff": {
+    "w": 1176,
+    "ex": "div > div.buttonContainer"
+   },
+   "#333333": {
+    "w": 648,
+    "ex": "div#subMenu"
+   }
+  },
+  "families": {
+   "Casta-SemiBold": {
+    "w": 17
+   },
+   "poppins": {
+    "w": 18
+   },
+   "Poppins": {
+    "w": 501
+   },
+   "Casta-SemiBoldCondensed": {
+    "w": 27
+   }
+  },
+  "typeStyles": {
+   "Casta-SemiBold|20|700|normal|0|none": {
+    "family": "Casta-SemiBold",
+    "stack": "Casta-SemiBold",
+    "generic": "",
+    "size": 20,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 17,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.scrollToContinueText"
+   },
+   "poppins|44|400|normal|0.318|none": {
+    "family": "poppins",
+    "stack": "poppins",
+    "generic": "",
+    "size": 44,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0.318,
+    "transform": "none",
+    "style": "normal",
+    "chars": 8,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "div > h1.mainHeader"
+   },
+   "Poppins|44|400|normal|0.318|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 44,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0.318,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h1 > span.aLetter"
+   },
+   "Poppins|12|100|normal|0|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 12,
+    "weight": 100,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 13,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.loaderText"
+   },
+   "Casta-SemiBoldCondensed|48|400|normal|0|none": {
+    "family": "Casta-SemiBoldCondensed",
+    "stack": "Casta-SemiBoldCondensed",
+    "generic": "",
+    "size": 48,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 18,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "div > div.headline.headline1"
+   },
+   "Poppins|12|700|normal|0|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 12,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 250,
+    "count": 5,
+    "tags": {
+     "div": 5
+    },
+    "ex": "div > div.subheader"
+   },
+   "Poppins|12|400|normal|0|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 63,
+    "count": 2,
+    "tags": {
+     "div": 1,
+     "a": 1
+    },
+    "ex": "div#aProjectBy"
+   },
+   "Poppins|14|500|1.43|0|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": 1.43,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 17,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.label"
+   },
+   "Casta-SemiBoldCondensed|64|400|normal|0|none": {
+    "family": "Casta-SemiBoldCondensed",
+    "stack": "Casta-SemiBoldCondensed",
+    "generic": "",
+    "size": 64,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 9,
+    "count": 2,
+    "tags": {
+     "div": 1,
+     "span": 1
+    },
+    "ex": "div > div.id"
+   },
+   "Poppins|10|400|normal|0|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 78,
+    "count": 4,
+    "tags": {
+     "div": 4
+    },
+    "ex": "div > div.statusHeadline"
+   },
+   "poppins|14|700|1.07|0|none": {
+    "family": "poppins",
+    "stack": "poppins",
+    "generic": "",
+    "size": 14,
+    "weight": 700,
+    "lineHeight": 1.07,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 10,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div#logo"
+   },
+   "Poppins|14|500|normal|0.071|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 14,
+    "weight": 500,
+    "lineHeight": "normal",
+    "letterSpacing": 0.071,
+    "transform": "none",
+    "style": "normal",
+    "chars": 48,
+    "count": 3,
+    "tags": {
+     "div": 3
+    },
+    "ex": "div#subMenu > div.menuItem.menuAbout"
+   },
+   "Poppins|14|400|normal|0.071|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 14,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0.071,
+    "transform": "none",
+    "style": "normal",
+    "chars": 11,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div#giveAHandCTA > div.giveAHandText"
+   },
+   "Poppins|10|400|normal|0.1|none": {
+    "family": "Poppins",
+    "stack": "Poppins",
+    "generic": "",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": "normal",
+    "letterSpacing": 0.1,
+    "transform": "none",
+    "style": "normal",
+    "chars": 20,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div#totalHandsGathered"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "5": {
+     "w": 1
+    },
+    "6": {
+     "w": 3
+    },
+    "10": {
+     "w": 2
+    },
+    "12": {
+     "w": 12
+    },
+    "20": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "3": {
+     "w": 3
+    },
+    "5": {
+     "w": 3
+    },
+    "6": {
+     "w": 3
+    },
+    "9": {
+     "w": 1
+    },
+    "10": {
+     "w": 8
+    },
+    "15": {
+     "w": 2
+    },
+    "20": {
+     "w": 2
+    },
+    "30": {
+     "w": 1
+    },
+    "32": {
+     "w": 1
+    },
+    "150": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 40,
+    "w": 220,
+    "h": 42,
+    "kind": "box"
+   },
+   {
+    "r": 40,
+    "w": 220,
+    "h": 44,
+    "kind": "box"
+   },
+   {
+    "r": 40,
+    "w": 220,
+    "h": 44,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 400,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 10,
+    "h": 10,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 10,
+    "h": 10,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 10,
+    "h": 10,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 96,
+    "h": 96,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {},
+  "easings": {},
+  "gridCols": {},
+  "counts": {
+   "elements": 60,
+   "flex": 4,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 0,
+   "images": 0,
+   "svgs": 4,
+   "videos": 1,
+   "sticky": 11
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "poppins",
+    "stack": "poppins",
+    "size": 44,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.318,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 428,
+    "text": "GIVE A HAND"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "div#HandData",
+    "w": 400,
+    "h": 900,
+    "bg": "#111111",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 22,
+    "fontWeight": 400,
+    "family": "Poppins",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Return to Dataset\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t#",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [
+   {
+    "color": "#ffffff",
+    "decoration": "underline",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 950,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 950,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 1.6
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > div.button.button1",
+    "fg": "#ffffff",
+    "bg": "#d65e3d",
+    "ratio": 3.8
+   }
+  ],
+  "nav": null
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Poppins",
+   "weight": "200",
+   "style": "normal"
+  },
+  {
+   "family": "Poppins",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Poppins",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "Poppins",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "Casta-SemiBoldCondensed",
+   "weight": "normal",
+   "style": "normal"
+  },
+  {
+   "family": "Casta-SemiBold",
+   "weight": "normal",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [
+  "https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;700&display=block"
+ ],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#000000",
+    "share": 0.988
+   },
+   {
+    "hex": "#242424",
+    "share": 0.003
+   },
+   {
+    "hex": "#434343",
+    "share": 0.002
+   },
+   {
+    "hex": "#0b0b0b",
+    "share": 0.002
+   },
+   {
+    "hex": "#181818",
+    "share": 0.002
+   },
+   {
+    "hex": "#787878",
+    "share": 0.002
+   },
+   {
+    "hex": "#a3a3a3",
+    "share": 0.001
+   },
+   {
+    "hex": "#333232",
+    "share": 0
+   },
+   {
+    "hex": "#cacaca",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.004,
+  "lightnessStd": 0.043,
+  "meanChroma": 0,
+  "chromaticShare": 0,
+  "negativeSpace": 0.988,
+  "busyness": 0.003,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": 20,
+  "gutter": 68,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}
