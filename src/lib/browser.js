@@ -57,14 +57,30 @@ async function fetchViaNode(route) {
   if (!/^https?:/i.test(url) || /^https?:\/\/(localhost|127\.|\[::1\])/i.test(url)) return route.continue();
   try {
     const headers = Object.fromEntries(Object.entries(await req.allHeaders()).filter(([k]) => !k.startsWith(':') && k !== 'host'));
-    // Route handlers never see redirected URLs, so follow redirects here. Retry transient connect failures.
-    const init = { method: req.method(), headers, body: req.postDataBuffer() || undefined, redirect: 'follow' };
-    let res;
-    for (let attempt = 0; ; attempt++) {
-      try { res = await fetch(url, init); break; } catch (err) { if (attempt >= 2) throw err; }
+    // Route handlers never see redirected URLs, so follow redirects here — carrying cookies set along the
+    // way (locale/consent redirects loop forever without them). Retry transient connect failures.
+    let target = url, method = req.method(), body = req.postDataBuffer() || undefined, res;
+    const setCookies = [];
+    for (let hop = 0; hop < 10; hop++) {
+      const init = { method, headers, body, redirect: 'manual' };
+      for (let attempt = 0; ; attempt++) {
+        try { res = await fetch(target, init); break; } catch (err) { if (attempt >= 2) throw err; }
+      }
+      const location = res.headers.get('location');
+      if (res.status < 300 || res.status >= 400 || !location) break;
+      const fresh = res.headers.getSetCookie?.() || [];
+      setCookies.push(...fresh);
+      const jar = new Map((headers.cookie || '').split(/;\s*/).filter(Boolean).map((c) => [c.split('=')[0], c]));
+      for (const c of fresh) { const pair = c.split(';')[0]; jar.set(pair.split('=')[0], pair); }
+      if (jar.size) headers.cookie = [...jar.values()].join('; ');
+      target = new URL(location, target).href;
+      if (res.status === 303 || ((res.status === 301 || res.status === 302) && method === 'POST')) { method = 'GET'; body = undefined; }
+      await res.arrayBuffer().catch(() => {});
     }
     const outHeaders = {};
-    res.headers.forEach((v, k) => { if (!HOP_HEADERS.has(k)) outHeaders[k] = v; });
+    res.headers.forEach((v, k) => { if (!HOP_HEADERS.has(k) && k !== 'set-cookie') outHeaders[k] = v; });
+    const allCookies = [...setCookies, ...(res.headers.getSetCookie?.() || [])];
+    if (allCookies.length) outHeaders['set-cookie'] = allCookies.join('\n');
     await route.fulfill({ status: res.status, headers: outHeaders, body: Buffer.from(await res.arrayBuffer()) });
   } catch {
     await route.abort('failed').catch(() => {});
