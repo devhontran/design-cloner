@@ -1,0 +1,413 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "akaru",
+  "generatedAt": "2026-09-26T05:38:13.154Z",
+  "sources": [
+    {
+      "id": "akaru-fr",
+      "type": "web",
+      "input": "https://akaru.fr/",
+      "weight": 1,
+      "title": "Agence web lyon : création de site internet et design graphique"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "lyon web agency",
+      "ultra-condensed wordmark",
+      "pastel colour slabs",
+      "horizontal scroll gallery",
+      "light grotesk headlines",
+      "pill buttons with dot",
+      "awards ledger",
+      "black footer giant logo"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#f1efeb",
+      "foreground": "#0e0e0e",
+      "surface": "#0e0e0e",
+      "surface-foreground": "#ffffff",
+      "muted": "#bfccd8",
+      "muted-foreground": "#6b6b6b",
+      "border": "#0e0e0e",
+      "primary": "#0e0e0e",
+      "primary-foreground": "#ffffff",
+      "accent": "#e49366",
+      "accent-foreground": "#0e0e0e",
+      "ring": "#e49366",
+      "success": "#008c3f",
+      "warning": "#9d6900",
+      "danger": "#d02c2b"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#0e0e0e",
+        "share": 0.427,
+        "oklch": "oklch(0.164 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#7345ff",
+        "share": 0.186,
+        "oklch": "oklch(0.561 0.256 286)",
+        "role": "primary"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.163,
+        "oklch": "oklch(1 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#f1efeb",
+        "share": 0.086,
+        "oklch": "oklch(0.953 0.006 85)",
+        "role": null
+      },
+      {
+        "hex": "#bfccd8",
+        "share": 0.07,
+        "oklch": "oklch(0.839 0.022 246)",
+        "role": null
+      },
+      {
+        "hex": "#e49366",
+        "share": 0.022,
+        "oklch": "oklch(0.736 0.115 49)",
+        "role": "accent"
+      },
+      {
+        "hex": "#b692a1",
+        "share": 0.019,
+        "oklch": "oklch(0.698 0.048 352)",
+        "role": null
+      },
+      {
+        "hex": "#3163cb",
+        "share": 0.014,
+        "oklch": "oklch(0.525 0.171 263)",
+        "role": null
+      },
+      {
+        "hex": "#798e7b",
+        "share": 0.013,
+        "oklch": "oklch(0.624 0.037 148)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#6b6b6b",
+        "700": "#505050",
+        "800": "#373737",
+        "900": "#222222",
+        "950": "#0e0e0e"
+      },
+      "accent": {
+        "50": "#fff6f2",
+        "100": "#ffebe1",
+        "200": "#ffd5bf",
+        "300": "#fab691",
+        "400": "#e49366",
+        "500": "#c97342",
+        "600": "#ad5a27",
+        "700": "#8d4413",
+        "800": "#6f3207",
+        "900": "#542200",
+        "950": "#3a1500"
+      },
+      "neutral": {
+        "50": "#fefaf1",
+        "100": "#f7f3eb",
+        "200": "#e8e4dc",
+        "300": "#d8d4cc",
+        "400": "#a5a199",
+        "500": "#76736b",
+        "600": "#57534d",
+        "700": "#433f39",
+        "800": "#292620",
+        "900": "#1a1711",
+        "950": "#0c0a05"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--beige": "#f1efeb",
+      "--green": "#798e7b",
+      "--dark-grey": "#1a1a1a",
+      "--grey": "#666d73",
+      "--pink": "#b692a1",
+      "--light-grey": "#f7f7f7",
+      "--terra": "#e49366",
+      "--purple": "#7345ff",
+      "--black": "#0e0e0e",
+      "--primary": "#ffffff",
+      "--blue": "#bfccd8",
+      "--highlight": "#7345ff",
+      "--white": "#ffffff",
+      "--secondary": "#0e0e0e",
+      "--mid-grey": "#262626"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 19.3,
+      "temperature": "cool",
+      "harmony": "split",
+      "primaryHue": "violet",
+      "accentHue": "orange"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Alliance Neue",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      },
+      "body": {
+        "name": "Alliance Neue",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      },
+      "ui": {
+        "name": "Alliance Platt",
+        "category": "serif",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "observedStack": "\"Alliance Platt\", serif",
+        "weights": [
+          400,
+          600,
+          700
+        ]
+      },
+      "mono": {
+        "name": "Akaru wordmark (ultra-condensed)",
+        "category": "sans",
+        "source": "custom",
+        "use": "Big Shoulders Display",
+        "alternative": "Big Shoulders Display",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          800,
+          900
+        ]
+      }
+    },
+    "scale": {
+      "2xs": 10,
+      "xs": 12,
+      "sm": 16,
+      "base": 18,
+      "lg": 20,
+      "xl": 32,
+      "2xl": 54,
+      "3xl": 64,
+      "4xl": 72,
+      "5xl": 96
+    },
+    "ratio": 1.322,
+    "ratioName": "perfect fourth",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 96,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 64,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 32,
+        "weight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 18,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 33.28,
+      "body": 16.64
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.18,
+    "scale": [
+      2,
+      6,
+      8,
+      10,
+      14,
+      18,
+      20,
+      22,
+      30,
+      40,
+      130,
+      160
+    ],
+    "sectionY": 90,
+    "container": 1120,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 4,
+      "full": 9999,
+      "md": 14,
+      "lg": 24
+    },
+    "zeroRadiusShare": 0.97,
+    "style": "rounded",
+    "buttonShape": "pill",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "subtle",
+    "shadows": {
+      "md": "rgba(14,14,14,1) 0px 0px 0px 0.999994px inset"
+    },
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 27.84,
+    "sectionsPerPage": 61,
+    "nav": {
+      "height": 90,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 18,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 16.64,
+      "h1Size": 33.28,
+      "gutter": 0,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 300,
+    "durations": [
+      300,
+      400,
+      500
+    ],
+    "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 20,
+      "videos": false,
+      "iconsSvg": 85,
+      "roundedImages": 0,
+      "commonAspect": "square"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "surface",
+      "color": "surface-foreground",
+      "radius": 9999,
+      "height": 32,
+      "paddingX": 16,
+      "paddingY": 0,
+      "fontSize": 9,
+      "fontWeight": 500,
+      "transform": "uppercase",
+      "letterSpacing": 0.06,
+      "border": null,
+      "shadow": null,
+      "transition": "0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+      "example": "MENU ●"
+    },
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "background",
+      "underline": false
+    }
+  }
+}

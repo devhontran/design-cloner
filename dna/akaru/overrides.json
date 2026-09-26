@@ -1,0 +1,14 @@
+{
+  "color": { "roles": { "background": "#f1efeb", "foreground": "#0e0e0e", "surface": "#0e0e0e", "surface-foreground": "#ffffff", "muted": "#bfccd8", "muted-foreground": "#6b6b6b", "border": "#0e0e0e", "primary": "#0e0e0e", "primary-foreground": "#ffffff", "accent": "#e49366", "accent-foreground": "#0e0e0e", "ring": "#e49366" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Alliance Neue", "use": "Inter", "alternative": "Inter", "weights": [400, 500] },
+      "body": { "name": "Alliance Neue", "use": "Inter", "alternative": "Inter", "weights": [400, 500] },
+      "mono": { "name": "Akaru wordmark (ultra-condensed)", "use": "Big Shoulders Display", "alternative": "Big Shoulders Display", "weights": [800, 900] }
+    },
+    "headings": { "h1": { "size": 96, "weight": 400, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" }, "h2": { "size": 64, "weight": 400, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" } }
+  },
+  "shape": { "radius": { "sm": 4, "md": 14, "lg": 24, "full": 9999 }, "style": "rounded", "buttonShape": "pill" },
+  "components": { "buttonPrimary": { "background": "surface", "color": "surface-foreground", "radius": 9999, "height": 32, "paddingX": 16, "paddingY": 0, "fontSize": 9, "fontWeight": 500, "transform": "uppercase", "letterSpacing": 0.06, "border": null, "shadow": null, "transition": "0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955)", "example": "MENU ●" } },
+  "personality": { "keywords": ["lyon web agency", "ultra-condensed wordmark", "pastel colour slabs", "horizontal scroll gallery", "light grotesk headlines", "pill buttons with dot", "awards ledger", "black footer giant logo"] }
+}

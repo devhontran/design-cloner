@@ -1,0 +1,8 @@
+[
+  {
+    "id": "akaru-fr",
+    "type": "web",
+    "input": "https://akaru.fr/",
+    "weight": 1
+  }
+]
