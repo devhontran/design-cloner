@@ -1,0 +1,29 @@
+{
+  "color": {
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#f1f1f1",
+      "muted": "#f1f1f1",
+      "muted-foreground": "#666666",
+      "border": "#e0e0e0",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#1d1a16",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Bradford", "use": "Newsreader", "alternative": "Newsreader", "weights": [400] },
+      "body": { "name": "Bradford", "use": "Newsreader", "alternative": "Newsreader", "weights": [400] },
+      "mono": { "name": "Graphik", "use": "Inter", "alternative": "Inter", "weights": [400, 500] }
+    }
+  },
+  "shape": { "radius": { "sm": 4, "md": 6, "lg": 11, "full": 9999 }, "style": "soft" },
+  "motion": { "style": "expressive", "duration": 800, "easing": "ease-in-out" },
+  "personality": {
+    "keywords": ["museum scrollytelling", "white gallery wall", "floating artwork cloud", "one object's journey", "serif narrative captions", "timeline scrubber", "full-bleed painting zoom", "getty research"]
+  }
+}

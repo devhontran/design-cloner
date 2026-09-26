@@ -1,0 +1,351 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "tracing-art",
+  "generatedAt": "2026-09-26T03:19:54.921Z",
+  "sources": [
+    {
+      "id": "getty-edu-tracingart",
+      "type": "web",
+      "input": "https://www.getty.edu/tracingart/",
+      "weight": 1,
+      "title": "Tracing Art"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "museum scrollytelling",
+      "white gallery wall",
+      "floating artwork cloud",
+      "one object's journey",
+      "serif narrative captions",
+      "timeline scrubber",
+      "full-bleed painting zoom",
+      "getty research"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#f1f1f1",
+      "surface-foreground": "#000000",
+      "muted": "#f1f1f1",
+      "muted-foreground": "#666666",
+      "border": "#e0e0e0",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#1d1a16",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000",
+      "success": "#007f38",
+      "warning": "#8d5e00",
+      "danger": "#af3d36"
+    },
+    "derived": [
+      "muted-foreground",
+      "border",
+      "primary (monochrome: using foreground)",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.658,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.334,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.008,
+        "oklch": "oklch(0.958 0 0)",
+        "role": "surface"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#626262",
+        "700": "#3e3e3e",
+        "800": "#1f1f1f",
+        "900": "#060606",
+        "950": "#000000"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      },
+      "accent": {
+        "50": "#f7f6f5",
+        "100": "#eeecea",
+        "200": "#dedad5",
+        "300": "#c7c2ba",
+        "400": "#a9a299",
+        "500": "#8e867d",
+        "600": "#746d64",
+        "700": "#5b554d",
+        "800": "#443f39",
+        "900": "#302c27",
+        "950": "#1d1a16"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "monochrome",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "neutral",
+      "harmony": "monochrome",
+      "primaryHue": "neutral",
+      "accentHue": "neutral"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Bradford",
+        "category": "sans",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "name": "Bradford",
+        "category": "sans",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "ui": {
+        "name": "Graphik",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "Graphik, Roboto, \"Helvetica Neue\", sans-serif",
+        "weights": [
+          500,
+          600
+        ]
+      },
+      "mono": {
+        "name": "Graphik",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      }
+    },
+    "scale": {
+      "sm": 13,
+      "base": 16,
+      "lg": 54,
+      "xl": 72
+    },
+    "ratio": 2.121,
+    "ratioName": "golden ratio",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 72,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 54,
+        "weight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "style": "normal",
+        "align": "center"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 41.6,
+      "body": 16.64
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.09,
+    "scale": [
+      6,
+      10,
+      14,
+      18,
+      28,
+      36,
+      46
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 129,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 4,
+      "md": 6,
+      "lg": 11,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.4,
+    "style": "soft",
+    "buttonShape": "0px",
+    "card": 11,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 90.5,
+    "sectionsPerPage": 12,
+    "nav": {
+      "height": 900,
+      "position": "absolute",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 2,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 16.64,
+      "h1Size": 41.6,
+      "gutter": 129,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 800,
+    "durations": [
+      300,
+      500,
+      800
+    ],
+    "easing": "ease-in-out",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 3,
+      "videos": false,
+      "iconsSvg": 8,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 36,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 13.5,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": ""
+    },
+    "card": {
+      "background": "surface",
+      "radius": 10.8,
+      "border": null,
+      "shadow": null,
+      "paddingX": 0,
+      "paddingY": 0
+    },
+    "input": null,
+    "link": null
+  }
+}

@@ -1,0 +1,664 @@
+{
+ "url": "https://www.getty.edu/tracingart/",
+ "title": "Tracing Art",
+ "description": "How the Getty Provenance Index is transforming research on the social life of art",
+ "themeColor": null,
+ "ogImage": "https://getty.edu/tracingart/og-image.png",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 81450,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 9,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 28800058.2890625,
+    "ex": "body"
+   },
+   "#f1f1f1": {
+    "w": 365589.16796875,
+    "ex": "nav > div.navPanel.navPanel--about"
+   },
+   "#000000": {
+    "w": 19710,
+    "ex": "div > div.navDots__dotBg"
+   }
+  },
+  "text": {
+   "#000000": {
+    "w": 150,
+    "ex": "div > p.section1__breakoutSubtext.textLabelS"
+   }
+  },
+  "border": {},
+  "families": {
+   "Graphik": {
+    "w": 61
+   },
+   "Bardford": {
+    "w": 89
+   }
+  },
+  "typeStyles": {
+   "Graphik|12.5|500|normal|-0.01|none": {
+    "family": "Graphik",
+    "stack": "Graphik, Roboto, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 500,
+    "lineHeight": "normal",
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 46,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.section1__breakoutSubtext.textLabelS"
+   },
+   "Bardford|54|400|1.2|-0.02|none": {
+    "family": "Bardford",
+    "stack": "Bardford, Roboto, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 54,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 89,
+    "count": 1,
+    "tags": {
+     "h2": 1
+    },
+    "ex": "div > h2.section1__breakoutText.textH2"
+   },
+   "Graphik|12.5|500|normal|-0.02|none": {
+    "family": "Graphik",
+    "stack": "Graphik, Roboto, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 500,
+    "lineHeight": "normal",
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 11,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "button > span.breakoutBtn__label"
+   },
+   "Graphik|12.5|600|normal|-0.01|none": {
+    "family": "Graphik",
+    "stack": "Graphik, Roboto, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 600,
+    "lineHeight": "normal",
+    "letterSpacing": -0.01,
+    "transform": "none",
+    "style": "normal",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.timelineBar__yearText"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "14": {
+     "w": 2
+    },
+    "18": {
+     "w": 7
+    },
+    "27": {
+     "w": 4
+    },
+    "36": {
+     "w": 4
+    }
+   },
+   "margin": {
+    "5": {
+     "w": 1
+    },
+    "27": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "4": {
+     "w": 1
+    },
+    "9": {
+     "w": 2
+    },
+    "27": {
+     "w": 1
+    },
+    "45": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 10.8,
+    "w": 457,
+    "h": 374,
+    "kind": "box"
+   },
+   {
+    "r": 10.8,
+    "w": 457,
+    "h": 415,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 27,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 27,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 2.3,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 41,
+    "h": 41,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 10.8,
+    "w": 121,
+    "h": 41,
+    "kind": "box"
+   },
+   {
+    "r": 6.3,
+    "w": 180,
+    "h": 99,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 99,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 124,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 13,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 392,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 392,
+    "h": 2,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "300": {
+    "w": 1
+   },
+   "500": {
+    "w": 1
+   },
+   "800": {
+    "w": 5
+   }
+  },
+  "easings": {
+   "ease-in-out": {
+    "w": 3
+   },
+   "ease": {
+    "w": 2
+   },
+   "cubic-bezier(0.215, 0.61, 0.355, 1)": {
+    "w": 1
+   },
+   "cubic-bezier(0.25, 0.46, 0.45, 0.94)": {
+    "w": 1
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 69,
+   "flex": 13,
+   "grid": 0,
+   "glass": 3,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 7,
+   "images": 3,
+   "svgs": 8,
+   "videos": 0,
+   "sticky": 4
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Bardford",
+    "stack": "Bardford, Roboto, \"Helvetica Neue\", sans-serif",
+    "size": 72,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 414,
+    "text": "TracingArt"
+   },
+   {
+    "tag": "h2",
+    "family": "Bardford",
+    "stack": "Bardford, Roboto, \"Helvetica Neue\", sans-serif",
+    "size": 54,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 288,
+    "text": "Here's how the Getty Provenance Index is transforming research on the social lif"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "nav > button.nav__btnAbout.btnAbout",
+    "w": 36,
+    "h": 36,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.5,
+    "fontWeight": 400,
+    "family": "sans-serif",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.section1__breakoutBtn.breakoutBtn",
+    "w": 121,
+    "h": 41,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 14,
+    "padX": 18,
+    "fontSize": 12.6,
+    "fontWeight": 500,
+    "family": "Graphik",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "Scroll down",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "nav > div.navPanel.navPanel--about",
+    "w": 457,
+    "h": 374,
+    "bg": "#f1f1f1",
+    "bgAlpha": 0.2,
+    "color": "#000000",
+    "radius": 10.8,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.5,
+    "fontWeight": 400,
+    "family": "sans-serif",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "About the Getty Provenance IndexThe GPI ",
+    "backdrop": "blur(18px)",
+    "transition": null
+   },
+   {
+    "sel": "nav > div.navPanel.navPanel--chapters",
+    "w": 457,
+    "h": 415,
+    "bg": "#f1f1f1",
+    "bgAlpha": 0.2,
+    "color": "#000000",
+    "radius": 10.8,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.5,
+    "fontWeight": 400,
+    "family": "sans-serif",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Chapters1Tracing a Painting Through Time",
+    "backdrop": "blur(18px)",
+    "transition": null
+   },
+   {
+    "sel": "div > div.ledger__inner",
+    "w": 180,
+    "h": 99,
+    "bg": "#000000",
+    "bgAlpha": 1,
+    "color": "#ffffff",
+    "radius": 6.3,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 13.5,
+    "fontWeight": 400,
+    "family": "sans-serif",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "M. Knoedler & Co. Painting stock book 9,",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 81450,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 81450,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 81450,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 81450,
+    "bg": "#ffffff",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 81450,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 80550,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 810,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 810,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 180,
+    "h": 99,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.82
+   },
+   {
+    "w": 180,
+    "h": 124,
+    "radius": 0,
+    "fit": "fill",
+    "aspect": 1.45
+   }
+  ],
+  "lowContrast": [],
+  "nav": {
+   "sel": "div > nav.nav__aboutWrap",
+   "w": 1440,
+   "h": 900,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#000000",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 18,
+   "padX": 18,
+   "fontSize": 13.5,
+   "fontWeight": 400,
+   "family": "sans-serif",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "About the Getty Provenance IndexThe GPI ",
+   "backdrop": null,
+   "transition": null,
+   "position": "absolute",
+   "linkCount": 2,
+   "hasCta": false
+  }
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "Bardford",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Bardford",
+   "weight": "400",
+   "style": "italic"
+  },
+  {
+   "family": "Bardford",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Bardford",
+   "weight": "400",
+   "style": "italic"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#ffffff",
+    "share": 0.918
+   },
+   {
+    "hex": "#9c968b",
+    "share": 0.017
+   },
+   {
+    "hex": "#817b70",
+    "share": 0.015
+   },
+   {
+    "hex": "#e5e5e5",
+    "share": 0.012
+   },
+   {
+    "hex": "#63605a",
+    "share": 0.011
+   },
+   {
+    "hex": "#ccccca",
+    "share": 0.01
+   },
+   {
+    "hex": "#b4b3b0",
+    "share": 0.009
+   },
+   {
+    "hex": "#413f3c",
+    "share": 0.006
+   },
+   {
+    "hex": "#0f0f0e",
+    "share": 0.002
+   }
+  ],
+  "meanLightness": 0.971,
+  "lightnessStd": 0.105,
+  "meanChroma": 0.001,
+  "chromaticShare": 0,
+  "negativeSpace": 0.918,
+  "busyness": 0.018,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 16.64,
+  "h1Size": 41.6,
+  "gutter": 129,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

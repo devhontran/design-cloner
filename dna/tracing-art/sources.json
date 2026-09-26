@@ -1,0 +1,8 @@
+[
+  {
+    "id": "getty-edu-tracingart",
+    "type": "web",
+    "input": "https://www.getty.edu/tracingart/",
+    "weight": 1
+  }
+]
