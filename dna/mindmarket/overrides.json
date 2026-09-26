@@ -1,0 +1,25 @@
+{
+  "color": {
+    "roles": {
+      "background": "#f5f1e4",
+      "foreground": "#2c2e2a",
+      "surface": "#ffffff",
+      "muted": "#e0dbce",
+      "muted-foreground": "#6b6d68",
+      "border": "#e0dbce",
+      "primary": "#8ed462",
+      "primary-foreground": "#2c2e2a",
+      "accent": "#f5e211",
+      "accent-foreground": "#2c2e2a",
+      "ring": "#2ba0ff",
+      "danger": "#ff705d"
+    }
+  },
+  "shape": { "radius": { "sm": 10, "md": 24, "lg": 48, "xl": 64, "full": 9999 }, "style": "very-rounded", "buttonShape": "rounded" },
+  "components": {
+    "buttonPrimary": { "background": "surface", "color": "foreground", "radius": 10, "height": 44, "paddingX": 12, "paddingY": 0, "fontSize": 14, "fontWeight": 500, "transform": "none", "letterSpacing": -0.01, "border": null, "shadow": null, "transition": "0.4s cubic-bezier(0.17, 0.67, 0.3, 1.33)", "example": "Get a quote ›" }
+  },
+  "personality": {
+    "keywords": ["playful research agency", "lime + cream + yellow", "bold character illustrations", "white text cards over art", "squiggle underlines", "tight inter headlines", "big rounded colour blocks", "bouncy motion"]
+  }
+}

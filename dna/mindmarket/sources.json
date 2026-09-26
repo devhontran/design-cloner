@@ -1,0 +1,8 @@
+[
+  {
+    "id": "mindmarket-com",
+    "type": "web",
+    "input": "https://mindmarket.com/",
+    "weight": 1
+  }
+]
