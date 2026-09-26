@@ -1,0 +1,420 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "david-whyte",
+  "generatedAt": "2026-09-26T06:29:37.940Z",
+  "sources": [
+    {
+      "id": "davidwhyte-com-experience",
+      "type": "web",
+      "input": "https://davidwhyte.com/experience/",
+      "weight": 1,
+      "title": "Experience & advantages - David Whyte"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "poet's companion",
+      "misty paper grey",
+      "ink-wash reveals",
+      "light serif statements",
+      "watercolour landscapes",
+      "poetry lines over black ink",
+      "quiet membership",
+      "contemplative scroll"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#e8e7e2",
+      "foreground": "#000000",
+      "surface": "#ffffff",
+      "surface-foreground": "#000000",
+      "muted": "#efeae2",
+      "muted-foreground": "#605e5a",
+      "border": "#d2cec7",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#958e09",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000",
+      "success": "#007f38",
+      "warning": "#8d5e00",
+      "danger": "#c2181d"
+    },
+    "derived": [
+      "muted-foreground",
+      "border",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#efeae2",
+        "share": 0.523,
+        "oklch": "oklch(0.939 0.012 80)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.254,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#720eec",
+        "share": 0.138,
+        "oklch": "oklch(0.5 0.273 292)",
+        "role": "primary"
+      },
+      {
+        "hex": "#958e09",
+        "share": 0.069,
+        "oklch": "oklch(0.633 0.133 106)",
+        "role": "accent"
+      },
+      {
+        "hex": "#d8914c",
+        "share": 0.01,
+        "oklch": "oklch(0.715 0.121 63)",
+        "role": null
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.007,
+        "oklch": "oklch(1 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#c5c5c0",
+        "share": 0,
+        "oklch": "oklch(0.822 0.007 107)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#626262",
+        "700": "#3e3e3e",
+        "800": "#1f1f1f",
+        "900": "#060606",
+        "950": "#000000"
+      },
+      "accent": {
+        "50": "#f8f8ec",
+        "100": "#f0efd6",
+        "200": "#e1dfac",
+        "300": "#ccc87b",
+        "400": "#afa945",
+        "500": "#958e09",
+        "600": "#7b7500",
+        "700": "#625d00",
+        "800": "#4c4800",
+        "900": "#383500",
+        "950": "#252300"
+      },
+      "neutral": {
+        "50": "#fcfaf1",
+        "100": "#f5f4eb",
+        "200": "#e7e5dc",
+        "300": "#d6d4cc",
+        "400": "#a3a299",
+        "500": "#75736b",
+        "600": "#56544d",
+        "700": "#414039",
+        "800": "#282720",
+        "900": "#191711",
+        "950": "#0b0a05"
+      }
+    },
+    "gradients": [
+      "linear-gradient(90deg, rgb(233, 230, 230), rgba(233, 233, 231, 0) 65%), linear-gradient(0deg, rgb(220, 220, 220), rgb(222, 222, 221) 50%, rgb(247, 247, 246) 70%, rgb(226, 226, 225))"
+    ],
+    "cssVars": {
+      "--wc-form-border-color": "#493534",
+      "--wp-admin-theme-color-darker-20": "#005a87",
+      "--wc-subtext": "#767676",
+      "--wp--preset--color--vivid-purple": "#9b51e0",
+      "--wp--preset--color--pale-pink": "#f78da7",
+      "--wc-orange": "#ffba00",
+      "--wp-bound-block-color": "#7a00df",
+      "--woocommerce": "#720eec",
+      "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+      "--wc-secondary-text": "#515151",
+      "--wp--preset--color--vivid-green-cyan": "#00d084",
+      "--wc-content-bg": "#ffffff",
+      "--wp-editor-canvas-background": "#dddddd",
+      "--wp-admin-theme-color": "#007cba",
+      "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+      "--wc-primary": "#720eec",
+      "--wc-primary-text": "#fcfbfe",
+      "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+      "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+      "--wc-blue": "#2ea2cc",
+      "--wp-block-synced-color": "#7a00df",
+      "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+      "--wc-green": "#007518",
+      "--wp--preset--color--vivid-red": "#cf2e2e",
+      "--wc-highligh-text": "#ffffff",
+      "--wc-red": "#aa0000",
+      "--wp--preset--color--light-green-cyan": "#7bdcb5",
+      "--wc-secondary": "#e9e6ed",
+      "--wp--preset--color--white": "#ffffff",
+      "--wp--preset--color--black": "#000000",
+      "--wp-admin-theme-color-darker-10": "#006ba1",
+      "--wc-destructive": "#cc1818",
+      "--wc-highlight": "#958e09"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 17.54,
+      "temperature": "cool",
+      "harmony": "multi-hue",
+      "primaryHue": "violet",
+      "accentHue": "yellow"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Canela Text",
+        "category": "serif",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "body": {
+        "name": "Roobert",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "ui": {
+        "name": "Times New Roman",
+        "category": "serif",
+        "source": "system",
+        "use": "Tinos",
+        "alternative": "Tinos",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "weights": []
+      }
+    },
+    "scale": {
+      "2xs": 14,
+      "xs": 15,
+      "sm": 16,
+      "base": 18,
+      "lg": 20,
+      "xl": 22,
+      "2xl": 32,
+      "3xl": 52,
+      "4xl": 86
+    },
+    "ratio": 1.367,
+    "ratioName": "perfect fourth",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 86,
+        "weight": 300,
+        "lineHeight": 1.05,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 52,
+        "weight": 300,
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 24,
+        "weight": 300,
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 11,
+      "weight": 400,
+      "lineHeight": 1.4,
+      "letterSpacing": 0,
+      "transform": "none"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": null,
+      "body": 14
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.45,
+    "scale": [
+      6,
+      8,
+      10,
+      12,
+      16,
+      18,
+      20,
+      22,
+      26,
+      30,
+      32,
+      34,
+      64,
+      72
+    ],
+    "sectionY": 64,
+    "container": 1380,
+    "gutter": 45,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 2,
+      "md": 2,
+      "full": 9999,
+      "lg": 4
+    },
+    "zeroRadiusShare": 0.43,
+    "style": "sharp",
+    "buttonShape": "2px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 24,
+    "layoutEngine": "grid-heavy",
+    "pageLengthViewports": 6.52,
+    "sectionsPerPage": 14,
+    "nav": {
+      "height": 101,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": true,
+      "links": 38,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 14,
+      "h1Size": null,
+      "gutter": 45,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 800,
+    "durations": [
+      600,
+      800,
+      1800,
+      2400
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 6,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "surface",
+      "color": "foreground",
+      "radius": 4,
+      "height": 54,
+      "paddingX": 29,
+      "paddingY": 16,
+      "fontSize": 16,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.4s cubic-bezier(0.39, 0.575, 0.565, 1)",
+      "example": "Subscribe - $75 / year"
+    },
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 21,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 12,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.5s cubic-bezier(0.47, 0, 0.745, 0.715)",
+      "example": "Restart the experience"
+    },
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "foreground",
+      "underline": false
+    }
+  }
+}

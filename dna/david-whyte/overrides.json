@@ -1,0 +1,13 @@
+{
+  "color": { "roles": { "background": "#e8e7e2", "foreground": "#000000", "surface": "#ffffff", "muted": "#efeae2", "muted-foreground": "#605e5a", "border": "#d2cec7", "primary": "#000000", "primary-foreground": "#ffffff", "accent": "#958e09", "accent-foreground": "#ffffff", "ring": "#000000" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Canela Text", "use": "Newsreader", "alternative": "Newsreader", "weights": [300, 400] },
+      "body": { "name": "Roobert", "use": "Inter", "alternative": "Inter", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 86, "weight": 300, "lineHeight": 1.05, "letterSpacing": -0.01, "transform": "none" }, "h2": { "size": 52, "weight": 300, "lineHeight": 1.05, "letterSpacing": 0, "transform": "none" }, "h3": { "size": 24, "weight": 300, "lineHeight": 1.15, "letterSpacing": 0, "transform": "none" } },
+    "body": { "size": 11, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 2, "md": 2, "lg": 4, "full": 9999 }, "style": "sharp" },
+  "personality": { "keywords": ["poet's companion", "misty paper grey", "ink-wash reveals", "light serif statements", "watercolour landscapes", "poetry lines over black ink", "quiet membership", "contemplative scroll"] }
+}
