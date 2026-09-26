@@ -1,0 +1,10 @@
+{
+  "color": { "roles": { "background": "#f7f3ed", "foreground": "#333335", "surface": "#d5c8b0", "surface-foreground": "#333335", "muted": "#e6e2dc", "muted-foreground": "#7b7976", "border": "#e6e2dc", "primary": "#333335", "primary-foreground": "#f7f3ed", "accent": "#986c32", "accent-foreground": "#ffffff", "ring": "#986c32" } },
+  "typography": {
+    "families": { "display": { "name": "Studio grotesk (light)", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [300, 400] }, "body": { "name": "Studio grotesk", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400, 500] } },
+    "headings": { "h1": { "size": 40, "weight": 400, "lineHeight": 1.05, "letterSpacing": -0.02, "transform": "none" }, "h2": { "size": 111, "weight": 300, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" }, "h3": { "size": 26, "weight": 400, "lineHeight": 1.1, "letterSpacing": -0.01, "transform": "none" } },
+    "body": { "size": 11, "weight": 400, "lineHeight": 1.5, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 4, "md": 9, "lg": 12, "full": 9999 }, "style": "soft" },
+  "personality": { "keywords": ["boutique ux studio", "warm linen + taupe", "signature script logo", "hairline column grid", "giant thin numerals", "circular dial project carousel", "lifestyle photography", "calm premium"] }
+}

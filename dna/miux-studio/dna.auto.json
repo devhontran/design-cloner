@@ -1,0 +1,380 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "miux-studio",
+  "generatedAt": "2026-09-26T11:14:55.663Z",
+  "sources": [
+    {
+      "id": "madeinuxstudio-com",
+      "type": "web",
+      "input": "https://madeinuxstudio.com/",
+      "weight": 1,
+      "title": "Home | MIUX"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "balanced color",
+      "warm",
+      "light, refined headlines",
+      "dramatic type scale",
+      "spacious",
+      "premium",
+      "rounded",
+      "friendly",
+      "flat",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#f7f3ed",
+      "foreground": "#333335",
+      "surface": "#ffffff",
+      "surface-foreground": "#333335",
+      "muted": "#e8e4de",
+      "muted-foreground": "#7b7976",
+      "border": "#e6e2dc",
+      "primary": "#986c32",
+      "primary-foreground": "#ffffff",
+      "accent": "#986c32",
+      "accent-foreground": "#ffffff",
+      "ring": "#986c32",
+      "success": "#38894e",
+      "warning": "#9e6a00",
+      "danger": "#b2574e"
+    },
+    "derived": [
+      "surface",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#f7f3ed",
+        "share": 0.466,
+        "oklch": "oklch(0.966 0.009 78)",
+        "role": "background"
+      },
+      {
+        "hex": "#986c32",
+        "share": 0.206,
+        "oklch": "oklch(0.565 0.093 71)",
+        "role": "primary"
+      },
+      {
+        "hex": "#7b7976",
+        "share": 0.149,
+        "oklch": "oklch(0.577 0.005 78)",
+        "role": "muted-foreground"
+      },
+      {
+        "hex": "#333335",
+        "share": 0.082,
+        "oklch": "oklch(0.322 0.004 286)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#d5c8b0",
+        "share": 0.051,
+        "oklch": "oklch(0.837 0.036 83)",
+        "role": null
+      },
+      {
+        "hex": "#b9bdab",
+        "share": 0.027,
+        "oklch": "oklch(0.79 0.025 117)",
+        "role": null
+      },
+      {
+        "hex": "#6a6458",
+        "share": 0.013,
+        "oklch": "oklch(0.505 0.02 85)",
+        "role": null
+      },
+      {
+        "hex": "#5d432a",
+        "share": 0.006,
+        "oklch": "oklch(0.405 0.052 64)",
+        "role": null
+      },
+      {
+        "hex": "#c6c2be",
+        "share": 0,
+        "oklch": "oklch(0.816 0.007 68)",
+        "role": null
+      },
+      {
+        "hex": "#9e8f7b",
+        "share": 0,
+        "oklch": "oklch(0.658 0.034 75)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#fcf6ef",
+        "100": "#f7ebdc",
+        "200": "#f0d8bb",
+        "300": "#e2be94",
+        "400": "#c99e6a",
+        "500": "#b08349",
+        "600": "#986c32",
+        "700": "#7c5520",
+        "800": "#614113",
+        "900": "#492f08",
+        "950": "#321e02"
+      },
+      "neutral": {
+        "50": "#fff9f1",
+        "100": "#f8f3eb",
+        "200": "#e9e4dc",
+        "300": "#d9d3cc",
+        "400": "#a6a199",
+        "500": "#77726b",
+        "600": "#58534d",
+        "700": "#433f39",
+        "800": "#2a2620",
+        "900": "#1a1711",
+        "950": "#0d0a05"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--brand-ac-2": "#9e8f7b",
+      "--dark-7": "#e6e2dc",
+      "--light-50": "#fbf9f6",
+      "--brand-ac-4": "#986c32",
+      "--dark-70": "#4a4847",
+      "--dark-40": "#94928e",
+      "--dark-10": "#dedad5",
+      "--brand-ac-1": "#b9bdab",
+      "--dark-50": "#7b7976",
+      "--brand-ac-3": "#d5c8b0",
+      "--dark-30": "#acaaa5",
+      "--light-15": "#f8f5f0",
+      "--brand-dark": "#333335",
+      "--dark-15": "#d2cfca",
+      "--dark-20": "#c6c2be",
+      "--light-30": "#f9f7f2",
+      "--brand-light": "#f7f3ed",
+      "--light-20": "#f9f5f1"
+    },
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "medium",
+      "contrastRatio": 11.41,
+      "temperature": "warm",
+      "harmony": "single-hue",
+      "primaryHue": "orange",
+      "accentHue": "orange"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "__SSS_7de170",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "__SSS_7de170, __SSS_Fallback_7de170",
+        "weights": [
+          400,
+          500,
+          550
+        ]
+      },
+      "body": {
+        "name": "__SSS_7de170",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "__SSS_7de170, __SSS_Fallback_7de170",
+        "weights": [
+          400,
+          500,
+          550
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 14,
+      "base": 15,
+      "lg": 20,
+      "xl": 36,
+      "2xl": 48,
+      "3xl": 72,
+      "4xl": 111,
+      "5xl": 306
+    },
+    "ratio": 1.653,
+    "ratioName": "golden ratio",
+    "base": 15,
+    "headings": {
+      "h1": {
+        "size": 111,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 214,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 306,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 15,
+      "weight": 500,
+      "lineHeight": 1.55
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 72.5581,
+      "body": 12.6977
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.32,
+    "scale": [
+      4,
+      6,
+      10,
+      12,
+      16,
+      18,
+      20,
+      24,
+      30,
+      38,
+      46,
+      96,
+      120,
+      140
+    ],
+    "sectionY": 120,
+    "container": 1380,
+    "gutter": 15,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 9,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.92,
+    "style": "rounded",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": 0,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 15.52,
+    "sectionsPerPage": 49,
+    "nav": {
+      "height": 68,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": "0px none #000000",
+      "hasCta": false,
+      "links": 5,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 12.6977,
+      "h1Size": 72.5581,
+      "gutter": 15,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 550,
+    "durations": [
+      400,
+      500,
+      550,
+      600
+    ],
+    "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 26,
+      "videos": false,
+      "iconsSvg": 26,
+      "roundedImages": 0.15,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": {
+      "background": null,
+      "radius": 0,
+      "border": null,
+      "height": 24,
+      "paddingX": 0,
+      "fontSize": 19.5
+    },
+    "link": {
+      "color": "foreground",
+      "underline": false
+    }
+  }
+}
