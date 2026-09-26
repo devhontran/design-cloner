@@ -34,7 +34,8 @@ const ALTERNATIVES = {
   'monument extended': 'Unbounded', 'monument grotesk': 'Space Grotesk', 'sf mono': 'JetBrains Mono', 'menlo': 'JetBrains Mono', monaco: 'JetBrains Mono',
   consolas: 'JetBrains Mono', 'courier new': 'Courier Prime', 'söhne mono': 'IBM Plex Mono', 'berkeley mono': 'JetBrains Mono', 'gt america mono': 'DM Mono',
   'operator mono': 'Fira Code', 'geist': 'Geist', 'geist mono': 'Geist Mono', 'mona sans': 'Mona Sans', 'haffer': 'Inter', 'area normal': 'Manrope',
-  'tt norms': 'Manrope', 'tt norms pro': 'Manrope',
+  'tt norms': 'Manrope', 'tt norms pro': 'Manrope', 'semisqueezed': 'Roboto Condensed', 'semi squeezed': 'Roboto Condensed',
+  'pp neue montreal mono': 'Geist Mono', 'neue montreal mono': 'Geist Mono',
 };
 
 const SYSTEM = new Set(['-apple-system', 'blinkmacsystemfont', 'system-ui', 'segoe ui', 'helvetica', 'helvetica neue', 'arial', 'sans-serif', 'serif',

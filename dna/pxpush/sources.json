@@ -1,0 +1,8 @@
+[
+  {
+    "id": "pxpush-com",
+    "type": "web",
+    "input": "https://pxpush.com/",
+    "weight": 1
+  }
+]

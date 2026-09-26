@@ -329,7 +329,8 @@ export function collectMobile() {
   let gutter = null;
   for (const el of main.querySelectorAll('p,h1,h2')) {
     const r = el.getBoundingClientRect();
-    if (r.width > 100) { gutter = Math.round(r.left); break; }
+    // Skip off-canvas text (marquees, sliders) — a gutter is never negative or past mid-screen.
+    if (r.width > 100 && r.left >= 0 && r.left < innerWidth / 2) { gutter = Math.round(r.left); break; }
   }
   const burger = [...document.querySelectorAll('button,[role=button]')].some((b) => /menu|nav|burger|toggle/i.test((b.getAttribute('aria-label') || '') + b.className));
   return {

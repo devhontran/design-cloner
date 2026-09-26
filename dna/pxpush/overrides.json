@@ -1,0 +1,129 @@
+{
+  "color": {
+    "roles": {
+      "background": "#1a1a1a",
+      "foreground": "#d9d9d9",
+      "surface": "#111111",
+      "muted": "#2a2a2a",
+      "muted-foreground": "#8a8a8a",
+      "border": "#8c8c8c",
+      "primary": "#03049c",
+      "primary-foreground": "#ffffff",
+      "accent": "#3cff7b",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#d9d9d9"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": {
+        "name": "SemiSqueezed",
+        "use": "Roboto Condensed",
+        "alternative": "Roboto Condensed",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "body": {
+        "name": "PP Neue Montreal Mono",
+        "use": "Geist Mono",
+        "alternative": "Geist Mono",
+        "weights": [
+          400
+        ]
+      },
+      "mono": {
+        "name": "PP Neue Montreal Mono",
+        "use": "Geist Mono",
+        "alternative": "Geist Mono",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "headings": {
+      "h2": {
+        "size": 121,
+        "weight": 400,
+        "lineHeight": 0.96,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "h3": {
+        "size": 32,
+        "weight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      }
+    }
+  },
+  "shape": {
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "style": "sharp",
+    "buttonShape": "square",
+    "media": 0
+  },
+  "motion": {
+    "style": "expressive",
+    "duration": 800,
+    "durations": [
+      200,
+      500,
+      800,
+      1200
+    ],
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)"
+  },
+  "components": {
+    "buttonPrimary": {
+      "background": "foreground",
+      "color": "surface",
+      "radius": 0,
+      "height": 54,
+      "paddingX": 14,
+      "paddingY": 0,
+      "fontSize": 14,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": "0.35s ease",
+      "example": "Get started with Standard ↗"
+    }
+  },
+  "layout": {
+    "nav": {
+      "hasCta": true,
+      "links": 4,
+      "style": "transparent"
+    },
+    "mobile": {
+      "hamburger": true,
+      "gutter": 12
+    }
+  },
+  "personality": {
+    "keywords": [
+      "y2k retro-tech",
+      "crt scanlines",
+      "chrome 3D objects",
+      "ultramarine blue",
+      "condensed grotesk + mono",
+      "giant marquee headlines",
+      "hairline lists",
+      "sharp corners",
+      "editorial agency"
+    ]
+  },
+  "spacing": {
+    "gutter": 12
+  }
+}
