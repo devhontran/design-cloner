@@ -1,0 +1,310 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "inkfish",
+  "generatedAt": "2026-09-26T05:40:37.922Z",
+  "sources": [
+    {
+      "id": "inkfishnyc-com",
+      "type": "web",
+      "input": "https://inkfishnyc.com/",
+      "weight": 1,
+      "title": "Inkfish"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "monochrome",
+      "restrained",
+      "high-contrast",
+      "technical",
+      "code-inspired",
+      "bold headlines",
+      "dramatic type scale",
+      "sharp corners",
+      "architectural",
+      "flat"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#f7f7f7",
+      "surface-foreground": "#000000",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#666666",
+      "border": "#e0e0e0",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#000000",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000",
+      "success": "#007f38",
+      "warning": "#8d5e00",
+      "danger": "#af3d36"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "border",
+      "primary (monochrome: using foreground)",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.757,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.188,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#141414",
+        "share": 0.055,
+        "oklch": "oklch(0.191 0 0)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#626262",
+        "700": "#3e3e3e",
+        "800": "#1f1f1f",
+        "900": "#060606",
+        "950": "#000000"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "monochrome",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "neutral",
+      "harmony": "monochrome",
+      "primaryHue": "neutral",
+      "accentHue": "neutral"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "NT Dapper",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"NT Dapper\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "name": "Martian Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Martian Mono",
+        "alternative": null,
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "\"Martian Mono\", monospace",
+        "weights": [
+          400
+        ]
+      },
+      "mono": {
+        "name": "Martian Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Martian Mono",
+        "alternative": null,
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "\"Martian Mono\", monospace",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "scale": {
+      "sm": 12,
+      "base": 16,
+      "lg": 40,
+      "xl": 160
+    },
+    "ratio": 3.162,
+    "ratioName": "golden ratio",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 160,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 12,
+        "weight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 12,
+        "weight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "center"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 3.9,
+      "body": 24.96
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.98,
+    "scale": [
+      2,
+      8,
+      12,
+      20,
+      24,
+      40
+    ],
+    "sectionY": 100,
+    "container": 1080,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 6.56,
+    "sectionsPerPage": 13,
+    "nav": {
+      "height": 49,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 7,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 24.96,
+      "h1Size": 3.9,
+      "gutter": 0,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 300,
+    "durations": [
+      200,
+      300
+    ],
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "animatedElements": 1
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 24,
+      "videos": true,
+      "iconsSvg": 8,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "background",
+      "underline": false
+    }
+  }
+}

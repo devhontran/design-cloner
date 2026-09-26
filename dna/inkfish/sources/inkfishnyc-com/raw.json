@@ -1,0 +1,1251 @@
+{
+ "url": "https://inkfishnyc.com/",
+ "title": "Inkfish",
+ "description": "Big agency thinking, small agency attitude.",
+ "themeColor": "#fff",
+ "ogImage": "https://images.prismic.io/inkfish/656db861531ac2845a25a687_OpenGraph.jpg?auto=format%2Ccompress&rect=0%2C0%2C1200%2C630&w=2400&h=1260",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 5908,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 14.4,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 14422980,
+    "ex": "body"
+   },
+   "#141414": {
+    "w": 1296000,
+    "ex": "main > header.hero_header___qyh0.global_padding__wOgxT"
+   },
+   "#000000": {
+    "w": 4432.18603515625,
+    "ex": "a > div.button_button__dZRSb"
+   }
+  },
+  "text": {
+   "#ffffff": {
+    "w": 882,
+    "ex": "a > span.text_XS__ykqvH"
+   },
+   "#000000": {
+    "w": 1136,
+    "ex": "div > h2.text_XS__ykqvH"
+   }
+  },
+  "border": {},
+  "families": {
+   "Martian Mono": {
+    "w": 1830
+   },
+   "NT Dapper": {
+    "w": 188
+   }
+  },
+  "typeStyles": {
+   "Martian Mono|12|400|1.2|-0.04|uppercase": {
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "generic": "monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 1830,
+    "count": 148,
+    "tags": {
+     "span": 43,
+     "div": 56,
+     "h2": 4,
+     "h4": 2,
+     "h3": 3,
+     "li": 35,
+     "a": 4,
+     "p": 1
+    },
+    "ex": "a > span.text_XS__ykqvH"
+   },
+   "NT Dapper|40|400|1|-0.04|uppercase": {
+    "family": "NT Dapper",
+    "stack": "\"NT Dapper\", sans-serif",
+    "generic": "sans-serif",
+    "size": 40,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 130,
+    "count": 6,
+    "tags": {
+     "div": 3,
+     "span": 2,
+     "p": 1
+    },
+    "ex": "div > div.text_S__iDbmJ"
+   },
+   "NT Dapper|160|400|0.85|-0.04|uppercase": {
+    "family": "NT Dapper",
+    "stack": "\"NT Dapper\", sans-serif",
+    "generic": "sans-serif",
+    "size": 160,
+    "weight": 400,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 58,
+    "count": 3,
+    "tags": {
+     "div": 1,
+     "h3": 1,
+     "span": 1
+    },
+    "ex": "div > div.text_M__7WuQ_"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "8": {
+     "w": 2
+    },
+    "12": {
+     "w": 40
+    },
+    "20": {
+     "w": 41
+    },
+    "24": {
+     "w": 5
+    },
+    "60": {
+     "w": 3
+    },
+    "100": {
+     "w": 1
+    },
+    "120": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "11": {
+     "w": 2
+    },
+    "12": {
+     "w": 13
+    },
+    "20": {
+     "w": 9
+    },
+    "40": {
+     "w": 4
+    },
+    "180": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "2": {
+     "w": 22
+    },
+    "8": {
+     "w": 18
+    },
+    "16": {
+     "w": 1
+    },
+    "52": {
+     "w": 1
+    },
+    "80": {
+     "w": 1
+    },
+    "140": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 864,
+    "h": 488,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 864,
+    "h": 488,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 540,
+    "h": 305,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 540,
+    "h": 305,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 648,
+    "h": 366,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 432,
+    "h": 244,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 540,
+    "h": 305,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 540,
+    "h": 305,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 648,
+    "h": 366,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 432,
+    "h": 244,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 432,
+    "h": 244,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 432,
+    "h": 244,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 203,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 432,
+    "h": 244,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 864,
+    "h": 488,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 407,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 864,
+    "h": 488,
+    "kind": "media"
+   },
+   {
+    "r": 99,
+    "w": 146,
+    "h": 30,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 520,
+    "h": 80,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 500,
+    "h": 78,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "200": {
+    "w": 1
+   },
+   "300": {
+    "w": 11
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.25, 1, 0.5, 1)": {
+    "w": 10
+   },
+   "cubic-bezier(0.65, 0, 0.35, 1)": {
+    "w": 2
+   }
+  },
+  "gridCols": {
+   "2": {
+    "w": 2
+   },
+   "3": {
+    "w": 17
+   },
+   "8": {
+    "w": 3
+   },
+   "11": {
+    "w": 1
+   }
+  },
+  "counts": {
+   "elements": 632,
+   "flex": 188,
+   "grid": 23,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 1,
+   "transitions": 12,
+   "images": 24,
+   "svgs": 8,
+   "videos": 12,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h2",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 920,
+    "text": "Latest Work"
+   },
+   {
+    "tag": "h2",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 2939,
+    "text": "Agency"
+   },
+   {
+    "tag": "h3",
+    "family": "NT Dapper",
+    "stack": "\"NT Dapper\", sans-serif",
+    "size": 160,
+    "weight": 400,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#000000",
+    "y": 2939,
+    "text": "Big agency thinking, small agency attitude"
+   },
+   {
+    "tag": "h4",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3250,
+    "text": "[Darren Borrino]"
+   },
+   {
+    "tag": "h4",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "end",
+    "color": "#000000",
+    "y": 3250,
+    "text": "[Claire Morris]"
+   },
+   {
+    "tag": "h2",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3812,
+    "text": "Information"
+   },
+   {
+    "tag": "h3",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3812,
+    "text": "Services"
+   },
+   {
+    "tag": "h3",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3812,
+    "text": "Clients"
+   },
+   {
+    "tag": "h3",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 3812,
+    "text": "Awards"
+   },
+   {
+    "tag": "h2",
+    "family": "Martian Mono",
+    "stack": "\"Martian Mono\", monospace",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.04,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 4128,
+    "text": "Contact"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   },
+   {
+    "color": "#ffffff",
+    "decoration": "none",
+    "weight": 400,
+    "inNav": false
+   }
+  ],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5908,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5908,
+    "bg": "#ffffff",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#141414",
+    "tag": "header"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#141414",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1919,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 20,
+    "padBottom": 20,
+    "h": 270,
+    "bg": "#ffffff",
+    "tag": "header"
+   },
+   {
+    "padTop": 120,
+    "padBottom": 60,
+    "h": 933,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 60,
+    "padBottom": 60,
+    "h": 356,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 20,
+    "padBottom": 100,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 214,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 272,
+    "bg": "#ffffff",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#ffffff",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 720,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 1440,
+    "h": 900,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 864,
+    "h": 488,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 864,
+    "h": 488,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 540,
+    "h": 305,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 540,
+    "h": 305,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 648,
+    "h": 366,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 432,
+    "h": 244,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 540,
+    "h": 305,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 540,
+    "h": 305,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 648,
+    "h": 366,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 432,
+    "h": 244,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 432,
+    "h": 244,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 432,
+    "h": 244,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 360,
+    "h": 203,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 432,
+    "h": 244,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 864,
+    "h": 488,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 720,
+    "h": 407,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 864,
+    "h": 488,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.77
+   },
+   {
+    "w": 520,
+    "h": 80,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 6.5
+   },
+   {
+    "w": 500,
+    "h": 78,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 6.42
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "a > span.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "nav > div.nav_tagline__KynmZ.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_S__iDbmJ",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > h2.text_XS__ykqvH",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_M__7WuQ_",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span.text_S__iDbmJ",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_tagline__WY5lN.text_S__iDbmJ",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_heading__YX7ls",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > span",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > a.footer_creds__Gmr0P.text_link__LLNZY",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_heading__YX7ls",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_heading__YX7ls",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "li > a.text_link__LLNZY",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "li > a.text_link__LLNZY",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_heading__YX7ls",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > a.footer_link__pjK7O.text_link__LLNZY",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.footer_rights__TgP_S",
+    "fg": "#ffffff",
+    "bg": "#ffffff",
+    "ratio": 1
+   }
+  ],
+  "nav": {
+   "sel": "div#__next > nav.nav_nav__Eu8Uu.global_padding__wOgxT",
+   "w": 1440,
+   "h": 49,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#ffffff",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 20,
+   "padX": 20,
+   "fontSize": 14.4,
+   "fontWeight": 400,
+   "family": "Martian Mono",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "InkfishMenu [=]HomeAboutWork[17]ContactR",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 7,
+   "hasCta": false
+  }
+ },
+ "vars": {
+  "--gfs": "14.4"
+ },
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "NT Dapper",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Martian Mono",
+   "weight": "200 900",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#141414",
+    "share": 0.941
+   },
+   {
+    "hex": "#3f3f3f",
+    "share": 0.01
+   },
+   {
+    "hex": "#2f2f2f",
+    "share": 0.01
+   },
+   {
+    "hex": "#4f4f4f",
+    "share": 0.008
+   },
+   {
+    "hex": "#5f5f5f",
+    "share": 0.008
+   },
+   {
+    "hex": "#757575",
+    "share": 0.007
+   },
+   {
+    "hex": "#e5e5e5",
+    "share": 0.005
+   },
+   {
+    "hex": "#232323",
+    "share": 0.005
+   },
+   {
+    "hex": "#9a9a9a",
+    "share": 0.003
+   },
+   {
+    "hex": "#c3c3c3",
+    "share": 0.002
+   }
+  ],
+  "meanLightness": 0.208,
+  "lightnessStd": 0.082,
+  "meanChroma": 0,
+  "chromaticShare": 0,
+  "negativeSpace": 0.941,
+  "busyness": 0.007,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 24.96,
+  "h1Size": 3.9,
+  "gutter": 0,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

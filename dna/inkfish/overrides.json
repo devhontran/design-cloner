@@ -1,0 +1,14 @@
+{
+  "color": { "roles": { "background": "#ffffff", "foreground": "#000000", "surface": "#000000", "surface-foreground": "#ffffff", "muted": "#f2f2f2", "muted-foreground": "#666666", "border": "#000000", "primary": "#000000", "primary-foreground": "#ffffff", "accent": "#000000", "accent-foreground": "#ffffff", "ring": "#000000" } },
+  "typography": {
+    "families": {
+      "display": { "name": "NT Dapper", "use": "Archivo", "alternative": "Archivo", "weights": [400, 500] },
+      "body": { "name": "Martian Mono", "use": "Martian Mono", "weights": [400] },
+      "mono": { "name": "Martian Mono", "use": "Martian Mono", "weights": [400, 700] }
+    },
+    "headings": { "h1": { "size": 160, "weight": 400, "lineHeight": 0.85, "letterSpacing": -0.04, "transform": "uppercase" }, "h2": { "size": 36, "weight": 400, "lineHeight": 1.0, "letterSpacing": -0.02, "transform": "uppercase" } },
+    "body": { "size": 9, "weight": 400, "lineHeight": 1.3, "letterSpacing": 0, "transform": "uppercase" }
+  },
+  "components": { "buttonPrimary": { "background": "primary", "color": "primary-foreground", "radius": 9999, "height": 20, "paddingX": 12, "paddingY": 0, "fontSize": 9, "fontWeight": 700, "transform": "uppercase", "letterSpacing": 0, "border": null, "shadow": null, "transition": "0.3s cubic-bezier(0.25, 1, 0.5, 1)", "example": "MORE ABOUT US" } },
+  "personality": { "keywords": ["nyc creative agency", "black & white", "tiny mono index lists", "giant condensed-ish caps", "bracket-numbered work list", "film thumbnail grid", "pixel-bar logo", "live clock footer"] }
+}
