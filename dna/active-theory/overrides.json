@@ -1,0 +1,24 @@
+{
+  "color": {
+    "roles": {
+      "background": "#05080c", "foreground": "#f2f6f8", "surface": "#0f1a20", "muted": "#16242b", "muted-foreground": "#8fa3ad",
+      "border": "#2f4a52", "primary": "#f2f6f8", "primary-foreground": "#05080c", "accent": "#d65aa8", "accent-foreground": "#ffffff", "ring": "#7fd8e0"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "NB Architekt", "use": "Silkscreen", "alternative": "Silkscreen", "weights": [400, 700] },
+      "body": { "name": "NB Architekt", "use": "Space Mono", "alternative": "Space Mono", "weights": [400, 700] },
+      "mono": { "name": "NB Architekt", "use": "Space Mono", "alternative": "Space Mono", "weights": [400, 700] }
+    },
+    "headings": {
+      "h1": { "size": 96, "weight": 700, "lineHeight": 1.0, "letterSpacing": 0.02, "transform": "uppercase" },
+      "h2": { "size": 36, "weight": 700, "lineHeight": 1.1, "letterSpacing": 0.04, "transform": "uppercase" }
+    },
+    "body": { "size": 14, "weight": 700, "lineHeight": 2.0, "letterSpacing": 0.08, "transform": "uppercase" }
+  },
+  "shape": { "radius": { "sm": 4, "md": 12, "lg": 24, "full": 9999 }, "style": "soft" },
+  "personality": {
+    "keywords": ["webgl studio flagship", "iridescent chrome 3D", "outlined pixel-architect caps", "glowing text", "deep teal night", "caustics + particles", "capsule HUD nav", "sci-fi worlds"]
+  }
+}

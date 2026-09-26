@@ -1,0 +1,176 @@
+{
+ "url": "https://activetheory.net/unsupported.html",
+ "title": "Not Supported",
+ "description": null,
+ "themeColor": null,
+ "ogImage": null,
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#000000",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#000000": {
+    "w": 1296000,
+    "ex": "body"
+   }
+  },
+  "text": {
+   "#ffffff": {
+    "w": 29,
+    "ex": "h1.fade-in"
+   }
+  },
+  "border": {},
+  "families": {
+   "nbarchitekt": {
+    "w": 29
+   }
+  },
+  "typeStyles": {
+   "nbarchitekt|18|700|normal|0|none": {
+    "family": "nbarchitekt",
+    "stack": "nbarchitekt, Helvetica, Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 18,
+    "weight": 700,
+    "lineHeight": "normal",
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 29,
+    "count": 1,
+    "tags": {
+     "h1": 1
+    },
+    "ex": "h1.fade-in"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "225": {
+     "w": 1
+    }
+   },
+   "margin": {},
+   "gap": {}
+  },
+  "radius": [],
+  "shadows": {},
+  "gradients": {},
+  "durations": {},
+  "easings": {},
+  "gridCols": {},
+  "counts": {
+   "elements": 1,
+   "flex": 0,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 1,
+   "transitions": 0,
+   "images": 0,
+   "svgs": 0,
+   "videos": 0,
+   "sticky": 0
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "nbarchitekt",
+    "stack": "nbarchitekt, Helvetica, Arial, sans-serif",
+    "size": 18,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 0,
+    "text": "Your browser is not supported"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [],
+  "containers": [],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {},
+ "colorVars": {},
+ "loadedFonts": [
+  {
+   "family": "nbarchitekt",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#0f0d1a",
+    "share": 0.796
+   },
+   {
+    "hex": "#161a29",
+    "share": 0.123
+   },
+   {
+    "hex": "#1d2533",
+    "share": 0.046
+   },
+   {
+    "hex": "#2a3347",
+    "share": 0.018
+   },
+   {
+    "hex": "#424c51",
+    "share": 0.005
+   },
+   {
+    "hex": "#2e4880",
+    "share": 0.004
+   },
+   {
+    "hex": "#66768b",
+    "share": 0.004
+   },
+   {
+    "hex": "#a9a3a7",
+    "share": 0.003
+   },
+   {
+    "hex": "#f0ebe6",
+    "share": 0.002
+   }
+  ],
+  "meanLightness": 0.197,
+  "lightnessStd": 0.06,
+  "meanChroma": 0.028,
+  "chromaticShare": 0.014,
+  "negativeSpace": 0.796,
+  "busyness": 0.013,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": 18,
+  "gutter": 0,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

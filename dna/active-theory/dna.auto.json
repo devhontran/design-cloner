@@ -1,0 +1,277 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "active-theory",
+  "generatedAt": "2026-09-26T05:28:27.748Z",
+  "sources": [
+    {
+      "id": "activetheory-net",
+      "type": "web",
+      "input": "https://activetheory.net/",
+      "weight": 1,
+      "title": "Not Supported"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "dark-mode",
+      "balanced color",
+      "high-contrast",
+      "bold headlines",
+      "softly rounded",
+      "flat"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "surface": "#000000",
+      "surface-foreground": "#ffffff",
+      "muted": "#020202",
+      "muted-foreground": "#999999",
+      "border": "#2e2e2e",
+      "primary": "#2e4880",
+      "primary-foreground": "#ffffff",
+      "accent": "#2e4880",
+      "accent-foreground": "#ffffff",
+      "ring": "#2e4880",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "border",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.526,
+        "oklch": "oklch(0 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.263,
+        "oklch": "oklch(1 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#2e4880",
+        "share": 0.211,
+        "oklch": "oklch(0.411 0.099 264)",
+        "role": "primary"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f3f7ff",
+        "100": "#e4edff",
+        "200": "#c9dbff",
+        "300": "#a4c2ff",
+        "400": "#7fa3ec",
+        "500": "#6388d5",
+        "600": "#4d71bc",
+        "700": "#3c5b9e",
+        "800": "#2e4880",
+        "900": "#203562",
+        "950": "#132345"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "cool",
+      "harmony": "single-hue",
+      "primaryHue": "blue",
+      "accentHue": "blue"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "nbarchitekt",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "nbarchitekt, Helvetica, Arial, sans-serif",
+        "weights": [
+          700
+        ]
+      },
+      "body": {
+        "name": "nbarchitekt",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "nbarchitekt, Helvetica, Arial, sans-serif",
+        "weights": [
+          700
+        ]
+      }
+    },
+    "scale": {
+      "base": 18
+    },
+    "ratio": 1.25,
+    "ratioName": "major third",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 18,
+        "weight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "style": "normal",
+        "align": "center"
+      },
+      "h2": {
+        "size": 25,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 23,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 18,
+      "weight": 700,
+      "lineHeight": 1.5
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 18,
+      "body": null
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0,
+    "scale": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0,
+    "style": "soft",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": null
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "centered",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 0,
+    "nav": null,
+    "mobile": {
+      "bodySize": null,
+      "h1Size": 18,
+      "gutter": 0,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 200,
+    "durations": [],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 1
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 0,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}

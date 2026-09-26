@@ -1,0 +1,306 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "active-theory",
+  "generatedAt": "2026-09-26T05:28:27.748Z",
+  "sources": [
+    {
+      "id": "activetheory-net",
+      "type": "web",
+      "input": "https://activetheory.net/",
+      "weight": 1,
+      "title": "Not Supported"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "webgl studio flagship",
+      "iridescent chrome 3D",
+      "outlined pixel-architect caps",
+      "glowing text",
+      "deep teal night",
+      "caustics + particles",
+      "capsule HUD nav",
+      "sci-fi worlds"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#05080c",
+      "foreground": "#f2f6f8",
+      "surface": "#0f1a20",
+      "surface-foreground": "#ffffff",
+      "muted": "#16242b",
+      "muted-foreground": "#8fa3ad",
+      "border": "#2f4a52",
+      "primary": "#f2f6f8",
+      "primary-foreground": "#05080c",
+      "accent": "#d65aa8",
+      "accent-foreground": "#ffffff",
+      "ring": "#7fd8e0",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "border",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.526,
+        "oklch": "oklch(0 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.263,
+        "oklch": "oklch(1 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#2e4880",
+        "share": 0.211,
+        "oklch": "oklch(0.411 0.099 264)",
+        "role": "primary"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f2f6f8",
+        "100": "#e5edf1",
+        "200": "#ccdde5",
+        "300": "#aec6d2",
+        "400": "#8aa8b6",
+        "500": "#6e8d9c",
+        "600": "#577584",
+        "700": "#435e6b",
+        "800": "#324953",
+        "900": "#23363f",
+        "950": "#16242a"
+      },
+      "neutral": {
+        "50": "#f6fbff",
+        "100": "#eef4fb",
+        "200": "#dfe5ec",
+        "300": "#ced5dc",
+        "400": "#9ca2a9",
+        "500": "#6e747a",
+        "600": "#4f555a",
+        "700": "#3b4046",
+        "800": "#22272c",
+        "900": "#13181d",
+        "950": "#070b0f"
+      },
+      "accent": {
+        "50": "#fff3f9",
+        "100": "#ffe6f3",
+        "200": "#ffcde8",
+        "300": "#ffa7da",
+        "400": "#ef7ac1",
+        "500": "#d65aa8",
+        "600": "#b93f8e",
+        "700": "#982a73",
+        "800": "#781b59",
+        "900": "#5b0f42",
+        "950": "#3f052c"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "balanced",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "cool",
+      "harmony": "single-hue",
+      "primaryHue": "blue",
+      "accentHue": "blue"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "NB Architekt",
+        "category": "sans",
+        "source": "custom",
+        "use": "Silkscreen",
+        "alternative": "Silkscreen",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "body": {
+        "name": "NB Architekt",
+        "category": "sans",
+        "source": "custom",
+        "use": "Space Mono",
+        "alternative": "Space Mono",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      },
+      "mono": {
+        "name": "NB Architekt",
+        "category": "sans",
+        "source": "custom",
+        "use": "Space Mono",
+        "alternative": "Space Mono",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      }
+    },
+    "scale": {
+      "base": 18
+    },
+    "ratio": 1.25,
+    "ratioName": "major third",
+    "base": 18,
+    "headings": {
+      "h1": {
+        "size": 96,
+        "weight": 700,
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "center"
+      },
+      "h2": {
+        "size": 36,
+        "weight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 23,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 14,
+      "weight": 700,
+      "lineHeight": 2,
+      "letterSpacing": 0.08,
+      "transform": "uppercase"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 18,
+      "body": null
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0,
+    "scale": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 4,
+      "md": 12,
+      "lg": 24,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0,
+    "style": "soft",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": null
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "centered",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 0,
+    "nav": null,
+    "mobile": {
+      "bodySize": null,
+      "h1Size": 18,
+      "gutter": 0,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 200,
+    "durations": [],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 1
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 0,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}
