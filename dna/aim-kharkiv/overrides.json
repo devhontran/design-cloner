@@ -1,0 +1,23 @@
+{
+  "color": {
+    "roles": {
+      "background": "#e7e4df", "foreground": "#141414", "surface": "#141414", "surface-foreground": "#e7e4df",
+      "muted": "#d9d5ce", "muted-foreground": "#686765", "border": "#141414",
+      "primary": "#141414", "primary-foreground": "#e7e4df", "accent": "#e8542a", "accent-foreground": "#ffffff", "ring": "#141414"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Khteka", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400, 500] },
+      "body": { "name": "Khteka", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400] }
+    },
+    "headings": {
+      "h1": { "size": 82, "weight": 500, "lineHeight": 0.91, "letterSpacing": -0.03, "transform": "none" },
+      "h2": { "size": 52, "weight": 500, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" }
+    },
+    "body": { "size": 10, "weight": 400, "lineHeight": 1.2, "letterSpacing": 0, "transform": "none" }
+  },
+  "personality": {
+    "keywords": ["swiss constructivism", "bone + black", "giant block wordmark", "hairline index grid", "tiny 10px captions", "ai-generated avant-garde imagery", "obys agency", "editorial experiment"]
+  }
+}

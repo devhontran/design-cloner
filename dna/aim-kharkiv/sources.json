@@ -1,0 +1,8 @@
+[
+  {
+    "id": "aim-obys-agency",
+    "type": "web",
+    "input": "https://aim.obys.agency/",
+    "weight": 1
+  }
+]

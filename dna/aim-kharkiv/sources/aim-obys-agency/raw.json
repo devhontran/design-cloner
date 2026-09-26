@@ -1,0 +1,745 @@
+{
+ "url": "https://aim.obys.agency/",
+ "title": "AIM— AI Modernism Of Kharkiv",
+ "description": "This AI experiment delves into a contemporary reimagining of the Kharkiv Modernism  movement from 1910 to 1930. Drawing inspiration from the avant-garde artists and intellectuals of that era, we employs cutting-edge artificial intelligence techniques to reinterpret and revive their visionary ideas. By leveraging modern technology, we aim to uncover new perspectives on the artistic, architectural, and cultural legacy of Kharkiv Modernism.",
+ "themeColor": null,
+ "ogImage": "https://cdn.prod.website-files.com/6543bb275c1f9a259661c7c8/6565e20dd972e9657cc90650_AIM.webp",
+ "lang": "",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#e7e4df",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#e7e4df": {
+    "w": 2065886.7807617188,
+    "ex": "body"
+   },
+   "#111111": {
+    "w": 1296000,
+    "ex": "div > div.loading-bg-color"
+   },
+   "#141414": {
+    "w": 2822.375,
+    "ex": "nav > div.anim-line.fixed"
+   }
+  },
+  "text": {
+   "#141414": {
+    "w": 325,
+    "ex": "div > h3"
+   }
+  },
+  "border": {
+   "#e7e4df": {
+    "w": 3268.078125,
+    "ex": "nav > div.desktop-nav"
+   }
+  },
+  "families": {
+   "Khtekatrial": {
+    "w": 325
+   }
+  },
+  "typeStyles": {
+   "Khtekatrial|13.5|400|0.93|0|none": {
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 299,
+    "count": 23,
+    "tags": {
+     "h3": 23
+    },
+    "ex": "div > h3"
+   },
+   "Khtekatrial|82|500|0.91|-0.03|none": {
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "generic": "sans-serif",
+    "size": 82,
+    "weight": 500,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "chars": 26,
+    "count": 3,
+    "tags": {
+     "h2": 3
+    },
+    "ex": "div > h2.anim._1"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "3": {
+     "w": 8
+    },
+    "7": {
+     "w": 2
+    },
+    "14": {
+     "w": 9
+    },
+    "43": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "1": {
+     "w": 29
+    },
+    "3": {
+     "w": 8
+    },
+    "6": {
+     "w": 1
+    },
+    "8": {
+     "w": 2
+    },
+    "14": {
+     "w": 2
+    },
+    "359": {
+     "w": 1
+    }
+   },
+   "gap": {}
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1411,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1411,
+    "h": 1,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {},
+  "durations": {
+   "200": {
+    "w": 8
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 8
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 95,
+   "flex": 30,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 8,
+   "images": 0,
+   "svgs": 4,
+   "videos": 0,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "AI Modernism of Kharkiv [Ukraine]"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "Index"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "/"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "Experiment"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "/"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "About"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "[Gallery]"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": -25,
+    "text": "Obys Agency ©2025"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "AI Modernism of Kharkiv [Ukraine]"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "Index"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "/"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "Experiment"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "/"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "About"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "[Gallery]"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 434,
+    "text": "Obys Agency ©2025"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 818,
+    "text": "Modernists:"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 818,
+    "text": "E01: Anatol Petrytskiy"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 831,
+    "text": "E02: Vasyl Ermilov"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 845,
+    "text": "E03: Oleksandr Khvostenko-Khvostov"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 859,
+    "text": "E04: Borys Kosarev"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 872,
+    "text": "E05: Vadym Meller"
+   },
+   {
+    "tag": "h2",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 81.936,
+    "weight": 500,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 750,
+    "text": "AIM—"
+   },
+   {
+    "tag": "h2",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 81.936,
+    "weight": 500,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 824,
+    "text": "AI Modernism"
+   },
+   {
+    "tag": "h2",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 81.936,
+    "weight": 500,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.03,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 899,
+    "text": "Of Kharkiv"
+   },
+   {
+    "tag": "h3",
+    "family": "Khtekatrial",
+    "stack": "Khtekatrial, sans-serif",
+    "size": 13.68,
+    "weight": 400,
+    "lineHeight": 0.93,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#141414",
+    "y": 873,
+    "text": "Scroll to Explore"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 864,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 863,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#111111",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#e7e4df",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 863,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 863,
+    "bg": "#e7e4df",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 444,
+    "bg": "#e7e4df",
+    "tag": "div"
+   }
+  ],
+  "containers": [],
+  "images": [],
+  "lowContrast": [],
+  "nav": {
+   "sel": "div > nav.navigation-main.home",
+   "w": 1440,
+   "h": 40,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#141414",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 14,
+   "padX": 14,
+   "fontSize": 14.4,
+   "fontWeight": 400,
+   "family": "Khtekatrial",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "AI Modernism of Kharkiv [Ukraine]Index/E",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 5,
+   "hasCta": false
+  }
+ },
+ "vars": {
+  "--grey": "#7b7b7b",
+  "--border-wrapper--0px": "0px",
+  "--page-color--black": "#141414",
+  "--page-color--white": "#e7e4df",
+  "--border-wrapper--1px": "1px"
+ },
+ "colorVars": {
+  "--grey": "#7b7b7b",
+  "--page-color--black": "#141414",
+  "--page-color--white": "#e7e4df"
+ },
+ "loadedFonts": [
+  {
+   "family": "Khtekatrial",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "Khtekatrial",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#e7e4df",
+    "share": 0.792
+   },
+   {
+    "hex": "#141414",
+    "share": 0.183
+   },
+   {
+    "hex": "#bfbdb8",
+    "share": 0.008
+   },
+   {
+    "hex": "#b2b0ac",
+    "share": 0.005
+   },
+   {
+    "hex": "#979692",
+    "share": 0.003
+   },
+   {
+    "hex": "#676664",
+    "share": 0.003
+   },
+   {
+    "hex": "#232323",
+    "share": 0.003
+   },
+   {
+    "hex": "#71706e",
+    "share": 0.003
+   },
+   {
+    "hex": "#d8d5d0",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.78,
+  "lightnessStd": 0.283,
+  "meanChroma": 0.006,
+  "chromaticShare": 0,
+  "negativeSpace": 0.792,
+  "busyness": 0.009,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": null,
+  "h1Size": null,
+  "gutter": 143,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}
