@@ -1,0 +1,30 @@
+{
+  "color": {
+    "roles": {
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "surface": "#0b0b0b",
+      "muted": "#161616",
+      "muted-foreground": "#8c8c8c",
+      "border": "#4d4d4d",
+      "primary": "#ffffff",
+      "primary-foreground": "#000000",
+      "accent": "#d99a6c",
+      "accent-foreground": "#000000",
+      "ring": "#ffffff"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "GT America", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [500, 700] },
+      "body": { "name": "GT America", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400, 500] }
+    },
+    "headings": {
+      "h1": { "size": 32, "weight": 700, "lineHeight": 1.1, "letterSpacing": 0.02, "transform": "uppercase" }
+    }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp" },
+  "personality": {
+    "keywords": ["immersive webgl story", "black void", "glowing white wireframes", "blueprint to reality", "handwritten letters", "dusk horizon glow", "sound-first", "luxury watchmaking"]
+  }
+}

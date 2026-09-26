@@ -1,0 +1,424 @@
+{
+ "url": "https://www.gq.com/sponsored/story/the-extraordinary-lab",
+ "title": "The Extraordinary Lab",
+ "description": null,
+ "themeColor": null,
+ "ogImage": "https://interactive.gq.com/audemars-piquet-gq-rd5/images/share/GQxAP-150-Social.jpg",
+ "lang": "en-US",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 900,
+ "canvasBg": "#ffffff",
+ "rootFontSize": 16,
+ "agg": {
+  "bg": {
+   "#ffffff": {
+    "w": 1296000,
+    "ex": "body"
+   },
+   "#000000": {
+    "w": 1296000,
+    "ex": "div > div.main"
+   }
+  },
+  "text": {
+   "#ffffff": {
+    "w": 96,
+    "ex": "div > div.splashScreen__aside"
+   }
+  },
+  "border": {
+   "#4d4d4d": {
+    "w": 548,
+    "ex": "div > div.content__cta"
+   }
+  },
+  "families": {
+   "GT-America": {
+    "w": 96
+   }
+  },
+  "typeStyles": {
+   "GT-America|11|500|1.3|0.005|uppercase": {
+    "family": "GT-America",
+    "stack": "GT-America, sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 500,
+    "lineHeight": 1.3,
+    "letterSpacing": 0.005,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 61,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "div > div.splashScreen__aside"
+   },
+   "GT-America|10|400|1.4|0|uppercase": {
+    "family": "GT-America",
+    "stack": "GT-America, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.4,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 30,
+    "count": 1,
+    "tags": {
+     "button": 1
+    },
+    "ex": "div > button.cta.cta--xxs"
+   },
+   "GT-America|11|500|1.2|0|uppercase": {
+    "family": "GT-America",
+    "stack": "GT-America, sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 500,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "button": 1
+    },
+    "ex": "div > button.headerBlock__audio.audio"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "14": {
+     "w": 2
+    },
+    "24": {
+     "w": 2
+    }
+   },
+   "margin": {},
+   "gap": {
+    "8": {
+     "w": 1
+    },
+    "16": {
+     "w": 2
+    },
+    "18": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 230,
+    "h": 44,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 180,
+    "h": 14,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 1,
+    "kind": "media"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 255, 255) 25%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, rgb(255, 255, 255))": {
+    "w": 2520,
+    "ex": "div > button.cta.cta--xxs"
+   }
+  },
+  "durations": {
+   "300": {
+    "w": 1
+   },
+   "500": {
+    "w": 2
+   },
+   "1300": {
+    "w": 1
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 4
+   }
+  },
+  "gridCols": {},
+  "counts": {
+   "elements": 28,
+   "flex": 12,
+   "grid": 0,
+   "glass": 0,
+   "textGradient": 1,
+   "animations": 1,
+   "transitions": 4,
+   "images": 0,
+   "svgs": 7,
+   "videos": 0,
+   "sticky": 1
+  },
+  "headings": [],
+  "buttons": [],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 858,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 858,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [],
+  "lowContrast": [],
+  "nav": null
+ },
+ "vars": {
+  "--fides-overlay-component-border-radius": "4px",
+  "--fides-overlay-padding": "24px",
+  "--fides-overlay-badge-border-radius": "4px",
+  "--fides-overlay-button-padding": "8px 16px",
+  "--fides-overlay-toggle-width": "50px",
+  "--fides-overlay-background-color": "#f7fafc",
+  "--fides-overlay-skeleton-gradient-from-color": "rgba(0,0,0,.06)",
+  "--fides-overlay-badge-background-color": "#718096",
+  "--fides-overlay-form-input-border-color": "#e2e8f0",
+  "--fides-overlay-secondary-button-border-color-disabled": "#a0aec0",
+  "--fides-overlay-gpc-applied-text-color": "#fff",
+  "--fides-overlay-font-size-body": "calc(16px*0.875)",
+  "--fides-overlay-gpc-overridden-background-color": "#e53e3e",
+  "--fides-overlay-skeleton-gradient-to-color": "rgba(0,0,0,.15)",
+  "--fides-overlay-font-color": "#4a5568",
+  "--fides-overlay-primary-button-border-color": "transparent",
+  "--8px": "calc(16px*0.5)",
+  "--fides-overlay-language-button-border-radius": "4px",
+  "--fides-overlay-neutral-background-color": "#edf2f7",
+  "--fides-overlay-link-v-padding": "4px",
+  "--fides-overlay-primary-button-background-hover-color": "#4f525b",
+  "--fides-banner-font-size-title": "calc(16px*1)",
+  "--fides-overlay-banner-offset": "48px",
+  "--fides-overlay-disabled-color": "#e1e7ee",
+  "--fides-overlay-hover-color": "#edf2f7",
+  "--16px": "calc(16px*1)",
+  "--fides-overlay-primary-button-text-color": "#fff",
+  "--fides-overlay-form-label-color": "#4a5568",
+  "--fides-overlay-width": "850px",
+  "--fides-overlay-select-border-color": "#e2e8f0",
+  "--fides-overlay-form-input-background-color": "#f7fafc",
+  "--fides-overlay-primary-color": "#2b2e35",
+  "--fides-overlay-line-height": "1.4em",
+  "--fides-overlay-inactive-font-color": "#a0aec0",
+  "--fides-overlay-font-family": "Inter,sans-serif",
+  "--fides-overlay-language-loading-indicator-speed": "5s",
+  "--fides-overlay-link-font-color": "#2d3748",
+  "--11px": "calc(16px*0.6875)",
+  "--fides-overlay-secondary-button-background-hover-color": "#edf2f7",
+  "--fides-overlay-modal-secondary-button-group-height": "calc(calc(16px*0.875) + 4px*2)",
+  "--fides-overlay-gpc-applied-background-color": "#38a169",
+  "--fides-overlay-success-color": "#38a169",
+  "--fides-overlay-form-input-font-color": "#4a5568",
+  "--fides-overlay-row-divider-color": "#e2e8f0",
+  "--fides-overlay-secondary-button-text-color": "#2d3748",
+  "--fides-overlay-background-dark-color": "#e2e8f0",
+  "--fides-overlay-font-size-buttons": "calc(16px*0.875)",
+  "--fides-overlay-link-h-padding": "4px",
+  "--fides-overlay-font-size-title": "calc(16px*1)",
+  "--fides-overlay-container-border-radius": "12px",
+  "--fides-overlay-gpc-overridden-text-color": "#fff",
+  "--fides-overlay-form-input-border-radius": "4px",
+  "--fides-overlay-row-hover-color": "#edf2f7",
+  "--fides-overlay-container-border-width": "1px",
+  "--fides-overlay-inactive-color": "#e2e8f0",
+  "--fides-overlay-background-error-color": "#f7c2c2",
+  "--12px": "calc(16px*0.75)",
+  "--14px": "calc(16px*0.875)",
+  "--fides-base-font-size": "16px",
+  "--fides-overlay-secondary-button-background-color": "#f7fafc",
+  "--fides-overlay-body-font-color": "#4a5568",
+  "--fides-overlay-font-size-body-small": "calc(16px*0.75)",
+  "--fides-overlay-button-border-radius": "6px",
+  "--fides-overlay-link-padding": "4px 4px",
+  "--fides-overlay-font-size-body-xs": "calc(16px*0.5)",
+  "--fides-overlay-primary-button-background-color": "#2b2e35",
+  "--fides-overlay-embed-background-color": "transparent",
+  "--fides-overlay-brand-link-logo-color": "#2b2e35",
+  "--fides-overlay-font-color-dark": "#2d3748",
+  "--fides-overlay-error-color": "#e53e3e",
+  "--fides-overlay-primary-active-color": "#2b2e35",
+  "--fides-overlay-title-font-color": "#4a5568",
+  "--fides-overlay-secondary-button-border-color": "#2b2e35"
+ },
+ "colorVars": {
+  "--fides-overlay-background-color": "#f7fafc",
+  "--fides-overlay-skeleton-gradient-from-color": "#f0f0f0",
+  "--fides-overlay-badge-background-color": "#718096",
+  "--fides-overlay-form-input-border-color": "#e2e8f0",
+  "--fides-overlay-secondary-button-border-color-disabled": "#a0aec0",
+  "--fides-overlay-gpc-applied-text-color": "#ffffff",
+  "--fides-overlay-gpc-overridden-background-color": "#e53e3e",
+  "--fides-overlay-skeleton-gradient-to-color": "#d9d9d9",
+  "--fides-overlay-font-color": "#4a5568",
+  "--fides-overlay-neutral-background-color": "#edf2f7",
+  "--fides-overlay-primary-button-background-hover-color": "#4f525b",
+  "--fides-overlay-disabled-color": "#e1e7ee",
+  "--fides-overlay-hover-color": "#edf2f7",
+  "--fides-overlay-primary-button-text-color": "#ffffff",
+  "--fides-overlay-form-label-color": "#4a5568",
+  "--fides-overlay-select-border-color": "#e2e8f0",
+  "--fides-overlay-form-input-background-color": "#f7fafc",
+  "--fides-overlay-primary-color": "#2b2e35",
+  "--fides-overlay-inactive-font-color": "#a0aec0",
+  "--fides-overlay-link-font-color": "#2d3748",
+  "--fides-overlay-secondary-button-background-hover-color": "#edf2f7",
+  "--fides-overlay-gpc-applied-background-color": "#38a169",
+  "--fides-overlay-success-color": "#38a169",
+  "--fides-overlay-form-input-font-color": "#4a5568",
+  "--fides-overlay-row-divider-color": "#e2e8f0",
+  "--fides-overlay-secondary-button-text-color": "#2d3748",
+  "--fides-overlay-background-dark-color": "#e2e8f0",
+  "--fides-overlay-gpc-overridden-text-color": "#ffffff",
+  "--fides-overlay-row-hover-color": "#edf2f7",
+  "--fides-overlay-inactive-color": "#e2e8f0",
+  "--fides-overlay-background-error-color": "#f7c2c2",
+  "--fides-overlay-secondary-button-background-color": "#f7fafc",
+  "--fides-overlay-body-font-color": "#4a5568",
+  "--fides-overlay-primary-button-background-color": "#2b2e35",
+  "--fides-overlay-brand-link-logo-color": "#2b2e35",
+  "--fides-overlay-font-color-dark": "#2d3748",
+  "--fides-overlay-error-color": "#e53e3e",
+  "--fides-overlay-primary-active-color": "#2b2e35",
+  "--fides-overlay-title-font-color": "#4a5568",
+  "--fides-overlay-secondary-button-border-color": "#2b2e35"
+ },
+ "loadedFonts": [
+  {
+   "family": "Adobe Garamond Pro",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "GT-America",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "GT-America",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#000000",
+    "share": 0.916
+   },
+   {
+    "hex": "#0b0b0b",
+    "share": 0.043
+   },
+   {
+    "hex": "#111313",
+    "share": 0.013
+   },
+   {
+    "hex": "#191b1b",
+    "share": 0.011
+   },
+   {
+    "hex": "#252728",
+    "share": 0.009
+   },
+   {
+    "hex": "#37393b",
+    "share": 0.005
+   },
+   {
+    "hex": "#565758",
+    "share": 0.002
+   },
+   {
+    "hex": "#78797a",
+    "share": 0.001
+   },
+   {
+    "hex": "#b5b5b5",
+    "share": 0
+   }
+  ],
+  "meanLightness": 0.025,
+  "lightnessStd": 0.064,
+  "meanChroma": 0.001,
+  "chromaticShare": 0,
+  "negativeSpace": 0.916,
+  "busyness": 0.015,
+  "dark": true
+ }
+}

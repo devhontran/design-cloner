@@ -1,0 +1,318 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "gq-extraordinary-lab",
+  "generatedAt": "2026-09-26T02:50:20.044Z",
+  "sources": [
+    {
+      "id": "gq-com-sponsored-story-the-extraordinary-lab",
+      "type": "web",
+      "input": "https://www.gq.com/sponsored/story/the-extraordinary-lab",
+      "weight": 1,
+      "title": "The Extraordinary Lab"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "monochrome",
+      "restrained",
+      "high-contrast",
+      "bold headlines",
+      "sharp corners",
+      "architectural",
+      "flat",
+      "gradient text",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#161616",
+      "surface": "#f7f7f7",
+      "surface-foreground": "#161616",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#737373",
+      "border": "#4d4d4d",
+      "primary": "#161616",
+      "primary-foreground": "#ffffff",
+      "accent": "#161616",
+      "accent-foreground": "#ffffff",
+      "ring": "#161616",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "foreground",
+      "surface",
+      "muted-foreground",
+      "primary (monochrome: using foreground)",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.667,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.333,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#6d6d6d",
+        "700": "#545454",
+        "800": "#3d3d3d",
+        "900": "#292929",
+        "950": "#161616"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [
+      "linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 255, 255) 25%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, rgb(255, 255, 255))"
+    ],
+    "cssVars": {
+      "--fides-overlay-background-color": "#f7fafc",
+      "--fides-overlay-skeleton-gradient-from-color": "#f0f0f0",
+      "--fides-overlay-badge-background-color": "#718096",
+      "--fides-overlay-form-input-border-color": "#e2e8f0",
+      "--fides-overlay-secondary-button-border-color-disabled": "#a0aec0",
+      "--fides-overlay-gpc-applied-text-color": "#ffffff",
+      "--fides-overlay-gpc-overridden-background-color": "#e53e3e",
+      "--fides-overlay-skeleton-gradient-to-color": "#d9d9d9",
+      "--fides-overlay-font-color": "#4a5568",
+      "--fides-overlay-neutral-background-color": "#edf2f7",
+      "--fides-overlay-primary-button-background-hover-color": "#4f525b",
+      "--fides-overlay-disabled-color": "#e1e7ee",
+      "--fides-overlay-hover-color": "#edf2f7",
+      "--fides-overlay-primary-button-text-color": "#ffffff",
+      "--fides-overlay-form-label-color": "#4a5568",
+      "--fides-overlay-select-border-color": "#e2e8f0",
+      "--fides-overlay-form-input-background-color": "#f7fafc",
+      "--fides-overlay-primary-color": "#2b2e35",
+      "--fides-overlay-inactive-font-color": "#a0aec0",
+      "--fides-overlay-link-font-color": "#2d3748",
+      "--fides-overlay-secondary-button-background-hover-color": "#edf2f7",
+      "--fides-overlay-gpc-applied-background-color": "#38a169",
+      "--fides-overlay-success-color": "#38a169",
+      "--fides-overlay-form-input-font-color": "#4a5568",
+      "--fides-overlay-row-divider-color": "#e2e8f0",
+      "--fides-overlay-secondary-button-text-color": "#2d3748",
+      "--fides-overlay-background-dark-color": "#e2e8f0",
+      "--fides-overlay-gpc-overridden-text-color": "#ffffff",
+      "--fides-overlay-row-hover-color": "#edf2f7",
+      "--fides-overlay-inactive-color": "#e2e8f0",
+      "--fides-overlay-background-error-color": "#f7c2c2",
+      "--fides-overlay-secondary-button-background-color": "#f7fafc",
+      "--fides-overlay-body-font-color": "#4a5568",
+      "--fides-overlay-primary-button-background-color": "#2b2e35",
+      "--fides-overlay-brand-link-logo-color": "#2b2e35",
+      "--fides-overlay-font-color-dark": "#2d3748",
+      "--fides-overlay-error-color": "#e53e3e",
+      "--fides-overlay-primary-active-color": "#2b2e35",
+      "--fides-overlay-title-font-color": "#4a5568",
+      "--fides-overlay-secondary-button-border-color": "#2b2e35"
+    },
+    "traits": {
+      "saturation": "monochrome",
+      "contrast": "high",
+      "contrastRatio": 18.1,
+      "temperature": "neutral",
+      "harmony": "monochrome",
+      "primaryHue": "neutral",
+      "accentHue": "neutral"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "GT-America",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "GT-America, sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      },
+      "body": {
+        "name": "GT-America",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "GT-America, sans-serif",
+        "weights": [
+          400,
+          500
+        ]
+      }
+    },
+    "scale": {
+      "xs": 10,
+      "sm": 11,
+      "base": 16
+    },
+    "ratio": 1.25,
+    "ratioName": "major third",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 32,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 22,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": null,
+    "mobile": null
+  },
+  "spacing": {
+    "unit": 8,
+    "gridConformance": 0.65,
+    "scale": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "sectionY": 80,
+    "container": 1200,
+    "gutter": 24,
+    "density": "balanced"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 4,
+    "nav": null,
+    "mobile": null
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 500,
+    "durations": [
+      300,
+      500,
+      1300
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 1
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": true,
+    "imagery": {
+      "imagesPerPage": 0,
+      "videos": false,
+      "iconsSvg": 7,
+      "roundedImages": null,
+      "commonAspect": null
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}
