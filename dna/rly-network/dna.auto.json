@@ -1,0 +1,419 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "rly-network",
+  "generatedAt": "2026-09-26T11:33:44.410Z",
+  "sources": [
+    {
+      "id": "rly-serious-business",
+      "type": "web",
+      "input": "https://rly.serious.business/",
+      "weight": 1,
+      "title": "Token economies made easy. | RLY Network"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "dark-mode",
+      "vibrant",
+      "energetic",
+      "high-contrast",
+      "bold headlines",
+      "uppercase eyebrow labels",
+      "spacious",
+      "premium",
+      "very rounded",
+      "playful",
+      "flat",
+      "outlined surfaces",
+      "glassmorphism"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#121212",
+      "foreground": "#ffffff",
+      "surface": "#272727",
+      "surface-foreground": "#ffffff",
+      "muted": "#272727",
+      "muted-foreground": "#909090",
+      "border": "#ffffff",
+      "primary": "#ceff45",
+      "primary-foreground": "#0a0a0a",
+      "accent": "#ceff45",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#ceff45",
+      "success": "#00c55b",
+      "warning": "#db9400",
+      "danger": "#ff7266"
+    },
+    "derived": [
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#121212",
+        "share": 0.336,
+        "oklch": "oklch(0.182 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#ceff45",
+        "share": 0.178,
+        "oklch": "oklch(0.934 0.208 124)",
+        "role": "primary"
+      },
+      {
+        "hex": "#909090",
+        "share": 0.152,
+        "oklch": "oklch(0.653 0 0)",
+        "role": "muted-foreground"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.091,
+        "oklch": "oklch(1 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#272727",
+        "share": 0.082,
+        "oklch": "oklch(0.273 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#040404",
+        "share": 0.057,
+        "oklch": "oklch(0.107 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#c0ed42",
+        "share": 0.038,
+        "oklch": "oklch(0.884 0.195 123)",
+        "role": null
+      },
+      {
+        "hex": "#abaaab",
+        "share": 0.033,
+        "oklch": "oklch(0.739 0.002 326)",
+        "role": null
+      },
+      {
+        "hex": "#1a1a1a",
+        "share": 0.032,
+        "oklch": "oklch(0.218 0 0)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#e7ffba",
+        "100": "#ceff45",
+        "200": "#bcee00",
+        "300": "#a7d400",
+        "400": "#8cb200",
+        "500": "#759500",
+        "600": "#617c00",
+        "700": "#4d6300",
+        "800": "#3b4d00",
+        "900": "#2b3900",
+        "950": "#1c2600"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--wp-admin-theme-color-darker-20": "#005a87",
+      "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+      "--wp--preset--color--vivid-purple": "#9b51e0",
+      "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+      "--wp--preset--color--pale-pink": "#f78da7",
+      "--wp-bound-block-color": "#7a00df",
+      "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+      "--wp-block-synced-color": "#7a00df",
+      "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+      "--wp--preset--color--vivid-red": "#cf2e2e",
+      "--wp--preset--color--vivid-green-cyan": "#00d084",
+      "--wp--preset--color--light-green-cyan": "#7bdcb5",
+      "--wp-editor-canvas-background": "#dddddd",
+      "--wp--preset--color--white": "#ffffff",
+      "--wp--preset--color--black": "#000000",
+      "--wp-admin-theme-color-darker-10": "#006ba1",
+      "--wp-admin-theme-color": "#007cba",
+      "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+      "--swiper-theme-color": "#007aff"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 18.73,
+      "temperature": "cool",
+      "harmony": "single-hue",
+      "primaryHue": "lime",
+      "accentHue": "lime"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "HK Guise",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"HK Guise\", sans-serif",
+        "weights": [
+          400,
+          500,
+          600
+        ]
+      },
+      "body": {
+        "name": "HK Guise",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"HK Guise\", sans-serif",
+        "weights": [
+          400,
+          500,
+          600
+        ]
+      }
+    },
+    "scale": {
+      "xs": 11,
+      "sm": 12,
+      "base": 15,
+      "lg": 24,
+      "xl": 30,
+      "2xl": 36,
+      "3xl": 48,
+      "4xl": 68
+    },
+    "ratio": 1.353,
+    "ratioName": "perfect fourth",
+    "base": 15,
+    "headings": {
+      "h1": {
+        "size": 68,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 15,
+        "weight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "style": "normal",
+        "align": "center"
+      },
+      "h3": {
+        "size": 24,
+        "weight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 15,
+      "weight": 500,
+      "lineHeight": 1.25
+    },
+    "eyebrow": {
+      "size": 10.5,
+      "weight": 600,
+      "letterSpacing": 0.06,
+      "transform": "uppercase",
+      "family": "HK Guise"
+    },
+    "mobile": {
+      "h1": null,
+      "body": 14.56
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.21,
+    "scale": [
+      3,
+      6,
+      10,
+      12,
+      16,
+      18,
+      22,
+      24,
+      30,
+      40,
+      42,
+      48,
+      54,
+      56
+    ],
+    "sectionY": 180,
+    "container": 1200,
+    "gutter": 77,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 10,
+      "md": 50,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.56,
+    "style": "very-rounded",
+    "buttonShape": "0px",
+    "card": 50,
+    "input": 0,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "borders"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 2,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 18,
+    "nav": {
+      "height": 84,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 7,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 14.56,
+      "h1Size": null,
+      "gutter": 77,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 300,
+    "durations": [
+      250,
+      300,
+      500,
+      1500
+    ],
+    "easing": "cubic-bezier(0.85, 0, 0.15, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": true,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 68,
+      "videos": true,
+      "iconsSvg": 10,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": {
+      "background": "foreground",
+      "color": "background",
+      "radius": 0,
+      "height": 36,
+      "paddingX": 18,
+      "paddingY": 12,
+      "fontSize": 10.5,
+      "fontWeight": 600,
+      "transform": "uppercase",
+      "letterSpacing": 0.06,
+      "border": null,
+      "shadow": null,
+      "transition": "0.3s cubic-bezier(0.85, 0, 0.15, 1)",
+      "example": "Read the documentation"
+    },
+    "buttonSecondary": {
+      "background": "background",
+      "color": "primary",
+      "radius": 0,
+      "height": 36,
+      "paddingX": 18,
+      "paddingY": 12,
+      "fontSize": 10.5,
+      "fontWeight": 600,
+      "transform": "uppercase",
+      "letterSpacing": 0.06,
+      "border": null,
+      "shadow": null,
+      "transition": "0.3s cubic-bezier(0.85, 0, 0.15, 1)",
+      "example": "Sign up"
+    },
+    "card": {
+      "background": "background",
+      "radius": 50,
+      "border": "1px solid #ffffff",
+      "shadow": null,
+      "paddingX": 66,
+      "paddingY": 56
+    },
+    "input": {
+      "background": "primary",
+      "radius": 0,
+      "border": null,
+      "height": 35,
+      "paddingX": 12,
+      "fontSize": 12
+    },
+    "link": {
+      "color": "muted-foreground",
+      "underline": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "color": { "roles": { "background": "#121212", "foreground": "#ffffff", "surface": "#1a1a1a", "muted": "#272727", "muted-foreground": "#909090", "border": "#272727", "primary": "#ffffff", "primary-foreground": "#121212", "accent": "#ceff45", "accent-foreground": "#121212", "ring": "#ceff45" } },
+  "typography": {
+    "families": { "display": { "name": "HK Guise", "use": "Urbanist", "alternative": "Urbanist", "weights": [400, 500] }, "body": { "name": "HK Guise", "use": "Urbanist", "alternative": "Urbanist", "weights": [400, 500] } },
+    "headings": { "h1": { "size": 68, "weight": 400, "lineHeight": 1.05, "letterSpacing": -0.03, "transform": "none" }, "h2": { "size": 56, "weight": 400, "lineHeight": 1.1, "letterSpacing": -0.03, "transform": "none" } },
+    "body": { "size": 9, "weight": 500, "lineHeight": 1.3, "letterSpacing": 0.04, "transform": "uppercase" }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp", "buttonShape": "square" },
+  "personality": { "keywords": ["web3 protocol", "charcoal + acid lime", "hairline overlapping circles", "flanking stat columns", "inline paragraph-in-headline", "outlined lime pill tags", "tiny caps buttons", "cursor dot"] }
+}

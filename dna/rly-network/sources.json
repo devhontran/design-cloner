@@ -1,0 +1,8 @@
+[
+  {
+    "id": "rly-serious-business",
+    "type": "web",
+    "input": "https://rly.serious.business/",
+    "weight": 1
+  }
+]
