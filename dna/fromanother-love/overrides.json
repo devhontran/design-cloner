@@ -1,0 +1,14 @@
+{
+  "color": { "roles": { "background": "#051236", "foreground": "#fffde2", "surface": "#fffde2", "surface-foreground": "#1e1e1e", "muted": "#0f1f44", "muted-foreground": "#9b9f9e", "border": "#fffde2", "primary": "#1740a9", "primary-foreground": "#fffde2", "accent": "#88c2b2", "accent-foreground": "#051236", "ring": "#fffde2" } },
+  "typography": {
+    "families": {
+      "display": { "name": "TWK (Everett/Lausanne-style grotesk)", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [500, 600] },
+      "body": { "name": "TWK grotesk", "use": "Inter Tight", "alternative": "Inter Tight", "weights": [400] },
+      "mono": { "name": "Herbik (italic serif labels)", "use": "Instrument Serif", "alternative": "Instrument Serif", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 83, "weight": 600, "lineHeight": 0.9, "letterSpacing": -0.03, "transform": "uppercase" }, "h2": { "size": 66, "weight": 500, "lineHeight": 1.0, "letterSpacing": -0.03, "transform": "none" } }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp", "buttonShape": "pill" },
+  "motion": { "style": "expressive", "duration": 1200, "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)" },
+  "personality": { "keywords": ["saigon artist-led studio", "blurred glow blob shader", "colour-shifting chapters", "staggered caps headline", "focus-blur text", "italic serif micro-labels", "3D tilted poster carousel", "cream + deep navy"] }
+}
