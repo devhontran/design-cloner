@@ -21,7 +21,8 @@ export async function launchBrowser() {
 }
 
 export async function newContext(browser, { width = 1440, height = 900, mobile = false } = {}) {
-  return browser.newContext({
+  const ctx = await browser.newContext({
+    serviceWorkers: process.env.DNA_FETCH_VIA_NODE ? 'block' : 'allow',
     viewport: mobile ? { width: 390, height: 844 } : { width, height },
     deviceScaleFactor: 1,
     isMobile: mobile,
@@ -32,6 +33,27 @@ export async function newContext(browser, { width = 1440, height = 900, mobile =
     locale: 'en-US',
     colorScheme: 'light',
   });
+  if (process.env.DNA_FETCH_VIA_NODE) await ctx.route('**/*', fetchViaNode);
+  return ctx;
+}
+
+// Opt-in (DNA_FETCH_VIA_NODE=1): serve every http(s) request through Node's fetch instead of Chromium's
+// network stack. Useful where Node trusts the environment's CA/proxy config (NODE_EXTRA_CA_CERTS,
+// NODE_USE_ENV_PROXY=1) but Chromium does not. TLS is still verified — by Node.
+const HOP_HEADERS = new Set(['content-encoding', 'content-length', 'transfer-encoding', 'connection', 'keep-alive']);
+async function fetchViaNode(route) {
+  const req = route.request();
+  const url = req.url();
+  if (!/^https?:/i.test(url) || /^https?:\/\/(localhost|127\.|\[::1\])/i.test(url)) return route.continue();
+  try {
+    const headers = Object.fromEntries(Object.entries(await req.allHeaders()).filter(([k]) => !k.startsWith(':') && k !== 'host'));
+    const res = await fetch(url, { method: req.method(), headers, body: req.postDataBuffer() || undefined, redirect: 'manual' });
+    const outHeaders = {};
+    res.headers.forEach((v, k) => { if (!HOP_HEADERS.has(k)) outHeaders[k] = v; });
+    await route.fulfill({ status: res.status, headers: outHeaders, body: Buffer.from(await res.arrayBuffer()) });
+  } catch {
+    await route.abort('failed').catch(() => {});
+  }
 }
 
 /** Navigate and wait until the page is reasonably settled. */

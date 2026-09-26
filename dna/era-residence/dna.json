@@ -1,0 +1,407 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "era-residence",
+  "generatedAt": "2026-09-26T02:20:09.092Z",
+  "sources": [
+    {
+      "id": "era-residence-com",
+      "type": "web",
+      "input": "https://www.era-residence.com/",
+      "weight": 1,
+      "title": "ERA Residence — Contemporary Mediterranean Residences in Estepona"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "mediterranean luxury",
+      "condensed didone caps",
+      "cream + aubergine",
+      "arches & circles",
+      "full-bleed photography",
+      "hairline verticals",
+      "tiny extended labels",
+      "resort real-estate"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#f3f3ec",
+      "foreground": "#17233b",
+      "surface": "#ffffff",
+      "surface-foreground": "#17233b",
+      "muted": "#e4e4dd",
+      "muted-foreground": "#5d6574",
+      "border": "#17233b",
+      "primary": "#340c24",
+      "primary-foreground": "#f3f3ec",
+      "accent": "#b5cedb",
+      "accent-foreground": "#17233b",
+      "ring": "#17233b",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "muted-foreground",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#f3f3ec",
+        "share": 0.368,
+        "oklch": "oklch(0.962 0.009 107)",
+        "role": "background"
+      },
+      {
+        "hex": "#340c24",
+        "share": 0.225,
+        "oklch": "oklch(0.233 0.071 347)",
+        "role": "primary"
+      },
+      {
+        "hex": "#17233b",
+        "share": 0.177,
+        "oklch": "oklch(0.258 0.049 263)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#f8bbcb",
+        "share": 0.076,
+        "oklch": "oklch(0.852 0.073 1)",
+        "role": null
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.069,
+        "oklch": "oklch(1 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#b5cedb",
+        "share": 0.053,
+        "oklch": "oklch(0.837 0.033 230)",
+        "role": null
+      },
+      {
+        "hex": "#174283",
+        "share": 0.012,
+        "oklch": "oklch(0.389 0.119 259)",
+        "role": "accent"
+      },
+      {
+        "hex": "#22509a",
+        "share": 0.008,
+        "oklch": "oklch(0.442 0.131 260)",
+        "role": null
+      },
+      {
+        "hex": "#3260aa",
+        "share": 0.006,
+        "oklch": "oklch(0.495 0.129 259)",
+        "role": null
+      },
+      {
+        "hex": "#4476bb",
+        "share": 0.006,
+        "oklch": "oklch(0.563 0.12 257)",
+        "role": null
+      },
+      {
+        "hex": "#a5bdcb",
+        "share": 0,
+        "oklch": "oklch(0.785 0.033 233)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#fff3f9",
+        "100": "#fee5f1",
+        "200": "#fccae3",
+        "300": "#f2a9cf",
+        "400": "#d983b1",
+        "500": "#bf6497",
+        "600": "#a34c7e",
+        "700": "#853764",
+        "800": "#68274d",
+        "900": "#4d1938",
+        "950": "#340c24"
+      },
+      "accent": {
+        "50": "#f6fafd",
+        "100": "#eaf3f7",
+        "200": "#d3e4ec",
+        "300": "#b5cedb",
+        "400": "#90aebd",
+        "500": "#7191a1",
+        "600": "#597888",
+        "700": "#435f6d",
+        "800": "#324954",
+        "900": "#23363f",
+        "950": "#15242b"
+      },
+      "neutral": {
+        "50": "#fbfbf2",
+        "100": "#f4f4eb",
+        "200": "#e5e5dc",
+        "300": "#d5d5cc",
+        "400": "#a2a29a",
+        "500": "#74746c",
+        "600": "#54544d",
+        "700": "#404039",
+        "800": "#272720",
+        "900": "#181811",
+        "950": "#0b0a05"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3))",
+      "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+      "linear-gradient(rgb(243, 243, 236), rgba(243, 243, 236, 0))"
+    ],
+    "cssVars": {
+      "--_global-colors---white--100": "#ffffff",
+      "--_colors---other--bg": "#f3f3ec",
+      "--_global-colors---white--10": "#f4f4ee",
+      "--_global-colors---base-0--10": "#f3f3ec",
+      "--_colors---base-1000--gray-text": "#6f7681",
+      "--_global-colors---brand-500--blush-bloom": "#f8bbcb",
+      "--_colors---additional--success": "#1ba64b",
+      "--_colors---white--primary": "#ffffff",
+      "--_global-colors---base-1000--100": "#17233b",
+      "--_colors---base-0--line": "#f3f3ec",
+      "--_global-colors---base-0--100": "#f3f3ec",
+      "--_colors---base-1000--bg": "#e8e9e3",
+      "--_colors---additional--error": "#e23d3d",
+      "--_global-colors---brand-500--powder-sky": "#b5cedb",
+      "--_global-colors---white--80": "#fdfdfb",
+      "--_colors---base-0--bg": "#f3f3ec",
+      "--_global-colors---base-0--30": "#f3f3ec",
+      "--_colors---white--line": "#f5f5f0",
+      "--_colors---white--bg": "#f4f4ee",
+      "--_colors---brand-500--primary<deleted|variable-91ff398b-1b86-c83e-9325-f542c634d71f>": "#b5cedb",
+      "--_colors---base-0--primary": "#f3f3ec",
+      "--_global-colors---base-1000--60": "#6f7681",
+      "--_colors---white--disabled": "#f8f8f4",
+      "--_global-colors---white--40": "#f8f8f4",
+      "--_colors---additional--alert": "#ffa800",
+      "--_global-colors---base-0--60": "#f3f3ed",
+      "--_global-colors---base-1000--10": "#dcdeda",
+      "--_colors---base-1000--primary": "#17233b",
+      "--_global-colors---base-1000--30": "#b1b4b7",
+      "--_colors---base-1000--disabled": "#b1b4b7",
+      "--_colors---white--gray-text": "#fdfdfb",
+      "--_colors---base-0--disabled": "#f3f3ec",
+      "--_global-colors---base-0--5": "#f3f3ec",
+      "--_colors---base-1000--line": "#dcdeda",
+      "--_global-colors---white--20": "#f5f5f0",
+      "--_global-colors---brand-500--velvet-plum": "#340c24",
+      "--_colors---base-0--gray-text": "#f3f3ed",
+      "--_global-colors---base-1000--5": "#e8e9e3"
+    },
+    "traits": {
+      "saturation": "muted",
+      "contrast": "medium",
+      "contrastRatio": 14.06,
+      "temperature": "warm",
+      "harmony": "split",
+      "primaryHue": "pink",
+      "accentHue": "blue"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Ambroise Francois Std",
+        "category": "sans",
+        "source": "custom",
+        "use": "Bodoni Moda",
+        "alternative": "Bodoni Moda",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          500,
+          700
+        ]
+      },
+      "body": {
+        "name": "Maison Neue Extended",
+        "category": "sans",
+        "source": "custom",
+        "use": "Archivo",
+        "alternative": "Archivo",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          400,
+          700
+        ]
+      }
+    },
+    "scale": {
+      "xs": 10,
+      "sm": 12,
+      "base": 16,
+      "lg": 23,
+      "xl": 25,
+      "2xl": 36,
+      "3xl": 57,
+      "4xl": 87,
+      "5xl": 108,
+      "6xl": 123,
+      "7xl": 173
+    },
+    "ratio": 1.347,
+    "ratioName": "perfect fourth",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 173,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 173,
+        "weight": 700,
+        "lineHeight": 0.87,
+        "letterSpacing": -0.024,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "center"
+      },
+      "h3": {
+        "size": 36,
+        "weight": 400,
+        "lineHeight": 1,
+        "letterSpacing": -0.008,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": {
+      "size": 10,
+      "weight": 700,
+      "letterSpacing": 0.048,
+      "transform": "uppercase",
+      "family": "Maison Neue Extended"
+    },
+    "mobile": {
+      "h1": 90,
+      "body": 10.3125
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.01,
+    "scale": [
+      2,
+      4,
+      8,
+      14,
+      22,
+      30,
+      44,
+      62,
+      138
+    ],
+    "sectionY": 43,
+    "container": 1350,
+    "gutter": 71,
+    "density": "dense"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "full": 9999,
+      "lg": 0
+    },
+    "zeroRadiusShare": 0.97,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": 4,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "dramatic",
+    "shadows": {
+      "md": "rgba(0, 0, 0, 0) 0px 224px 63px 0px, rgba(0,0,0,0.01) 0px 143px 57px 0px, rgba(0,0,0,0.04) 0px 81px 48px 0px, rgba(0,0,0,0.07) 0px 36px 36px 0px, rgba(0,0,0,0.08) 0px 9px 20px 0px"
+    },
+    "separation": "shadows"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 10,
+    "layoutEngine": "grid-heavy",
+    "pageLengthViewports": 24.08,
+    "sectionsPerPage": 80,
+    "nav": null,
+    "mobile": {
+      "bodySize": 10.3125,
+      "h1Size": 90,
+      "gutter": 71,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "subtle",
+    "duration": 400,
+    "durations": [
+      400,
+      800
+    ],
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "animatedElements": 3
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": true,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 27,
+      "videos": true,
+      "iconsSvg": 33,
+      "roundedImages": 0,
+      "commonAspect": "portrait"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": {
+      "background": "background",
+      "radius": 3.6,
+      "border": null,
+      "shadow": "rgba(0, 0, 0, 0) 0px 224px 63px 0px, rgba(0, 0, 0, 0.01) 0px 143px 57px 0px, rgba(0, 0, 0, 0.04) 0px 81px 48px 0px, rgba(0, 0, 0, 0.07) 0px 36px 36px 0px, rgba(0, 0, 0, 0.08) 0px 9px 20px 0px",
+      "paddingX": 22,
+      "paddingY": 22
+    },
+    "input": null,
+    "link": null
+  }
+}

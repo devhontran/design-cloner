@@ -1,0 +1,3215 @@
+{
+ "url": "https://www.era-residence.com/",
+ "title": "ERA Residence — Contemporary Mediterranean Residences in Estepona",
+ "description": "Boutique residences on the New Golden Mile combining contemporary architecture, natural materials and resort-style living near Marbella and Estepona.",
+ "themeColor": null,
+ "ogImage": "https://cdn.prod.website-files.com/6a068da7ad91b057365bf967/6a39f0aba46d0d055c0476ff_open-graph.webp",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 21670,
+ "canvasBg": "#f3f3ec",
+ "rootFontSize": 14.4,
+ "agg": {
+  "bg": {
+   "#f3f3ec": {
+    "w": 42811028.80761719,
+    "ex": "body"
+   },
+   "#ffffff": {
+    "w": 391.364013671875,
+    "ex": "div > div.s-bar_fill"
+   },
+   "#f5f5f0": {
+    "w": 259.1875,
+    "ex": "div > div.s-bar_track"
+   },
+   "#340c24": {
+    "w": 15474843,
+    "ex": "section#hero"
+   },
+   "#b5cedb": {
+    "w": 6477570,
+    "ex": "main > section.section.arch"
+   },
+   "#a5bdcb": {
+    "w": 288,
+    "ex": "div > div.pag_progress"
+   },
+   "#17233b": {
+    "w": 7788.65625,
+    "ex": "div > div.btn_bg_fill"
+   },
+   "#5d3d50": {
+    "w": 225,
+    "ex": "div > div.amm-s_cms_tabs_line"
+   },
+   "#dcdeda": {
+    "w": 144,
+    "ex": "div > div.pag_progress"
+   }
+  },
+  "text": {
+   "#17233b": {
+    "w": 2519,
+    "ex": "div > div.a1.a-center"
+   },
+   "#ffffff": {
+    "w": 985,
+    "ex": "div > div.h6"
+   },
+   "#f3f3ec": {
+    "w": 256,
+    "ex": "a > div.l2"
+   }
+  },
+  "border": {
+   "#17233b": {
+    "w": 534.15625,
+    "ex": "a > div.btn_bg"
+   }
+  },
+  "families": {
+   "sloop-script-three": {
+    "w": 19
+   },
+   "Maison Neue Extended": {
+    "w": 2619
+   },
+   "ambroise-francois-std": {
+    "w": 1122
+   }
+  },
+  "typeStyles": {
+   "sloop-script-three|173|400|1|0|none": {
+    "family": "sloop-script-three",
+    "stack": "sloop-script-three, sans-serif",
+    "generic": "sans-serif",
+    "size": 173,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 14,
+    "count": 2,
+    "tags": {
+     "div": 1,
+     "h3": 1
+    },
+    "ex": "div > div.a1.a-center"
+   },
+   "Maison Neue Extended|10|700|1.45|0.048|uppercase": {
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 700,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 1080,
+    "count": 44,
+    "tags": {
+     "div": 35,
+     "p": 5,
+     "h2": 1,
+     "h3": 2,
+     "h4": 1
+    },
+    "ex": "div > div.l1.a-center"
+   },
+   "ambroise-francois-std|25|400|1|0|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 25,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 63,
+    "count": 7,
+    "tags": {
+     "div": 7
+    },
+    "ex": "div > div.h6"
+   },
+   "Maison Neue Extended|8|700|1.33|0.32|uppercase": {
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 8,
+    "weight": 700,
+    "lineHeight": 1.33,
+    "letterSpacing": 0.32,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 48,
+    "count": 6,
+    "tags": {
+     "div": 6
+    },
+    "ex": "div > div.l2"
+   },
+   "ambroise-francois-std|173|400|0.87|-0.024|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 173,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 69,
+    "count": 7,
+    "tags": {
+     "h3": 1,
+     "span": 3,
+     "h2": 3
+    },
+    "ex": "div > h3.h1.a-center"
+   },
+   "Maison Neue Extended|11.5|400|1.38|-0.024|none": {
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 11.5,
+    "weight": 400,
+    "lineHeight": 1.38,
+    "letterSpacing": -0.024,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1391,
+    "count": 11,
+    "tags": {
+     "p": 9,
+     "h4": 1,
+     "h5": 1
+    },
+    "ex": "div > p.p1.a-center"
+   },
+   "ambroise-francois-std|36|400|1|-0.008|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 578,
+    "count": 12,
+    "tags": {
+     "h4": 3,
+     "h3": 2,
+     "h5": 2,
+     "div": 5
+    },
+    "ex": "div > h4.h5"
+   },
+   "Maison Neue Extended|10|400|1.45|0.048|uppercase": {
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 100,
+    "count": 8,
+    "tags": {
+     "div": 4,
+     "h4": 2,
+     "h3": 1,
+     "span": 1
+    },
+    "ex": "div > div.l1.reg"
+   },
+   "ambroise-francois-std|56.5|400|0.88|-0.016|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 56.5,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.016,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 271,
+    "count": 2,
+    "tags": {
+     "h3": 2
+    },
+    "ex": "div > h3.h4.a-center"
+   },
+   "ambroise-francois-std|22.5|400|1.12|0.8|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 22.5,
+    "weight": 400,
+    "lineHeight": 1.12,
+    "letterSpacing": 0.8,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 26,
+    "count": 2,
+    "tags": {
+     "h4": 1,
+     "h3": 1
+    },
+    "ex": "div > h4.c1.a-center"
+   },
+   "ambroise-francois-std|86.5|400|0.91|-0.024|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 86.5,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 75,
+    "count": 6,
+    "tags": {
+     "span": 2,
+     "h4": 4
+    },
+    "ex": "h2 > span.loc-path-s_title_line"
+   },
+   "sloop-script-three|108|400|1|0|none": {
+    "family": "sloop-script-three",
+    "stack": "sloop-script-three, sans-serif",
+    "generic": "sans-serif",
+    "size": 108,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "h2 > span.loc-path-s_title_a.a2"
+   },
+   "ambroise-francois-std|122.5|400|0.88|-0.024|uppercase": {
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "generic": "sans-serif",
+    "size": 122.5,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 40,
+    "count": 2,
+    "tags": {
+     "h3": 1,
+     "div": 1
+    },
+    "ex": "div > h3.h2.a-center"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "7": {
+     "w": 18
+    },
+    "11": {
+     "w": 2
+    },
+    "22": {
+     "w": 6
+    },
+    "43": {
+     "w": 62
+    },
+    "122": {
+     "w": 2
+    }
+   },
+   "margin": {
+    "2": {
+     "w": 6
+    },
+    "30": {
+     "w": 2
+    },
+    "61": {
+     "w": 1
+    },
+    "137": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "4": {
+     "w": 2
+    },
+    "7": {
+     "w": 2
+    },
+    "14": {
+     "w": 48
+    },
+    "16": {
+     "w": 1
+    },
+    "22": {
+     "w": 3
+    },
+    "29": {
+     "w": 8
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 3.6,
+    "w": 274,
+    "h": 338,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 259,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 259,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 5220,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 5,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1296,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 590,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 590,
+    "kind": "box"
+   },
+   {
+    "r": 720,
+    "w": 1440,
+    "h": 720,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 144,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 374,
+    "h": 187,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1080,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 389,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 389,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1080,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 533,
+    "h": 814,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1080,
+    "h": 210,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1080,
+    "h": 210,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1260,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 288,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 288,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 966,
+    "h": 540,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 966,
+    "h": 540,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 966,
+    "h": 540,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 966,
+    "h": 540,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 829,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 829,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 829,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 829,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 696,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 696,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 696,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 696,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1260,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 36,
+    "w": 231,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 100,
+    "w": 229,
+    "h": 34,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 396,
+    "h": 528,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 144,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 855,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 720,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1260,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 389,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 180,
+    "kind": "box"
+   },
+   {
+    "r": 2,
+    "w": 1,
+    "h": 36,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 576,
+    "h": 768,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 331,
+    "h": 442,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 576,
+    "h": 576,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 576,
+    "h": 432,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1123,
+    "h": 702,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 144,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 984,
+    "h": 984,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 957,
+    "h": 957,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1579,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 173,
+    "h": 115,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1018,
+    "h": 1018,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1579,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 2211,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 389,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1579,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1579,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   }
+  ],
+  "shadows": {
+   "rgba(0, 0, 0, 0) 0px 224px 63px 0px, rgba(0,0,0,0.01) 0px 143px 57px 0px, rgba(0,0,0,0.04) 0px 81px 48px 0px, rgba(0,0,0,0.07) 0px 36px 36px 0px, rgba(0,0,0,0.08) 0px 9px 20px 0px": {
+    "w": 1,
+    "ex": "div#w-node-a93c3093-e77a-7926-27af-e0a2d9898e16-d9898e13"
+   }
+  },
+  "gradients": {
+   "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))": {
+    "w": 3151867.5,
+    "ex": "div > div.img-over-grad.from-top"
+   },
+   "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3))": {
+    "w": 11816077.5,
+    "ex": "div > div.img-over-grad.from-bot"
+   },
+   "linear-gradient(rgb(243, 243, 236), rgba(243, 243, 236, 0))": {
+    "w": 829440,
+    "ex": "div > div.loc-w_over-grad"
+   }
+  },
+  "durations": {
+   "400": {
+    "w": 31
+   },
+   "800": {
+    "w": 17
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.25, 1, 0.5, 1)": {
+    "w": 31
+   },
+   "cubic-bezier(0.76, 0, 0.24, 1)": {
+    "w": 4
+   }
+  },
+  "gridCols": {
+   "4": {
+    "w": 3
+   },
+   "5": {
+    "w": 2
+   },
+   "6": {
+    "w": 4
+   },
+   "8": {
+    "w": 3
+   },
+   "10": {
+    "w": 28
+   },
+   "13": {
+    "w": 1
+   }
+  },
+  "counts": {
+   "elements": 828,
+   "flex": 138,
+   "grid": 41,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 3,
+   "transitions": 35,
+   "images": 27,
+   "svgs": 33,
+   "videos": 8,
+   "sticky": 13
+  },
+  "headings": [
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 459,
+    "text": "A place by dayby dayby nightby nightto return to"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 4363,
+    "text": "Real-Life Location"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 6027,
+    "text": "Instead of corridors, walking paths connect the apartments — making Era Residenc"
+   },
+   {
+    "tag": "h2",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 700,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 6474,
+    "text": "The concept"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 56.7,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.016,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 6517,
+    "text": "ERA Residences is a boutique gated community of only 25 residences, designed aro"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 22.5,
+    "weight": 400,
+    "lineHeight": 1.12,
+    "letterSpacing": 0.8,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 6737,
+    "text": "Spain"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 6524,
+    "text": "New Golden Mile"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 7026,
+    "text": "Between Marbella and Estepona"
+   },
+   {
+    "tag": "h2",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 86.4,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 6536,
+    "text": "The coast you wanted yours this year"
+   },
+   {
+    "tag": "h3",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 700,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 8255,
+    "text": "New Golden Mile, Estepona"
+   },
+   {
+    "tag": "h4",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 11.7,
+    "weight": 400,
+    "lineHeight": 1.38,
+    "letterSpacing": -0.024,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 8313,
+    "text": "Costa del Sol"
+   },
+   {
+    "tag": "h5",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 11.7,
+    "weight": 400,
+    "lineHeight": 1.38,
+    "letterSpacing": -0.024,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 8357,
+    "text": "Spain"
+   },
+   {
+    "tag": "h4",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 400,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 8809,
+    "text": "Bedrooms"
+   },
+   {
+    "tag": "h5",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 8831,
+    "text": "3"
+   },
+   {
+    "tag": "h4",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 400,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 8896,
+    "text": "Area up to"
+   },
+   {
+    "tag": "h5",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 8917,
+    "text": "178 — 202 m²"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 122.4,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 9152,
+    "text": "Ground floor + basement"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 56.7,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.016,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 9806,
+    "text": "Residences range from 104 to 244 sq.m., offering spacious single level and duple"
+   },
+   {
+    "tag": "h3",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 700,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 10885,
+    "text": "Gated community"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 10928,
+    "text": "Instead of corridors, walking paths connect the apartments — making Era Residenc"
+   },
+   {
+    "tag": "h2",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 11810,
+    "text": "Thespaceto"
+   },
+   {
+    "tag": "h3",
+    "family": "sloop-script-three",
+    "stack": "sloop-script-three, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 12195,
+    "text": "Live in"
+   },
+   {
+    "tag": "h4",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 700,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 13288,
+    "text": "Optional upgrades are available: • Private jacuzzi • EV charging point installat"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#17233b",
+    "y": 12924,
+    "text": "Every detail was selected to create homes that feel elegant, intuitive and effor"
+   },
+   {
+    "tag": "h2",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 14588,
+    "text": "Architecture"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 36,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.008,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 15699,
+    "text": "The architecture of ERA Residences balances clean contemporary lines with Medite"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 86.4,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 18283,
+    "text": "Developer"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 86.4,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 18480,
+    "text": "Sales & Marketing"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 86.4,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 18820,
+    "text": "License obtained"
+   },
+   {
+    "tag": "h4",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 86.4,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#17233b",
+    "y": 19049,
+    "text": "2026"
+   },
+   {
+    "tag": "h2",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 172.8,
+    "weight": 400,
+    "lineHeight": 0.87,
+    "letterSpacing": -0.024,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 19752,
+    "text": "Perfect sea views"
+   },
+   {
+    "tag": "h3",
+    "family": "ambroise-francois-std",
+    "stack": "ambroise-francois-std, sans-serif",
+    "size": 22.5,
+    "weight": 400,
+    "lineHeight": 1.12,
+    "letterSpacing": 0.8,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#ffffff",
+    "y": 20082,
+    "text": "From rooftop terraces"
+   },
+   {
+    "tag": "h3",
+    "family": "Maison Neue Extended",
+    "stack": "\"Maison Neue Extended\", Arial, sans-serif",
+    "size": 9.9,
+    "weight": 400,
+    "lineHeight": 1.45,
+    "letterSpacing": 0.048,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#f3f3ec",
+    "y": 21315,
+    "text": "Sales Office"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "div#w-node-a93c3093-e77a-7926-27af-e0a2d9898e16-d9898e13",
+    "w": 274,
+    "h": 338,
+    "bg": "#f3f3ec",
+    "bgAlpha": 1,
+    "color": "#17233b",
+    "radius": 3.6,
+    "border": null,
+    "shadow": "rgba(0, 0, 0, 0) 0px 224px 63px 0px, rgba(0, 0, 0, 0.01) 0px 143px 57px 0px, rgba(0, 0, 0, 0.04) 0px 81px 48px 0px, rgba(0, 0, 0, 0.07) 0px 36px 36px 0px, rgba(0, 0, 0, 0.08) 0px 9px 20px 0px",
+    "padY": 22,
+    "padX": 22,
+    "fontSize": 14.4,
+    "fontWeight": 400,
+    "family": "Maison Neue Extended",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "CookiesCookiesThis website uses cookies ",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 21670,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 367,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 43,
+    "h": 367,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 324,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 21670,
+    "bg": "#f3f3ec",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5220,
+    "bg": "#340c24",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5220,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5220,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 373,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1296,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 590,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 590,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 259,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 4320,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3816,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 504,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#b5cedb",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1443,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1443,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#b5cedb",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 345,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 302,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 389,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 389,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 648,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 432,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 432,
+    "bg": "#b5cedb",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 354,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 354,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 814,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 218,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 218,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 253,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 210,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#f3f3ec",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1260,
+    "bg": "#340c24",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1260,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1260,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 288,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 288,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 543,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 543,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 543,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 543,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 543,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 435,
+    "bg": "#340c24",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 435,
+    "bg": "#340c24",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1080,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 533,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1354,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 806,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 1440,
+    "h": 1296,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.11
+   },
+   {
+    "w": 374,
+    "h": 187,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2
+   },
+   {
+    "w": 1440,
+    "h": 1080,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.33
+   },
+   {
+    "w": 720,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 533,
+    "h": 814,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.65
+   },
+   {
+    "w": 720,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 1080,
+    "h": 210,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 5.15
+   },
+   {
+    "w": 1080,
+    "h": 210,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 5.15
+   },
+   {
+    "w": 720,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 966,
+    "h": 540,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.79
+   },
+   {
+    "w": 966,
+    "h": 540,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.79
+   },
+   {
+    "w": 966,
+    "h": 540,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.79
+   },
+   {
+    "w": 966,
+    "h": 540,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.79
+   },
+   {
+    "w": 829,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.92
+   },
+   {
+    "w": 829,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.92
+   },
+   {
+    "w": 829,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.92
+   },
+   {
+    "w": 829,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.92
+   },
+   {
+    "w": 696,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.61
+   },
+   {
+    "w": 696,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.61
+   },
+   {
+    "w": 696,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.61
+   },
+   {
+    "w": 696,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.61
+   },
+   {
+    "w": 1440,
+    "h": 1260,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.14
+   },
+   {
+    "w": 396,
+    "h": 528,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.75
+   },
+   {
+    "w": 720,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 1440,
+    "h": 1260,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.14
+   },
+   {
+    "w": 331,
+    "h": 442,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.75
+   },
+   {
+    "w": 576,
+    "h": 576,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 576,
+    "h": 432,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.33
+   },
+   {
+    "w": 1123,
+    "h": 702,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.6
+   },
+   {
+    "w": 984,
+    "h": 984,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 957,
+    "h": 957,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 1440,
+    "h": 1579,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.91
+   },
+   {
+    "w": 173,
+    "h": 115,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 1.5
+   },
+   {
+    "w": 1018,
+    "h": 1018,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1
+   },
+   {
+    "w": 1440,
+    "h": 2211,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.65
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > div.h6",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.h6",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l2",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l2",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l2",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l2",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l1.a-center",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l2",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > h4.h5",
+    "fg": "#ffffff",
+    "bg": "#b5cedb",
+    "ratio": 1.64
+   },
+   {
+    "sel": "div > div.l1",
+    "fg": "#ffffff",
+    "bg": "#b5cedb",
+    "ratio": 1.64
+   },
+   {
+    "sel": "div > div.l1.reg",
+    "fg": "#ffffff",
+    "bg": "#b5cedb",
+    "ratio": 1.64
+   },
+   {
+    "sel": "div > h2.h1.a-center",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > h3.h5",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l1",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l1.reg",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l1",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   },
+   {
+    "sel": "div > div.l1",
+    "fg": "#ffffff",
+    "bg": "#f3f3ec",
+    "ratio": 1.11
+   }
+  ],
+  "nav": null
+ },
+ "vars": {
+  "--32px": "calc(32rem/16)",
+  "--_global-colors---white--100": "white",
+  "--_fonts---font-display": "ambroise-francois-std,sans-serif",
+  "--_colors---other--bg": "#f3f3ec",
+  "--_special-units---scale-ratio": "16",
+  "--52px": "calc(52rem/16)",
+  "--_global-colors---base-0--0": "#f3f3ec00",
+  "--_fonts---h1--line-height": "87.5%",
+  "--192px": "calc(192rem/16)",
+  "--_fonts---a2--size": "calc(120rem/16)",
+  "--_fonts---h4--line-height": "88.889%",
+  "--_fonts---h2--letter-spacing": "-.024em",
+  "--48px": "calc(48rem/16)",
+  "--_global-colors---white--10": "#ffffff1a",
+  "--_units---u-24": "calc(24rem/16)",
+  "--2px": "calc(2rem/16)",
+  "--0px": "calc(0rem/16)",
+  "--_fonts---h2--size": "calc(136rem/16)",
+  "--ease-in": "cubic-bezier(0.5, 0, 0.75, 0)",
+  "--_fonts---a2--line-height": "100%",
+  "--_global-colors---base-0--10": "#f3f3ec1a",
+  "--72px": "calc(72rem/16)",
+  "--_units---u-48": "calc(48rem/16)",
+  "--120px": "calc(120rem/16)",
+  "--_units---u-272": "calc(272rem/16)",
+  "--60px": "calc(60rem/16)",
+  "--_global-colors---white--0": "#fff0",
+  "--_fonts---l2--letter-spacing": ".32em",
+  "--_special-units---100vh": "100vh",
+  "--_colors---base-1000--gray-text": "#17233b99",
+  "--_fonts---h5--letter-spacing": "-.008em",
+  "--_global-colors---brand-500--blush-bloom": "#f8bbcb",
+  "--_fonts---h5--line-height": "100%",
+  "--_colors---additional--success": "#1ba64b",
+  "--_colors---white--primary": "white",
+  "--_global-colors---base-1000--100": "#17233b",
+  "--_fonts---c1--letter-spacing": ".8em",
+  "--_colors---base-0--line": "#f3f3ec1a",
+  "--_units---u-0": "calc(0rem/16)",
+  "--68px": "calc(68rem/16)",
+  "--_fonts---h2--line-height": "88.235%",
+  "--36px": "calc(36rem/16)",
+  "--_global-colors---base-0--100": "#f3f3ec",
+  "--_colors---base-1000--bg": "#17233b0d",
+  "--ease-write": "cubic-bezier(0.333, 0, 0.667, 1)",
+  "--_fonts---h3--size": "calc(96rem/16)",
+  "--_fonts---p1--size": "calc(13rem/16)",
+  "--dur-s": "0.4s",
+  "--_special-units---grid-gap": "calc(16rem/16)",
+  "--_special-units---offset-l": "calc(48rem/16)",
+  "--_colors---additional--error": "#e23d3d",
+  "--_fonts---p2--line-height": "145.455%",
+  "--_fonts---h6--line-height": "100%",
+  "--_global-colors---brand-500--powder-sky": "#b5cedb",
+  "--_global-colors---white--80": "#fffc",
+  "--_fonts---h6--letter-spacing": "0em",
+  "--1px": "calc(1rem/16)",
+  "--64px": "calc(64rem/16)",
+  "--4px": "calc(4rem/16)",
+  "--12px": "calc(12rem/16)",
+  "--_colors---base-0--bg": "#f3f3ec0d",
+  "--112px": "calc(112rem/16)",
+  "--_units---u-8": "calc(8rem/16)",
+  "--44px": "calc(44rem/16)",
+  "--_global-colors---base-0--30": "#f3f3ec4d",
+  "--_fonts---a1--line-height": "100%",
+  "--dur-l": "1.2s",
+  "--_fonts---l2--line-height": "133.333%",
+  "--_fonts---h1--letter-spacing": "-.024em",
+  "--_fonts---l2--size": "calc(9rem/16)",
+  "--_colors---white--line": "#fff3",
+  "--_special-units---1-cell-v": "calc(96rem/16)",
+  "--272px": "calc(272rem/16)",
+  "--168px": "calc(168rem/16)",
+  "--_fonts---a2--letter-spacing": "0em",
+  "--_fonts---h4--letter-spacing": "-.016em",
+  "--ease-in-out": "cubic-bezier(0.76, 0, 0.24, 1)",
+  "--_fonts---font-body": "\"Maison Neue Extended\",Arial,sans-serif",
+  "--_colors---white--bg": "#ffffff1a",
+  "--80px": "calc(80rem/16)",
+  "--_fonts---c1--size": "calc(25rem/16)",
+  "--24px": "calc(24rem/16)",
+  "--_colors---brand-500--primary<deleted|variable-91ff398b-1b86-c83e-9325-f542c634d71f>": "#b5cedb",
+  "--_colors---base-0--primary": "#f3f3ec",
+  "--_global-colors---base-1000--60": "#17233b99",
+  "--_colors---white--disabled": "#fff6",
+  "--_global-colors---white--40": "#fff6",
+  "--_units---u-160": "calc(160rem/16)",
+  "--_colors---additional--alert": "#ffa800",
+  "--ease": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+  "--_fonts---l1--line-height": "145.455%",
+  "--8px": "calc(8rem/16)",
+  "--_global-colors---base-0--60": "#f3f3ec99",
+  "--_global-colors---base-1000--10": "#17233b1a",
+  "--_fonts---h3--line-height": "91.667%",
+  "--_units---u-96": "calc(96rem/16)",
+  "--_colors---base-1000--primary": "#17233b",
+  "--_fonts---l1--letter-spacing": ".048em",
+  "--16px": "calc(16rem/16)",
+  "--56px": "calc(56rem/16)",
+  "--96px": "calc(96rem/16)",
+  "--_fonts---h3--letter-spacing": "-.024em",
+  "--_global-colors---base-1000--30": "#17233b4d",
+  "--_100svh": "900px",
+  "--144px": "calc(144rem/16)",
+  "--ease-out": "cubic-bezier(0.25, 1, 0.5, 1)",
+  "--_fonts---p2--letter-spacing": "-.024em",
+  "--_colors---base-1000--disabled": "#17233b4d",
+  "--_units---u-4": "calc(4rem/16)",
+  "--240px": "calc(240rem/16)",
+  "--160px": "calc(160rem/16)",
+  "--_units---u-16": "calc(16rem/16)",
+  "--_special-units---1-cell-h": "calc(136rem/16)",
+  "--6px": "calc(6rem/16)",
+  "--10px": "calc(10rem/16)",
+  "--_fonts---h6--size": "calc(28rem/16)",
+  "--40px": "calc(40rem/16)",
+  "--_colors---white--gray-text": "#fffc",
+  "--_units---u-64": "calc(64rem/16)",
+  "--_fonts---l1--size": "calc(11rem/16)",
+  "--_colors---base-0--disabled": "#f3f3ec4d",
+  "--88px": "calc(88rem/16)",
+  "--_units---u-32": "calc(32rem/16)",
+  "--_fonts---font-accent": "sloop-script-three,sans-serif",
+  "--_fonts---h1--size": "calc(192rem/16)",
+  "--_global-colors---base-0--5": "#f3f3ec0d",
+  "--28px": "calc(28rem/16)",
+  "--_fonts---h4--size": "calc(63rem/16)",
+  "--_colors---base-1000--line": "#17233b1a",
+  "--_fonts---p1--line-height": "138.462%",
+  "--_special-units---offset-r": "calc(48rem/16)",
+  "--_global-colors---white--20": "#fff3",
+  "--104px": "calc(104rem/16)",
+  "--136px": "calc(136rem/16)",
+  "--dur-m": "0.8s",
+  "--_units---u-12": "calc(12rem/16)",
+  "--_fonts---h5--size": "calc(40rem/16)",
+  "--_global-colors---brand-500--velvet-plum": "#340c24",
+  "--_fonts---p1--letter-spacing": "-.024em",
+  "--_fonts---a1--size": "calc(192rem/16)",
+  "--_fonts---a1--letter-spacing": "0em",
+  "--_colors---other--transparent": "transparent",
+  "--_fonts---c1--line-height": "112%",
+  "--_colors---base-0--gray-text": "#f3f3ec99",
+  "--_fonts---p2--size": "calc(11rem/16)",
+  "--_global-colors---base-1000--0": "#17233b00",
+  "--_global-colors---base-1000--5": "#17233b0d",
+  "--20px": "calc(20rem/16)"
+ },
+ "colorVars": {
+  "--_global-colors---white--100": "#ffffff",
+  "--_colors---other--bg": "#f3f3ec",
+  "--_global-colors---white--10": "#f4f4ee",
+  "--_global-colors---base-0--10": "#f3f3ec",
+  "--_colors---base-1000--gray-text": "#6f7681",
+  "--_global-colors---brand-500--blush-bloom": "#f8bbcb",
+  "--_colors---additional--success": "#1ba64b",
+  "--_colors---white--primary": "#ffffff",
+  "--_global-colors---base-1000--100": "#17233b",
+  "--_colors---base-0--line": "#f3f3ec",
+  "--_global-colors---base-0--100": "#f3f3ec",
+  "--_colors---base-1000--bg": "#e8e9e3",
+  "--_colors---additional--error": "#e23d3d",
+  "--_global-colors---brand-500--powder-sky": "#b5cedb",
+  "--_global-colors---white--80": "#fdfdfb",
+  "--_colors---base-0--bg": "#f3f3ec",
+  "--_global-colors---base-0--30": "#f3f3ec",
+  "--_colors---white--line": "#f5f5f0",
+  "--_colors---white--bg": "#f4f4ee",
+  "--_colors---brand-500--primary<deleted|variable-91ff398b-1b86-c83e-9325-f542c634d71f>": "#b5cedb",
+  "--_colors---base-0--primary": "#f3f3ec",
+  "--_global-colors---base-1000--60": "#6f7681",
+  "--_colors---white--disabled": "#f8f8f4",
+  "--_global-colors---white--40": "#f8f8f4",
+  "--_colors---additional--alert": "#ffa800",
+  "--_global-colors---base-0--60": "#f3f3ed",
+  "--_global-colors---base-1000--10": "#dcdeda",
+  "--_colors---base-1000--primary": "#17233b",
+  "--_global-colors---base-1000--30": "#b1b4b7",
+  "--_colors---base-1000--disabled": "#b1b4b7",
+  "--_colors---white--gray-text": "#fdfdfb",
+  "--_colors---base-0--disabled": "#f3f3ec",
+  "--_global-colors---base-0--5": "#f3f3ec",
+  "--_colors---base-1000--line": "#dcdeda",
+  "--_global-colors---white--20": "#f5f5f0",
+  "--_global-colors---brand-500--velvet-plum": "#340c24",
+  "--_colors---base-0--gray-text": "#f3f3ed",
+  "--_global-colors---base-1000--5": "#e8e9e3"
+ },
+ "loadedFonts": [
+  {
+   "family": "Maison Neue Extended",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Maison Neue Extended",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "ambroise-francois-std",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "sloop-script-three",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#174283",
+    "share": 0.204
+   },
+   {
+    "hex": "#22509a",
+    "share": 0.146
+   },
+   {
+    "hex": "#3260aa",
+    "share": 0.111
+   },
+   {
+    "hex": "#4476bb",
+    "share": 0.11
+   },
+   {
+    "hex": "#6595cf",
+    "share": 0.1
+   },
+   {
+    "hex": "#9cb1c6",
+    "share": 0.083
+   },
+   {
+    "hex": "#eae9e3",
+    "share": 0.08
+   },
+   {
+    "hex": "#555940",
+    "share": 0.069
+   },
+   {
+    "hex": "#2e3424",
+    "share": 0.05
+   },
+   {
+    "hex": "#7f7f6f",
+    "share": 0.046
+   }
+  ],
+  "meanLightness": 0.538,
+  "lightnessStd": 0.167,
+  "meanChroma": 0.092,
+  "chromaticShare": 0.729,
+  "negativeSpace": 0.204,
+  "busyness": 0.02,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 10.3125,
+  "h1Size": 90,
+  "gutter": 71,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

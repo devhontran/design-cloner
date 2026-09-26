@@ -1,0 +1,27 @@
+{
+  "color": {
+    "roles": {
+      "background": "#f3f3ec",
+      "foreground": "#17233b",
+      "surface": "#ffffff",
+      "muted": "#e4e4dd",
+      "muted-foreground": "#5d6574",
+      "border": "#17233b",
+      "primary": "#340c24",
+      "primary-foreground": "#f3f3ec",
+      "accent": "#b5cedb",
+      "accent-foreground": "#17233b",
+      "ring": "#17233b"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Ambroise Francois Std", "use": "Bodoni Moda", "alternative": "Bodoni Moda", "weights": [500, 700] },
+      "body": { "name": "Maison Neue Extended", "use": "Archivo", "alternative": "Archivo", "weights": [400, 700] }
+    }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp" },
+  "personality": {
+    "keywords": ["mediterranean luxury", "condensed didone caps", "cream + aubergine", "arches & circles", "full-bleed photography", "hairline verticals", "tiny extended labels", "resort real-estate"]
+  }
+}
