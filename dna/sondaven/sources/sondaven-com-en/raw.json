@@ -1,0 +1,3713 @@
+{
+ "url": "https://sondaven.com/en",
+ "title": "Son Daven — Design Resort Hotel in Yaremche",
+ "description": "Investment project with guaranteed return.",
+ "themeColor": null,
+ "ogImage": "https://cdn.prod.website-files.com/6940a0abd735a1e3a640d042/6999d59a988f9410fbe97cdd_og_en.webp",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 33200,
+ "canvasBg": "#a89474",
+ "rootFontSize": 14.4,
+ "agg": {
+  "bg": {
+   "#a89474": {
+    "w": 36632027.485839844,
+    "ex": "body"
+   },
+   "#2c2824": {
+    "w": 42079306.298339844,
+    "ex": "a > div.btn_bg"
+   },
+   "#ffffff": {
+    "w": 3813.28125,
+    "ex": "div > span.hero-s_info_item_active.text-light"
+   },
+   "#978568": {
+    "w": 1296000,
+    "ex": "div > div.over"
+   },
+   "#000000": {
+    "w": 57600,
+    "ex": "div > video.video"
+   }
+  },
+  "text": {
+   "#2c2824": {
+    "w": 1838,
+    "ex": "span > span.split-char"
+   },
+   "#a89474": {
+    "w": 3974,
+    "ex": "div > div.p6.text-light"
+   },
+   "#ffffff": {
+    "w": 310,
+    "ex": "h2 > span.split-word"
+   },
+   "#6a5e4c": {
+    "w": 51,
+    "ex": "div > div.p6.pin"
+   }
+  },
+  "border": {
+   "#a89474": {
+    "w": 256,
+    "ex": "div > a.seasons-s_tabs_tab.is-active"
+   }
+  },
+  "families": {
+   "KTF Metro Blueline": {
+    "w": 5199
+   },
+   "KTF Metro Roman": {
+    "w": 974
+   }
+  },
+  "typeStyles": {
+   "KTF Metro Blueline|10|400|1.6|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 4296,
+    "count": 167,
+    "tags": {
+     "span": 49,
+     "div": 55,
+     "h2": 4,
+     "h3": 8,
+     "p": 40,
+     "h4": 10,
+     "h1": 1
+    },
+    "ex": "span > span.split-char"
+   },
+   "KTF Metro Blueline|12|400|1.66|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.66,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 18,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "h1 > div.split-line"
+   },
+   "KTF Metro Roman|24|400|1|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 12,
+    "count": 5,
+    "tags": {
+     "span": 5
+    },
+    "ex": "span > span.split-word"
+   },
+   "KTF Metro Roman|56|400|1|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 20,
+    "count": 5,
+    "tags": {
+     "span": 5
+    },
+    "ex": "h2 > span.split-word"
+   },
+   "KTF Metro Roman|40|400|1|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 40,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 696,
+    "count": 398,
+    "tags": {
+     "span": 6,
+     "div": 388,
+     "h2": 1,
+     "h4": 3
+    },
+    "ex": "h2 > span.split-word"
+   },
+   "KTF Metro Roman|144|400|0.83|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 144,
+    "weight": 400,
+    "lineHeight": 0.83,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 36,
+    "count": 10,
+    "tags": {
+     "span": 10
+    },
+    "ex": "h2 > span.split-word"
+   },
+   "KTF Metro Blueline|20|400|1.2|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 45,
+    "count": 12,
+    "tags": {
+     "p": 5,
+     "span": 7
+    },
+    "ex": "div > p.p3.text-dark"
+   },
+   "KTF Metro Blueline|32|400|1|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 32,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 3,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "span > span.split-word"
+   },
+   "KTF Metro Roman|10|400|1.2|0.08|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 172,
+    "count": 8,
+    "tags": {
+     "h2": 6,
+     "div": 2
+    },
+    "ex": "div > h2.p6.pin"
+   },
+   "KTF Metro Blueline|16|400|1.5|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 771,
+    "count": 38,
+    "tags": {
+     "div": 20,
+     "span": 2,
+     "h5": 6,
+     "h3": 1,
+     "h4": 9
+    },
+    "ex": "p > div.split-line"
+   },
+   "KTF Metro Roman|96|400|0.91|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 96,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 23,
+    "count": 4,
+    "tags": {
+     "span": 3,
+     "div": 1
+    },
+    "ex": "span > span.split-word"
+   },
+   "KTF Metro Roman|72|400|0.88|-0.064|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 72,
+    "weight": 400,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 14,
+    "count": 5,
+    "tags": {
+     "span": 5
+    },
+    "ex": "div > span.split-word"
+   },
+   "KTF Metro Roman|72|400|0|-0.085|uppercase": {
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "generic": "sans-serif",
+    "size": 72,
+    "weight": 400,
+    "lineHeight": 0,
+    "letterSpacing": -0.085,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 1,
+    "count": 1,
+    "tags": {
+     "sup": 1
+    },
+    "ex": "div > sup"
+   },
+   "KTF Metro Blueline|24|400|1.16|0.08|uppercase": {
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "generic": "sans-serif",
+    "size": 24,
+    "weight": 400,
+    "lineHeight": 1.16,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 66,
+    "count": 4,
+    "tags": {
+     "div": 2,
+     "p": 2
+    },
+    "ex": "div > div.p2.text-dark"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "2": {
+     "w": 18
+    },
+    "4": {
+     "w": 24
+    },
+    "6": {
+     "w": 6
+    },
+    "8": {
+     "w": 2
+    },
+    "12": {
+     "w": 102
+    },
+    "16": {
+     "w": 63
+    },
+    "24": {
+     "w": 27
+    },
+    "28": {
+     "w": 1
+    },
+    "32": {
+     "w": 8
+    },
+    "48": {
+     "w": 9
+    },
+    "72": {
+     "w": 3
+    },
+    "240": {
+     "w": 1
+    },
+    "256": {
+     "w": 2
+    },
+    "288": {
+     "w": 1
+    },
+    "900": {
+     "w": 1
+    },
+    "1728": {
+     "w": 1
+    }
+   },
+   "margin": {
+    "8": {
+     "w": 2
+    },
+    "32": {
+     "w": 2
+    },
+    "60": {
+     "w": 1
+    },
+    "360": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "2": {
+     "w": 35
+    },
+    "4": {
+     "w": 7
+    },
+    "8": {
+     "w": 21
+    },
+    "12": {
+     "w": 1
+    },
+    "16": {
+     "w": 27
+    },
+    "24": {
+     "w": 33
+    },
+    "32": {
+     "w": 37
+    },
+    "48": {
+     "w": 8
+    },
+    "120": {
+     "w": 2
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 20,
+    "w": 142,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 2,
+    "w": 87,
+    "h": 15,
+    "kind": "box"
+   },
+   {
+    "r": 2,
+    "w": 58,
+    "h": 15,
+    "kind": "box"
+   },
+   {
+    "r": 2,
+    "w": 109,
+    "h": 15,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1800,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1800,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 20,
+    "w": 318,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1020,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 360,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 360,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 20,
+    "w": 158,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 300,
+    "h": 192,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 240,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1995,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1999,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 808,
+    "h": 1048,
+    "kind": "media"
+   },
+   {
+    "r": 20,
+    "w": 158,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 600,
+    "h": 720,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 16,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 480,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 136,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1224,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 503,
+    "h": 291,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 554,
+    "h": 757,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 513,
+    "h": 316,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 591,
+    "h": 779,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 507,
+    "h": 299,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 566,
+    "h": 764,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 512,
+    "h": 314,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 588,
+    "h": 777,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 501,
+    "h": 285,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 546,
+    "h": 752,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 502,
+    "h": 288,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 551,
+    "h": 755,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 504,
+    "h": 293,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 558,
+    "h": 759,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 508,
+    "h": 302,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 571,
+    "h": 767,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 480,
+    "h": 330,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 448,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 448,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 448,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 508,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 508,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 824,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 824,
+    "kind": "box"
+   },
+   {
+    "r": 12,
+    "w": 110,
+    "h": 24,
+    "kind": "box"
+   },
+   {
+    "r": 20,
+    "w": 226,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1,
+    "h": 16,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 567,
+    "h": 792,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1051,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 20,
+    "w": 158,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1051,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1172,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 64,
+    "h": 64,
+    "kind": "box"
+   },
+   {
+    "r": 50,
+    "w": 52,
+    "h": 52,
+    "kind": "box"
+   },
+   {
+    "r": 20,
+    "w": 158,
+    "h": 40,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1020,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1325,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 600,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 2045,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1328,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 960,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 240,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1408,
+    "h": 868,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 360,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1216,
+    "kind": "box"
+   },
+   {
+    "r": 14,
+    "w": 76,
+    "h": 28,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 199,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 220,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 185,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 328,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 48,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 141,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1800,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 480,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1764,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 928,
+    "h": 1,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1800,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 595,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 777,
+    "h": 2,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1350,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 120,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 6,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 8,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 7,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 6,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 6,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 7,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 8,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 5,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4))": {
+    "w": 2930518.9427433014,
+    "ex": "div > div.over-grad.x4"
+   }
+  },
+  "durations": {
+   "400": {
+    "w": 2
+   },
+   "600": {
+    "w": 118
+   },
+   "1200": {
+    "w": 18
+   }
+  },
+  "easings": {
+   "cubic-bezier(0.25, 1, 0.5, 1)": {
+    "w": 106
+   },
+   "cubic-bezier(0.25, 0.1, 0.25, 1)": {
+    "w": 25
+   },
+   "cubic-bezier(0.76, 0, 0.24, 1)": {
+    "w": 7
+   }
+  },
+  "gridCols": {
+   "4": {
+    "w": 1
+   },
+   "8": {
+    "w": 10
+   },
+   "9": {
+    "w": 1
+   },
+   "12": {
+    "w": 23
+   }
+  },
+  "counts": {
+   "elements": 2350,
+   "flex": 258,
+   "grid": 35,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 138,
+   "images": 46,
+   "svgs": 100,
+   "videos": 1,
+   "sticky": 13
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.66,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 104,
+    "text": "investment project"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 128,
+    "text": "Up to 10%"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 196,
+    "text": "expected annual return"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 128,
+    "text": "Up to 30%"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 196,
+    "text": "capitalisation potential"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 40,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 610,
+    "text": "Resort Design Hotel in Yaremche"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 778,
+    "text": "Yaremche Ivano-Frankivsk"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 778,
+    "text": "Development by Blago"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 778,
+    "text": "Construction Period 2026 — 2029"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#a89474",
+    "y": 3814,
+    "text": "prologue"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 40,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#a89474",
+    "y": 3862,
+    "text": "“Among these mountains, where the wind becomes a voice and forests guard the wis"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 144,
+    "weight": 400,
+    "lineHeight": 0.83,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 4995,
+    "text": "Son Daven"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 5468,
+    "text": "About Us"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 56,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 5456,
+    "text": "Concept"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 144,
+    "weight": 400,
+    "lineHeight": 0.83,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#a89474",
+    "y": 6990,
+    "text": "wherethemountains Speak"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#a89474",
+    "y": 7506,
+    "text": "Waterfall Breakdown"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#a89474",
+    "y": 7559,
+    "text": "Park of legends “Gedzo”"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#a89474",
+    "y": 7633,
+    "text": "Hutsulshchyna (restaurant and architectural monument)"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "right",
+    "color": "#a89474",
+    "y": 7711,
+    "text": "Dovbucha Rocks"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#a89474",
+    "y": 7411,
+    "text": "Park “Carpathians in miniature”"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#a89474",
+    "y": 7580,
+    "text": "Hutsul Souvenir Market"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 7701,
+    "text": "Infrastructure"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 144,
+    "weight": 400,
+    "lineHeight": 0.83,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 7944,
+    "text": "31min."
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#2c2824",
+    "y": 8217,
+    "text": "walk toCarpathians in Miniature park"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#a79374",
+    "y": 8253,
+    "text": "Location"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12181,
+    "text": "Wellness & SPA"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12100,
+    "text": "Cuisine"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12242,
+    "text": "When even the sheep guide you to yoga..."
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12033,
+    "text": "A space where ideas are born"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12291,
+    "text": "A place where childhood flourishes among the mountains"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12034,
+    "text": "Honoring culture, creating legens"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12234,
+    "text": "Kids' cultural camp"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#ffffff",
+    "y": 12027,
+    "text": "Dar Daven concept store"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 96,
+    "weight": 400,
+    "lineHeight": 0.91,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 17189,
+    "text": "Constructiontimeline"
+   },
+   {
+    "tag": "h2",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#2c2824",
+    "y": 18674,
+    "text": "Apartments"
+   },
+   {
+    "tag": "h3",
+    "family": "KTF Metro Roman",
+    "stack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+    "size": 40,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.064,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 18722,
+    "text": "One- to three-bedroom units designed for solo travelers, couples, or families. P"
+   },
+   {
+    "tag": "h4",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 10,
+    "weight": 400,
+    "lineHeight": 1.6,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 19246,
+    "text": "types"
+   },
+   {
+    "tag": "h5",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 19280,
+    "text": "Studio"
+   },
+   {
+    "tag": "h5",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 19308,
+    "text": "Deluxe"
+   },
+   {
+    "tag": "h5",
+    "family": "KTF Metro Blueline",
+    "stack": "\"KTF Metro Blueline\", Arial, sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": 0.08,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#2c2824",
+    "y": 19336,
+    "text": "Superior"
+   }
+  ],
+  "buttons": [],
+  "inputs": [],
+  "cards": [
+   {
+    "sel": "div#w-node-f7c45a6c-6886-9264-49c3-f1452637f900-a640d032",
+    "w": 600,
+    "h": 720,
+    "bg": "#a89474",
+    "bgAlpha": 1,
+    "color": "#2c2824",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 0,
+    "fontSize": 14.4,
+    "fontWeight": 400,
+    "family": "KTF Metro Blueline",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "Infrastructure31min.\n  \nwalk toCarpathia",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div#w-node-_8ca0bc14-e622-6890-c6a0-c6aadf64986e-a640d032 > div.commissioning-s_card",
+    "w": 480,
+    "h": 330,
+    "bg": "#2c2824",
+    "bgAlpha": 1,
+    "color": "#2c2824",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 16,
+    "padX": 16,
+    "fontSize": 14.4,
+    "fontWeight": 400,
+    "family": "KTF Metro Blueline",
+    "transform": "none",
+    "letterSpacing": 0,
+    "text": "‘26               ‘29Construction begins",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 33200,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 33200,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3600,
+    "bg": "#a89474",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3600,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3600,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 228,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 290,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#978568",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 3600,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#2c2824",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1020,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 360,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 360,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1995,
+    "bg": "#a89474",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1995,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1995,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1995,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 295,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 740,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 240,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1995,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1999,
+    "bg": "#2c2824",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1999,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1999,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1999,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 359,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1096,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 720,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 240,
+    "bg": "#2c2824",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 8424,
+    "bg": "#a89474",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 8424,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 8424,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 8424,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 324,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1224,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1800,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 6480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 675,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 5580,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 900,
+    "h": 5580,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 480,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 8064,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1350,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 6714,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1486,
+    "bg": "#a89474",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1486,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1486,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1486,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 868,
+    "bg": "#a89474",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 868,
+    "bg": "#a89474",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 688,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 688,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 688,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 688,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1168,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1168,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 480,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 480,
+    "maxW": "none",
+    "padX": 16
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1351,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1351,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   },
+   {
+    "w": 928,
+    "maxW": "100%",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 1440,
+    "h": 360,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 4
+   },
+   {
+    "w": 300,
+    "h": 192,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.56
+   },
+   {
+    "w": 1440,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2
+   },
+   {
+    "w": 1440,
+    "h": 240,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 6
+   },
+   {
+    "w": 808,
+    "h": 1048,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.77
+   },
+   {
+    "w": 360,
+    "h": 480,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.75
+   },
+   {
+    "w": 554,
+    "h": 757,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.73
+   },
+   {
+    "w": 591,
+    "h": 779,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.76
+   },
+   {
+    "w": 566,
+    "h": 764,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.74
+   },
+   {
+    "w": 588,
+    "h": 777,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.76
+   },
+   {
+    "w": 546,
+    "h": 752,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.73
+   },
+   {
+    "w": 551,
+    "h": 755,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.73
+   },
+   {
+    "w": 558,
+    "h": 759,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.74
+   },
+   {
+    "w": 571,
+    "h": 767,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.74
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 567,
+    "h": 792,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.72
+   },
+   {
+    "w": 1440,
+    "h": 480,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 3
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1408,
+    "h": 868,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.62
+   },
+   {
+    "w": 1440,
+    "h": 480,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 3
+   },
+   {
+    "w": 328,
+    "h": 199,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.65
+   },
+   {
+    "w": 328,
+    "h": 220,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.49
+   },
+   {
+    "w": 328,
+    "h": 185,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.78
+   },
+   {
+    "w": 1440,
+    "h": 480,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 3
+   },
+   {
+    "w": 1440,
+    "h": 1800,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.8
+   },
+   {
+    "w": 1440,
+    "h": 480,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 3
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "h2 > span.split-word",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "h2 > span.split-word",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "h2 > span.split-word",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "h2 > span.split-word",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "h2 > span.split-word",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > span.d-block",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > span",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > span",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > span",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > span",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.pin",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > div.p6.pin",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "div > h3.p6.text-gray",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > h4.p6.text-dark",
+    "fg": "#ffffff",
+    "bg": "#a89474",
+    "ratio": 2.94
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-light",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#a89474",
+    "bg": "#a89474",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "div > h3.p6.text-gray",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > h3.p6.text-gray",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > h4.p6.text-gray",
+    "fg": "#6a5e4c",
+    "bg": "#2c2824",
+    "ratio": 2.3
+   },
+   {
+    "sel": "div > div.p6.text-dark",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.split-char",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.split-char",
+    "fg": "#2c2824",
+    "bg": "#2c2824",
+    "ratio": 1
+   }
+  ],
+  "nav": {
+   "sel": "div > nav.header.theme_on-light",
+   "w": 1440,
+   "h": 76,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#2c2824",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 0,
+   "padX": 0,
+   "fontSize": 14.4,
+   "fontWeight": 400,
+   "family": "KTF Metro Blueline",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "MenuMenuCloseCloseAerotourAerotour\n\n\n\n\n\n",
+   "backdrop": null,
+   "transition": null,
+   "position": "fixed",
+   "linkCount": 6,
+   "hasCta": false
+  }
+ },
+ "vars": {
+  "--32px": "calc(32rem/14.4)",
+  "--_fonts---font-display": "\"KTF Metro Roman\",\"Times New Roman\",sans-serif",
+  "--_fonts---font-body": "\"KTF Metro Blueline\",Arial,sans-serif",
+  "--_fonts---p4--line-height": "150%",
+  "--_colors---base-1000--10": "#2c28241a",
+  "--_special-units---scale-ratio": "14.4",
+  "--52px": "calc(52rem/14.4)",
+  "--_fonts---p6--letter-spacing": ".08em",
+  "--80px": "calc(80rem/14.4)",
+  "--_colors---base-1000--100": "#2c2824",
+  "--24px": "calc(24rem/14.4)",
+  "--_fonts---h1--line-height": "83.333%",
+  "--_units---u-28": "calc(28rem/14.4)",
+  "--192px": "calc(192rem/14.4)",
+  "--108px": "calc(108rem/14.4)",
+  "--_colors---white--20": "#fff3",
+  "--_fonts---h4--line-height": "100%",
+  "--_special-units---1-cell": "calc(88rem/14.4)",
+  "--_fonts---h2--letter-spacing": "-.064em",
+  "--_units---u-40": "calc(40rem/14.4)",
+  "--_fonts---p6--size": "calc(10rem/14.4)",
+  "--48px": "calc(48rem/14.4)",
+  "--_colors---white--100": "white",
+  "--_units---u-72": "calc(72rem/14.4)",
+  "--_special-units---1-c-cell": "calc(120rem/14.4)",
+  "--_units---u-20": "calc(20rem/14.4)",
+  "--2px": "calc(2rem/14.4)",
+  "--_units---u-24": "calc(24rem/14.4)",
+  "--0px": "calc(0rem/14.4)",
+  "--_special-units---448px": "calc(448rem/14.4)",
+  "--_fonts---h2--size": "calc(96rem/14.4)",
+  "--_colors---additional--alert": "#ffa800",
+  "--ease-in": "cubic-bezier(0.5, 0, 0.75, 0)",
+  "--ease": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+  "--_colors---base-1000--50": "#2c282480",
+  "--_fonts---p3--letter-spacing": ".08em",
+  "--8px": "calc(8rem/14.4)",
+  "--72px": "calc(72rem/14.4)",
+  "--_units---u-48": "calc(48rem/14.4)",
+  "--_fonts---p3--line-height": "120%",
+  "--_fonts---h3--line-height": "88.889%",
+  "--120px": "calc(120rem/14.4)",
+  "--_special-units---1800px": "calc(1800rem/14.4)",
+  "--60px": "calc(60rem/14.4)",
+  "--_colors---base-0--10": "#a894741a",
+  "--_special-units---100vh": "100vh",
+  "--16px": "calc(16rem/14.4)",
+  "--56px": "calc(56rem/14.4)",
+  "--96px": "calc(96rem/14.4)",
+  "--_fonts---h5--letter-spacing": "-.064em",
+  "--_fonts---h5--line-height": "100%",
+  "--_units---u-1": "calc(1rem/14.4)",
+  "--_fonts---h3--letter-spacing": "-.064em",
+  "--144px": "calc(144rem/14.4)",
+  "--_colors---additional--success": "#1ba64b",
+  "--_colors---white--0": "#0000",
+  "--_units---u-104": "calc(104rem/14.4)",
+  "--_fonts---p2--letter-spacing": ".08em",
+  "--ease-out": "cubic-bezier(0.25, 1, 0.5, 1)",
+  "--_special-units---header-h": "calc((calc(24rem/14.4)*2) + calc(28rem/14.4))",
+  "--_units---u-0": "calc(0rem/14.4)",
+  "--68px": "calc(68rem/14.4)",
+  "--_units---u-4": "calc(4rem/14.4)",
+  "--240px": "calc(240rem/14.4)",
+  "--_fonts---p5--line-height": "166.667%",
+  "--_fonts---h2--line-height": "91.667%",
+  "--36px": "calc(36rem/14.4)",
+  "--_units---u-16": "calc(16rem/14.4)",
+  "--_fonts---p3--size": "calc(20rem/14.4)",
+  "--6px": "calc(6rem/14.4)",
+  "--ease-write": "cubic-bezier(0.333, 0, 0.667, 1)",
+  "--_fonts---h6--size": "calc(24rem/14.4)",
+  "--_fonts---h3--size": "calc(72rem/14.4)",
+  "--10px": "calc(10rem/14.4)",
+  "--40px": "calc(40rem/14.4)",
+  "--_fonts---p1--size": "calc(32rem/14.4)",
+  "--dur-s": "0.4s",
+  "--88px": "calc(88rem/14.4)",
+  "--_units---u-32": "calc(32rem/14.4)",
+  "--_colors---additional--error": "#e23d3d",
+  "--_fonts---h1--size": "calc(144rem/14.4)",
+  "--_fonts---h6--line-height": "100%",
+  "--_units---u-176": "calc(176rem/14.4)",
+  "--_fonts---p2--line-height": "116.667%",
+  "--_colors---white--60": "#fff9",
+  "--_fonts---p5--letter-spacing": ".08em",
+  "--_fonts---h6--letter-spacing": "-.064em",
+  "--1px": "calc(1rem/14.4)",
+  "--64px": "calc(64rem/14.4)",
+  "--28px": "calc(28rem/14.4)",
+  "--4px": "calc(4rem/14.4)",
+  "--_fonts---h4--size": "calc(56rem/14.4)",
+  "--12px": "calc(12rem/14.4)",
+  "--176px": "calc(176rem/14.4)",
+  "--_fonts---p5--size": "calc(12rem/14.4)",
+  "--112px": "calc(112rem/14.4)",
+  "--_units---u-8": "calc(8rem/14.4)",
+  "--_fonts---p1--line-height": "100%",
+  "--_units---u-2": "calc(2rem/14.4)",
+  "--44px": "calc(44rem/14.4)",
+  "--_fonts---p4--letter-spacing": ".08em",
+  "--104px": "calc(104rem/14.4)",
+  "--_fonts---p6--line-height": "160%",
+  "--136px": "calc(136rem/14.4)",
+  "--dur-m": "0.6s",
+  "--dur-l": "1.2s",
+  "--_fonts---h1--letter-spacing": "-.064em",
+  "--_units---u-12": "calc(12rem/14.4)",
+  "--_fonts---h5--size": "calc(40rem/14.4)",
+  "--_fonts---p1--letter-spacing": ".08em",
+  "--_colors---base-0--50": "#a8947480",
+  "--_colors---base-0--100": "#a89474",
+  "--_fonts---p2--size": "calc(24rem/14.4)",
+  "--_fonts---p4--size": "calc(16rem/14.4)",
+  "--_units---u-136": "calc(136rem/14.4)",
+  "--168px": "calc(168rem/14.4)",
+  "--_fonts---h4--letter-spacing": "-.064em",
+  "--_units---u-6": "calc(6rem/14.4)",
+  "--20px": "calc(20rem/14.4)",
+  "--ease-in-out": "cubic-bezier(0.76, 0, 0.24, 1)"
+ },
+ "colorVars": {
+  "--_colors---base-1000--10": "#9b896c",
+  "--_colors---base-1000--100": "#2c2824",
+  "--_colors---white--20": "#b9a990",
+  "--_colors---white--100": "#ffffff",
+  "--_colors---additional--alert": "#ffa800",
+  "--_colors---base-1000--50": "#6a5e4c",
+  "--_colors---base-0--10": "#a89474",
+  "--_colors---additional--success": "#1ba64b",
+  "--_colors---additional--error": "#e23d3d",
+  "--_colors---white--60": "#dcd4c7",
+  "--_colors---base-0--50": "#a79374",
+  "--_colors---base-0--100": "#a89474"
+ },
+ "loadedFonts": [
+  {
+   "family": "KTF Metro Roman",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "KTF Metro Blueline",
+   "weight": "400",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#d6cec7",
+    "share": 0.187
+   },
+   {
+    "hex": "#15130e",
+    "share": 0.125
+   },
+   {
+    "hex": "#050603",
+    "share": 0.125
+   },
+   {
+    "hex": "#28221a",
+    "share": 0.12
+   },
+   {
+    "hex": "#c1bfc0",
+    "share": 0.112
+   },
+   {
+    "hex": "#372f26",
+    "share": 0.105
+   },
+   {
+    "hex": "#4b4138",
+    "share": 0.069
+   },
+   {
+    "hex": "#a6a8ad",
+    "share": 0.062
+   },
+   {
+    "hex": "#655c54",
+    "share": 0.048
+   },
+   {
+    "hex": "#877d77",
+    "share": 0.047
+   }
+  ],
+  "meanLightness": 0.475,
+  "lightnessStd": 0.284,
+  "meanChroma": 0.015,
+  "chromaticShare": 0.005,
+  "negativeSpace": 0.187,
+  "busyness": 0.029,
+  "dark": false
+ },
+ "mobile": {
+  "bodySize": 10.1562,
+  "h1Size": 12.1875,
+  "gutter": 12,
+  "hamburger": false,
+  "horizontalOverflow": false
+ }
+}

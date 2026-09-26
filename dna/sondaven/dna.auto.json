@@ -1,0 +1,348 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "sondaven",
+  "generatedAt": "2026-09-26T02:31:32.439Z",
+  "sources": [
+    {
+      "id": "sondaven-com-en",
+      "type": "web",
+      "input": "https://sondaven.com/en",
+      "weight": 1,
+      "title": "Son Daven — Design Resort Hotel in Yaremche"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "dark-mode",
+      "muted",
+      "calm",
+      "warm",
+      "uppercase eyebrow labels",
+      "spacious",
+      "premium",
+      "sharp corners",
+      "architectural",
+      "flat",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "dark",
+    "roles": {
+      "background": "#2c2824",
+      "foreground": "#a89474",
+      "surface": "#393430",
+      "surface-foreground": "#a89474",
+      "muted": "#433f3b",
+      "muted-foreground": "#766954",
+      "border": "#a89474",
+      "primary": "#a89474",
+      "primary-foreground": "#0a0a0a",
+      "accent": "#a89474",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#a89474",
+      "success": "#5bac6f",
+      "warning": "#c28b36",
+      "danger": "#d7786e"
+    },
+    "derived": [
+      "surface",
+      "muted-foreground",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#a89474",
+        "share": 0.621,
+        "oklch": "oklch(0.676 0.051 79)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#2c2824",
+        "share": 0.355,
+        "oklch": "oklch(0.28 0.009 67)",
+        "role": "background"
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.013,
+        "oklch": "oklch(1 0 0)",
+        "role": null
+      },
+      {
+        "hex": "#978568",
+        "share": 0.009,
+        "oklch": "oklch(0.625 0.047 80)",
+        "role": null
+      },
+      {
+        "hex": "#6a5e4c",
+        "share": 0.002,
+        "oklch": "oklch(0.488 0.032 78)",
+        "role": null
+      },
+      {
+        "hex": "#000000",
+        "share": 0,
+        "oklch": "oklch(0 0 0)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f4ef",
+        "100": "#ede7de",
+        "200": "#ddd2bf",
+        "300": "#c7b69b",
+        "400": "#a89474",
+        "500": "#907b59",
+        "600": "#7a6644",
+        "700": "#645234",
+        "800": "#504027",
+        "900": "#3d311c",
+        "950": "#292010"
+      },
+      "neutral": {
+        "50": "#fff9f3",
+        "100": "#f9f2eb",
+        "200": "#eae3dc",
+        "300": "#dad3cc",
+        "400": "#a7a09a",
+        "500": "#78726c",
+        "600": "#59534d",
+        "700": "#443f39",
+        "800": "#2b2520",
+        "900": "#1b1611",
+        "950": "#0e0906"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4))"
+    ],
+    "cssVars": {
+      "--_colors---base-1000--10": "#9b896c",
+      "--_colors---base-1000--100": "#2c2824",
+      "--_colors---white--20": "#b9a990",
+      "--_colors---white--100": "#ffffff",
+      "--_colors---additional--alert": "#ffa800",
+      "--_colors---base-1000--50": "#6a5e4c",
+      "--_colors---base-0--10": "#a89474",
+      "--_colors---additional--success": "#1ba64b",
+      "--_colors---additional--error": "#e23d3d",
+      "--_colors---white--60": "#dcd4c7",
+      "--_colors---base-0--50": "#a79374",
+      "--_colors---base-0--100": "#a89474"
+    },
+    "traits": {
+      "saturation": "muted",
+      "contrast": "soft",
+      "contrastRatio": 4.98,
+      "temperature": "warm",
+      "harmony": "single-hue",
+      "primaryHue": "yellow",
+      "accentHue": "yellow"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "KTF Metro Roman",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"KTF Metro Roman\", \"Times New Roman\", sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "name": "KTF Metro Blueline",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"KTF Metro Blueline\", Arial, sans-serif",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "scale": {
+      "xs": 10,
+      "sm": 12,
+      "base": 16,
+      "lg": 20,
+      "xl": 24,
+      "2xl": 32,
+      "3xl": 40,
+      "4xl": 56,
+      "5xl": 72,
+      "6xl": 96,
+      "7xl": 144
+    },
+    "ratio": 1.316,
+    "ratioName": "perfect fourth",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 12,
+        "weight": 400,
+        "lineHeight": 1.66,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 10,
+        "weight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 10,
+        "weight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "eyebrow": {
+      "size": 10,
+      "weight": 400,
+      "letterSpacing": 0.08,
+      "transform": "uppercase",
+      "family": "KTF Metro Blueline"
+    },
+    "mobile": {
+      "h1": 12.1875,
+      "body": 10.1562
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "gridConformance": 0.8,
+    "scale": [
+      2,
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      60
+    ],
+    "sectionY": 900,
+    "container": 930,
+    "gutter": 12,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 2,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.98,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": 0,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 12,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 36.89,
+    "sectionsPerPage": 80,
+    "nav": {
+      "height": 76,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 6,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 10.1562,
+      "h1Size": 12.1875,
+      "gutter": 12,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 600,
+    "durations": [
+      400,
+      600,
+      1200
+    ],
+    "easing": "cubic-bezier(0.25, 1, 0.5, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 46,
+      "videos": true,
+      "iconsSvg": 100,
+      "roundedImages": 0,
+      "commonAspect": "portrait"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": {
+      "background": "foreground",
+      "radius": 0,
+      "border": null,
+      "shadow": null,
+      "paddingX": 0,
+      "paddingY": 0
+    },
+    "input": null,
+    "link": null
+  }
+}

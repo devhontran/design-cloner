@@ -1,0 +1,8 @@
+[
+  {
+    "id": "sondaven-com-en",
+    "type": "web",
+    "input": "https://sondaven.com/en",
+    "weight": 1
+  }
+]

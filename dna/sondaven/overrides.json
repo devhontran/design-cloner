@@ -1,0 +1,37 @@
+{
+  "color": {
+    "roles": {
+      "background": "#2c2824",
+      "foreground": "#a89474",
+      "surface": "#a89474",
+      "surface-foreground": "#2c2824",
+      "muted": "#39342f",
+      "muted-foreground": "#8a7a60",
+      "border": "#a89474",
+      "primary": "#a89474",
+      "primary-foreground": "#2c2824",
+      "accent": "#f4efe6",
+      "accent-foreground": "#2c2824",
+      "ring": "#a89474"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "KTF Metro Roman", "use": "Marcellus", "alternative": "Marcellus", "weights": [400] },
+      "body": { "name": "KTF Metro Blueline", "use": "Michroma", "alternative": "Michroma", "weights": [400] }
+    },
+    "headings": {
+      "h1": { "size": 96, "weight": 400, "lineHeight": 0.95, "letterSpacing": -0.01, "transform": "uppercase" },
+      "h2": { "size": 72, "weight": 400, "lineHeight": 1.0, "letterSpacing": 0, "transform": "uppercase" },
+      "h3": { "size": 32, "weight": 400, "lineHeight": 1.1, "letterSpacing": 0, "transform": "uppercase" }
+    },
+    "body": { "size": 10, "weight": 400, "lineHeight": 1.6, "letterSpacing": 0.08, "transform": "uppercase" }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp", "buttonShape": "pill" },
+  "components": {
+    "buttonPrimary": { "background": "surface-foreground", "color": "primary", "radius": 9999, "height": 26, "paddingX": 18, "paddingY": 0, "fontSize": 9, "fontWeight": 400, "transform": "uppercase", "letterSpacing": 0.1, "border": null, "shadow": null, "transition": "0.6s cubic-bezier(0.25, 1, 0.5, 1)", "example": "CONSULTATION" }
+  },
+  "personality": {
+    "keywords": ["carpathian heritage", "sand + umber duotone", "flared roman caps", "wide technical labels", "vertical-bar dissolves", "tilted photo cards", "split giant headlines", "investment resort"]
+  }
+}
