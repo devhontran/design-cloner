@@ -1,0 +1,422 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "zentry",
+  "generatedAt": "2026-09-26T06:03:14.842Z",
+  "sources": [
+    {
+      "id": "zentry-com",
+      "type": "web",
+      "input": "https://zentry.com/",
+      "weight": 1,
+      "title": "Zentry: Human-Agentic OS Where Life, AI, and Data Converge | Zentry"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "light",
+      "vibrant",
+      "energetic",
+      "high-contrast",
+      "technical",
+      "code-inspired",
+      "light, refined headlines",
+      "uppercase eyebrow labels",
+      "spacious",
+      "premium",
+      "softly rounded",
+      "flat",
+      "gradient accents",
+      "animated"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#dfdff2",
+      "foreground": "#000000",
+      "surface": "#ffffff",
+      "surface-foreground": "#000000",
+      "muted": "#d0d0e3",
+      "muted-foreground": "#676666",
+      "border": "#dfdff2",
+      "primary": "#3427ac",
+      "primary-foreground": "#ffffff",
+      "accent": "#edff66",
+      "accent-foreground": "#0a0a0a",
+      "ring": "#3427ac",
+      "success": "#007f38",
+      "warning": "#8d5e00",
+      "danger": "#c11a1e"
+    },
+    "derived": [
+      "surface",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#dfdff2",
+        "share": 0.575,
+        "oklch": "oklch(0.909 0.026 286)",
+        "role": "background"
+      },
+      {
+        "hex": "#676666",
+        "share": 0.11,
+        "oklch": "oklch(0.511 0.001 17)",
+        "role": "muted-foreground"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.103,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#3427ac",
+        "share": 0.076,
+        "oklch": "oklch(0.393 0.198 276)",
+        "role": "primary"
+      },
+      {
+        "hex": "#edff66",
+        "share": 0.073,
+        "oklch": "oklch(0.958 0.175 115)",
+        "role": "accent"
+      },
+      {
+        "hex": "#b28ef2",
+        "share": 0.025,
+        "oklch": "oklch(0.72 0.145 299)",
+        "role": null
+      },
+      {
+        "hex": "#5542ff",
+        "share": 0.018,
+        "oklch": "oklch(0.534 0.263 277)",
+        "role": null
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.01,
+        "oklch": "oklch(1 0 0)",
+        "role": "surface"
+      },
+      {
+        "hex": "#bcaaf9",
+        "share": 0.006,
+        "oklch": "oklch(0.782 0.112 294)",
+        "role": null
+      },
+      {
+        "hex": "#6f6ae6",
+        "share": 0.005,
+        "oklch": "oklch(0.593 0.182 281)",
+        "role": null
+      },
+      {
+        "hex": "#b2b2c2",
+        "share": 0,
+        "oklch": "oklch(0.769 0.023 286)",
+        "role": null
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f4f6ff",
+        "100": "#e8ecff",
+        "200": "#d1d8ff",
+        "300": "#b2beff",
+        "400": "#8c99ff",
+        "500": "#6c74ff",
+        "600": "#564dfc",
+        "700": "#4437d5",
+        "800": "#3427ac",
+        "900": "#261986",
+        "950": "#180c61"
+      },
+      "accent": {
+        "50": "#f8ffda",
+        "100": "#edff66",
+        "200": "#daed00",
+        "300": "#c1d200",
+        "400": "#a2b000",
+        "500": "#869200",
+        "600": "#6e7800",
+        "700": "#586000",
+        "800": "#444a00",
+        "900": "#323700",
+        "950": "#212500"
+      },
+      "neutral": {
+        "50": "#f9f9ff",
+        "100": "#f2f2fb",
+        "200": "#e3e4ec",
+        "300": "#d3d3dc",
+        "400": "#a0a1a9",
+        "500": "#72727a",
+        "600": "#53535a",
+        "700": "#3f3f46",
+        "800": "#26262c",
+        "900": "#17161d",
+        "950": "#0a090f"
+      }
+    },
+    "gradients": [
+      "linear-gradient(rgb(85, 66, 255) 0%, rgb(178, 142, 242) 100%)",
+      "linear-gradient(rgba(52, 39, 172, 0.5) 0px, rgba(52, 39, 172, 0))",
+      "linear-gradient(90deg, rgba(52, 39, 172, 0.5) 0px, rgba(52, 39, 172, 0))"
+    ],
+    "cssVars": {
+      "--rui-bgColor": "#dfdff2",
+      "--rui-colors-grey": "#dfdff2",
+      "--rui-colors-yellow": "#edff66",
+      "--rui-colors-orange": "#ff6f2f",
+      "--rui-textColor": "#dfdff2",
+      "--rui-colors-red": "#ff264e",
+      "--rui-colors-black": "#000000",
+      "--rui-textColorInverted": "#000000",
+      "--rui-colors-purple": "#5542ff",
+      "--rui-accentColor": "#edff66"
+    },
+    "traits": {
+      "saturation": "vivid",
+      "contrast": "high",
+      "contrastRatio": 15.97,
+      "temperature": "cool",
+      "harmony": "complementary",
+      "primaryHue": "violet",
+      "accentHue": "lime"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "ZentryScreamer",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+        "weights": [
+          900
+        ]
+      },
+      "body": {
+        "name": "Roboto Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Roboto Mono",
+        "alternative": null,
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+        "weights": [
+          400,
+          500,
+          700
+        ]
+      },
+      "mono": {
+        "name": "Roboto Mono",
+        "category": "mono",
+        "source": "google",
+        "use": "Roboto Mono",
+        "alternative": null,
+        "fallback": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace",
+        "observedStack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+        "weights": [
+          400,
+          500,
+          700
+        ]
+      }
+    },
+    "scale": {
+      "2xs": 13,
+      "xs": 14,
+      "sm": 15,
+      "base": 16,
+      "lg": 20,
+      "xl": 27,
+      "2xl": 51,
+      "3xl": 58,
+      "4xl": 90,
+      "5xl": 96,
+      "6xl": 108,
+      "7xl": 126,
+      "8xl": 162,
+      "9xl": 180
+    },
+    "ratio": 1.274,
+    "ratioName": "major third",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 108,
+        "weight": 400,
+        "lineHeight": 0.82,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 9,
+        "weight": 500,
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "center"
+      },
+      "h3": {
+        "size": 20,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.2
+    },
+    "eyebrow": {
+      "size": 9,
+      "weight": 500,
+      "letterSpacing": 0.02,
+      "transform": "uppercase",
+      "family": "Roboto Mono"
+    },
+    "mobile": {
+      "h1": 14.56,
+      "body": 10.4
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.23,
+    "scale": [
+      6,
+      8,
+      14,
+      18,
+      22,
+      24,
+      30,
+      34,
+      36,
+      46,
+      58,
+      136
+    ],
+    "sectionY": 135,
+    "container": 1350,
+    "gutter": 80,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 7,
+      "full": 9999
+    },
+    "zeroRadiusShare": 0.84,
+    "style": "soft",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 2,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 15.75,
+    "sectionsPerPage": 51,
+    "nav": {
+      "height": 63,
+      "position": "absolute",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 5,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 10.4,
+      "h1Size": 14.56,
+      "gutter": 80,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 500,
+    "durations": [
+      50,
+      300,
+      500
+    ],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": true,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 6,
+      "videos": true,
+      "iconsSvg": 40,
+      "roundedImages": 0.07,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "foreground",
+      "radius": 0,
+      "height": 48,
+      "paddingX": 24,
+      "paddingY": 0,
+      "fontSize": 10.8,
+      "fontWeight": 700,
+      "transform": "uppercase",
+      "letterSpacing": 0.02,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "Contact UsContact UsContact Us"
+    },
+    "card": null,
+    "input": null,
+    "link": null
+  }
+}

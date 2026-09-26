@@ -1,0 +1,15 @@
+{
+  "color": { "roles": { "background": "#dfdff2", "foreground": "#000000", "surface": "#000000", "surface-foreground": "#dfdff2", "muted": "#b2b2c2", "muted-foreground": "#676666", "border": "#000000", "primary": "#5542ff", "primary-foreground": "#dfdff2", "accent": "#edff66", "accent-foreground": "#000000", "ring": "#5542ff" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Zentry Screamer", "use": "Anton", "alternative": "Anton", "weights": [400] },
+      "body": { "name": "Roboto Mono", "use": "Roboto Mono", "weights": [400, 500] },
+      "mono": { "name": "Roboto Mono", "use": "Roboto Mono", "weights": [400, 500] }
+    },
+    "headings": { "h1": { "size": 160, "weight": 900, "lineHeight": 0.82, "letterSpacing": -0.01, "transform": "uppercase" }, "h2": { "size": 108, "weight": 900, "lineHeight": 0.82, "letterSpacing": -0.01, "transform": "uppercase" } },
+    "body": { "size": 14, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0, "transform": "none" }
+  },
+  "shape": { "radius": { "sm": 7, "md": 12, "lg": 24, "full": 9999 }, "style": "rounded", "buttonShape": "pill" },
+  "components": { "buttonPrimary": { "background": "accent", "color": "accent-foreground", "radius": 9999, "height": 32, "paddingX": 16, "paddingY": 0, "fontSize": 10, "fontWeight": 500, "transform": "uppercase", "letterSpacing": 0.02, "border": null, "shadow": null, "transition": "0.5s ease", "example": "PRODUCTS ▾" } },
+  "personality": { "keywords": ["gaming / ai metaverse", "black + lavender", "electric violet + acid yellow", "screaming condensed caps", "mono body copy", "glowing particle mesh 3D", "clip-path video reveals", "split giant headline"] }
+}

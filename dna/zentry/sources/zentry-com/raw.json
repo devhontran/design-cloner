@@ -1,0 +1,2587 @@
+{
+ "url": "https://zentry.com/",
+ "title": "Zentry: Human-Agentic OS Where Life, AI, and Data Converge | Zentry",
+ "description": "Zentry pioneers the Human-Agentic OS, where human life powers AI and AI expands human potential. Built on a tri-layer stack of zApp, zAI, and zData, Zentry creates a self-reinforcing infrastructure for human-AI co-evolution, turning life into data, data into AI, compounding intelligence, capability, and value with every cycle. This perpetual engine is embedded with programmable distribution, gamification, and incentivization, driving participation, capital formation, and civilization-scale intelligence, unlocking a new economic paradigm.",
+ "themeColor": null,
+ "ogImage": "https://cdn.zentry.com/zentry/cache/assets/og-home-76924718862561.jpg",
+ "lang": "en",
+ "viewport": {
+  "w": 1440,
+  "h": 900
+ },
+ "scrollHeight": 14174,
+ "canvasBg": "#dfdff2",
+ "rootFontSize": 9,
+ "agg": {
+  "bg": {
+   "#dfdff2": {
+    "w": 22238156.25,
+    "ex": "body"
+   },
+   "#000000": {
+    "w": 3354726.96875,
+    "ex": "div > div.pageTransition__inner"
+   },
+   "#b2b2c2": {
+    "w": 280.71875,
+    "ex": "div > div.nexusItem__progress"
+   }
+  },
+  "text": {
+   "#dfdff2": {
+    "w": 1440,
+    "ex": "a > span.rui-sr-only"
+   },
+   "#000000": {
+    "w": 486,
+    "ex": "span > span"
+   },
+   "#ffffff": {
+    "w": 138,
+    "ex": "div > span"
+   },
+   "#696972": {
+    "w": 532,
+    "ex": "div > div.mainContent__description"
+   },
+   "#e3e3ee": {
+    "w": 191,
+    "ex": "div > div.productGrid__description"
+   },
+   "#676666": {
+    "w": 1053,
+    "ex": "div > span"
+   }
+  },
+  "border": {
+   "#dfdff2": {
+    "w": 4878,
+    "ex": "div > div.bentoCard__border"
+   }
+  },
+  "families": {
+   "Roboto Mono": {
+    "w": 3558
+   },
+   "ZentryScreamer": {
+    "w": 282
+   }
+  },
+  "typeStyles": {
+   "Roboto Mono|14.5|400|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 14.5,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 139,
+    "count": 2,
+    "tags": {
+     "span": 1,
+     "p": 1
+    },
+    "ex": "a > span.rui-sr-only"
+   },
+   "Roboto Mono|9|700|1|0.02|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 9,
+    "weight": 700,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 18,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "span > span"
+   },
+   "Roboto Mono|11|700|1|0.02|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 11,
+    "weight": 700,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 63,
+    "count": 7,
+    "tags": {
+     "span": 7
+    },
+    "ex": "a > span"
+   },
+   "ZentryScreamer|180|900|0.82|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 180,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 15,
+    "count": 2,
+    "tags": {
+     "div": 2
+    },
+    "ex": "span > div.word"
+   },
+   "Roboto Mono|16|400|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 1445,
+    "count": 13,
+    "tags": {
+     "span": 13
+    },
+    "ex": "div > span"
+   },
+   "Roboto Mono|16|700|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 16,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 180,
+    "count": 11,
+    "tags": {
+     "b": 11
+    },
+    "ex": "span > b"
+   },
+   "ZentryScreamer|27|900|1.2|-0.02|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 27,
+    "weight": 900,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 3,
+    "count": 3,
+    "tags": {
+     "span": 3
+    },
+    "ex": "div > span"
+   },
+   "ZentryScreamer|55|900|1.2|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 55,
+    "weight": 900,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 26,
+    "count": 5,
+    "tags": {
+     "span": 5
+    },
+    "ex": "div > span"
+   },
+   "Roboto Mono|13.5|400|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 13.5,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 723,
+    "count": 5,
+    "tags": {
+     "div": 5
+    },
+    "ex": "div > div.mainContent__description"
+   },
+   "Roboto Mono|12|400|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 109,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span"
+   },
+   "Roboto Mono|12|700|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12,
+    "weight": 700,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 32,
+    "count": 1,
+    "tags": {
+     "b": 1
+    },
+    "ex": "span > b"
+   },
+   "Roboto Mono|9|500|1|0.02|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 186,
+    "count": 19,
+    "tags": {
+     "div": 5,
+     "aside": 9,
+     "h2": 4,
+     "span": 1
+    },
+    "ex": "header > div.nexusItem__number"
+   },
+   "Roboto Mono|20|500|0.5|-0.02|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 500,
+    "lineHeight": 0.5,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 27,
+    "count": 1,
+    "tags": {
+     "div": 1
+    },
+    "ex": "header > div.nexusItem__title"
+   },
+   "Roboto Mono|9|400|1.2|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 9,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 142,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.nexusItem__description.textBody4"
+   },
+   "ZentryScreamer|108|900|0.82|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 108,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 67,
+    "count": 15,
+    "tags": {
+     "span": 15
+    },
+    "ex": "span > span.word"
+   },
+   "Roboto Mono|12.5|400|1|0|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "chars": 92,
+    "count": 5,
+    "tags": {
+     "span": 3,
+     "p": 2
+    },
+    "ex": "span > span"
+   },
+   "ZentryScreamer|126|900|normal|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 126,
+    "weight": 900,
+    "lineHeight": "normal",
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 4,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.bentoCard__number"
+   },
+   "ZentryScreamer|95.5|900|0.72|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 95.5,
+    "weight": 900,
+    "lineHeight": 0.72,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 6,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.bentoCard__numberValue"
+   },
+   "ZentryScreamer|90|900|0.72|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 90,
+    "weight": 900,
+    "lineHeight": 0.72,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 1,
+    "tags": {
+     "p": 1
+    },
+    "ex": "div > p.bentoCard__number"
+   },
+   "ZentryScreamer|50.5|900|0.88|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 50.5,
+    "weight": 900,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 18,
+    "count": 2,
+    "tags": {
+     "span": 2
+    },
+    "ex": "span > span.word"
+   },
+   "Roboto Mono|9|400|1.3|0.02|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 9,
+    "weight": 400,
+    "lineHeight": 1.3,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 147,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span"
+   },
+   "ZentryScreamer|162|900|0.72|-0.001|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 162,
+    "weight": 900,
+    "lineHeight": 0.72,
+    "letterSpacing": -0.001,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 5,
+    "count": 2,
+    "tags": {
+     "p": 1,
+     "span": 1
+    },
+    "ex": "div > p.bentoCard__numberValue"
+   },
+   "Roboto Mono|12.5|400|1|-0.011|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 12.5,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": -0.011,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 16,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "div > span.bentoCard__numberPlusText.textBentoCaption"
+   },
+   "ZentryScreamer|57.5|900|0.9|-0.01|uppercase": {
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 57.5,
+    "weight": 900,
+    "lineHeight": 0.9,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 133,
+    "count": 11,
+    "tags": {
+     "span": 2,
+     "li": 9
+    },
+    "ex": "span > span.word"
+   },
+   "Roboto Mono|20|400|1.2|-0.02|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 150,
+    "count": 26,
+    "tags": {
+     "span": 26
+    },
+    "ex": "span > span"
+   },
+   "Roboto Mono|20|400|1.5|-0.02|none": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 20,
+    "weight": 400,
+    "lineHeight": 1.5,
+    "letterSpacing": -0.02,
+    "transform": "none",
+    "style": "normal",
+    "chars": 75,
+    "count": 13,
+    "tags": {
+     "span": 13
+    },
+    "ex": "a > span"
+   },
+   "Roboto Mono|9|400|1|0.02|uppercase": {
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "generic": "sans-serif",
+    "size": 9,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "chars": 14,
+    "count": 1,
+    "tags": {
+     "span": 1
+    },
+    "ex": "a > span"
+   }
+  },
+  "spacing": {
+   "padding": {
+    "1": {
+     "w": 6
+    },
+    "5": {
+     "w": 2
+    },
+    "14": {
+     "w": 2
+    },
+    "18": {
+     "w": 5
+    },
+    "19": {
+     "w": 4
+    },
+    "23": {
+     "w": 3
+    },
+    "24": {
+     "w": 28
+    },
+    "36": {
+     "w": 16
+    },
+    "45": {
+     "w": 4
+    },
+    "108": {
+     "w": 1
+    },
+    "115": {
+     "w": 1
+    },
+    "135": {
+     "w": 11
+    }
+   },
+   "margin": {
+    "1": {
+     "w": 20
+    },
+    "3": {
+     "w": 3
+    },
+    "5": {
+     "w": 4
+    },
+    "10": {
+     "w": 1
+    },
+    "14": {
+     "w": 3
+    },
+    "18": {
+     "w": 31
+    },
+    "20": {
+     "w": 1
+    },
+    "22": {
+     "w": 3
+    },
+    "23": {
+     "w": 4
+    },
+    "32": {
+     "w": 2
+    },
+    "36": {
+     "w": 6
+    },
+    "43": {
+     "w": 4
+    },
+    "50": {
+     "w": 1
+    },
+    "54": {
+     "w": 1
+    },
+    "76": {
+     "w": 1
+    },
+    "79": {
+     "w": 1
+    },
+    "90": {
+     "w": 1
+    },
+    "108": {
+     "w": 1
+    },
+    "126": {
+     "w": 1
+    },
+    "171": {
+     "w": 1
+    },
+    "182": {
+     "w": 1
+    }
+   },
+   "gap": {
+    "7": {
+     "w": 1
+    },
+    "14": {
+     "w": 1
+    },
+    "22": {
+     "w": 1
+    },
+    "29": {
+     "w": 1
+    },
+    "34": {
+     "w": 2
+    },
+    "45": {
+     "w": 1
+    },
+    "58": {
+     "w": 1
+    }
+   }
+  },
+  "radius": [
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 900,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 1080,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 644,
+    "h": 72,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 564,
+    "h": 380,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 564,
+    "h": 380,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 569,
+    "h": 220,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 569,
+    "h": 220,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 864,
+    "h": 720,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 54,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 54,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 43,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 2,
+    "h": 86,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 277,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 277,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 360,
+    "h": 277,
+    "kind": "media"
+   },
+   {
+    "r": 7.2,
+    "w": 468,
+    "h": 275,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 702,
+    "h": 275,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 468,
+    "h": 275,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 468,
+    "h": 275,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 468,
+    "h": 540,
+    "kind": "media"
+   },
+   {
+    "r": 7.2,
+    "w": 468,
+    "h": 635,
+    "kind": "box"
+   },
+   {
+    "r": 7.2,
+    "w": 468,
+    "h": 635,
+    "kind": "media"
+   },
+   {
+    "r": 7.2,
+    "w": 297,
+    "h": 297,
+    "kind": "box"
+   },
+   {
+    "r": 8,
+    "w": 1368,
+    "h": 557,
+    "kind": "box"
+   },
+   {
+    "r": 0,
+    "w": 405,
+    "h": 579,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 405,
+    "h": 579,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 513,
+    "h": 733,
+    "kind": "media"
+   },
+   {
+    "r": 0,
+    "w": 1440,
+    "h": 474,
+    "kind": "box"
+   }
+  ],
+  "shadows": {},
+  "gradients": {
+   "linear-gradient(rgba(52, 39, 172, 0.5) 0px, rgba(52, 39, 172, 0))": {
+    "w": 128466,
+    "ex": "div > div.bentoCard__shadow1"
+   },
+   "linear-gradient(90deg, rgba(52, 39, 172, 0.5) 0px, rgba(52, 39, 172, 0))": {
+    "w": 128466,
+    "ex": "div > div.bentoCard__shadow2"
+   },
+   "linear-gradient(rgb(85, 66, 255) 0%, rgb(178, 142, 242) 100%)": {
+    "w": 682965,
+    "ex": "div > footer.footer"
+   }
+  },
+  "durations": {
+   "50": {
+    "w": 3
+   },
+   "300": {
+    "w": 2
+   },
+   "500": {
+    "w": 9
+   }
+  },
+  "easings": {
+   "ease": {
+    "w": 11
+   },
+   "ease-out": {
+    "w": 2
+   },
+   "cubic-bezier(0.215, 0.61, 0.355, 1)": {
+    "w": 1
+   }
+  },
+  "gridCols": {
+   "1": {
+    "w": 1
+   },
+   "2": {
+    "w": 4
+   },
+   "16": {
+    "w": 1
+   }
+  },
+  "counts": {
+   "elements": 535,
+   "flex": 73,
+   "grid": 6,
+   "glass": 0,
+   "textGradient": 0,
+   "animations": 0,
+   "transitions": 14,
+   "images": 6,
+   "svgs": 40,
+   "videos": 9,
+   "sticky": 2
+  },
+  "headings": [
+   {
+    "tag": "h1",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 14.4,
+    "weight": 400,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "transform": "none",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": -5,
+    "text": "Zentry Home"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 180,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 108,
+    "text": "REDEFINE"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 180,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 108,
+    "text": "REDEFINE"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 180,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 716,
+    "text": "REALITY"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 180,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 716,
+    "text": "REALITY"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#dfdff2",
+    "y": 1035,
+    "text": "Welcome to Zentry"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 90,
+    "weight": 900,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#dfdff2",
+    "y": 1177,
+    "text": "Human life powers AIand ai expands human potential."
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 108,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 6575,
+    "text": "The symbiotic worldpowered by ZENT"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#dfdff2",
+    "y": 9406,
+    "text": "who we are"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 400,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#dfdff2",
+    "y": 10491,
+    "text": "OUR KEY METRICS"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 108,
+    "weight": 900,
+    "lineHeight": 0.82,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "left",
+    "color": "#dfdff2",
+    "y": 10522,
+    "text": "Zentry at aglance"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 50.4,
+    "weight": 900,
+    "lineHeight": 0.88,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 11456,
+    "text": "World-ClassBackers"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 57.6,
+    "weight": 900,
+    "lineHeight": 0.9,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#dfdff2",
+    "y": 12417,
+    "text": "OUR PARTNERS"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#dfdff2",
+    "y": 13211,
+    "text": "Join Zentry"
+   },
+   {
+    "tag": "h1",
+    "family": "ZentryScreamer",
+    "stack": "ZentryScreamer, \"Helvetica Neue\", sans-serif",
+    "size": 90,
+    "weight": 900,
+    "lineHeight": 0.85,
+    "letterSpacing": -0.01,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "center",
+    "color": "#dfdff2",
+    "y": 13251,
+    "text": "Build the foundationfor tomorrow’scivilization."
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 13826,
+    "text": "Explore"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 13826,
+    "text": "Products"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 13826,
+    "text": "Follow Us"
+   },
+   {
+    "tag": "h2",
+    "family": "Roboto Mono",
+    "stack": "\"Roboto Mono\", \"Helvetica Neue\", sans-serif",
+    "size": 9,
+    "weight": 500,
+    "lineHeight": 1,
+    "letterSpacing": 0.02,
+    "transform": "uppercase",
+    "style": "normal",
+    "align": "start",
+    "color": "#000000",
+    "y": 13826,
+    "text": "Resources"
+   }
+  ],
+  "buttons": [
+   {
+    "sel": "nav > button.btnMain.textCaptionBtn",
+    "w": 102,
+    "h": 38,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 19,
+    "fontSize": 9,
+    "fontWeight": 700,
+    "family": "Roboto Mono",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "ProductsProducts",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "a > button.btnMain.textCaptionBtn",
+    "w": 99,
+    "h": 38,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 19,
+    "fontSize": 9,
+    "fontWeight": 700,
+    "family": "Roboto Mono",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "Whitepaper  Whitepaper",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "div > button.btnMain.textCaptionBtn",
+    "w": 120,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 10.8,
+    "fontWeight": 700,
+    "family": "Roboto Mono",
+    "transform": "uppercase",
+    "letterSpacing": 0.02,
+    "text": "Contact UsContact UsContact Us",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 93,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "HomeHome",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 106,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "AboutAbout",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 128,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "ContactContact",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 167,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "zTerminalzTerminal",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 106,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "zDatazData",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 84,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "zAIzAI",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 144,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "RadiantRadiant",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 118,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "ZigmaZigma",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 127,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "DiscordDiscord",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 59,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "XX",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 129,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "YoutubeYoutube",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 117,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "MediumMedium",
+    "backdrop": null,
+    "transition": null
+   },
+   {
+    "sel": "li > button.btnMain.textCaptionBtn",
+    "w": 151,
+    "h": 48,
+    "bg": null,
+    "bgAlpha": 0,
+    "color": "#000000",
+    "radius": 0,
+    "border": null,
+    "shadow": null,
+    "padY": 0,
+    "padX": 24,
+    "fontSize": 19.8,
+    "fontWeight": 400,
+    "family": "Roboto Mono",
+    "transform": "none",
+    "letterSpacing": -0.02,
+    "text": "Media KitMedia Kit",
+    "backdrop": null,
+    "transition": null
+   }
+  ],
+  "inputs": [],
+  "cards": [],
+  "links": [],
+  "sections": [
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 14174,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 14174,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 13700,
+    "bg": "#dfdff2",
+    "tag": "main"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 13700,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 0,
+    "h": 3067,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2932,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1080,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 115,
+    "padBottom": 0,
+    "h": 232,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 135,
+    "h": 2335,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2065,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2065,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 135,
+    "h": 2970,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 2700,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 36,
+    "padBottom": 36,
+    "h": 900,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 248,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 135,
+    "h": 1085,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 815,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 815,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 815,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 806,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 135,
+    "h": 1928,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1658,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1658,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 208,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 1372,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 135,
+    "padBottom": 135,
+    "h": 786,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 466,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 466,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 36,
+    "padBottom": 36,
+    "h": 629,
+    "bg": "#dfdff2",
+    "tag": "section"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 557,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 557,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 557,
+    "bg": "#000000",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 629,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 629,
+    "bg": "#dfdff2",
+    "tag": "div"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 23,
+    "h": 474,
+    "bg": "#dfdff2",
+    "tag": "footer"
+   },
+   {
+    "padTop": 0,
+    "padBottom": 0,
+    "h": 325,
+    "bg": "#dfdff2",
+    "tag": "div"
+   }
+  ],
+  "containers": [
+   {
+    "w": 1021,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 504,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 504,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 36
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 36
+   },
+   {
+    "w": 1278,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1278,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1278,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 45
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 627,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1368,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 660,
+    "maxW": "none",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "1350px",
+    "padX": 0
+   },
+   {
+    "w": 1350,
+    "maxW": "none",
+    "padX": 0
+   }
+  ],
+  "images": [
+   {
+    "w": 644,
+    "h": 72,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 8.91
+   },
+   {
+    "w": 564,
+    "h": 380,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.48
+   },
+   {
+    "w": 564,
+    "h": 380,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.48
+   },
+   {
+    "w": 569,
+    "h": 220,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.59
+   },
+   {
+    "w": 569,
+    "h": 220,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.59
+   },
+   {
+    "w": 864,
+    "h": 720,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.2
+   },
+   {
+    "w": 360,
+    "h": 277,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.3
+   },
+   {
+    "w": 360,
+    "h": 277,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.3
+   },
+   {
+    "w": 360,
+    "h": 277,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 1.3
+   },
+   {
+    "w": 702,
+    "h": 275,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 2.56
+   },
+   {
+    "w": 468,
+    "h": 540,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 0.87
+   },
+   {
+    "w": 468,
+    "h": 635,
+    "radius": 7.2,
+    "fit": "cover",
+    "aspect": 0.74
+   },
+   {
+    "w": 405,
+    "h": 579,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 0.7
+   },
+   {
+    "w": 405,
+    "h": 579,
+    "radius": 0,
+    "fit": "contain",
+    "aspect": 0.7
+   },
+   {
+    "w": 513,
+    "h": 733,
+    "radius": 0,
+    "fit": "cover",
+    "aspect": 0.7
+   }
+  ],
+  "lowContrast": [
+   {
+    "sel": "a > span.rui-sr-only",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "a > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > b",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > b",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > div.mainContent__description",
+    "fg": "#696972",
+    "bg": "#d3d3e5",
+    "ratio": 3.68
+   },
+   {
+    "sel": "div > div.mainContent__description",
+    "fg": "#696972",
+    "bg": "#d3d3e5",
+    "ratio": 3.68
+   },
+   {
+    "sel": "div > div.mainContent__description",
+    "fg": "#696972",
+    "bg": "#d3d3e5",
+    "ratio": 3.68
+   },
+   {
+    "sel": "div > span",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > b",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > span",
+    "fg": "#dfdff2",
+    "bg": "#cdcde0",
+    "ratio": 1.19
+   },
+   {
+    "sel": "div > div.productGrid__description",
+    "fg": "#e3e3ee",
+    "bg": "#cdcde0",
+    "ratio": 1.23
+   },
+   {
+    "sel": "div > span",
+    "fg": "#dfdff2",
+    "bg": "#cdcde0",
+    "ratio": 1.19
+   },
+   {
+    "sel": "div > div.productGrid__description",
+    "fg": "#e3e3ee",
+    "bg": "#cdcde0",
+    "ratio": 1.23
+   },
+   {
+    "sel": "header > div.nexusItem__number",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "header > div.nexusItem__title",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p.nexusItem__description.textBody4",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "header > div.nexusItem__number",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "header > div.nexusItem__title",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "header > div.nexusItem__number",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "header > div.nexusItem__title",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "span > span.word",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   },
+   {
+    "sel": "div > p.whoWeAre__description.textBody3",
+    "fg": "#dfdff2",
+    "bg": "#dfdff2",
+    "ratio": 1
+   }
+  ],
+  "nav": {
+   "sel": "div > header.nav",
+   "w": 1413,
+   "h": 63,
+   "bg": null,
+   "bgAlpha": 0,
+   "color": "#dfdff2",
+   "radius": 0,
+   "border": null,
+   "shadow": null,
+   "padY": 0,
+   "padX": 0,
+   "fontSize": 14.4,
+   "fontWeight": 400,
+   "family": "Roboto Mono",
+   "transform": "none",
+   "letterSpacing": 0,
+   "text": "Zentry HomeProductsProducts Whitepaper  ",
+   "backdrop": null,
+   "transition": "0.5s ease",
+   "position": "absolute",
+   "linkCount": 5,
+   "hasCta": false
+  }
+ },
+ "vars": {
+  "--rui-z-index-layer5": "50",
+  "--rui-bgColor": "#DFDFF2",
+  "--rui-colors-grey": "#DFDFF2",
+  "--rui-colors-yellow": "#EDFF66",
+  "--rui-fonts-serif": "ui-serif, serif",
+  "--rui-z-index-layer3": "30",
+  "--sideMargin": "4rem",
+  "--rui-colors-orange": "#FF6F2F",
+  "--rui-textColor": "#DFDFF2",
+  "--rui-spacing-4": "2rem",
+  "--rui-themeName": "homeHero",
+  "--rui-z-index-important": "2147483647",
+  "--rui-spacing-3": "1.5rem",
+  "--rui-fonts-mono": "Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, monospace",
+  "--rui-colors-red": "#FF264E",
+  "--rui-z-index-layer1": "10",
+  "--rui-colors-black": "#000000",
+  "--rui-colors-purple-gradient": "linear-gradient(to bottom, #5542FF 0%, #B28EF2 100%)",
+  "--headerMargin": "12rem",
+  "--rui-z-index-layer2": "20",
+  "--rui-fonts-base-size": "10px",
+  "--rui-textColorInverted": "#000000",
+  "--rui-z-index-layer4": "40",
+  "--rui-colors-purple": "#5542FF",
+  "--rui-fonts-sans-serif": "system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif",
+  "--rui-accentColor": "#EDFF66",
+  "--edgeMargin": "calc(50vw - 65rem)",
+  "--rui-spacing-2": "1rem",
+  "--rui-spacing-5": "2.5rem",
+  "--rui-spacing-1": "0.5rem"
+ },
+ "colorVars": {
+  "--rui-bgColor": "#dfdff2",
+  "--rui-colors-grey": "#dfdff2",
+  "--rui-colors-yellow": "#edff66",
+  "--rui-colors-orange": "#ff6f2f",
+  "--rui-textColor": "#dfdff2",
+  "--rui-colors-red": "#ff264e",
+  "--rui-colors-black": "#000000",
+  "--rui-textColorInverted": "#000000",
+  "--rui-colors-purple": "#5542ff",
+  "--rui-accentColor": "#edff66"
+ },
+ "loadedFonts": [
+  {
+   "family": "Roboto Mono",
+   "weight": "400",
+   "style": "normal"
+  },
+  {
+   "family": "Roboto Mono",
+   "weight": "500",
+   "style": "normal"
+  },
+  {
+   "family": "Roboto Mono",
+   "weight": "700",
+   "style": "normal"
+  },
+  {
+   "family": "ZentryScreamer",
+   "weight": "500",
+   "style": "normal"
+  }
+ ],
+ "fontLinks": [],
+ "screenshot": {
+  "size": {
+   "width": 1440,
+   "height": 900
+  },
+  "palette": [
+   {
+    "hex": "#000000",
+    "share": 0.677
+   },
+   {
+    "hex": "#958cf7",
+    "share": 0.057
+   },
+   {
+    "hex": "#bcaaf9",
+    "share": 0.054
+   },
+   {
+    "hex": "#dfdbf5",
+    "share": 0.048
+   },
+   {
+    "hex": "#6f6ae6",
+    "share": 0.043
+   },
+   {
+    "hex": "#4e4bc2",
+    "share": 0.036
+   },
+   {
+    "hex": "#070c26",
+    "share": 0.032
+   },
+   {
+    "hex": "#353190",
+    "share": 0.024
+   },
+   {
+    "hex": "#232751",
+    "share": 0.02
+   },
+   {
+    "hex": "#66666f",
+    "share": 0.008
+   }
+  ],
+  "meanLightness": 0.193,
+  "lightnessStd": 0.308,
+  "meanChroma": 0.039,
+  "chromaticShare": 0.248,
+  "negativeSpace": 0.677,
+  "busyness": 0.024,
+  "dark": true
+ },
+ "mobile": {
+  "bodySize": 10.4,
+  "h1Size": 14.56,
+  "gutter": 80,
+  "hamburger": true,
+  "horizontalOverflow": false
+ }
+}

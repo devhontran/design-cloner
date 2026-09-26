@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>zentry — Design DNA specimen</title>
+<link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<style>
+  .grid3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:var(--space-5, 24px); }
+  .label { font:600 12px/1 var(--font-mono, ui-monospace, monospace); text-transform:uppercase; letter-spacing:.08em; color:var(--color-muted-foreground); margin:0 0 20px; }
+  .spec { padding-block: 56px; border-top:1px solid var(--color-border); }
+  .sws { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:16px; }
+  .sw { display:flex; flex-direction:column; gap:4px; font-size:13px; }
+  .sw .chip { height:64px; border-radius:var(--radius-md, 8px); border:1px solid var(--color-border); }
+  .sw code, .ts code, .sp code, .rd code { font:12px var(--font-mono, ui-monospace, monospace); color:var(--color-muted-foreground); }
+  .ramp { display:grid; grid-template-columns:90px repeat(11,1fr); gap:4px; margin-bottom:6px; align-items:center; }
+  .ramp div { height:40px; border-radius:6px; display:flex; align-items:end; padding:4px; } .ramp small { font-size:10px; opacity:.8 }
+  .rn { font:12px var(--font-mono, monospace); }
+  .ts { display:grid; grid-template-columns:160px 1fr; align-items:baseline; gap:16px; padding:10px 0; border-bottom:1px dashed var(--color-border); overflow:hidden; white-space:nowrap; }
+  .sp { display:grid; grid-template-columns:160px 1fr; align-items:center; gap:16px; margin:6px 0; } .sp div { height:14px; background:var(--color-primary); border-radius:3px; }
+  .rds { display:flex; gap:16px; flex-wrap:wrap; } .rd { width:96px; height:96px; background:var(--color-muted); border:1px solid var(--color-border); display:grid; place-items:center; text-align:center; }
+  .shd { min-height:100px; display:grid; place-items:center; }
+  .hero { padding-block: calc(var(--section-y) * .9);  }
+  .hero .actions { display:flex; gap:12px; margin-top:32px;  flex-wrap:wrap; }
+  .hero .lead { max-width:640px; margin-top:20px;  }
+  
+  .kw { display:flex; gap:8px; flex-wrap:wrap; margin-top:28px; } .kw span { font-size:12px; padding:4px 10px; border:1px solid var(--color-border); border-radius:var(--radius-sm, 4px); color:var(--color-muted-foreground); }
+  .form { display:grid; gap:12px; max-width:420px; }
+</style></head>
+<body>
+  <header class="nav"><div class="container nav-inner">
+    <strong style="font-family:var(--font-display);font-size:20px">zentry</strong>
+    <nav style="display:flex;gap:28px;font-size:var(--text-sm, 14px)"><a style="color:var(--color-foreground)">Product</a><a style="color:var(--color-foreground)">Pricing</a><a style="color:var(--color-foreground)">Docs</a></nav>
+    <a class="btn btn-primary">Get started</a>
+  </div></header>
+
+  <section class="hero"><div class="container">
+    <p class="eyebrow">Design DNA specimen</p>
+    <h1 style="margin-top:16px">Build interfaces that feel <span class="" style="color:var(--color-primary)">unmistakably yours</span>.</h1>
+    <p class="lead">This page is rendered only from the extracted tokens and component recipes. Compare it side by side with the reference screenshots.</p>
+    <div class="actions"><a class="btn btn-primary">Start free trial</a><a class="btn btn-secondary">View showcase</a></div>
+    <div class="kw" style=""><span>gaming / ai metaverse</span><span>black + lavender</span><span>electric violet + acid yellow</span><span>screaming condensed caps</span><span>mono body copy</span><span>glowing particle mesh 3D</span><span>clip-path video reveals</span><span>split giant headline</span></div>
+  </div></section>
+
+  <section class="section" style="background:var(--color-muted)"><div class="container">
+    <h2>Components</h2>
+    <div class="grid3" style="margin-top:40px">
+      <article class="card"><p class="eyebrow">01</p><h3 style="margin:12px 0 8px">Fast by default</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">02</p><h3 style="margin:12px 0 8px">Composable</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">03</p><h3 style="margin:12px 0 8px">Accessible</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article>
+    </div>
+    <div class="grid3" style="margin-top:40px;align-items:start">
+      <form class="form" onsubmit="return false"><input class="input" placeholder="you@company.com"><input class="input" placeholder="Company"><button class="btn btn-primary">Subscribe</button></form>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-primary">Primary</a><a class="btn btn-secondary">Secondary</a></div>
+    </div>
+  </div></section>
+
+  <div class="container">
+    <section class="spec"><p class="label">Color roles</p><div class="sws">
+      <div class="sw"><div class="chip" style="background:#dfdff2"></div><b>background</b><code>#dfdff2</code></div>
+      <div class="sw"><div class="chip" style="background:#000000"></div><b>foreground</b><code>#000000</code></div>
+      <div class="sw"><div class="chip" style="background:#000000"></div><b>surface</b><code>#000000</code></div>
+      <div class="sw"><div class="chip" style="background:#dfdff2"></div><b>surface-foreground</b><code>#dfdff2</code></div>
+      <div class="sw"><div class="chip" style="background:#b2b2c2"></div><b>muted</b><code>#b2b2c2</code></div>
+      <div class="sw"><div class="chip" style="background:#676666"></div><b>muted-foreground</b><code>#676666</code></div>
+      <div class="sw"><div class="chip" style="background:#000000"></div><b>border</b><code>#000000</code></div>
+      <div class="sw"><div class="chip" style="background:#5542ff"></div><b>primary</b><code>#5542ff</code></div>
+      <div class="sw"><div class="chip" style="background:#dfdff2"></div><b>primary-foreground</b><code>#dfdff2</code></div>
+      <div class="sw"><div class="chip" style="background:#edff66"></div><b>accent</b><code>#edff66</code></div>
+      <div class="sw"><div class="chip" style="background:#000000"></div><b>accent-foreground</b><code>#000000</code></div>
+      <div class="sw"><div class="chip" style="background:#5542ff"></div><b>ring</b><code>#5542ff</code></div>
+      <div class="sw"><div class="chip" style="background:#007f38"></div><b>success</b><code>#007f38</code></div>
+      <div class="sw"><div class="chip" style="background:#8d5e00"></div><b>warning</b><code>#8d5e00</code></div>
+      <div class="sw"><div class="chip" style="background:#c11a1e"></div><b>danger</b><code>#c11a1e</code></div></div></section>
+    <section class="spec"><p class="label">Ramps</p>
+      <div class="ramp"><span class="rn">primary</span><div title="primary-50 #f4f6ff" style="background:#f4f6ff"><small style="color:#000">50</small></div><div title="primary-100 #e8ecff" style="background:#e8ecff"><small style="color:#000">100</small></div><div title="primary-200 #d0d7ff" style="background:#d0d7ff"><small style="color:#000">200</small></div><div title="primary-300 #b1bcff" style="background:#b1bcff"><small style="color:#000">300</small></div><div title="primary-400 #8a95ff" style="background:#8a95ff"><small style="color:#000">400</small></div><div title="primary-500 #6b6fff" style="background:#6b6fff"><small style="color:#fff">500</small></div><div title="primary-600 #5542ff" style="background:#5542ff"><small style="color:#fff">600</small></div><div title="primary-700 #442bd8" style="background:#442bd8"><small style="color:#fff">700</small></div><div title="primary-800 #341caf" style="background:#341caf"><small style="color:#fff">800</small></div><div title="primary-900 #260f89" style="background:#260f89"><small style="color:#fff">900</small></div><div title="primary-950 #190563" style="background:#190563"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">accent</span><div title="accent-50 #f8ffda" style="background:#f8ffda"><small style="color:#000">50</small></div><div title="accent-100 #edff66" style="background:#edff66"><small style="color:#000">100</small></div><div title="accent-200 #daed00" style="background:#daed00"><small style="color:#000">200</small></div><div title="accent-300 #c1d200" style="background:#c1d200"><small style="color:#000">300</small></div><div title="accent-400 #a2b000" style="background:#a2b000"><small style="color:#000">400</small></div><div title="accent-500 #869200" style="background:#869200"><small style="color:#fff">500</small></div><div title="accent-600 #6e7800" style="background:#6e7800"><small style="color:#fff">600</small></div><div title="accent-700 #586000" style="background:#586000"><small style="color:#fff">700</small></div><div title="accent-800 #444a00" style="background:#444a00"><small style="color:#fff">800</small></div><div title="accent-900 #323700" style="background:#323700"><small style="color:#fff">900</small></div><div title="accent-950 #212500" style="background:#212500"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">neutral</span><div title="neutral-50 #f9f9ff" style="background:#f9f9ff"><small style="color:#000">50</small></div><div title="neutral-100 #f2f2fb" style="background:#f2f2fb"><small style="color:#000">100</small></div><div title="neutral-200 #e3e4ec" style="background:#e3e4ec"><small style="color:#000">200</small></div><div title="neutral-300 #d3d3dc" style="background:#d3d3dc"><small style="color:#000">300</small></div><div title="neutral-400 #a0a1a9" style="background:#a0a1a9"><small style="color:#000">400</small></div><div title="neutral-500 #72727a" style="background:#72727a"><small style="color:#fff">500</small></div><div title="neutral-600 #53535a" style="background:#53535a"><small style="color:#fff">600</small></div><div title="neutral-700 #3f3f46" style="background:#3f3f46"><small style="color:#fff">700</small></div><div title="neutral-800 #26262c" style="background:#26262c"><small style="color:#fff">800</small></div><div title="neutral-900 #17161d" style="background:#17161d"><small style="color:#fff">900</small></div><div title="neutral-950 #0a090f" style="background:#0a090f"><small style="color:#fff">950</small></div></div></section>
+    <section class="spec"><p class="label">Type scale · Anton / Roboto Mono · ratio 1.274 (major third)</p>
+      <div class="ts"><code>text-9xl · 180px</code><span style="font-size:180px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-8xl · 162px</code><span style="font-size:162px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-7xl · 126px</code><span style="font-size:126px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-6xl · 108px</code><span style="font-size:108px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-5xl · 96px</code><span style="font-size:96px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-4xl · 90px</code><span style="font-size:90px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-3xl · 58px</code><span style="font-size:58px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-2xl · 51px</code><span style="font-size:51px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA zentry</span></div>
+      <div class="ts"><code>text-xl · 27px</code><span style="font-size:27px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div>
+      <div class="ts"><code>text-lg · 20px</code><span style="font-size:20px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div>
+      <div class="ts"><code>text-base · 16px</code><span style="font-size:16px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div>
+      <div class="ts"><code>text-sm · 15px</code><span style="font-size:15px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div>
+      <div class="ts"><code>text-xs · 14px</code><span style="font-size:14px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div>
+      <div class="ts"><code>text-2xs · 13px</code><span style="font-size:13px;font-family:var(--font-body);line-height:1.15;">Design DNA zentry</span></div></section>
+    <section class="spec"><p class="label">Spacing · 4px grid · airy</p><div class="sp"><code>space-1 · 6px</code><div style="width:6px"></div></div><div class="sp"><code>space-2 · 8px</code><div style="width:8px"></div></div><div class="sp"><code>space-3 · 14px</code><div style="width:14px"></div></div><div class="sp"><code>space-4 · 18px</code><div style="width:18px"></div></div><div class="sp"><code>space-5 · 22px</code><div style="width:22px"></div></div><div class="sp"><code>space-6 · 24px</code><div style="width:24px"></div></div><div class="sp"><code>space-7 · 30px</code><div style="width:30px"></div></div><div class="sp"><code>space-8 · 34px</code><div style="width:34px"></div></div><div class="sp"><code>space-9 · 36px</code><div style="width:36px"></div></div><div class="sp"><code>space-10 · 46px</code><div style="width:46px"></div></div><div class="sp"><code>space-11 · 58px</code><div style="width:58px"></div></div><div class="sp"><code>space-12 · 136px</code><div style="width:136px"></div></div></section>
+    <section class="spec"><p class="label">Radius · rounded</p><div class="rds"><div class="rd" style="border-radius:7px"><code>sm<br>7px</code></div><div class="rd" style="border-radius:9999px"><code>full<br>full</code></div><div class="rd" style="border-radius:12px"><code>md<br>12px</code></div><div class="rd" style="border-radius:24px"><code>lg<br>24px</code></div></div></section>
+    <section class="spec"><p class="label">Elevation · flat</p><div class="grid3"><p class="muted">Flat design — no shadows.</p></div></section>
+  </div>
+</body></html>

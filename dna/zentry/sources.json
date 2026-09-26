@@ -1,0 +1,8 @@
+[
+  {
+    "id": "zentry-com",
+    "type": "web",
+    "input": "https://zentry.com/",
+    "weight": 1
+  }
+]
