@@ -1,0 +1,8 @@
+[
+  {
+    "id": "watson-la",
+    "type": "web",
+    "input": "https://watson.la/",
+    "weight": 1
+  }
+]

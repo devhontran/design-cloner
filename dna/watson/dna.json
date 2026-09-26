@@ -1,0 +1,324 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "watson",
+  "generatedAt": "2026-09-26T06:15:33.859Z",
+  "sources": [
+    {
+      "id": "watson-la",
+      "type": "web",
+      "input": "https://watson.la/",
+      "weight": 1,
+      "title": "Watson — Los Angeles"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "la entertainment studio",
+      "white editorial",
+      "mixed serif + grotesk sentence",
+      "inline image-in-text",
+      "footnote superscripts",
+      "parentheses labels",
+      "condensed wordmark",
+      "centered statement"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "surface": "#f2f2f2",
+      "surface-foreground": "#000000",
+      "muted": "#f2f2f2",
+      "muted-foreground": "#666666",
+      "border": "#000000",
+      "primary": "#000000",
+      "primary-foreground": "#ffffff",
+      "accent": "#70412a",
+      "accent-foreground": "#ffffff",
+      "ring": "#000000",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "muted-foreground",
+      "border",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.514,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#000000",
+        "share": 0.264,
+        "oklch": "oklch(0 0 0)",
+        "role": "foreground"
+      },
+      {
+        "hex": "#70412a",
+        "share": 0.211,
+        "oklch": "oklch(0.426 0.074 46)",
+        "role": "primary"
+      },
+      {
+        "hex": "#f2f2f2",
+        "share": 0.012,
+        "oklch": "oklch(0.961 0 0)",
+        "role": "surface"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f7f7f7",
+        "100": "#ededed",
+        "200": "#dbdbdb",
+        "300": "#c2c2c2",
+        "400": "#a3a3a3",
+        "500": "#878787",
+        "600": "#626262",
+        "700": "#3e3e3e",
+        "800": "#1f1f1f",
+        "900": "#060606",
+        "950": "#000000"
+      },
+      "neutral": {
+        "50": "#fafafa",
+        "100": "#f3f3f3",
+        "200": "#e4e4e4",
+        "300": "#d4d4d4",
+        "400": "#a1a1a1",
+        "500": "#737373",
+        "600": "#545454",
+        "700": "#404040",
+        "800": "#262626",
+        "900": "#171717",
+        "950": "#0a0a0a"
+      },
+      "accent": {
+        "50": "#fef5f1",
+        "100": "#fbe8e0",
+        "200": "#f6d2c1",
+        "300": "#eab59d",
+        "400": "#d39577",
+        "500": "#bb7a5b",
+        "600": "#a36446",
+        "700": "#895136",
+        "800": "#70412a",
+        "900": "#552f1c",
+        "950": "#3b1e10"
+      }
+    },
+    "gradients": [],
+    "cssVars": {
+      "--color-img-color-c0": "#e6e3d9",
+      "--color-img-color": "#f2f2f2"
+    },
+    "traits": {
+      "saturation": "muted",
+      "contrast": "high",
+      "contrastRatio": 21,
+      "temperature": "warm",
+      "harmony": "single-hue",
+      "primaryHue": "orange",
+      "accentHue": "orange"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Condensed grotesk (wordmark)",
+        "category": "sans",
+        "source": "custom",
+        "use": "Archivo Narrow",
+        "alternative": "Archivo Narrow",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          700
+        ]
+      },
+      "body": {
+        "name": "Grotesk (thin/regular)",
+        "category": "sans",
+        "source": "custom",
+        "use": "Inter",
+        "alternative": "Inter",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "mono": {
+        "name": "Editorial serif",
+        "category": "serif",
+        "source": "custom",
+        "use": "Newsreader",
+        "alternative": "Newsreader",
+        "fallback": "Georgia, \"Times New Roman\", serif",
+        "weights": [
+          400
+        ]
+      }
+    },
+    "scale": {
+      "base": 20,
+      "lg": 20,
+      "xl": 89,
+      "2xl": 321
+    },
+    "ratio": 2.544,
+    "ratioName": "golden ratio",
+    "base": 20,
+    "headings": {
+      "h1": {
+        "size": 320,
+        "weight": 700,
+        "lineHeight": 0.91,
+        "letterSpacing": -0.018,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 56,
+        "weight": 400,
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 24,
+        "weight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 12,
+      "weight": 400,
+      "lineHeight": 1.25,
+      "letterSpacing": 0,
+      "transform": "none"
+    },
+    "eyebrow": null,
+    "mobile": {
+      "h1": 124.273,
+      "body": 14.8067
+    }
+  },
+  "spacing": {
+    "unit": 4,
+    "gridConformance": 0.67,
+    "scale": [
+      8,
+      20,
+      24,
+      28,
+      36,
+      88
+    ],
+    "sectionY": 29,
+    "container": 910,
+    "gutter": 4,
+    "density": "dense"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "lg": 0,
+      "full": 9999
+    },
+    "zeroRadiusShare": 1,
+    "style": "sharp",
+    "buttonShape": "unknown",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "flat",
+    "shadows": {},
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 3,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 1,
+    "sectionsPerPage": 9,
+    "nav": {
+      "height": 24,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 5,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 14.8067,
+      "h1Size": 124.273,
+      "gutter": 4,
+      "hamburger": false,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "minimal",
+    "duration": 200,
+    "durations": [],
+    "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+    "animatedElements": 0
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 2,
+      "videos": false,
+      "iconsSvg": 0,
+      "roundedImages": 0,
+      "commonAspect": "landscape"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": null,
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "foreground",
+      "underline": false
+    }
+  }
+}

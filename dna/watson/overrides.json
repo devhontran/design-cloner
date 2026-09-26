@@ -1,0 +1,13 @@
+{
+  "color": { "roles": { "background": "#ffffff", "foreground": "#000000", "surface": "#f2f2f2", "muted": "#f2f2f2", "muted-foreground": "#666666", "border": "#000000", "primary": "#000000", "primary-foreground": "#ffffff", "accent": "#70412a", "accent-foreground": "#ffffff", "ring": "#000000" } },
+  "typography": {
+    "families": {
+      "display": { "name": "Condensed grotesk (wordmark)", "use": "Archivo Narrow", "alternative": "Archivo Narrow", "weights": [700] },
+      "body": { "name": "Grotesk (thin/regular)", "use": "Inter", "alternative": "Inter", "weights": [300, 400] },
+      "mono": { "name": "Editorial serif", "use": "Newsreader", "alternative": "Newsreader", "weights": [400] }
+    },
+    "headings": { "h1": { "size": 320, "weight": 700, "lineHeight": 0.91, "letterSpacing": -0.018, "transform": "uppercase" }, "h2": { "size": 56, "weight": 400, "lineHeight": 1.05, "letterSpacing": -0.02, "transform": "none" } },
+    "body": { "size": 12, "weight": 400, "lineHeight": 1.25, "letterSpacing": 0, "transform": "none" }
+  },
+  "personality": { "keywords": ["la entertainment studio", "white editorial", "mixed serif + grotesk sentence", "inline image-in-text", "footnote superscripts", "parentheses labels", "condensed wordmark", "centered statement"] }
+}
