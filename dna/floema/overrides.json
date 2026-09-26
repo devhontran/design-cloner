@@ -1,0 +1,30 @@
+{
+  "color": {
+    "roles": {
+      "background": "#f2efea",
+      "foreground": "#241f21",
+      "surface": "#ffffff",
+      "muted": "#e7e3dc",
+      "muted-foreground": "#8b8786",
+      "border": "#241f21",
+      "primary": "#e9e778",
+      "primary-foreground": "#241f21",
+      "accent": "#042d2b",
+      "accent-foreground": "#e9e778",
+      "ring": "#241f21"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Zimula", "use": "Figtree", "alternative": "Figtree", "weights": [400, 500] },
+      "body": { "name": "Zimula", "use": "Figtree", "alternative": "Figtree", "weights": [400, 500] }
+    }
+  },
+  "shape": { "radius": { "sm": 4, "md": 8, "lg": 12, "full": 9999 }, "style": "soft", "buttonShape": "pill" },
+  "components": {
+    "buttonPrimary": { "background": "surface", "color": "foreground", "radius": 9999, "height": 32, "paddingX": 16, "paddingY": 0, "fontSize": 11, "fontWeight": 500, "transform": "uppercase", "letterSpacing": 0.02, "border": null, "shadow": null, "transition": "0.5s cubic-bezier(0.19, 1, 0.22, 1)", "example": "SEE URBAN PRODUCTS" }
+  },
+  "personality": {
+    "keywords": ["sustainable street furniture", "warm paper + citron", "floating product cutouts", "full-bleed category chapters", "white pill nav", "line-drawing footer", "calm catalogue", "portuguese manufacturer"]
+  }
+}

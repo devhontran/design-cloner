@@ -47,7 +47,12 @@ async function fetchViaNode(route) {
   if (!/^https?:/i.test(url) || /^https?:\/\/(localhost|127\.|\[::1\])/i.test(url)) return route.continue();
   try {
     const headers = Object.fromEntries(Object.entries(await req.allHeaders()).filter(([k]) => !k.startsWith(':') && k !== 'host'));
-    const res = await fetch(url, { method: req.method(), headers, body: req.postDataBuffer() || undefined, redirect: 'follow' }); // route handlers never see redirected URLs, so follow them here
+    // Route handlers never see redirected URLs, so follow redirects here. Retry transient connect failures.
+    const init = { method: req.method(), headers, body: req.postDataBuffer() || undefined, redirect: 'follow' };
+    let res;
+    for (let attempt = 0; ; attempt++) {
+      try { res = await fetch(url, init); break; } catch (err) { if (attempt >= 2) throw err; }
+    }
     const outHeaders = {};
     res.headers.forEach((v, k) => { if (!HOP_HEADERS.has(k)) outHeaders[k] = v; });
     await route.fulfill({ status: res.status, headers: outHeaders, body: Buffer.from(await res.arrayBuffer()) });
