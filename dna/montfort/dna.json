@@ -1,0 +1,360 @@
+{
+  "$schema": "design-dna/v1",
+  "name": "montfort",
+  "generatedAt": "2026-09-26T03:23:04.572Z",
+  "sources": [
+    {
+      "id": "mont-fort-com",
+      "type": "web",
+      "input": "https://mont-fort.com/",
+      "weight": 1,
+      "title": "Montfort Group"
+    }
+  ],
+  "personality": {
+    "keywords": [
+      "corporate sublime",
+      "cloud-to-earth journey",
+      "misty steel blue",
+      "light geometric caps",
+      "wide-tracked wordmark",
+      "diamond + circle markers",
+      "cinematic atmosphere",
+      "commodity trading"
+    ]
+  },
+  "color": {
+    "mode": "light",
+    "roles": {
+      "background": "#e5ecf1",
+      "foreground": "#2d628c",
+      "surface": "#ffffff",
+      "surface-foreground": "#161616",
+      "muted": "#d5dee6",
+      "muted-foreground": "#81a0bb",
+      "border": "#81a0bb",
+      "primary": "#2d628c",
+      "primary-foreground": "#ffffff",
+      "accent": "#0f1d2a",
+      "accent-foreground": "#ffffff",
+      "ring": "#2d628c",
+      "success": "#287c42",
+      "warning": "#8d5e00",
+      "danger": "#a34942"
+    },
+    "derived": [
+      "foreground",
+      "muted-foreground",
+      "accent (= primary)",
+      "primary-foreground",
+      "muted",
+      "accent-foreground",
+      "surface-foreground",
+      "ring",
+      "success",
+      "warning",
+      "danger"
+    ],
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.735,
+        "oklch": "oklch(1 0 0)",
+        "role": "background"
+      },
+      {
+        "hex": "#2d628c",
+        "share": 0.192,
+        "oklch": "oklch(0.48 0.088 245)",
+        "role": "primary"
+      },
+      {
+        "hex": "#81a0bb",
+        "share": 0.073,
+        "oklch": "oklch(0.692 0.053 245)",
+        "role": null
+      },
+      {
+        "hex": "#e5ecf1",
+        "share": 0,
+        "oklch": "oklch(0.939 0.01 239)",
+        "role": "surface"
+      }
+    ],
+    "ramps": {
+      "primary": {
+        "50": "#f1f8fe",
+        "100": "#e0effc",
+        "200": "#c1dff9",
+        "300": "#9dc9f0",
+        "400": "#75abd9",
+        "500": "#5590c1",
+        "600": "#3e79a8",
+        "700": "#2d628c",
+        "800": "#1f4c6f",
+        "900": "#133854",
+        "950": "#09253b"
+      },
+      "neutral": {
+        "50": "#f5fbff",
+        "100": "#ecf5fb",
+        "200": "#dee6ec",
+        "300": "#cdd5db",
+        "400": "#9ba3a8",
+        "500": "#6d7479",
+        "600": "#4e555a",
+        "700": "#3a4145",
+        "800": "#21272c",
+        "900": "#12181c",
+        "950": "#060b0f"
+      },
+      "accent": {
+        "50": "#f3f7fb",
+        "100": "#e5eef6",
+        "200": "#ccddee",
+        "300": "#adc6de",
+        "400": "#89a7c4",
+        "500": "#6c8baa",
+        "600": "#53728f",
+        "700": "#3e5973",
+        "800": "#2d4359",
+        "900": "#1d3041",
+        "950": "#0f1d2a"
+      }
+    },
+    "gradients": [],
+    "cssVars": {},
+    "traits": {
+      "saturation": "muted",
+      "contrast": "high",
+      "contrastRatio": 18.1,
+      "temperature": "cool",
+      "harmony": "single-hue",
+      "primaryHue": "blue",
+      "accentHue": "blue"
+    }
+  },
+  "typography": {
+    "confidence": "high",
+    "families": {
+      "display": {
+        "name": "Century Gothic",
+        "category": "sans",
+        "source": "custom",
+        "use": "Josefin Sans",
+        "alternative": "Josefin Sans",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "body": {
+        "name": "Century Gothic",
+        "category": "sans",
+        "source": "custom",
+        "use": "Josefin Sans",
+        "alternative": "Josefin Sans",
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "weights": [
+          300,
+          400
+        ]
+      },
+      "ui": {
+        "name": "Josefin Sans",
+        "category": "sans",
+        "source": "google",
+        "use": "Josefin Sans",
+        "alternative": null,
+        "fallback": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "observedStack": "\"Josefin Sans\", sans-serif",
+        "weights": [
+          300
+        ]
+      }
+    },
+    "scale": {
+      "sm": 12,
+      "base": 16,
+      "lg": 20,
+      "xl": 24,
+      "2xl": 40,
+      "3xl": 50,
+      "4xl": 62
+    },
+    "ratio": 1.311,
+    "ratioName": "perfect fourth",
+    "base": 16,
+    "headings": {
+      "h1": {
+        "size": 50,
+        "weight": 300,
+        "lineHeight": 1.4,
+        "letterSpacing": 0.045,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h2": {
+        "size": 40,
+        "weight": 300,
+        "lineHeight": 1.4,
+        "letterSpacing": 0.045,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      },
+      "h3": {
+        "size": 24,
+        "weight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "style": "normal",
+        "align": "left"
+      }
+    },
+    "body": {
+      "size": 16,
+      "weight": 400,
+      "lineHeight": 1.6
+    },
+    "eyebrow": {
+      "size": 12,
+      "weight": 400,
+      "letterSpacing": 0.04,
+      "transform": "uppercase",
+      "family": "Century Gothic"
+    },
+    "mobile": {
+      "h1": null,
+      "body": 20
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "gridConformance": 0.55,
+    "scale": [
+      3,
+      12,
+      16,
+      20,
+      28,
+      32,
+      36,
+      40,
+      48,
+      52,
+      74,
+      80,
+      160,
+      240
+    ],
+    "sectionY": 240,
+    "container": 1380,
+    "gutter": 32,
+    "density": "airy"
+  },
+  "shape": {
+    "confidence": "high",
+    "radius": {
+      "sm": 0,
+      "md": 0,
+      "full": 9999,
+      "lg": 0
+    },
+    "zeroRadiusShare": 0.57,
+    "style": "sharp",
+    "buttonShape": "0px",
+    "card": null,
+    "input": null,
+    "media": 0
+  },
+  "elevation": {
+    "confidence": "high",
+    "style": "soft",
+    "shadows": {
+      "md": "rgba(255,255,255,1) 0px 0px 12px 0px"
+    },
+    "separation": "color-blocks"
+  },
+  "layout": {
+    "confidence": "high",
+    "heroAlignment": "left",
+    "preferredGridColumns": 24,
+    "layoutEngine": "flex-heavy",
+    "pageLengthViewports": 19.56,
+    "sectionsPerPage": 24,
+    "nav": {
+      "height": 82,
+      "position": "fixed",
+      "background": null,
+      "backgroundAlpha": 0,
+      "blur": null,
+      "border": null,
+      "hasCta": false,
+      "links": 6,
+      "style": "transparent"
+    },
+    "mobile": {
+      "bodySize": 20,
+      "h1Size": null,
+      "gutter": 32,
+      "hamburger": true,
+      "horizontalOverflow": false
+    }
+  },
+  "motion": {
+    "confidence": "high",
+    "style": "expressive",
+    "duration": 1200,
+    "durations": [
+      200,
+      300,
+      400,
+      700
+    ],
+    "easing": "cubic-bezier(0.65, 0, 0.35, 1)",
+    "animatedElements": 5
+  },
+  "effects": {
+    "glassmorphism": false,
+    "gradients": false,
+    "textGradient": false,
+    "imagery": {
+      "imagesPerPage": 17,
+      "videos": false,
+      "iconsSvg": 31,
+      "roundedImages": 0,
+      "commonAspect": "wide"
+    },
+    "visual": null
+  },
+  "components": {
+    "confidence": "high",
+    "buttonPrimary": null,
+    "buttonSecondary": {
+      "background": null,
+      "color": "#000000",
+      "radius": 0,
+      "height": 82,
+      "paddingX": 0,
+      "paddingY": 0,
+      "fontSize": 13.3333,
+      "fontWeight": 400,
+      "transform": "none",
+      "letterSpacing": 0,
+      "border": null,
+      "shadow": null,
+      "transition": null,
+      "example": "MenuMenu"
+    },
+    "card": null,
+    "input": null,
+    "link": {
+      "color": "primary",
+      "underline": false
+    }
+  }
+}

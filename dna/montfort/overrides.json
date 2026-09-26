@@ -1,0 +1,33 @@
+{
+  "color": {
+    "roles": {
+      "background": "#e5ecf1",
+      "foreground": "#2d628c",
+      "surface": "#ffffff",
+      "muted": "#d5dee6",
+      "muted-foreground": "#81a0bb",
+      "border": "#81a0bb",
+      "primary": "#2d628c",
+      "primary-foreground": "#ffffff",
+      "accent": "#0f1d2a",
+      "accent-foreground": "#ffffff",
+      "ring": "#2d628c"
+    }
+  },
+  "typography": {
+    "families": {
+      "display": { "name": "Century Gothic", "use": "Josefin Sans", "alternative": "Josefin Sans", "weights": [300, 400] },
+      "body": { "name": "Century Gothic", "use": "Josefin Sans", "alternative": "Josefin Sans", "weights": [300, 400] }
+    },
+    "headings": {
+      "h1": { "size": 50, "weight": 300, "lineHeight": 1.4, "letterSpacing": 0.045, "transform": "uppercase" },
+      "h2": { "size": 40, "weight": 300, "lineHeight": 1.4, "letterSpacing": 0.045, "transform": "uppercase" },
+      "h3": { "size": 24, "weight": 400, "lineHeight": 1.4, "letterSpacing": 0.04, "transform": "uppercase" }
+    }
+  },
+  "shape": { "radius": { "sm": 0, "md": 0, "lg": 0, "full": 9999 }, "style": "sharp" },
+  "motion": { "style": "expressive", "duration": 1200, "easing": "cubic-bezier(0.65, 0, 0.35, 1)" },
+  "personality": {
+    "keywords": ["corporate sublime", "cloud-to-earth journey", "misty steel blue", "light geometric caps", "wide-tracked wordmark", "diamond + circle markers", "cinematic atmosphere", "commodity trading"]
+  }
+}

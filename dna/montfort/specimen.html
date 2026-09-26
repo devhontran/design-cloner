@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>montfort — Design DNA specimen</title>
+<link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<style>
+  .grid3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:var(--space-5, 24px); }
+  .label { font:600 12px/1 var(--font-mono, ui-monospace, monospace); text-transform:uppercase; letter-spacing:.08em; color:var(--color-muted-foreground); margin:0 0 20px; }
+  .spec { padding-block: 56px; border-top:1px solid var(--color-border); }
+  .sws { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:16px; }
+  .sw { display:flex; flex-direction:column; gap:4px; font-size:13px; }
+  .sw .chip { height:64px; border-radius:var(--radius-md, 8px); border:1px solid var(--color-border); }
+  .sw code, .ts code, .sp code, .rd code { font:12px var(--font-mono, ui-monospace, monospace); color:var(--color-muted-foreground); }
+  .ramp { display:grid; grid-template-columns:90px repeat(11,1fr); gap:4px; margin-bottom:6px; align-items:center; }
+  .ramp div { height:40px; border-radius:6px; display:flex; align-items:end; padding:4px; } .ramp small { font-size:10px; opacity:.8 }
+  .rn { font:12px var(--font-mono, monospace); }
+  .ts { display:grid; grid-template-columns:160px 1fr; align-items:baseline; gap:16px; padding:10px 0; border-bottom:1px dashed var(--color-border); overflow:hidden; white-space:nowrap; }
+  .sp { display:grid; grid-template-columns:160px 1fr; align-items:center; gap:16px; margin:6px 0; } .sp div { height:14px; background:var(--color-primary); border-radius:3px; }
+  .rds { display:flex; gap:16px; flex-wrap:wrap; } .rd { width:96px; height:96px; background:var(--color-muted); border:1px solid var(--color-border); display:grid; place-items:center; text-align:center; }
+  .shd { min-height:100px; display:grid; place-items:center; }
+  .hero { padding-block: calc(var(--section-y) * .9);  }
+  .hero .actions { display:flex; gap:12px; margin-top:32px;  flex-wrap:wrap; }
+  .hero .lead { max-width:640px; margin-top:20px;  }
+  
+  .kw { display:flex; gap:8px; flex-wrap:wrap; margin-top:28px; } .kw span { font-size:12px; padding:4px 10px; border:1px solid var(--color-border); border-radius:var(--radius-sm, 4px); color:var(--color-muted-foreground); }
+  .form { display:grid; gap:12px; max-width:420px; }
+</style></head>
+<body>
+  <header class="nav"><div class="container nav-inner">
+    <strong style="font-family:var(--font-display);font-size:20px">montfort</strong>
+    <nav style="display:flex;gap:28px;font-size:var(--text-sm, 14px)"><a style="color:var(--color-foreground)">Product</a><a style="color:var(--color-foreground)">Pricing</a><a style="color:var(--color-foreground)">Docs</a></nav>
+    <a class="btn btn-primary">Get started</a>
+  </div></header>
+
+  <section class="hero"><div class="container">
+    <p class="eyebrow">Design DNA specimen</p>
+    <h1 style="margin-top:16px">Build interfaces that feel <span class="" style="color:var(--color-primary)">unmistakably yours</span>.</h1>
+    <p class="lead">This page is rendered only from the extracted tokens and component recipes. Compare it side by side with the reference screenshots.</p>
+    <div class="actions"><a class="btn btn-primary">Start free trial</a><a class="btn btn-secondary">View showcase</a></div>
+    <div class="kw" style=""><span>corporate sublime</span><span>cloud-to-earth journey</span><span>misty steel blue</span><span>light geometric caps</span><span>wide-tracked wordmark</span><span>diamond + circle markers</span><span>cinematic atmosphere</span><span>commodity trading</span></div>
+  </div></section>
+
+  <section class="section" style="background:var(--color-muted)"><div class="container">
+    <h2>Components</h2>
+    <div class="grid3" style="margin-top:40px">
+      <article class="card"><p class="eyebrow">01</p><h3 style="margin:12px 0 8px">Fast by default</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">02</p><h3 style="margin:12px 0 8px">Composable</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article><article class="card"><p class="eyebrow">03</p><h3 style="margin:12px 0 8px">Accessible</h3><p class="muted">Cards, spacing, radius and elevation come straight from the DNA recipes.</p><p style="margin-top:16px"><a>Learn more →</a></p></article>
+    </div>
+    <div class="grid3" style="margin-top:40px;align-items:start">
+      <form class="form" onsubmit="return false"><input class="input" placeholder="you@company.com"><input class="input" placeholder="Company"><button class="btn btn-primary">Subscribe</button></form>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-primary">Primary</a><a class="btn btn-secondary">Secondary</a></div>
+    </div>
+  </div></section>
+
+  <div class="container">
+    <section class="spec"><p class="label">Color roles</p><div class="sws">
+      <div class="sw"><div class="chip" style="background:#e5ecf1"></div><b>background</b><code>#e5ecf1</code></div>
+      <div class="sw"><div class="chip" style="background:#2d628c"></div><b>foreground</b><code>#2d628c</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>surface</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#161616"></div><b>surface-foreground</b><code>#161616</code></div>
+      <div class="sw"><div class="chip" style="background:#d5dee6"></div><b>muted</b><code>#d5dee6</code></div>
+      <div class="sw"><div class="chip" style="background:#81a0bb"></div><b>muted-foreground</b><code>#81a0bb</code></div>
+      <div class="sw"><div class="chip" style="background:#81a0bb"></div><b>border</b><code>#81a0bb</code></div>
+      <div class="sw"><div class="chip" style="background:#2d628c"></div><b>primary</b><code>#2d628c</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>primary-foreground</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#0f1d2a"></div><b>accent</b><code>#0f1d2a</code></div>
+      <div class="sw"><div class="chip" style="background:#ffffff"></div><b>accent-foreground</b><code>#ffffff</code></div>
+      <div class="sw"><div class="chip" style="background:#2d628c"></div><b>ring</b><code>#2d628c</code></div>
+      <div class="sw"><div class="chip" style="background:#287c42"></div><b>success</b><code>#287c42</code></div>
+      <div class="sw"><div class="chip" style="background:#8d5e00"></div><b>warning</b><code>#8d5e00</code></div>
+      <div class="sw"><div class="chip" style="background:#a34942"></div><b>danger</b><code>#a34942</code></div></div></section>
+    <section class="spec"><p class="label">Ramps</p>
+      <div class="ramp"><span class="rn">primary</span><div title="primary-50 #f1f8fe" style="background:#f1f8fe"><small style="color:#000">50</small></div><div title="primary-100 #e0effc" style="background:#e0effc"><small style="color:#000">100</small></div><div title="primary-200 #c1dff9" style="background:#c1dff9"><small style="color:#000">200</small></div><div title="primary-300 #9dc9f0" style="background:#9dc9f0"><small style="color:#000">300</small></div><div title="primary-400 #75abd9" style="background:#75abd9"><small style="color:#000">400</small></div><div title="primary-500 #5590c1" style="background:#5590c1"><small style="color:#fff">500</small></div><div title="primary-600 #3e79a8" style="background:#3e79a8"><small style="color:#fff">600</small></div><div title="primary-700 #2d628c" style="background:#2d628c"><small style="color:#fff">700</small></div><div title="primary-800 #1f4c6f" style="background:#1f4c6f"><small style="color:#fff">800</small></div><div title="primary-900 #133854" style="background:#133854"><small style="color:#fff">900</small></div><div title="primary-950 #09253b" style="background:#09253b"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">neutral</span><div title="neutral-50 #f5fbff" style="background:#f5fbff"><small style="color:#000">50</small></div><div title="neutral-100 #ecf5fb" style="background:#ecf5fb"><small style="color:#000">100</small></div><div title="neutral-200 #dee6ec" style="background:#dee6ec"><small style="color:#000">200</small></div><div title="neutral-300 #cdd5db" style="background:#cdd5db"><small style="color:#000">300</small></div><div title="neutral-400 #9ba3a8" style="background:#9ba3a8"><small style="color:#000">400</small></div><div title="neutral-500 #6d7479" style="background:#6d7479"><small style="color:#fff">500</small></div><div title="neutral-600 #4e555a" style="background:#4e555a"><small style="color:#fff">600</small></div><div title="neutral-700 #3a4145" style="background:#3a4145"><small style="color:#fff">700</small></div><div title="neutral-800 #21272c" style="background:#21272c"><small style="color:#fff">800</small></div><div title="neutral-900 #12181c" style="background:#12181c"><small style="color:#fff">900</small></div><div title="neutral-950 #060b0f" style="background:#060b0f"><small style="color:#fff">950</small></div></div>
+      <div class="ramp"><span class="rn">accent</span><div title="accent-50 #f3f7fb" style="background:#f3f7fb"><small style="color:#000">50</small></div><div title="accent-100 #e5eef6" style="background:#e5eef6"><small style="color:#000">100</small></div><div title="accent-200 #ccddee" style="background:#ccddee"><small style="color:#000">200</small></div><div title="accent-300 #adc6de" style="background:#adc6de"><small style="color:#000">300</small></div><div title="accent-400 #89a7c4" style="background:#89a7c4"><small style="color:#000">400</small></div><div title="accent-500 #6c8baa" style="background:#6c8baa"><small style="color:#fff">500</small></div><div title="accent-600 #53728f" style="background:#53728f"><small style="color:#fff">600</small></div><div title="accent-700 #3e5973" style="background:#3e5973"><small style="color:#fff">700</small></div><div title="accent-800 #2d4359" style="background:#2d4359"><small style="color:#fff">800</small></div><div title="accent-900 #1d3041" style="background:#1d3041"><small style="color:#fff">900</small></div><div title="accent-950 #0f1d2a" style="background:#0f1d2a"><small style="color:#fff">950</small></div></div></section>
+    <section class="spec"><p class="label">Type scale · Josefin Sans / Josefin Sans · ratio 1.311 (perfect fourth)</p>
+      <div class="ts"><code>text-4xl · 62px</code><span style="font-size:62px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA montfort</span></div>
+      <div class="ts"><code>text-3xl · 50px</code><span style="font-size:50px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA montfort</span></div>
+      <div class="ts"><code>text-2xl · 40px</code><span style="font-size:40px;font-family:var(--font-display);line-height:1.15;font-weight:var(--font-weight-heading);letter-spacing:var(--tracking-heading)">Design DNA montfort</span></div>
+      <div class="ts"><code>text-xl · 24px</code><span style="font-size:24px;font-family:var(--font-body);line-height:1.15;">Design DNA montfort</span></div>
+      <div class="ts"><code>text-lg · 20px</code><span style="font-size:20px;font-family:var(--font-body);line-height:1.15;">Design DNA montfort</span></div>
+      <div class="ts"><code>text-base · 16px</code><span style="font-size:16px;font-family:var(--font-body);line-height:1.15;">Design DNA montfort</span></div>
+      <div class="ts"><code>text-sm · 12px</code><span style="font-size:12px;font-family:var(--font-body);line-height:1.15;">Design DNA montfort</span></div></section>
+    <section class="spec"><p class="label">Spacing · 8px grid · airy</p><div class="sp"><code>space-1 · 3px</code><div style="width:3px"></div></div><div class="sp"><code>space-2 · 12px</code><div style="width:12px"></div></div><div class="sp"><code>space-3 · 16px</code><div style="width:16px"></div></div><div class="sp"><code>space-4 · 20px</code><div style="width:20px"></div></div><div class="sp"><code>space-5 · 28px</code><div style="width:28px"></div></div><div class="sp"><code>space-6 · 32px</code><div style="width:32px"></div></div><div class="sp"><code>space-7 · 36px</code><div style="width:36px"></div></div><div class="sp"><code>space-8 · 40px</code><div style="width:40px"></div></div><div class="sp"><code>space-9 · 48px</code><div style="width:48px"></div></div><div class="sp"><code>space-10 · 52px</code><div style="width:52px"></div></div><div class="sp"><code>space-11 · 74px</code><div style="width:74px"></div></div><div class="sp"><code>space-12 · 80px</code><div style="width:80px"></div></div><div class="sp"><code>space-13 · 160px</code><div style="width:160px"></div></div><div class="sp"><code>space-14 · 240px</code><div style="width:240px"></div></div></section>
+    <section class="spec"><p class="label">Radius · sharp</p><div class="rds"><div class="rd" style="border-radius:0px"><code>sm<br>0px</code></div><div class="rd" style="border-radius:0px"><code>md<br>0px</code></div><div class="rd" style="border-radius:9999px"><code>full<br>full</code></div><div class="rd" style="border-radius:0px"><code>lg<br>0px</code></div></div></section>
+    <section class="spec"><p class="label">Elevation · soft</p><div class="grid3"><div class="shd card" style="box-shadow:rgba(255,255,255,1) 0px 0px 12px 0px"><code>shadow-md</code></div></div></section>
+  </div>
+</body></html>
